@@ -12,7 +12,7 @@
 
     <div class="flex gap-6">
       <p>{$t.footer.built_with}</p>
-      <a href="mailto:bjorn.kenneth.holmstrom@gmail.com" class="hover:text-black hover:underline transition-colors">
+      <a href="/kontakt" class="hover:text-black hover:underline transition-colors">
         {$t.footer.contact}
       </a>
     </div>
