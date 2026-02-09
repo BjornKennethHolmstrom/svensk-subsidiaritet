@@ -21,8 +21,7 @@
     </p>
   </header>
 
-  <!-- GGF Whitepapers -->
-  <section class="mb-24">
+<section class="mb-24">
     <h2 class="mb-10 font-sans text-2xl font-bold text-manifesto-black">
       {#if lang === 'sv'}
         GGF-forskning
@@ -31,6 +30,50 @@
       {/if}
     </h2>
     <div class="space-y-20">
+      
+      <article class="group relative flex flex-col md:flex-row gap-4 md:gap-8 bg-stone-50/80 p-6 -mx-6 rounded-xl border border-stone-200 shadow-sm">
+        
+        <div class="md:w-32 flex-shrink-0 pt-1">
+          <div class="font-mono text-xs text-stone-500 mb-3">2026</div>
+          <div class="flex flex-wrap gap-2">
+            <span class="bg-manifesto-black text-white px-2 py-1 rounded-[2px] text-[10px] uppercase tracking-wider font-bold">
+              {lang === 'sv' ? 'NYHET' : 'NEW'}
+            </span>
+            <span class="bg-stone-200 text-stone-600 px-2 py-1 rounded-[2px] text-[10px] uppercase tracking-wider font-bold">
+              POLICY
+            </span>
+          </div>
+        </div>
+
+        <div>
+          <h3 class="text-2xl font-bold text-manifesto-black mb-3 group-hover:underline decoration-stone-300 underline-offset-4 transition-all">
+            <a href="/bibliotek/svenska-subsidiaritetshypotesen">
+              {lang === 'sv' ? 'Den Svenska Subsidiaritetshypotesen' : 'The Swedish Subsidiarity Hypothesis'}
+            </a>
+          </h3>
+          
+          <p class="font-serif text-stone-700 leading-relaxed mb-6 text-lg">
+            {lang === 'sv' 
+              ? 'Vitboken som diagnostiserar centraliseringens kostnader och presenterar ramverket för ett distribuerat Sverige.' 
+              : 'The whitepaper diagnosing the costs of centralization and presenting the framework for a distributed Sweden.'}
+          </p>
+          
+          <div class="flex flex-wrap gap-6 items-center">
+            <a href="/bibliotek/svenska-subsidiaritetshypotesen" class="text-sm font-bold uppercase tracking-widest text-manifesto-black border-b-2 border-black pb-0.5 hover:opacity-70 transition-opacity">
+              {lang === 'sv' ? 'Läs Online' : 'Read Online'} →
+            </a>
+
+            <a 
+              href={lang === 'sv' ? '/downloads/Svensk-Subsidiaritetshypotes-2026.pdf' : '/downloads/Swedish-Subsidiarity-Hypothesis-2026.pdf'}
+              download
+              class="text-sm font-bold uppercase tracking-widest text-stone-400 hover:text-black transition-colors flex items-center gap-2"
+            >
+              <span>↓</span> {lang === 'sv' ? 'Ladda ner PDF' : 'Download PDF'}
+            </a>
+          </div>
+        </div>
+      </article>
+
       {#each whitepapers as paper}
         <article class="group relative flex flex-col md:flex-row gap-4 md:gap-8">
           
