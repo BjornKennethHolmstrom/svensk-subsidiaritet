@@ -47,7 +47,7 @@ export const translations = {
       workshop: {
         title: "Studiecirkel-Kit",
         description: "Komplett material för att leda en studiecirkel om subsidiaritet i din förening eller ditt grannskap.",
-        action: "Ladda ner PDF"
+        action: "Utforska, ladda ner och skriv ut"
       },
       library: {
         title: "Mönsterbiblioteket",
@@ -124,7 +124,7 @@ export const translations = {
       workshop: {
         title: "Study Circle Kit",
         description: "Complete materials for leading a study circle on subsidiarity in your association or neighborhood.",
-        action: "Download PDF"
+        action: "Explore, Download and Print"
       },
       library: {
         title: "Pattern Library",

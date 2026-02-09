@@ -31,7 +31,7 @@ if (!VALID_LANGUAGES.includes(LANGUAGE)) {
 const INPUT_DIR = path.join(__dirname, '../src/routes/bibliotek/svenska-subsidiaritetshypotesen/sections');
 const OUTPUT_DIR = path.join(__dirname, '../static/downloads');
 
-const COVER_IMAGE = path.join(__dirname, '../static/images/whitepaper-cover.png');
+const COVER_IMAGE = path.join(__dirname, '../static/images/whitepaper-cover-optimized.png');
 
 // Output Filenames
 const FILENAMES = {

@@ -11,18 +11,12 @@
       link: '/verktyg/kompass', // We will build this next
       status: 'active'
     },
-{ 
+    { 
       id: 'workshop', 
       icon: '👥', 
       color: 'bg-emerald-50 text-emerald-600 border-emerald-200',
-      
-      // LOGIC: Selects the correct PDF based on current language
-      link: $locale === 'sv' 
-        ? '/downloads/Studiecirkel-Kit-SV.pdf' 
-        : '/downloads/Study-Circle-Kit-EN.pdf',
-        
+      link: '/studiecirkel',
       status: 'active',
-      isDownload: true // Tells the template to treat this as a file
     },
     { 
       id: 'library', 
