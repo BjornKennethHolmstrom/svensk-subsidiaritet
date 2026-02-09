@@ -1,0 +1,34 @@
+/* src/app.css */
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  /* Define Fonts */
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-serif: 'Merriweather', serif;
+
+  /* Define Colors */
+  --color-manifesto-black: #111111;
+  --color-manifesto-paper: #f9f9f7;
+  
+  /* Define Typography default (optional override) */
+  --typography-color-body: var(--color-stone-700);
+  --typography-color-headings: var(--color-manifesto-black);
+}
+
+@layer base {
+  a {
+    @apply text-stone-600 underline decoration-stone-300 hover:text-black hover:decoration-black transition-all;
+  }
+}
+
+/* Global Styles */
+body {
+  /* Now these classes will exist automatically */
+  @apply bg-manifesto-paper text-stone-900 antialiased font-serif;
+}
+
+/* Reset for headings to use sans-serif */
+h1, h2, h3, h4, h5, h6 {
+  @apply font-sans font-bold text-manifesto-black;
+}
