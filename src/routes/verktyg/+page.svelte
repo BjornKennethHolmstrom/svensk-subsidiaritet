@@ -3,12 +3,19 @@
   import { fade } from 'svelte/transition';
 
   // Tool Definitions with status flags
-  $: tools = [
+  let tools = $derived([
     { 
       id: 'compass', 
       icon: '🧭', 
       color: 'bg-indigo-50 text-indigo-600 border-indigo-200',
-      link: '/verktyg/kompass', // We will build this next
+      link: '/verktyg/kompass',
+      status: 'active'
+    },
+    { 
+      id: 'power', 
+      icon: '🔭', 
+      color: 'bg-purple-50 text-purple-600 border-purple-200',
+      link: '/verktyg/maktanalys',
       status: 'active'
     },
     { 
@@ -25,7 +32,7 @@
       link: '#', 
       status: 'coming_soon'
     }
-  ];
+  ]);
 </script>
 
 <div class="mx-auto max-w-5xl px-6 py-12" in:fade={{ duration: 200 }}>
@@ -39,7 +46,7 @@
     </p>
   </header>
 
-  <div class="grid grid-cols-1 gap-8 md:grid-cols-3">
+  <div class="grid grid-cols-1 gap-8 md:grid-cols-2">
     
     {#each tools as tool}
       <div 

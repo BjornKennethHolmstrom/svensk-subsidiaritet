@@ -49,6 +49,11 @@ export const translations = {
         description: "Komplett material för att leda en studiecirkel om subsidiaritet i din förening eller ditt grannskap.",
         action: "Utforska, ladda ner och skriv ut"
       },
+      power: {
+        title: "Maktanalys",
+        description: "Kartlägg var makten faktiskt sitter - vem bestämmer, vem kontrollerar budgeten, hur långt borta?",
+        action: "Kartlägg Makten"
+      },
       library: {
         title: "Mönsterbiblioteket",
         description: "En databas över beprövade lösningar för decentralisering, från matgillen till energigemenskaper.",
@@ -125,6 +130,11 @@ export const translations = {
         title: "Study Circle Kit",
         description: "Complete materials for leading a study circle on subsidiarity in your association or neighborhood.",
         action: "Explore, Download and Print"
+      },
+      power: {
+        title: "Power Analysis",
+        description: "Map where power actually resides - who decides, who controls the budget, how far away?",
+        action: "Map Power"
       },
       library: {
         title: "Pattern Library",

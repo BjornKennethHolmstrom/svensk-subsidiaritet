@@ -4,17 +4,11 @@
   import Radar from '$lib/components/Radar.svelte';
   import { fade, slide } from 'svelte/transition';
 
-  let step = 0; // 0 = Intro, 1-6 = Questions, 7 = Result
-  let systemName = "";
+  let step = $state(0); // 0 = Intro, 1-6 = Questions, 7 = Result
+  let systemName = $state("");
   
-  let answers: Record<number, number> = {};
-
-  // Computed Scores
-  $: scores = {
-    power: calcScore('power'),
-    knowledge: calcScore('knowledge'),
-    resilience: calcScore('resilience')
-  };
+  // Use $state for proper reactivity in Svelte 5
+  let answers = $state<Record<number, number>>({});
 
   function calcScore(axis: Axis) {
     const axisQuestions = questions.filter(q => q.axis === axis);
@@ -23,10 +17,28 @@
     return Math.round(total / axisQuestions.length);
   }
 
-  $: totalScore = Math.round((scores.power + scores.knowledge + scores.resilience) / 3);
+  // Computed Scores using $derived
+  let scores = $derived({
+    power: calcScore('power'),
+    knowledge: calcScore('knowledge'),
+    resilience: calcScore('resilience')
+  });
+
+  let totalScore = $derived(Math.round((scores.power + scores.knowledge + scores.resilience) / 3));
 
   const next = () => step++;
-  const restart = () => { step = 0; answers = {}; systemName = ""; };
+  
+  const restart = () => { 
+    step = 0; 
+    answers = {}; 
+    systemName = ""; 
+  };
+  
+  // Fixed: Properly update answers object to trigger reactivity
+  function selectAnswer(questionId: number, score: number) {
+    answers = { ...answers, [questionId]: score };
+    next();
+  }
 </script>
 
 <div class="mx-auto max-w-3xl px-6 py-12 min-h-[80vh] flex flex-col justify-center" in:fade>
@@ -55,7 +67,7 @@
       </div>
 
       <button 
-        on:click={next}
+        onclick={next}
         disabled={!systemName}
         class="bg-manifesto-black text-white px-8 py-4 rounded-lg font-bold text-lg hover:scale-105 transition-transform disabled:opacity-50 disabled:cursor-not-allowed"
       >
@@ -72,7 +84,11 @@
       </div>
 
       <span class="text-xs font-bold uppercase tracking-widest text-stone-400 mb-2 block">
-        {q.axis} — {step} / {questions.length}
+        {$locale === 'sv' 
+          ? q.axis === 'power' ? 'MAKT' 
+            : q.axis === 'knowledge' ? 'KUNSKAP' 
+            : 'RESILIENS'
+          : q.axis.toUpperCase()} — {step} / {questions.length}
       </span>
       
       <h2 class="font-sans text-2xl font-bold text-manifesto-black mb-8">
@@ -82,7 +98,7 @@
       <div class="space-y-3">
         {#each q.options as opt}
           <button 
-            on:click={() => { answers[q.id] = opt.score; next(); }}
+            onclick={() => selectAnswer(q.id, opt.score)}
             class="w-full text-left p-4 rounded-lg border border-stone-200 hover:border-black hover:bg-stone-50 transition-all font-serif text-stone-700 flex justify-between group"
           >
             <span>{opt.label[$locale]}</span>
@@ -101,7 +117,9 @@
       <h2 class="font-sans text-4xl font-bold text-manifesto-black mb-2">
         {getDiagnosis(totalScore, $locale)}
       </h2>
-      <p class="font-mono text-stone-500 mb-8">Subsidiarity Score: {totalScore}/100</p>
+      <p class="font-mono text-stone-500 mb-8">
+        {$locale === 'sv' ? 'Subsidiaritetspoäng' : 'Subsidiarity Score'}: {totalScore}/100
+      </p>
 
       <div class="mb-12">
         <Radar {scores} />
@@ -109,24 +127,30 @@
 
       <div class="grid grid-cols-3 gap-4 text-left max-w-xl mx-auto mb-12">
         <div class="p-4 bg-stone-50 rounded border border-stone-200">
-          <div class="text-xs text-stone-500 uppercase font-bold">Power</div>
+          <div class="text-xs text-stone-500 uppercase font-bold">
+            {$locale === 'sv' ? 'Makt' : 'Power'}
+          </div>
           <div class="text-2xl font-bold">{scores.power}%</div>
         </div>
         <div class="p-4 bg-stone-50 rounded border border-stone-200">
-          <div class="text-xs text-stone-500 uppercase font-bold">Knowledge</div>
+          <div class="text-xs text-stone-500 uppercase font-bold">
+            {$locale === 'sv' ? 'Kunskap' : 'Knowledge'}
+          </div>
           <div class="text-2xl font-bold">{scores.knowledge}%</div>
         </div>
         <div class="p-4 bg-stone-50 rounded border border-stone-200">
-          <div class="text-xs text-stone-500 uppercase font-bold">Resilience</div>
+          <div class="text-xs text-stone-500 uppercase font-bold">
+            {$locale === 'sv' ? 'Resiliens' : 'Resilience'}
+          </div>
           <div class="text-2xl font-bold">{scores.resilience}%</div>
         </div>
       </div>
 
       <div class="flex gap-4 justify-center">
-        <button on:click={() => window.print()} class="px-6 py-3 border border-stone-300 rounded font-bold hover:bg-stone-50">
+        <button onclick={() => window.print()} class="px-6 py-3 border border-stone-300 rounded font-bold hover:bg-stone-50">
           {$locale === 'sv' ? 'Spara Rapport' : 'Save Report'}
         </button>
-        <button on:click={restart} class="px-6 py-3 text-stone-500 hover:text-black">
+        <button onclick={restart} class="px-6 py-3 text-stone-500 hover:text-black">
           {$locale === 'sv' ? 'Starta Om' : 'Start Over'}
         </button>
       </div>
@@ -140,7 +164,7 @@
            ? 'Ditt system lider av centraliserad sårbarhet. Nästa steg är att sammankalla en studiecirkel och använda "Maktanalys"-verktyget.'
            : 'Your system suffers from centralized fragility. The next step is to convene a study circle and use the "Power Analysis" tool.'}
         </p>
-        <a href="/bibliotek" class="inline-block bg-white text-black px-4 py-2 rounded font-bold hover:bg-stone-200">
+        <a href="/studiecirkel" class="inline-block bg-white text-black px-4 py-2 rounded font-bold hover:bg-stone-200">
           {$locale === 'sv' ? 'Hämta Studiecirkel-Kit' : 'Get Study Circle Kit'}
         </a>
       </div>
