@@ -73,7 +73,7 @@
   <!-- Mobile Menu Overlay -->
   {#if mobileMenuOpen}
     <div 
-      class="fixed inset-0 bg-black/20 backdrop-blur-sm z-40 md:hidden"
+      class="fixed inset-0 z-40 md:hidden"
       onclick={closeMobileMenu}
       role="button"
       tabindex="-1"
