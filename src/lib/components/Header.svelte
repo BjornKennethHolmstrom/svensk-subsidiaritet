@@ -12,7 +12,8 @@
   }
 </script>
 
-<header class="sticky top-0 z-50 w-full border-b border-stone-200 bg-white/95 backdrop-blur-sm">
+<!-- Changed: Removed transparency from header -->
+<header class="sticky top-0 z-50 w-full border-b border-stone-200 bg-white">
   <div class="mx-auto flex max-w-5xl items-center justify-between px-6 py-5">
     
     <!-- Logo -->
@@ -82,8 +83,9 @@
   {/if}
 
   <!-- Mobile Menu Panel -->
+  <!-- Changed: top-0 and added pt-[73px] for header height -->
   <div 
-    class="fixed top-[73px] right-0 bottom-0 w-64 bg-white border-l border-stone-200 shadow-2xl transform transition-transform duration-300 ease-in-out z-50 md:hidden {mobileMenuOpen ? 'translate-x-0' : 'translate-x-full'}"
+    class="fixed top-0 right-0 bottom-0 w-64 bg-white border-l border-stone-200 shadow-2xl transform transition-transform duration-300 ease-in-out z-50 md:hidden pt-[73px] {mobileMenuOpen ? 'translate-x-0' : 'translate-x-full'}"
   >
     <nav class="flex flex-col p-6 gap-1">
       <a 
