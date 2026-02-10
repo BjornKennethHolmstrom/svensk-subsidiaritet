@@ -10,6 +10,129 @@ export type Resource = {
   type?: 'paper' | 'book' | 'talk' | 'chapter' | 'report';
 };
 
+// Global Tools
+export const gsiFramework: Resource[] = [
+  // 1. The Core Framework
+  {
+    id: 'gsi-framework-v3',
+    title: {
+      sv: 'Global Subsidiarity Index (GSI) Framework v3.0',
+      en: 'Global Subsidiarity Index (GSI) Framework v3.0'
+    },
+    author: { sv: 'Björn Kenneth Holmström', en: 'Björn Kenneth Holmström' },
+    date: 'Feb 2026',
+    type: 'report',
+    description: {
+      sv: 'Det universella ramverket för att mäta "beslutsavstånd" och "resiliensarkitektur".',
+      en: 'The universal framework for measuring "Decision Distance" and "Resilience Architecture."'
+    },
+    url: '/downloads/gsi/GSI-Framework-v3.pdf',
+    tags: ['Core', 'Framework', 'Global']
+  },
+
+  // 2. Technical Documentation
+  {
+    id: 'gsi-app-1',
+    title: { sv: 'Appendix 1: Technical Manual', en: 'Appendix 1: Technical Manual' },
+    date: 'Feb 2026',
+    type: 'report',
+    description: {
+      sv: 'Mätprotokoll och verifieringsstandarder för medborgarrevisorer.',
+      en: 'Measurement protocols and verification standards for citizen auditors.'
+    },
+    url: '/downloads/gsi/GSI-Appendix-1-Technical-Manual.pdf',
+    tags: ['Technical', 'Methodology']
+  },
+  {
+    id: 'gsi-app-2',
+    title: { sv: 'Appendix 2: Country Adaptation', en: 'Appendix 2: Country Adaptation' },
+    date: 'Feb 2026',
+    type: 'report',
+    description: {
+      sv: 'Riktlinjer för att anpassa GSI till olika konstitutionella och kulturella kontexter.',
+      en: 'Guidelines for adapting the GSI to different constitutional and cultural contexts.'
+    },
+    url: '/downloads/gsi/GSI-Appendix-2-Country-Adaptation.pdf',
+    tags: ['Implementation', 'Culture']
+  },
+  {
+    id: 'gsi-app-3',
+    title: { sv: 'Appendix 3: Dashboard Specs', en: 'Appendix 3: Dashboard Specs' },
+    date: 'Feb 2026',
+    type: 'report',
+    description: {
+      sv: 'Arkitektonisk vision för den digitala plattformen och "The Global Heatmap".',
+      en: 'Architectural vision for the digital platform and "The Global Heatmap".'
+    },
+    url: '/downloads/gsi/GSI-Appendix-3-Dashboard-Specs.pdf',
+    tags: ['Tech', 'Specs', 'Platform']
+  },
+
+  // 3. Evidence & Application
+  {
+    id: 'gsi-app-4',
+    title: { sv: 'Appendix 4: Pilot Case Studies', en: 'Appendix 4: Pilot Case Studies' },
+    date: 'Feb 2026',
+    type: 'report',
+    description: {
+      sv: 'Diagnostiska baslinjer för Sverige, Tyskland, Kanada, Rwanda och Sydkorea.',
+      en: 'Diagnostic baselines for Sweden, Germany, Canada, Rwanda, and South Korea.'
+    },
+    url: '/downloads/gsi/GSI-Appendix-4-Pilot-Cases.pdf',
+    tags: ['Case Studies', 'Sweden']
+  },
+  {
+    id: 'gsi-app-5',
+    title: { sv: 'Appendix 5: Research Validation', en: 'Appendix 5: Research Validation' },
+    date: 'Feb 2026',
+    type: 'report',
+    description: {
+      sv: 'Akademisk validering av ramverket (Ashby, Ostrom, Scott, et al).',
+      en: 'Academic validation of the framework (Ashby, Ostrom, Scott, et al).'
+    },
+    url: '/downloads/gsi/GSI-Appendix-5-Research-Validation.pdf',
+    tags: ['Research', 'Science']
+  },
+
+  // 4. Strategy & Ethics
+  {
+    id: 'gsi-app-6',
+    title: { sv: 'Appendix 6: Roadmap 2026-2030', en: 'Appendix 6: Roadmap 2026-2030' },
+    date: 'Feb 2026',
+    type: 'report',
+    description: {
+      sv: 'Implementeringsplan från pilotfas till global standard.',
+      en: 'Implementation plan from pilot phase to global standard.'
+    },
+    url: '/downloads/gsi/GSI-Appendix-6-Roadmap.pdf',
+    tags: ['Strategy', 'Roadmap']
+  },
+  {
+    id: 'gsi-app-7',
+    title: { sv: 'Appendix 7: Training Manual', en: 'Appendix 7: Training Manual' },
+    date: 'Feb 2026',
+    type: 'report',
+    description: {
+      sv: 'Läroplan för GSI-bedömare och beleilutningsfattare.',
+      en: 'Curriculum for GSI assessors and policymakers.'
+    },
+    url: '/downloads/gsi/GSI-Appendix-7-Training.pdf',
+    tags: ['Training', 'Education']
+  },
+  {
+    id: 'gsi-app-8',
+    title: { sv: 'Appendix 8: Legal & Ethical', en: 'Appendix 8: Legal & Ethical' },
+    date: 'Feb 2026',
+    type: 'report',
+    description: {
+      sv: 'Ramverk för datasuveränitet och integritet.',
+      en: 'Framework for data sovereignty and privacy.'
+    },
+    url: '/downloads/gsi/GSI-Appendix-8-Legal-Ethical.pdf',
+    tags: ['Legal', 'Ethics']
+  }
+];
+
 // Swedish Research on Subsidiarity and Requisite Variety
 export const swedishResearch: Resource[] = [
   // Subsidiarity Research
