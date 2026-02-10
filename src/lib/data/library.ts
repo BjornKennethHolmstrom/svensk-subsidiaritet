@@ -6,14 +6,207 @@ export type Resource = {
   url: string;
   tags: string[];
   author?: { sv: string; en: string };
+  institution?: { sv: string; en: string };
+  type?: 'paper' | 'book' | 'talk' | 'chapter' | 'report';
 };
+
+// Swedish Research on Subsidiarity and Requisite Variety
+export const swedishResearch: Resource[] = [
+  // Subsidiarity Research
+  {
+    id: 'cornell-2016',
+    title: {
+      sv: 'The Swedish Riksdag as Scrutiniser of the Principle of Subsidiarity',
+      en: 'The Swedish Riksdag as Scrutiniser of the Principle of Subsidiarity'
+    },
+    author: {
+      sv: 'Anna Jonsson Cornell',
+      en: 'Anna Jonsson Cornell'
+    },
+    institution: {
+      sv: 'Uppsala Universitet',
+      en: 'Uppsala University'
+    },
+    date: '2016',
+    type: 'paper',
+    description: {
+      sv: 'Analyserar Sveriges decentraliserade approach till subsidiaritetsgranskning inom EU:s Early Warning Mechanism. Kritiserar metodologiska ineffektiviteter och föreslår reformer för att stärka nationell autonomi i EU-frågor.',
+      en: 'Analyzes Sweden\'s decentralized approach to subsidiarity scrutiny within the EU\'s Early Warning Mechanism. Critiques methodological inefficiencies and proposes reforms to strengthen national autonomy in EU affairs.'
+    },
+    url: 'https://doi.org/10.1017/S157401961600019X',
+    tags: ['Subsidiarity', 'EU Governance', 'Constitutional Law']
+  },
+  {
+    id: 'cornell-goldoni-2017',
+    title: {
+      sv: 'National and Regional Parliaments in the EU-Legislative Procedure Post-Lisbon',
+      en: 'National and Regional Parliaments in the EU-Legislative Procedure Post-Lisbon'
+    },
+    author: {
+      sv: 'Anna Jonsson Cornell & Marco Goldoni (red.)',
+      en: 'Anna Jonsson Cornell & Marco Goldoni (eds.)'
+    },
+    institution: {
+      sv: 'Uppsala Universitet',
+      en: 'Uppsala University'
+    },
+    date: '2017',
+    type: 'book',
+    description: {
+      sv: 'Antologi om subsidiaritetsgranskning i EU-medlemsstater, med svenska perspektiv. Jämför Sveriges unika decentraliserade approach med andra nordiska länder.',
+      en: 'Edited volume on subsidiarity review across EU member states, with Swedish perspectives. Compares Sweden\'s unique decentralized approach with other Nordic countries.'
+    },
+    url: 'https://www.bloomsbury.com/uk/national-and-regional-parliaments-in-the-eu-legislative-procedure-post-lisbon-9781509929696/',
+    tags: ['Subsidiarity', 'Comparative Politics', 'Nordic Governance']
+  },
+  {
+    id: 'larsson-2025',
+    title: {
+      sv: 'The Subsidiarity Principle in Water Governance: A Swedish Perspective',
+      en: 'The Subsidiarity Principle in Water Governance: A Swedish Perspective'
+    },
+    author: {
+      sv: 'Rolf Larsson',
+      en: 'Rolf Larsson'
+    },
+    institution: {
+      sv: 'Lunds Universitet, UNU-INWEH',
+      en: 'Lund University, UNU-INWEH'
+    },
+    date: '2025',
+    type: 'talk',
+    description: {
+      sv: 'Analyserar subsidiaritetsprincipen i svensk vattenförvaltning under EU:s ramdirektiv. Kritiserar svag decentralisering i vattenmyndigheterna och betonar hur subsidiaritet säkerställer beslut nära de som påverkas.',
+      en: 'Analyzes the subsidiarity principle in Swedish water governance under EU directives. Critiques weak decentralization in water authorities and emphasizes how subsidiarity ensures decisions close to affected communities.'
+    },
+    url: 'https://unu.edu/inweh/event/science-talk-subsidiarity-principle-water-governance',
+    tags: ['Subsidiarity', 'Water Governance', 'Environmental Policy']
+  },
+  {
+    id: 'karlsson-2013',
+    title: {
+      sv: 'A Democracy of Scale: Size and Representative Democracy in Swedish Local Government',
+      en: 'A Democracy of Scale: Size and Representative Democracy in Swedish Local Government'
+    },
+    author: {
+      sv: 'David Karlsson',
+      en: 'David Karlsson'
+    },
+    institution: {
+      sv: 'Göteborgs Universitet',
+      en: 'University of Gothenburg'
+    },
+    date: '2013',
+    type: 'paper',
+    description: {
+      sv: 'Undersöker hur kommunstorlek påverkar demokratisk representation och lokalt självstyre. Engagerar subsidiaritetsteman genom att studera skalans betydelse för decentralisering.',
+      en: 'Examines how municipal size affects democratic representation and local autonomy. Engages subsidiarity themes through studying the significance of scale for decentralization.'
+    },
+    url: 'https://www.diva-portal.org/smash/record.jsf?pid=diva2:645879',
+    tags: ['Local Democracy', 'Scale', 'Municipal Governance']
+  },
+  {
+    id: 'karlsson-skoog-2024',
+    title: {
+      sv: 'The Spatial Dimension of Political Dissent – Centre-Periphery Dynamics in Sweden',
+      en: 'The Spatial Dimension of Political Dissent – Centre-Periphery Dynamics in Sweden'
+    },
+    author: {
+      sv: 'David Karlsson & Louise Skoog',
+      en: 'David Karlsson & Louise Skoog'
+    },
+    institution: {
+      sv: 'Göteborgs Universitet',
+      en: 'University of Gothenburg'
+    },
+    date: '2024',
+    type: 'paper',
+    description: {
+      sv: 'Undersöker centrum-periferi-spänningar i svensk lokalpolitik. Relevant för subsidiaritet och maktfördelning mellan nationell och lokal nivå.',
+      en: 'Examines centre-periphery tensions in Swedish local politics. Relevant for subsidiarity and power distribution between national and local levels.'
+    },
+    url: 'https://doi.org/10.1016/j.polgeo.2024.102997',
+    tags: ['Centre-Periphery', 'Political Geography', 'Sweden']
+  },
+  {
+    id: 'karlsson-sns-2022',
+    title: {
+      sv: 'Demokratirådets rapport 2022: Lokal demokrati vid ett vägskäl',
+      en: 'Democracy Council Report 2022: Local Democracy at a Crossroads'
+    },
+    author: {
+      sv: 'David Karlsson et al.',
+      en: 'David Karlsson et al.'
+    },
+    institution: {
+      sv: 'SNS, Göteborgs Universitet',
+      en: 'SNS, University of Gothenburg'
+    },
+    date: '2022',
+    type: 'report',
+    description: {
+      sv: 'Bedömer utmaningar för svensk lokal demokrati, inklusive central-lokal-relationer och behovet av starkare kommunalt självstyre.',
+      en: 'Assesses challenges to Swedish local democracy, including central-local relations and the need for stronger municipal self-governance.'
+    },
+    url: 'https://www.sns.se/publikationer/demokratiradsrapporten-2022/',
+    tags: ['Local Democracy', 'Self-Governance', 'Sweden']
+  },
+  
+  // Requisite Variety Research
+  {
+    id: 'roos-2015',
+    title: {
+      sv: 'Prosperity Loves Economic Complexity',
+      en: 'Prosperity Loves Economic Complexity'
+    },
+    author: {
+      sv: 'Johan Roos',
+      en: 'Johan Roos'
+    },
+    institution: {
+      sv: 'Jönköping University',
+      en: 'Jönköping University'
+    },
+    date: '2015',
+    type: 'paper',
+    description: {
+      sv: 'Tillämpar Ashbys lag om requisite variety på svensk ekonomisk styrning. Argumenterar att små ekonomier som Sverige kräver statlig intervention för att bygga komplexitet och matcha omgivningens variation.',
+      en: 'Applies Ashby\'s Law of Requisite Variety to Swedish economic governance. Argues that small economies like Sweden require government intervention to build complexity and match environmental variety.'
+    },
+    url: 'https://ju.se/portal/vertikals/blogs/johan-roos/bloggposter/2015-12-16-prosperity-loves-economic-complexity.html',
+    tags: ['Requisite Variety', 'Economic Complexity', 'Governance']
+  },
+  {
+    id: 'savage-2024',
+    title: {
+      sv: 'Building Resilience: Analysis of Health Care Leaders\' Perspectives on the Covid-19 Response in Region Stockholm',
+      en: 'Building Resilience: Analysis of Health Care Leaders\' Perspectives on the Covid-19 Response in Region Stockholm'
+    },
+    author: {
+      sv: 'Carl Savage, Pamela Mazzocato, Henna Hasson & Carl Johan Sundberg',
+      en: 'Carl Savage, Pamela Mazzocato, Henna Hasson & Carl Johan Sundberg'
+    },
+    institution: {
+      sv: 'Karolinska Institutet',
+      en: 'Karolinska Institutet'
+    },
+    date: '2024',
+    type: 'paper',
+    description: {
+      sv: 'Använder Ashbys lag för att förklara varför kriser kräver flernivå-styrning som matchar komplexiteten. Kritiserar centraliserade svenska sjukvårdssystem för brist på requisite variety och lyfter lokala anpassningar som nyckel till resiliens.',
+      en: 'Invokes Ashby\'s Law to explain why crises require multi-level governance matching complexity. Critiques centralized Swedish healthcare systems for lacking requisite variety and highlights local adaptations as key to resilience.'
+    },
+    url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC10985875/',
+    tags: ['Requisite Variety', 'Healthcare', 'Resilience', 'Covid-19']
+  }
+];
 
 export const whitepapers: Resource[] = [
   {
     id: 'cognitive-scaffolding',
     title: {
       en: "Cognitive Scaffolding",
-      sv: "Kognitiv byggnadställning"
+      sv: "Kognitiv byggnadsställning"
     },
     date: "2025",
     description: {
@@ -201,8 +394,8 @@ export const books: Resource[] = [
   {
     id: 'requisite-variety-governance',
     title: {
-      en: "Requisite Variety and Governance",
-      sv: "Nödvändig variation och styrning"
+      en: "Introduction to Cybernetics",
+      sv: "Introduktion till cybernetik"
     },
     author: {
       en: "W. Ross Ashby",
@@ -210,8 +403,8 @@ export const books: Resource[] = [
     },
     date: "1956",
     description: {
-      en: "Introduction to Cybernetics - establishes the Law of Requisite Variety: only variety can absorb variety. Explains why centralized systems cannot effectively govern complex, diverse populations without local autonomy.",
-      sv: "Introduktion till cybernetik - fastställer lagen om nödvändig variation: endast variation kan absorbera variation. Förklarar varför centraliserade system inte kan effektivt styra komplexa, diversifierade befolkningar utan lokalt självstyre."
+      en: "Establishes the Law of Requisite Variety: only variety can absorb variety. Explains why centralized systems cannot effectively govern complex, diverse populations without local autonomy.",
+      sv: "Fastställer lagen om nödvändig variation: endast variation kan absorbera variation. Förklarar varför centraliserade system inte kan effektivt styra komplexa, diversifierade befolkningar utan lokalt självstyre."
     },
     url: "https://archive.org/details/introductiontocy00ashb",
     tags: ["Cybernetics", "Complexity", "Governance"]
