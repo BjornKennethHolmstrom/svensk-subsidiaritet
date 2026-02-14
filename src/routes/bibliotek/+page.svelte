@@ -1,7 +1,7 @@
 <script lang="ts">
   import { fade } from 'svelte/transition';
   import { t, locale } from '$lib/stores/i18n';
-  import { whitepapers, books, papers, swedishResearch, gsiFramework } from '$lib/data/library';
+  import { whitepapers, books, papers, swedishResearch } from '$lib/data/library';
   import LibrarySection from '$lib/components/LibrarySection.svelte';
 
   let lang = $derived($locale as 'sv' | 'en');
@@ -70,31 +70,31 @@
     </article>
   </section>
 
-  <LibrarySection 
-    title={lang === 'sv' ? "Det Globala Ramverket" : "The Global Framework"}
-    subtitle="GSI Beta v3.0"
-    count={gsiFramework.length}
-    isOpen={true}
-  >
-    {#each gsiFramework as item}
-      <article class="group relative flex flex-col gap-4 rounded-lg bg-stone-50 p-6 transition-colors hover:bg-stone-100">
-        <div class="flex items-center justify-between">
-          <span class="font-mono text-xs text-stone-400">{item.date}</span>
-          <span class="rounded bg-manifesto-black px-2 py-1 text-[10px] font-bold uppercase tracking-wider text-white">PDF</span>
+  <!-- GSI cross-link (replaces the old LibrarySection) -->
+  <section class="mb-16">
+    <a 
+      href="/ramverk/gsi"
+      class="group flex items-center gap-6 rounded-xl border border-stone-200 bg-white p-6 transition-all hover:-translate-y-0.5 hover:shadow-lg hover:border-stone-300"
+    >
+      <div class="flex h-14 w-14 flex-shrink-0 items-center justify-center rounded-xl bg-sky-50 text-3xl border border-sky-200 shadow-sm">
+        📐
+      </div>
+      <div class="flex-1">
+        <div class="font-sans text-xs font-bold uppercase tracking-widest text-sky-600 mb-1">
+          {lang === 'sv' ? 'Ramverk · Beta v3.0' : 'Framework · Beta v3.0'}
         </div>
-        
-        <h3 class="font-bold text-manifesto-black group-hover:underline">
-          <a href={item.url} download>{item.title[lang]}</a>
+        <h3 class="font-sans text-xl font-bold text-manifesto-black group-hover:underline">
+          Global Subsidiarity Index (GSI)
         </h3>
-        
-        <p class="text-sm text-stone-600">{item.description[lang]}</p>
-        
-        <a href={item.url} download class="mt-auto text-xs font-bold uppercase tracking-widest text-stone-400 hover:text-black">
-          ↓ {lang === 'sv' ? 'Ladda ner' : 'Download'}
-        </a>
-      </article>
-    {/each}
-  </LibrarySection>
+        <p class="text-sm text-stone-500 mt-1">
+          {lang === 'sv'
+            ? 'Det universella ramverket för att mäta beslutsavstånd och resiliensarkitektur. Ramverk, dokumentation och nedladdningsbara PDF:er.'
+            : 'The universal framework for measuring decision distance and resilience architecture. Framework, documentation, and downloadable PDFs.'}
+        </p>
+      </div>
+      <span class="text-stone-300 group-hover:text-black transition-colors text-lg">→</span>
+    </a>
+  </section>
 
   <LibrarySection 
     title={lang === 'sv' ? "Svensk Forskning" : "Swedish Research"}

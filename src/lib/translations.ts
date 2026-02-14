@@ -3,8 +3,9 @@ export const translations = {
     nav: {
       manifesto: "Manifest",
       analysis: "Systemanalys",
-      library: "Bibliotek",
+      frameworks: "Ramverk",
       tools: "Verktyg",
+      library: "Bibliotek",
       about: "Om Oss"
     },
     header: {
@@ -36,9 +37,29 @@ export const translations = {
       immigration: "Immigration och integration",
       research: "Forskning och innovation"
     },
+    frameworks: {
+      title: "Ramverk",
+      subtitle: "De analytiska instrumenten bakom diagnosen — hur vi mäter styrningsarkitektur och vad som krävs för att den ska fungera.",
+      gsi: {
+        title: "Global Subsidiarity Index (GSI)",
+        description: "Ett universellt mätverktyg för styrningsarkitektur. Mäter beslutsavstånd, kunskapsinkludering och resiliensarkitektur i nationer, regioner och kommuner.",
+        action: "Utforska ramverket"
+      },
+      aubi: {
+        title: "Adaptiv universell basinkomst (AUBI)",
+        description: "Subsidiarity kräver kognitiv bandbredd. AUBI är den ekonomiska infrastruktur som frigör medborgarnas kapacitet att faktiskt delta i distribuerad styrning.",
+        action: "Läs analysen"
+      },
+      relationship: {
+        title: "Hur hänger de ihop?",
+        hardware: "Subsidiaritet är hårdvaran",
+        electricity: "AUBI är strömmen",
+        explanation: "GSI mäter om styrningsarkitekturen matchar samhällets komplexitet. Men distribuerad styrning kräver medborgare med tid, trygghet och kognitiv kapacitet att delta. AUBI är det ekonomiska ramverk som möjliggör detta."
+      }
+    },
     tools: {
       title: "Verktygslådan",
-      subtitle: "Från analys till handling: Metoder för att återta makten.",
+      subtitle: "Från analys till handling: interaktiva verktyg och utbildningsmaterial.",
       compass: {
         title: "Närhetskompassen",
         description: "Ett interaktivt diagnosverktyg för att mäta maktavstånd, kunskapsinkludering och resiliens i din organisation eller kommun.",
@@ -51,7 +72,7 @@ export const translations = {
       },
       power: {
         title: "Maktanalys",
-        description: "Kartlägg var makten faktiskt sitter - vem bestämmer, vem kontrollerar budgeten, hur långt borta?",
+        description: "Kartlägg var makten faktiskt sitter — vem bestämmer, vem kontrollerar budgeten, hur långt borta?",
         action: "Kartlägg Makten"
       },
       school: {
@@ -90,8 +111,9 @@ export const translations = {
     nav: {
       manifesto: "Manifesto",
       analysis: "System Analysis",
-      library: "Library",
+      frameworks: "Frameworks",
       tools: "Tools",
+      library: "Library",
       about: "About Us"
     },
     header: {
@@ -123,9 +145,29 @@ export const translations = {
       immigration: "Immigration & Integration",
       research: "Research & Innovation"
     },
+    frameworks: {
+      title: "Frameworks",
+      subtitle: "The analytical instruments behind the diagnosis — how we measure governance architecture and what it takes to make it work.",
+      gsi: {
+        title: "Global Subsidiarity Index (GSI)",
+        description: "A universal measurement tool for governance architecture. Measures decision distance, knowledge inclusion, and resilience architecture across nations, regions, and municipalities.",
+        action: "Explore the framework"
+      },
+      aubi: {
+        title: "Adaptive Universal Basic Income (AUBI)",
+        description: "Subsidiarity requires cognitive bandwidth. AUBI is the economic infrastructure that unlocks citizens' capacity to actually participate in distributed governance.",
+        action: "Read the analysis"
+      },
+      relationship: {
+        title: "How do they connect?",
+        hardware: "Subsidiarity is the hardware",
+        electricity: "AUBI is the electricity",
+        explanation: "The GSI measures whether governance architecture matches societal complexity. But distributed governance requires citizens with the time, security, and cognitive capacity to participate. AUBI is the economic framework that makes this possible."
+      }
+    },
     tools: {
       title: "The Toolkit",
-      subtitle: "From analysis to action: Methods for reclaiming power.",
+      subtitle: "From analysis to action: interactive tools and educational materials.",
       compass: {
         title: "The Proximity Compass",
         description: "An interactive diagnostic tool to measure power distance, knowledge inclusion, and resilience in your organization or municipality.",
@@ -138,7 +180,7 @@ export const translations = {
       },
       power: {
         title: "Power Analysis",
-        description: "Map where power actually resides - who decides, who controls the budget, how far away?",
+        description: "Map where power actually resides — who decides, who controls the budget, how far away?",
         action: "Map Power"
       },
       school: {

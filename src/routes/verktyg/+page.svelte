@@ -2,7 +2,7 @@
   import { t, locale } from '$lib/stores/i18n';
   import { fade } from 'svelte/transition';
 
-  // Tool Definitions with status flags
+  // Tool Definitions — interactive tools and educational materials only
   let tools = $derived([
     { 
       id: 'compass', 
@@ -79,13 +79,9 @@
           {#if tool.status === 'active'}
             <a 
               href={tool.link}
-              
-              download={tool.isDownload ? '' : null} 
-              target={tool.isDownload ? '_blank' : null}
-              
               class="inline-flex w-full items-center justify-center rounded-lg bg-manifesto-black px-4 py-3 font-sans text-sm font-bold text-white transition-transform active:scale-95 group-hover:bg-stone-800"
             >
-              {$t.tools[tool.id].action} {tool.isDownload ? '↓' : '→'}
+              {$t.tools[tool.id].action} →
             </a>
           {:else}
             <button disabled class="w-full cursor-not-allowed rounded-lg bg-stone-100 px-4 py-3 font-sans text-sm font-bold text-stone-400">
@@ -99,43 +95,16 @@
 
   </div>
 
-  <section class="mt-24 rounded-2xl bg-stone-50 p-8 md:p-12 border border-stone-100">
-    <div class="md:flex gap-12 items-start">
-      <div class="md:w-1/3 mb-8 md:mb-0">
-        <h2 class="font-sans text-2xl font-bold text-manifesto-black mb-4">
-          {$locale === 'sv' ? 'Metodiken' : 'The Methodology'}
-        </h2>
-        <p class="font-serif text-stone-600 text-sm italic">
-          {$locale === 'sv' 
-            ? 'Vi angriper inte symptom. Vi diagnostiserar systemfel.' 
-            : 'We do not attack symptoms. We diagnose system failures.'}
-        </p>
-      </div>
-      
-      <div class="md:w-2/3 space-y-6">
-        <div class="flex gap-4">
-          <span class="text-2xl">🔭</span>
-          <div>
-            <h4 class="font-bold text-sm uppercase tracking-wider mb-1">{$locale === 'sv' ? 'Maktanalys' : 'Power Analysis'}</h4>
-            <p class="text-stone-600 text-sm">{$locale === 'sv' ? 'Var fattas besluten? (Avstånd i km)' : 'Where are decisions made? (Distance in km)'}</p>
-          </div>
-        </div>
-        <div class="flex gap-4">
-          <span class="text-2xl">🧠</span>
-          <div>
-            <h4 class="font-bold text-sm uppercase tracking-wider mb-1">{$locale === 'sv' ? 'Kunskapsanalys' : 'Knowledge Analysis'}</h4>
-            <p class="text-stone-600 text-sm">{$locale === 'sv' ? 'Vems kunskap räknas? (Expert vs. Erfarenhet)' : 'Whose knowledge counts? (Expert vs. Experience)'}</p>
-          </div>
-        </div>
-        <div class="flex gap-4">
-          <span class="text-2xl">🛡️</span>
-          <div>
-            <h4 class="font-bold text-sm uppercase tracking-wider mb-1">{$locale === 'sv' ? 'Resiliensanalys' : 'Resilience Analysis'}</h4>
-            <p class="text-stone-600 text-sm">{$locale === 'sv' ? 'Vad händer vid kris? (Sårbarhet vs. Redundans)' : 'What happens in crisis? (Fragility vs. Redundancy)'}</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+  <!-- Cross-link to Ramverk -->
+  <div class="mt-16 text-center">
+    <p class="mx-auto max-w-2xl font-serif text-sm text-stone-400">
+      {$locale === 'sv'
+        ? 'Dessa verktyg bygger på de analytiska ramverk vi utvecklat.'
+        : 'These tools are built on the analytical frameworks we have developed.'}
+      <a href="/ramverk" class="underline hover:text-black transition-colors">
+        {$locale === 'sv' ? 'Utforska ramverken →' : 'Explore the frameworks →'}
+      </a>
+    </p>
+  </div>
 
 </div>

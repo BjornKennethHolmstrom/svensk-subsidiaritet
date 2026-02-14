@@ -31,6 +31,7 @@
       <div class="flex gap-6 font-sans text-sm font-medium text-stone-600">
         <a href="/" class="hover:text-black transition-colors">{$t.nav.manifesto}</a>
         <a href="/system-analys" class="hover:text-black transition-colors">{$t.nav.analysis}</a>
+        <a href="/ramverk" class="hover:text-black transition-colors">{$t.nav.frameworks}</a>
         <a href="/verktyg" class="hover:text-black transition-colors">{$t.nav.tools}</a>
         <a href="/bibliotek" class="hover:text-black transition-colors">{$t.nav.library}</a>
         <a href="/kontakt" class="hover:text-black transition-colors">{$t.footer.contact}</a>
@@ -83,7 +84,6 @@
   {/if}
 
   <!-- Mobile Menu Panel -->
-  <!-- Changed: top-0 and added pt-[73px] for header height -->
   <div 
     class="fixed top-0 right-0 bottom-0 w-64 bg-white border-l border-stone-200 shadow-2xl transform transition-transform duration-300 ease-in-out z-50 md:hidden pt-[73px] {mobileMenuOpen ? 'translate-x-0' : 'translate-x-full'}"
   >
@@ -101,6 +101,13 @@
         onclick={closeMobileMenu}
       >
         {$t.nav.analysis}
+      </a>
+      <a 
+        href="/ramverk" 
+        class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
+        onclick={closeMobileMenu}
+      >
+        {$t.nav.frameworks}
       </a>
       <a 
         href="/verktyg" 
