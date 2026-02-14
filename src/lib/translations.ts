@@ -6,7 +6,7 @@ export const translations = {
       frameworks: "Ramverk",
       tools: "Verktyg",
       library: "Bibliotek",
-      about: "Om Oss"
+      about: "Om"
     },
     header: {
       subtitle: "Forskning och policy för närstyre"
@@ -114,7 +114,7 @@ export const translations = {
       frameworks: "Frameworks",
       tools: "Tools",
       library: "Library",
-      about: "About Us"
+      about: "About"
     },
     header: {
       subtitle: "Research and policy for subsidiarity"

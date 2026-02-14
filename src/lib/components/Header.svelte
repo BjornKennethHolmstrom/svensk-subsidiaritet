@@ -35,7 +35,7 @@
         <a href="/verktyg" class="hover:text-black transition-colors">{$t.nav.tools}</a>
         <a href="/bibliotek" class="hover:text-black transition-colors">{$t.nav.library}</a>
         <a href="/kontakt" class="hover:text-black transition-colors">{$t.footer.contact}</a>
-        <a href="/om-oss" class="hover:text-black transition-colors">{$t.nav.about}</a>
+        <a href="/om" class="hover:text-black transition-colors">{$t.nav.about}</a>
       </div>
       
       <button 
@@ -131,7 +131,7 @@
         {$t.footer.contact}
       </a>
       <a 
-        href="/om-oss" 
+        href="/om" 
         class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
         onclick={closeMobileMenu}
       >

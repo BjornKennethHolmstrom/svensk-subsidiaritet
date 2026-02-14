@@ -14,7 +14,7 @@
       id: 'aubi',
       icon: '⚡',
       color: 'bg-amber-50 text-amber-700 border-amber-200',
-      link: '/aubi',
+      link: '/ramverk/aubi',
       status: 'active'
     }
   ]);
