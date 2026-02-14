@@ -54,6 +54,11 @@ export const translations = {
         description: "Kartlägg var makten faktiskt sitter - vem bestämmer, vem kontrollerar budgeten, hur långt borta?",
         action: "Kartlägg Makten"
       },
+      school: {
+        title: "För Skolan",
+        description: "Färdiga lektionsplaneringar och moduler för gymnasiet. Bygg systemförståelse i klassrummet.",
+        action: "Gå till Lärarrummet"
+      },
       library: {
         title: "Mönsterbiblioteket",
         description: "En databas över beprövade lösningar för decentralisering, från matgillen till energigemenskaper.",
@@ -135,6 +140,11 @@ export const translations = {
         title: "Power Analysis",
         description: "Map where power actually resides - who decides, who controls the budget, how far away?",
         action: "Map Power"
+      },
+      school: {
+        title: "For Schools",
+        description: "Ready-made lesson plans and modules for high schools. Build systems thinking in the classroom.",
+        action: "Enter Teacher's Lounge"
       },
       library: {
         title: "Pattern Library",

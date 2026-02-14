@@ -19,6 +19,13 @@
       status: 'active'
     },
     { 
+      id: 'school', 
+      icon: '🎓', 
+      color: 'bg-amber-50 text-amber-700 border-amber-200', 
+      link: '/skola',
+      status: 'active'
+    },
+    { 
       id: 'workshop', 
       icon: '👥', 
       color: 'bg-emerald-50 text-emerald-600 border-emerald-200',
