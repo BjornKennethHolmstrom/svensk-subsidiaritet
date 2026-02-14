@@ -2,7 +2,7 @@
   import { locale } from '$lib/stores/i18n';
   import { fade } from 'svelte/transition';
   import ContentSV from './content.sv.md'; // Assumes you save the markdown here
-  // import ContentEN from './content.en.md'; // Placeholder if you translate later
+  import ContentEN from './content.en.md'; // Placeholder if you translate later
 </script>
 
 <div class="max-w-4xl mx-auto px-6 py-12" in:fade>
@@ -26,10 +26,7 @@
     {#if $locale === 'sv'}
       <ContentSV />
     {:else}
-      <div class="p-4 bg-amber-50 dark:bg-amber-900/20 text-amber-800 dark:text-amber-200 rounded-lg">
-        Translation coming soon. Showing Swedish version.
-      </div>
-      <ContentSV />
+      <ContentEN />
     {/if}
   </article>
 
