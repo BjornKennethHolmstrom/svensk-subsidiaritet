@@ -36,6 +36,13 @@ const DOCUMENTS = [
         output: 'skola-60-minuter.pdf'
     },
     {
+        file: '60-minutes.md',
+        title: 'Systems Thinking in 60 Minutes',
+        subtitle: 'Teacher Guide: An Introductory Lesson',
+        type: 'Lesson planning',
+        output: 'skola-60-minutes.pdf'
+    },
+    {
         file: '6-veckor.md',
         title: 'Systemtänkande & Subsidiaritet',
         subtitle: 'En 6-veckors modul för Gymnasiet (Samhällskunskap 1b)',
@@ -267,19 +274,38 @@ async function generateAll() {
         const page = await browser.newPage();
         await page.setContent(html, { waitUntil: 'networkidle0' });
 
-        await page.pdf({
-            path: outputPath,
-            format: 'A4',
-            printBackground: true,
-            displayHeaderFooter: true,
-            headerTemplate: '<div></div>',
-            footerTemplate: `
-                <div style="font-size: 8pt; font-family: sans-serif; color: #a8a29e; margin: 0 auto; padding-bottom: 10px;">
-                    Svensk Subsidiaritet • Skolmaterial • <span class="pageNumber"></span>
-                </div>
-            `,
-            margin: { top: '2cm', bottom: '2cm', left: '2cm', right: '2cm' }
-        });
+        if (doc.file === '60-minutes.md')
+        {
+          await page.pdf({
+              path: outputPath,
+              format: 'A4',
+              printBackground: true,
+              displayHeaderFooter: true,
+              headerTemplate: '<div></div>',
+              footerTemplate: `
+                  <div style="font-size: 8pt; font-family: sans-serif; color: #a8a29e; margin: 0 auto; padding-bottom: 10px;">
+                      Svensk Subsidiaritet • School Supplies • <span class="pageNumber"></span>
+                  </div>
+              `,
+              margin: { top: '2cm', bottom: '2cm', left: '2cm', right: '2cm' }
+          });
+        }
+        else
+        {
+          await page.pdf({
+              path: outputPath,
+              format: 'A4',
+              printBackground: true,
+              displayHeaderFooter: true,
+              headerTemplate: '<div></div>',
+              footerTemplate: `
+                  <div style="font-size: 8pt; font-family: sans-serif; color: #a8a29e; margin: 0 auto; padding-bottom: 10px;">
+                      Svensk Subsidiaritet • Skolmaterial • <span class="pageNumber"></span>
+                  </div>
+              `,
+              margin: { top: '2cm', bottom: '2cm', left: '2cm', right: '2cm' }
+          });
+        }
 
         await page.close();
         console.log(`✅ Saved: ${doc.output}`);
