@@ -178,7 +178,7 @@
   <!-- Pilot Nations -->
   <section class="mb-16">
     <h2 class="mb-6 font-sans text-2xl font-bold text-manifesto-black">
-      {lang === 'sv' ? 'Pilotländer' : 'Pilot Nations'}
+      {lang === 'sv' ? 'Föreslagna pilotländer' : 'Suggested Pilot Nations'}
     </h2>
     <div class="grid grid-cols-2 md:grid-cols-5 gap-4">
       {#each [
