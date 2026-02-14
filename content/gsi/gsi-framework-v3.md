@@ -25,6 +25,10 @@ This version 3 incorporates critical revisions to address feedback on v1, includ
 2. **Knowledge Exclusion:** Whose knowledge counts in policy design
 3. **Resilience Deficits:** Single points of failure in critical systems
 
+### **1.3 The Index Paradox: A Necessary Tension**
+
+Any global index measuring overcentralization is itself a centralizing act—a single framework claiming commensurability across civilizational contexts. This paradox is not a flaw to be engineered away but a tension to be held honestly. The GSI is most valuable as a **shared diagnostic vocabulary** that empowers local actors to map their own governance architecture and argue for reform on their own terms. It becomes dangerous the moment it hardens into a centralized authority that certifies governance quality from above. The design choices throughout this framework—citizen validation, contextual targets, transparent methodology—are intended to keep the GSI closer to mirror than to lever. But this tension requires ongoing vigilance from everyone who uses it.
+
 ---
 
 ## **2. The GSI Framework: Four Dimensions, Sixteen Indicators**
@@ -284,13 +288,17 @@ By surfacing confidence tiers rather than excluding low-data nations, the GSI re
 **Phase 3: Global (2030+)**
 - Full coverage (150+ nations)
 - Real-time dashboard with quarterly updates
-- Institutional integration (World Bank, IMF, UNDP)
+- **Dual-track engagement:**
+  - *Institutional dialogue* with international bodies (World Bank, UNDP) as one input among many—not integration into conditionality frameworks
+  - *Municipal empowerment track:* Open-access tools enabling any kommun, county, or bioregion to self-assess and advocate using their own data
 
 ---
 
-## **12. Conclusion: Toward a Science of Governance Architecture**
+## **12. Conclusion: Toward a Diagnostic Framework for Governance Architecture**
 
-The Global Subsidiarity Index represents a paradigm shift in how we assess governance: **from evaluating policies and politicians to analyzing system architecture itself.**
+The Global Subsidiarity Index does not claim neutrality. It begins from a thesis—that governance quality in the 21st century is fundamentally a question of architecture, and that subsidiarity is the most promising design principle for complex societies. What it offers is not a value-free science but a **rigorous diagnostic with an explicit orientation**, making its assumptions transparent and its measurements contestable. This honesty is a feature, not a limitation: frameworks that pretend to objectivity while encoding ideology are far more dangerous than those that name their commitments openly.
+
+With that acknowledged, the GSI represents a meaningful shift in how we assess governance: **from evaluating policies and politicians to analyzing system architecture itself.**
 
 **Why this matters now:**
 1. **Polycrisis demands resilience** → Distributed systems are inherently more resilient
