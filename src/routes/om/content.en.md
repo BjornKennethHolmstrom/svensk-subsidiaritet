@@ -20,10 +20,6 @@ This also forms the foundation for **Global Governance Frameworks (GGF)**, a bro
 
 This is a one-man initiative using AI as a working tool. I have no organization behind me, no party support, no funding. What I do have is systems thinking, a technical background, and a conviction that someone needs to ask these questions—even if the answers take time.
 
-## Contribute
-
-I am not looking for followers, but competence. If you are a developer (Rust/Svelte), a farmer, healthcare professional, or simply have relevant experience—get in touch.
-
 ### Contact
 
 📧 [bjorn.kenneth.holmstrom@gmail.com](mailto:bjorn.kenneth.holmstrom@gmail.com)

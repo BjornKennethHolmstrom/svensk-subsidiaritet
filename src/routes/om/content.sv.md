@@ -20,10 +20,6 @@ Det här är också grunden för **Global Governance Frameworks (GGF)**, ett bre
 
 Det här är ett enmansinitiativ med AI som arbetsverktyg. Jag har ingen organisation bakom mig, inget partistöd, ingen finansiering. Det jag har är systemtänkande, teknisk bakgrund och en övertygelse om att någon behöver ställa de här frågorna — även om svaren tar tid.
 
-## Bidra
-
-Jag söker inte följare utan kompetens. Om du är utvecklare (Rust/Svelte), lantbrukare, vårdpersonal, eller bara har relevant erfarenhet — hör av dig.
-
 ### Kontakt
 
 📧 [bjorn.kenneth.holmstrom@gmail.com](mailto:bjorn.kenneth.holmstrom@gmail.com)
