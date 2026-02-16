@@ -20,13 +20,11 @@ Under pandemin bestämde Folkhälsomyndigheten strategin centralt. Lokala äldre
 
 Men det finns en djupare förklaring, från cybernetik: Ashby's lag för tillräcklig variation (requisite variety). Den säger att ett styrsystem måste ha minst lika stor inneboende variation som det system det försöker styra. Det svenska systemet har helt enkelt för liten variation för att hantera samhällets accelererande komplexitet. Vi försöker styra ett 2000-talssamhälle med 1900-talsmetoder.
 
-Tänk om Vattenfall lät sina turbiner snurra på 10 procents kapacitet. Nationell skandal. Ändå gör vi exakt det med våra medborgare. Stress, tidsbrist och överlevnadspusslet håller en stor del av Sveriges kollektiva intelligens offline.
-
 Den första pusselbiten för att lösa problemen ovan är att verkligen mäta det. Jag har skissat på ett globalt subsidiaritetsindex (GSI) som skulle kunna användas för att motverka övercentraliseringen genom att mäta var makten faktiskt ligger.
 
 Till exempel: Hur många administrativa lager skiljer en sjuksköterska i Kiruna från det beslut som styr hennes arbetsdag? GSI mäter just det avståndet, och gör det jämförbart mellan kommuner, regioner och länder.
 
-Den andra pusselbiten är att ge människor samma friheter som jag själv fått (och förhoppningsvis fler därtill), genom en adaptiv universell basinkomst (AUBI). Med adaptiv menar jag att den förutom ett villkorslöst grundbelopp har behovstillägg, samt att den synliggör och belönar arbete som marknaden inte fångar. Förutom många andra fördelar skulle det ge oss den kognitiva bandbredden och tiden att ta sig an våra samhällsproblem på riktigt. Forskning av Sendhil Mullainathan och Eldar Shafir (Science 2013) visar att finansiell stress och osäkerhet sänker funktionell kognitiv kapacitet med motsvarande 13 IQ-poäng. Som en hel natts sömnbrist!
+Den andra pusselbiten är att ge människor samma friheter som jag själv fått (och förhoppningsvis fler därtill), genom en adaptiv universell basinkomst (AUBI). Med adaptiv menar jag att den förutom ett villkorslöst grundbelopp har behovstillägg, samt att den synliggör och belönar arbete som marknaden inte fångar. Förutom många andra fördelar skulle det ge oss den kognitiva bandbredden och tiden att ta sig an våra samhällsproblem på riktigt. Forskning av Sendhil Mullainathan och Eldar Shafir (Science 2013) visar att finansiell stress och osäkerhet sänker funktionell kognitiv kapacitet med motsvarande 13 IQ-poäng. Som en hel natts sömnbrist! Tänk om Vattenfall lät sina turbiner snurra på 10 procents kapacitet. Nationell skandal. Ändå gör vi exakt det med våra medborgare. Stress, tidsbrist och överlevnadspusslet håller en stor del av Sveriges kollektiva intelligens offline.
 
 Läs utkasten till GSI och AUBI på https://svensksubsidiaritet.se/ramverk
 
