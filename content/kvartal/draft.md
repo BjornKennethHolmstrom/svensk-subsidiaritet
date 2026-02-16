@@ -38,6 +38,8 @@ Jag är bara en medborgare som fått chansen att tänka.
 
 Tänk om Sverige kunde bli det föregångsland som först löser 2000-talets stora samhällsproblem, genom att frigöra sin befolknings verkliga kapacitet?
 
+Jag har samlat mer om tankarna på svensksubsidiaritet.se. Där finns ramverken, verktygen och biblioteket. Allt är fritt att använda.
+
 **Fotnot**
 
 Jag nämnde AI i början, jag har använt en metod jag kallar SCI-cykeln. Det står för syntes, utmaning, integration och är ett sätt att använda flera **olika** AI-modeller för att bredda perspektiven, vilket hjälper att få tillräcklig variation. 
