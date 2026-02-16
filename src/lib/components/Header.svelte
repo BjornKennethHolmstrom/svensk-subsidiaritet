@@ -29,7 +29,7 @@
     <!-- Desktop Navigation -->
     <nav class="hidden md:flex items-center gap-8">
       <div class="flex gap-6 font-sans text-sm font-medium text-stone-600">
-        <a href="/" class="hover:text-black transition-colors">{$t.nav.manifesto}</a>
+        <a href="/vision" class="hover:text-black transition-colors">{$t.nav.manifesto}</a>
         <a href="/system-analys" class="hover:text-black transition-colors">{$t.nav.analysis}</a>
         <a href="/ramverk" class="hover:text-black transition-colors">{$t.nav.frameworks}</a>
         <a href="/verktyg" class="hover:text-black transition-colors">{$t.nav.tools}</a>
@@ -89,7 +89,7 @@
   >
     <nav class="flex flex-col p-6 gap-1">
       <a 
-        href="/" 
+        href="/vision" 
         class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
         onclick={closeMobileMenu}
       >
