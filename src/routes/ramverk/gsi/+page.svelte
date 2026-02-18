@@ -186,7 +186,7 @@
         { flag: '🇨🇭', name: lang === 'sv' ? 'Schweiz' : 'Switzerland', roleSv: 'Medel-CAF, federal', roleEn: 'Medium CAF, federated' },
         { flag: '🇮🇳', name: 'Indien', roleSv: 'Hög CAF, utvecklingsland', roleEn: 'High CAF, developing' },
         { flag: '🇷🇼', name: 'Rwanda', roleSv: 'Postkonflikt', roleEn: 'Post-conflict' },
-        { flag: '🇸🇪', name: 'Sverige', roleSv: 'Hög tillit, överkentraliserat', roleEn: 'High trust, overcentralized' }
+        { flag: '🇸🇪', name: 'Sverige', roleSv: 'Hög tillit, övercentraliserat', roleEn: 'High trust, overcentralized' }
       ] as nation}
         <div class="rounded-lg border border-stone-200 bg-white p-4 text-center">
           <div class="text-2xl mb-2">{nation.flag}</div>
