@@ -30,11 +30,11 @@ const SITE_URL = "https://svensksubsidiaritet.se";
 // File Mapping: Input Filename -> PDF Metadata
 const DOCUMENTS = [
     {
-        file: 'gsi-framework-v3.md',
+        file: 'gsi-framework-v4.md',
         title: 'Global Subsidiarity Index Framework',
-        subtitle: 'Version 3.0: A Universal Metric for Governance Architecture',
+        subtitle: 'Version 4.0: A Universal Metric for Governance Architecture',
         type: 'Core Framework',
-        output: 'GSI-Framework-v3.pdf'
+        output: 'GSI-Framework-v4.pdf'
     },
     {
         file: 'appendix-1-technical-manual.md',

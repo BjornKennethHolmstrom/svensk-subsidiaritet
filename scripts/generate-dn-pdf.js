@@ -5,7 +5,7 @@
  * 
  * Usage: node scripts/generate-dn-pdf.js
  * 
- * Input:  content/dn/debatt-artikel-v5.md
+ * Input:  content/dn/debatt-artikel-v7.md
  * Output: static/downloads/kvartal/Chansen-att-tänka-BKH-2026.pdf
  * 
  * Requirements: marked, puppeteer (already in package.json)
@@ -22,7 +22,7 @@ const __dirname = path.dirname(__filename);
 
 // --- CONFIGURATION ---
 
-const INPUT_FILE = path.join(__dirname, '../content/dn/debatt-artikel-v5.md');
+const INPUT_FILE = path.join(__dirname, '../content/dn/debatt-artikel-v7.md');
 const OUTPUT_DIR = path.join(__dirname, '../static/downloads/dn');
 const OUTPUT_FILE = path.join(OUTPUT_DIR, 'Sveriges-styrmodell-BKH-2026.pdf');
 

@@ -62,7 +62,7 @@
 
   <header class="mb-16 border-b border-stone-200 pb-8">
     <div class="mb-3 font-sans text-xs font-bold uppercase tracking-widest text-sky-600">
-      Beta v3.0 · Feb 2026
+      Beta v4.0 · Mar 2026
     </div>
     <h1 class="mb-4 font-sans text-4xl font-bold text-manifesto-black">
       Global Subsidiarity Index

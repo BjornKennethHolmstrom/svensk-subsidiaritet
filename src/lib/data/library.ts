@@ -14,19 +14,19 @@ export type Resource = {
 export const gsiFramework: Resource[] = [
   // 1. The Core Framework
   {
-    id: 'gsi-framework-v3',
+    id: 'gsi-framework-v4',
     title: {
-      sv: 'Global Subsidiarity Index (GSI) Framework v3.0',
-      en: 'Global Subsidiarity Index (GSI) Framework v3.0'
+      sv: 'Global Subsidiarity Index (GSI) Framework v4.0',
+      en: 'Global Subsidiarity Index (GSI) Framework v4.0'
     },
     author: { sv: 'Björn Kenneth Holmström', en: 'Björn Kenneth Holmström' },
-    date: 'Feb 2026',
+    date: 'Mar 2026',
     type: 'report',
     description: {
       sv: 'Det universella ramverket för att mäta "beslutsavstånd" och "resiliensarkitektur".',
       en: 'The universal framework for measuring "Decision Distance" and "Resilience Architecture."'
     },
-    url: '/downloads/gsi/GSI-Framework-v3.pdf',
+    url: '/downloads/gsi/GSI-Framework-v4.pdf',
     tags: ['Core', 'Framework', 'Global']
   },
 
