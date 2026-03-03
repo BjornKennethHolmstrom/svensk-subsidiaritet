@@ -69,20 +69,23 @@
     </h1>
     <p class="max-w-3xl font-serif text-xl leading-relaxed text-stone-600">
       {lang === 'sv'
-        ? 'Ett universellt diagnostik- och benchmarkingverktyg som kvantifierar matchningen — eller missmatchningen — mellan styrningsstrukturer och samhällelig komplexitet.'
-        : 'A universal diagnostic and benchmarking tool that quantifies the match — or mismatch — between governance structures and societal complexity.'}
+        ? 'Ett mätramverk för styrningsarkitektur: om beslutsmakt är placerad på den skala där relevant information finns, och om styrningssystemets kapacitet matchar komplexiteten i det den styr.'
+        : 'A measurement framework for governance architecture: whether decision authority is positioned at the scale where relevant information exists, and whether the governance system\'s capacity matches the complexity of what it governs.'}
     </p>
   </header>
 
-  <!-- Core Proposition -->
+  <!-- Motivating case -->
   <section class="mb-16">
-    <blockquote class="border-l-4 border-manifesto-black pl-6 py-2">
-      <p class="font-serif text-lg italic text-stone-700">
-        {lang === 'sv'
-          ? '"Styrningskvalitet på 2000-talet handlar inte om vänster mot höger, utan om centraliserat mot distribuerat — och GSI gör detta mätbart, jämförbart och handlingsbart."'
-          : '"Governance quality in the 21st century is not about left vs. right, but about centralized vs. distributed — and the GSI makes this measurable, comparable, and actionable."'}
+    <div class="rounded-xl bg-stone-50 border border-stone-100 p-8">
+      <p class="font-sans text-xs font-bold uppercase tracking-widest text-stone-400 mb-4">
+        {lang === 'sv' ? 'Vad befintliga index missar' : 'What existing indices miss'}
       </p>
-    </blockquote>
+      <p class="font-serif text-stone-600 leading-relaxed">
+        {lang === 'sv'
+          ? 'Torskkollapsen utanför Newfoundland 1992 inträffade inte på grund av korruption, svaga institutioner eller bristande demokrati. Kanada fick höga betyg på alla tillgängliga styrningsindikatorer. Kollapsen var arkitektonisk: årliga kvoter på ett månatligt varierande bestånd. Styrsystemets observationsfrekvens var för låg i förhållande till störningsfrekvensen. Inget befintligt styrningsindex mäter den typen av strukturell missmatchning. GSI är ett försök att göra det.'
+          : 'The collapse of the Newfoundland cod fishery in 1992 was not caused by corruption, weak institutions, or democratic failure. Canada scored well on every available governance indicator. The failure was architectural: annual quota-setting on a monthly-fluctuating stock. The governance system\'s observation frequency was too low relative to the disturbance frequency. No existing governance index measures that kind of structural mismatch. The GSI is an attempt to do so.'}
+      </p>
+    </div>
   </section>
 
   <!-- Theoretical Foundation -->
@@ -97,11 +100,36 @@
       <p class="font-serif text-stone-600 leading-relaxed mb-4 italic">
         "Only variety can destroy variety. To control a system, the regulator must have at least as many internal states as the system it attempts to regulate."
       </p>
-      <p class="font-serif text-stone-600 leading-relaxed">
+      <p class="font-serif text-stone-600 leading-relaxed mb-4">
         {lang === 'sv'
-          ? 'GSI mäter förhållandet mellan samhällets variation (komplexitet, mångfald, dynamik) och styrningens variation (flexibilitet, anpassningsförmåga, differentiering). När styrningen inte matchar samhällets komplexitet uppstår tre universella patologier: beslutsavstånd, kunskapsexkludering och resiliensbrister.'
-          : "The GSI measures the ratio between societal variety (complexity, diversity, dynamism) and governance variety (flexibility, adaptability, differentiation). When governance fails to match societal complexity, three universal pathologies emerge: decision distance, knowledge exclusion, and resilience deficits."}
+          ? 'GSI mäter förhållandet mellan samhällets variation (komplexitet, mångfald, dynamik) och styrningens variation (flexibilitet, anpassningsförmåga, differentiering). När styrningen inte matchar samhällets komplexitet uppstår fyra strukturella fellägen:'
+          : 'The GSI measures the ratio between societal variety (complexity, diversity, dynamism) and governance variety (flexibility, adaptability, differentiation). When governance fails to match societal complexity, four structural failure modes emerge:'}
       </p>
+      <ul class="space-y-2">
+        {#each [
+          {
+            sv: 'Rumslig blindhet — aggregering förstör lokal signal',
+            en: 'Spatial blindness — aggregation destroys local signal'
+          },
+          {
+            sv: 'Frekvensgap — en tidsskala kan inte täcka flerhastighetsrisker',
+            en: 'Frequency gaps — a single timescale cannot cover multi-speed threats'
+          },
+          {
+            sv: 'Preferensosynlighet — djupa representationskedjor tappar medborgarens signal',
+            en: 'Preference invisibility — deep representation chains lose citizen signal'
+          },
+          {
+            sv: 'Observationsbrist — låg dimensionalitet kan inte styra komplexa gemensamma resurser',
+            en: 'Observational inadequacy — low dimensionality cannot govern complex commons'
+          }
+        ] as mode}
+          <li class="flex items-baseline gap-2 text-sm text-stone-600">
+            <span class="text-stone-300 flex-shrink-0">—</span>
+            {lang === 'sv' ? mode.sv : mode.en}
+          </li>
+        {/each}
+      </ul>
     </div>
   </section>
 
@@ -139,54 +167,56 @@
   <!-- Complexity Adjustment -->
   <section class="mb-16">
     <h2 class="mb-6 font-sans text-2xl font-bold text-manifesto-black">
-      {lang === 'sv' ? 'Komplexitetsjusteringen (CAF)' : 'Complexity Adjustment Factor (CAF)'}
+      {lang === 'sv' ? 'Komplexitetsjustering (CAF)' : 'Complexity Adjustment Factor (CAF)'}
     </h2>
     <div class="rounded-xl bg-stone-50 border border-stone-100 p-8">
       <p class="font-serif text-stone-600 leading-relaxed mb-4">
         {lang === 'sv'
-          ? 'Små, homogena nationer har naturligt lägre "optimalt" beslutsavstånd än stora, diversifierade federationer. CAF löser detta genom flerdimensionell komplexitetspoängsättning:'
-          : 'Small, homogeneous nations naturally have lower "optimal" decision distance than large, diverse federations. The CAF solves this through multi-dimensional complexity scoring:'}
+          ? 'Utan kontextuell justering skulle ett index som mäter beslutsavstånd koda en implicit preferens för decentralisering oavsett sammanhang. Singapore kräver inte samma arkitektur som Indien. CAF löser detta genom att generera kontextspecifika riktmärken — det mäter passform, inte riktning.'
+          : 'Without contextual adjustment, any index measuring decision distance would encode an implicit preference for decentralization regardless of context. Singapore does not require the same architecture as India. The CAF addresses this by generating context-specific benchmarks — it measures fit, not direction.'}
       </p>
       <div class="font-mono text-sm bg-white rounded-lg p-4 border border-stone-200 mb-4 text-center">
         CAF = (G × E × D × T) ÷ C
       </div>
       <div class="grid grid-cols-2 md:grid-cols-5 gap-3 text-sm">
-        <div class="text-center">
-          <div class="font-mono font-bold text-stone-700">G</div>
-          <div class="text-stone-500">{lang === 'sv' ? 'Geografi' : 'Geography'}</div>
-        </div>
-        <div class="text-center">
-          <div class="font-mono font-bold text-stone-700">E</div>
-          <div class="text-stone-500">{lang === 'sv' ? 'Etnolingvistik' : 'Ethnolinguistic'}</div>
-        </div>
-        <div class="text-center">
-          <div class="font-mono font-bold text-stone-700">D</div>
-          <div class="text-stone-500">{lang === 'sv' ? 'Ojämlikhet' : 'Disparity'}</div>
-        </div>
-        <div class="text-center">
-          <div class="font-mono font-bold text-stone-700">T</div>
-          <div class="text-stone-500">{lang === 'sv' ? 'Hotmiljö' : 'Threat'}</div>
-        </div>
-        <div class="text-center">
-          <div class="font-mono font-bold text-stone-700">C</div>
-          <div class="text-stone-500">{lang === 'sv' ? 'Central kapacitet' : 'Central capacity'}</div>
-        </div>
+        {#each [
+          { key: 'G', sv: 'Geografi', en: 'Geography' },
+          { key: 'E', sv: 'Etnolingvistik', en: 'Ethnolinguistic' },
+          { key: 'D', sv: 'Ojämlikhet', en: 'Disparity' },
+          { key: 'T', sv: 'Hotmiljö', en: 'Threat' },
+          { key: 'C', sv: 'Central kapacitet', en: 'Central capacity' }
+        ] as component}
+          <div class="text-center">
+            <div class="font-mono font-bold text-stone-700">{component.key}</div>
+            <div class="text-stone-500">{lang === 'sv' ? component.sv : component.en}</div>
+          </div>
+        {/each}
       </div>
+      <p class="font-serif text-xs text-stone-400 mt-4 italic">
+        {lang === 'sv'
+          ? 'Den multiplikativa strukturen är en teoretisk hypotes, inte en slutgiltig specifikation. Piloterna ska testa om formen håller under alternativa specifikationer.'
+          : 'The multiplicative structure is a theoretical hypothesis, not a final specification. Pilots will test whether the form holds under alternative specifications.'}
+      </p>
     </div>
   </section>
 
   <!-- Pilot Nations -->
   <section class="mb-16">
     <h2 class="mb-6 font-sans text-2xl font-bold text-manifesto-black">
-      {lang === 'sv' ? 'Föreslagna pilotländer' : 'Suggested Pilot Nations'}
+      {lang === 'sv' ? 'Föreslagna pilotfall' : 'Proposed Pilot Cases'}
     </h2>
+    <p class="font-serif text-stone-500 mb-6 text-sm">
+      {lang === 'sv'
+        ? 'Valen täcker det strukturella variationsutrymmet — inte för att bekräfta ramverket, utan för att testa om det beter sig korrekt under radikalt olika komplexitetsprofiler.'
+        : 'Selection covers the structural variation space — not to confirm the framework, but to test whether it behaves correctly across radically different complexity profiles.'}
+    </p>
     <div class="grid grid-cols-2 md:grid-cols-5 gap-4">
       {#each [
-        { flag: '🇸🇬', name: 'Singapore', roleSv: 'Låg CAF, hög effektivitet', roleEn: 'Low CAF, high efficiency' },
-        { flag: '🇨🇭', name: lang === 'sv' ? 'Schweiz' : 'Switzerland', roleSv: 'Medel-CAF, federal', roleEn: 'Medium CAF, federated' },
-        { flag: '🇮🇳', name: 'Indien', roleSv: 'Hög CAF, utvecklingsland', roleEn: 'High CAF, developing' },
-        { flag: '🇷🇼', name: 'Rwanda', roleSv: 'Postkonflikt', roleEn: 'Post-conflict' },
-        { flag: '🇸🇪', name: 'Sverige', roleSv: 'Hög tillit, övercentraliserat', roleEn: 'High trust, overcentralized' }
+        { flag: '🇸🇬', name: 'Singapore', roleSv: 'Låg CAF — legitimt centraliserad?', roleEn: 'Low CAF — legitimately centralized?' },
+        { flag: '🇨🇭', name: lang === 'sv' ? 'Schweiz' : 'Switzerland', roleSv: 'Fungerande subsidiaritet', roleEn: 'Working subsidiarity' },
+        { flag: '🇮🇳', name: lang === 'sv' ? 'Indien' : 'India', roleSv: 'Hög CAF i stor skala', roleEn: 'High CAF at scale' },
+        { flag: '🇷🇼', name: 'Rwanda', roleSv: 'Transition under förändring', roleEn: 'Architecture in motion' },
+        { flag: '🇸🇪', name: lang === 'sv' ? 'Sverige' : 'Sweden', roleSv: 'Arkitektonisk drift?', roleEn: 'Architectural drift?' }
       ] as nation}
         <div class="rounded-lg border border-stone-200 bg-white p-4 text-center">
           <div class="text-2xl mb-2">{nation.flag}</div>
@@ -230,26 +260,50 @@
     </div>
   </section>
 
-  <!-- Phased Rollout -->
+  <!-- Development status -->
   <section class="mb-16">
     <h2 class="mb-6 font-sans text-2xl font-bold text-manifesto-black">
-      {lang === 'sv' ? 'Fasplan' : 'Phased Rollout'}
+      {lang === 'sv' ? 'Utvecklingsstatus' : 'Development Status'}
     </h2>
     <div class="space-y-4">
       {#each [
-        { phase: '0', year: '2026', titleSv: 'Grundläggning', titleEn: 'Foundation', descSv: 'Finslipa mätvärden, utveckla verifieringsprotokoll, säkra 5 pilotländer.', descEn: 'Finalize proxy metrics, develop verification protocols, secure 5 pilot commitments.' },
-        { phase: '1', year: '2027', titleSv: 'Alfa', titleEn: 'Alpha', descSv: 'Pilotbedömningar med manuell verifiering. Första "State of Global Subsidiarity"-rapporten.', descEn: 'Pilot assessments with manual verification. First "State of Global Subsidiarity" report.' },
-        { phase: '2', year: '2028–29', titleSv: 'Beta', titleEn: 'Beta', descSv: 'Expandera till 30 nationer. Automatiserad datainsamling. Integration med FN:s SDG-rapportering.', descEn: 'Expand to 30 nations. Automated data collection. Begin integration with UN SDG reporting.' },
-        { phase: '3', year: '2030+', titleSv: 'Global', titleEn: 'Global', descSv: 'Full täckning (150+ nationer). Realtidsdashboard med kvartalsuppdateringar.', descEn: 'Full coverage (150+ nations). Real-time dashboard with quarterly updates.' }
+        {
+          phase: '0', year: '2026',
+          titleSv: 'Grundläggning', titleEn: 'Foundation',
+          descSv: 'Finslipa mätvärden med akademiska partners. Utveckla verifieringsprotokoll. Söka pilotpartners.',
+          descEn: 'Finalize proxy metrics with academic partners. Develop verification protocols. Seek pilot partnerships.',
+          active: true
+        },
+        {
+          phase: '1', year: '2027',
+          titleSv: 'Alfa', titleEn: 'Alpha',
+          descSv: 'Pilotbedömningar med manuell verifiering och medborgarpaneler. Publicera rådata och metodnoter öppet.',
+          descEn: 'Pilot assessments with manual verification and citizen validation panels. Publish raw data and methodology notes openly.',
+          active: false
+        },
+        {
+          phase: '2', year: '2028–29',
+          titleSv: 'Beta', titleEn: 'Beta',
+          descSv: 'Expandera baserat på vad pilotfasen faktiskt visar. Utforska integration med befintlig styrningsrapportering om det är meningsfullt.',
+          descEn: 'Expand based on what the pilot phase actually demonstrates. Explore integration with existing governance reporting if warranted.',
+          active: false
+        },
+        {
+          phase: '3', year: '2030+',
+          titleSv: 'Öppen protokollstandard', titleEn: 'Open protocol standard',
+          descSv: 'Om ramverket håller: en öppen mätstandard som möjliggör distribuerad diagnostik snarare än centraliserad certifiering.',
+          descEn: 'If the framework holds: an open measurement standard enabling distributed diagnostics rather than centralized certification.',
+          active: false
+        }
       ] as step}
         <div class="flex gap-4 items-start">
           <div class="flex-shrink-0 w-20 text-right">
             <div class="font-mono text-xs text-stone-400">{step.year}</div>
-            <div class="font-sans text-sm font-bold text-manifesto-black">
+            <div class="font-sans text-sm font-bold {step.active ? 'text-sky-600' : 'text-manifesto-black'}">
               {lang === 'sv' ? `Fas ${step.phase}` : `Phase ${step.phase}`}
             </div>
           </div>
-          <div class="flex-1 border-l-2 border-stone-200 pl-4 pb-2">
+          <div class="flex-1 border-l-2 {step.active ? 'border-sky-300' : 'border-stone-200'} pl-4 pb-2">
             <div class="font-sans text-sm font-bold text-stone-700">
               {lang === 'sv' ? step.titleSv : step.titleEn}
             </div>
