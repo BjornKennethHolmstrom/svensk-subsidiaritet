@@ -2,8 +2,9 @@
 <script lang="ts">
   import GovernanceSimulator from '$lib/components/governance-simulator/GovernanceSimulator.svelte';
   import { onMount } from 'svelte';
+  import { t } from '$lib/stores/i18n'; // <-- Added translation store import
   
-  let architecture = 'centralized';
+  let architecture: 'centralized' | 'localOnly' | 'fractal' = 'centralized';
   let complexity = 0.5;
   let disturbanceMix = 0.5;
   
@@ -21,17 +22,17 @@
 
 <div class="simulator-page">
   <header>
-    <h1>Governance Stability Simulator</h1>
+    <h1>{$t.simulatorPage.title}</h1>
     <p class="subtitle">
-      A control-theoretic model of institutional adaptation
+      {$t.simulatorPage.subtitle}
     </p>
     <div class="paper-refs">
-      Based on papers: 
-      <a href="https://www.bjornkennethholmstrom.org/whitepapers/governance-stability-simulator">I: Governance as a Feedback System</a> • 
-      <a href="https://www.bjornkennethholmstrom.org/whitepapers/fractality-as-stability">II: Fractality as Stability</a> • 
-      <a href="https://www.bjornkennethholmstrom.org/whitepapers/observability-democracy-connection">III: The Observability-Democracy Connection</a> • 
-      <a href="https://www.bjornkennethholmstrom.org/whitepapers/requisite-variety-and-the-commons">IV: Requisite Variety and the Commons</a> • 
-      <a href="https://www.bjornkennethholmstrom.org/whitepapers/coordination-failure-tax">V: The Coordination Failure Tax</a>
+      {$t.simulatorPage.basedOn} 
+      <a href="https://www.bjornkennethholmstrom.org/whitepapers/governance-stability-simulator">{$t.simulatorPage.papers.p1}</a> • 
+      <a href="https://www.bjornkennethholmstrom.org/whitepapers/fractality-as-stability">{$t.simulatorPage.papers.p2}</a> • 
+      <a href="https://www.bjornkennethholmstrom.org/whitepapers/observability-democracy-connection">{$t.simulatorPage.papers.p3}</a> • 
+      <a href="https://www.bjornkennethholmstrom.org/whitepapers/requisite-variety-and-the-commons">{$t.simulatorPage.papers.p4}</a> • 
+      <a href="https://www.bjornkennethholmstrom.org/whitepapers/coordination-failure-tax">{$t.simulatorPage.papers.p5}</a>
     </div>
   </header>
   
@@ -43,22 +44,13 @@
   
   <footer>
     <div class="explanation">
-      <h3>What you're seeing</h3>
-      <p>
-        <strong>Centralized</strong> (Paper I): One controller observes the national average and applies uniform policy.
-        High latency and aggregation destroy spatial information. Collateral disruption spreads.
-      </p>
-      <p>
-        <strong>Local Only</strong> (Paper II): Each node responds to its own state. Fast shocks are handled,
-        but slow drift produces persistent oscillation.
-      </p>
-      <p>
-        <strong>Fractal / Polycentric</strong> (Papers II & V): Nested local, regional, and global controllers
-        cover all disturbance frequencies. The coordination failure tax is minimized.
-      </p>
+      <h3>{$t.simulatorPage.explanation.title}</h3>
+      <p>{@html $t.simulatorPage.explanation.centralized}</p>
+      <p>{@html $t.simulatorPage.explanation.local}</p>
+      <p>{@html $t.simulatorPage.explanation.fractal}</p>
     </div>
     <div class="ashby-quote">
-      <em>"Only variety can absorb variety."</em> — Ross Ashby, Law of Requisite Variety (1956)
+      <em>{$t.simulatorPage.quote}</em>
     </div>
   </footer>
 </div>

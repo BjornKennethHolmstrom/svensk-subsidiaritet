@@ -1,5 +1,6 @@
 <!-- Controls.svelte -->
 <script lang="ts">
+  import { t } from '$lib/stores/i18n';
   import Tooltip from './Tooltip.svelte';
   
   export let architecture: 'centralized' | 'localOnly' | 'fractal';
@@ -13,32 +14,32 @@
 
 <div class="controls">
   <div class="control-group">
-    <label>Governance Architecture</label>
+    <label>{$t.simulatorData.controls.architecture}</label>
     <div class="toggle-group">
       <button 
         class={architecture === 'centralized' ? 'active' : ''}
         on:click={() => architecture = 'centralized'}
       >
-        <span>🏛️</span> Centralized
+        <span>🏛️</span> {$t.simulatorData.controls.centralized}
       </button>
       <button 
         class={architecture === 'localOnly' ? 'active' : ''}
         on:click={() => architecture = 'localOnly'}
       >
-        <span>🏘️</span> Local Only
+        <span>🏘️</span> {$t.simulatorData.controls.localOnly}
       </button>
       <button 
         class={architecture === 'fractal' ? 'active' : ''}
         on:click={() => architecture = 'fractal'}
       >
-        <span>🌀</span> Fractal / Polycentric
+        <span>🌀</span> {$t.simulatorData.controls.fractal}
       </button>
     </div>
-    <Tooltip text="Paper I & II: Centralized destroys spatial information. Fractal covers all frequency bands." />
+    <Tooltip text={$t.simulatorData.controls.tooltip1} />
   </div>
   
   <div class="control-group">
-    <label>Environmental Complexity</label>
+    <label>{$t.simulatorData.controls.complexity}</label>
     <input 
       type="range" 
       bind:value={complexity}
@@ -47,14 +48,14 @@
       step="0.01"
     />
     <div class="complexity-labels">
-      <span>Low variety</span>
-      <span>High variety</span>
+      <span>{$t.simulatorData.controls.lowVariety}</span>
+      <span>{$t.simulatorData.controls.highVariety}</span>
     </div>
-    <Tooltip text="Ashby's Law: Higher variety environments require more governance variety to stabilize." />
+    <Tooltip text={$t.simulatorData.controls.tooltip2} />
   </div>
   
   <div class="control-group">
-    <label>Disturbance Mix</label>
+    <label>{$t.simulatorData.controls.disturbanceMix}</label>
     <input 
       type="range" 
       bind:value={disturbanceMix}
@@ -63,14 +64,14 @@
       step="0.01"
     />
     <div class="mix-labels">
-      <span>Fast shocks</span>
-      <span>Slow drift</span>
+      <span>{$t.simulatorData.controls.fastShocks}</span>
+      <span>{$t.simulatorData.controls.slowDrift}</span>
     </div>
-    <Tooltip text="Paper II: Fast shocks require low latency; slow drift requires long observation windows." />
+    <Tooltip text={$t.simulatorData.controls.tooltip3} />
   </div>
   
   <button class="reset-button" on:click={resetSimulation}>
-    ⟳ Reset Simulation
+    ⟳ {$t.simulatorData.controls.reset}
   </button>
 </div>
 

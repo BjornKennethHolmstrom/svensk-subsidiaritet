@@ -57,6 +57,62 @@ export const translations = {
         explanation: "GSI mäter om styrningsarkitekturen matchar samhällets komplexitet. Men distribuerad styrning kräver medborgare med tid, trygghet och kognitiv kapacitet att delta. AUBI är det ekonomiska ramverk som möjliggör detta."
       }
     },
+    simulatorPage: {
+      title: "Systemsimulator för styrningsstabilitet",
+      subtitle: "En styrteoretisk modell för institutionell anpassning",
+      basedOn: "Baserat på artiklarna:",
+      papers: {
+        p1: "I: Styrning som ett återkopplingssystem",
+        p2: "II: Fraktalitet som stabilitet",
+        p3: "III: Sambandet mellan observerbarhet och demokrati",
+        p4: "IV: Nödvändig mångfald och allmänningen",
+        p5: "V: Koordineringsskatten"
+      },
+      explanation: {
+        title: "Vad du ser",
+        centralized: "<strong>Centraliserad</strong> (Artikel I): En central styrenhet observerar det nationella genomsnittet och tillämpar en enhetlig policy. Hög latens och aggregering förstör rumslig information. Sidoskador sprider sig.",
+        local: "<strong>Endast lokal</strong> (Artikel II): Varje nod reagerar på sitt eget tillstånd. Snabba chocker hanteras, men en långsam trend skapar ihållande svängningar.",
+        fractal: "<strong>Fraktal / polycentrisk</strong> (Artikel II & V): Kapslade lokala, regionala och globala styrenheter täcker alla störningsfrekvenser. Koordineringsskatten minimeras."
+      },
+      quote: "\"Bara mångfald kan absorbera mångfald.\" — Ross Ashby, Law of Requisite Variety (1956)"
+    },
+    simulatorData: {
+      controls: {
+        architecture: "Styrningsarkitektur",
+        centralized: "Centraliserad",
+        localOnly: "Endast lokal",
+        fractal: "Fraktal / polycentrisk",
+        complexity: "Miljöns komplexitet",
+        disturbanceMix: "Störningsmix",
+        lowVariety: "Låg variation",
+        highVariety: "Hög variation",
+        slowDrift: "Långsam trend",
+        fastShocks: "Snabba chocker",
+        reset: "Återställ simulering",
+        tooltip1: "Artikel I och II: Centraliserad förstör spatial information. Fraktal täcker alla frekvensband.",
+        tooltip2: "Ashbys lag: Miljöer med högre variation kräver mer styrningsvariation för att stabiliseras.",
+        tooltip3: "Artikel II: Snabba chocker kräver låg latens; långsam drift kräver långa observationsfönster."
+      },
+      metrics: {
+        stability: "Systemets stabilitet",
+        variety: "Nödvändig mångfald",
+        coverage: "Frekvenstäckning",
+        tax: "Koordineringsskatt",
+        catastrophic: "Katastrofal skatt",
+        moderate: "Måttlig skatt",
+        unobservable: "OOBSERVERBAR"
+      },
+      plot: {
+        title: "Varians i realtid",
+        target: "Måljämvikt"
+      },
+      regions: ["Kust i norr", "Skogsdistrikt", "Stadskärna", "Jordbruksslätt", "Fjäll i söder"],
+      layers: {
+        central: "CENTRAL",
+        local: "LOKAL",
+        region: "REGION"
+      }
+    },
     tools: {
       title: "Verktygslådan",
       subtitle: "Från analys till handling: interaktiva verktyg och utbildningsmaterial.",
@@ -168,6 +224,62 @@ export const translations = {
         hardware: "Subsidiarity is the hardware",
         electricity: "AUBI is the electricity",
         explanation: "The GSI measures whether governance architecture matches societal complexity. But distributed governance requires citizens with the time, security, and cognitive capacity to participate. AUBI is the economic framework that makes this possible."
+      }
+    },
+    simulatorPage: {
+      title: "Governance Stability Simulator",
+      subtitle: "A control-theoretic model of institutional adaptation",
+      basedOn: "Based on papers:",
+      papers: {
+        p1: "I: Governance as a Feedback System",
+        p2: "II: Fractality as Stability",
+        p3: "III: The Observability-Democracy Connection",
+        p4: "IV: Requisite Variety and the Commons",
+        p5: "V: The Coordination Failure Tax"
+      },
+      explanation: {
+        title: "What you're seeing",
+        centralized: "<strong>Centralized</strong> (Paper I): One controller observes the national average and applies uniform policy. High latency and aggregation destroy spatial information. Collateral disruption spreads.",
+        local: "<strong>Local Only</strong> (Paper II): Each node responds to its own state. Fast shocks are handled, but slow drift produces persistent oscillation.",
+        fractal: "<strong>Fractal / Polycentric</strong> (Papers II & V): Nested local, regional, and global controllers cover all disturbance frequencies. The coordination failure tax is minimized."
+      },
+      quote: "\"Only variety can absorb variety.\" — Ross Ashby, Law of Requisite Variety (1956)"
+    },
+    simulatorData: {
+      controls: {
+        architecture: "Governance Architecture",
+        centralized: "Centralized",
+        localOnly: "Local Only",
+        fractal: "Fractal / Polycentric",
+        complexity: "Environmental Complexity",
+        disturbanceMix: "Disturbance Mix",
+        lowVariety: "Low Variety",
+        highVariety: "High Variety",
+        slowDrift: "Slow Drift",
+        fastShocks: "Fast Shocks",
+        reset: "Reset Simulation",
+        tooltip1: "Paper I & II: Centralized destroys spatial information. Fractal covers all frequency bands.",
+        tooltip2: "Ashby's Law: Higher variety environments require more governance variety to stabilize.",
+        tooltip3: "Paper II: Fast shocks require low latency; slow drift requires long observation windows."
+      },
+      metrics: {
+        stability: "System Stability",
+        variety: "Requisite Variety",
+        coverage: "Freq. Coverage",
+        tax: "Coordination Tax",
+        catastrophic: "Catastrophic Tax",
+        moderate: "Moderate Tax",
+        unobservable: "UNOBSERVABLE"
+      },
+      plot: {
+        title: "Real-Time Variance",
+        target: "Target Equilibrium"
+      },
+      regions: ["Coastal North", "Forest District", "Urban Core", "Agri Plain", "Mountain South"],
+      layers: {
+        central: "CENTRAL",
+        local: "LOCAL",
+        region: "REGION"
       }
     },
     tools: {

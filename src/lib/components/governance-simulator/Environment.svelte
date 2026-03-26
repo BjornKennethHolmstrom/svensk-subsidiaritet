@@ -1,5 +1,6 @@
 <!-- Environment.svelte -->
 <script lang="ts">
+  import { t } from '$lib/stores/i18n';
   import type { Architecture } from '$lib/utils/dynamics';
   import { stateToColor } from '$lib/utils/colors';
   
@@ -8,11 +9,11 @@
   
   // Y-axis pushed down to 330 to give the governance layers room to breathe
   const municipalities = [
-    { id: 0, name: 'Coastal North', x: 100, y: 330 },
-    { id: 1, name: 'Forest District', x: 250, y: 330 },
-    { id: 2, name: 'Urban Core', x: 400, y: 330 },
-    { id: 3, name: 'Agri Plain', x: 550, y: 330 },
-    { id: 4, name: 'Mountain South', x: 700, y: 330 }
+    { id: 0, name: $t.simulatorData.regions[0], x: 100, y: 330 },
+    { id: 1, name: $t.simulatorData.regions[1], x: 250, y: 330 },
+    { id: 2, name: $t.simulatorData.regions[2], x: 400, y: 330 },
+    { id: 3, name: $t.simulatorData.regions[3], x: 550, y: 330 },
+    { id: 4, name: $t.simulatorData.regions[4], x: 700, y: 330 }
   ];
 </script>
 

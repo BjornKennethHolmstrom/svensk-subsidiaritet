@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { t } from '$lib/stores/i18n';
   import { fade } from 'svelte/transition';
   import Tooltip from './Tooltip.svelte';
   
@@ -17,7 +18,7 @@
 <div class="metrics">
   <div class="metrics-grid">
     <div class="metric">
-      <div class="metric-label">System Stability</div>
+      <div class="metric-label">{$t.simulatorData.metrics.stability}</div>
       <div class="metric-value" class:critical={averageState < 60}>
         {Math.round(averageState)}/100
       </div>
@@ -27,7 +28,7 @@
     </div>
     
     <div class="metric">
-      <div class="metric-label">Requisite Variety</div>
+      <div class="metric-label">{$t.simulatorData.metrics.variety}</div>
       <div class="metric-value" class:critical={requisiteVariety < 50}>
         {Math.round(requisiteVariety)}%
       </div>
@@ -37,7 +38,7 @@
     </div>
 
     <div class="metric">
-      <div class="metric-label">Freq. Coverage</div>
+      <div class="metric-label">{$t.simulatorData.metrics.coverage}</div>
       <div class="metric-value" class:critical={frequencyCoverage < 50}>
         {Math.round(frequencyCoverage)}%
       </div>
@@ -47,7 +48,7 @@
     </div>
 
     <div class="metric">
-      <div class="metric-label">Coordination Tax</div>
+      <div class="metric-label">{$t.simulatorData.metrics.tax}</div>
       <div class="metric-value" class:critical={coordinationTax > 50}>
         {Math.round(coordinationTax)}%
       </div>
@@ -60,17 +61,17 @@
   <div class="warnings-container">
     {#if coordinationTax > 50}
       <div class="warning" transition:fade>
-        🚨 Catastrophic Tax ({Math.round(coordinationTax)}%)
+        🚨 {$t.simulatorData.metrics.catastrophic} ({Math.round(coordinationTax)}%)
       </div>
     {:else if coordinationTax > 20}
       <div class="warning-medium" transition:fade>
-        ⚠️ Moderate Tax ({Math.round(coordinationTax)}%)
+        ⚠️ {$t.simulatorData.metrics.moderate} ({Math.round(coordinationTax)}%)
       </div>
     {/if}
     
     {#if snr < 1}
       <div class="warning" transition:fade>
-        📡 UNOBSERVABLE: SNR = {snr.toFixed(2)} &lt; 1 (Paper III)
+        📡 {$t.simulatorData.metrics.unobservable}: SNR = {snr.toFixed(2)} &lt; 1 (Paper III)
       </div>
     {/if}
   </div>

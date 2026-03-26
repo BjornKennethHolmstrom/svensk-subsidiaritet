@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { t } from '$lib/stores/i18n';
   export let history: number[][] = [];
   
   // Distinct colors for the 5 municipalities
@@ -36,8 +37,8 @@
 
 <div class="plot-container">
   <div class="plot-header">
-    Real-Time Variance 
-    <span class="subtitle">(Target Equilibrium = 100)</span>
+    {$t.simulatorData.plot.title} 
+    <span class="subtitle">({$t.simulatorData.plot.target} = 100)</span>
   </div>
   
   <svg {width} {height} viewBox="0 0 {width} {height}" preserveAspectRatio="none">
