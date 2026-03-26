@@ -41,6 +41,31 @@
     </p>
   </header>
 
+  <section class="mb-12 overflow-hidden rounded-2xl border border-teal-200 bg-teal-50">
+    <div class="flex flex-col items-center gap-6 p-8 md:flex-row md:justify-between">
+      <div class="max-w-xl">
+        <div class="mb-2 inline-flex items-center gap-2 text-sm font-bold tracking-widest text-teal-700 uppercase">
+          <span class="text-xl">🎛️</span> 
+          {$locale === 'sv' ? 'Interaktiv Modell' : 'Interactive Model'}
+        </div>
+        <h2 class="mb-3 font-sans text-2xl font-bold text-teal-900">
+          {$locale === 'sv' ? 'Varför System Kollapsar' : 'Why Systems Collapse'}
+        </h2>
+        <p class="font-serif text-teal-800 opacity-90">
+          {$locale === 'sv' 
+            ? 'Innan du läser våra sektoranalyser, testa vår simulator. Se den matematiska bevisföringen för varför centraliserade system inte kan hantera lokal komplexitet.' 
+            : 'Before reading our sector analyses, try our simulator. See the mathematical proof of why centralized systems fail to handle local complexity.'}
+        </p>
+      </div>
+      <a 
+        href="/simulator" 
+        class="shrink-0 rounded-xl bg-teal-700 px-6 py-4 font-sans text-sm font-bold text-white transition-transform hover:scale-105 hover:bg-teal-800"
+      >
+        {$locale === 'sv' ? 'Testa Simulatorn →' : 'Try the Simulator →'}
+      </a>
+    </div>
+  </section>
+
   <section class="mb-20">
     <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
       {#each systems as system}

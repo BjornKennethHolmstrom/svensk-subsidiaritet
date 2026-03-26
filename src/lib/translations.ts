@@ -75,6 +75,11 @@ export const translations = {
         description: "Kartlägg var makten faktiskt sitter — vem bestämmer, vem kontrollerar budgeten, hur långt borta?",
         action: "Kartlägg Makten"
       },
+      simulator: {
+        title: "Systemsimulator",
+        description: "En interaktiv modell som bevisar varför centraliserade system misslyckas med att hantera lokal komplexitet. Lek med matematiken bakom subsidiaritet.",
+        action: "Testa Simulatorn"
+      },
       school: {
         title: "För Skolan",
         description: "Färdiga lektionsplaneringar och moduler för gymnasiet. Bygg systemförståelse i klassrummet.",
@@ -177,6 +182,11 @@ export const translations = {
         title: "Study Circle Kit",
         description: "Complete materials for leading a study circle on subsidiarity in your association or neighborhood.",
         action: "Explore, Download and Print"
+      },
+      simulator: {
+        title: "Systems Simulator",
+        description: "An interactive model proving why centralized systems fail to handle local complexity. Play with the cybernetic math behind subsidiarity.",
+        action: "Try the Simulator"
       },
       power: {
         title: "Power Analysis",

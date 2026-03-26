@@ -19,6 +19,13 @@
       status: 'active'
     },
     { 
+      id: 'simulator', 
+      icon: '🎛️', 
+      color: 'bg-teal-50 text-teal-600 border-teal-200',
+      link: '/simulator',
+      status: 'active'
+    },
+    { 
       id: 'school', 
       icon: '🎓', 
       color: 'bg-amber-50 text-amber-700 border-amber-200', 
