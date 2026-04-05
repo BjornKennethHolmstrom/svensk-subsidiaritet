@@ -91,11 +91,11 @@ Below are five action areas. Each area has its own page with concrete pilots, bu
 
 | Measure | Short description |
 |--------|------------------|
-| [→ Security rings](https://www.google.com/search?q=./trygghetsringar) | Groups of 50 households sharing concerns, coordinating safe activities, and providing early warning via a secure platform. 4 hours of training, "good samaritan" law. |
-| [→ Community mediators](https://www.google.com/search?q=./samhallsmedlare) | 100 respected local figures (coaches, religious leaders, grandmothers, former gang members) with 200 hours of training, salary SEK 25,000/month. Intervene in disputes before the police. |
-| [→ Municipal security budgets](https://www.google.com/search?q=./kommunala-trygghetsbudgetar) | SEK 100/resident for locally decided security initiatives via participatory budgeting – lighting, youth centers, mediators, de-escalation. |
-| [→ Restorative justice](https://www.google.com/search?q=./reparativ-rattvisa) | For minor offenses (theft under SEK 5,000, vandalism, fighting), mediation between victim and offender replaces prosecution. Courts can mandate restorative participation. |
-| [→ Security centers](https://www.google.com/search?q=./trygghetscenter) | Transform fortress-like police stations into integrated hubs: 70% community workers, 30% police. Contains mediation rooms, youth activities, legal help, mental health care. |
+| [→ Security rings](./trygghetsringar) | Groups of 50 households sharing concerns, coordinating safe activities, and providing early warning via a secure platform. 4 hours of training, "good samaritan" law. |
+| [→ Community mediators](./samhallsmedlare) | 100 respected local figures (coaches, religious leaders, grandmothers, former gang members) with 200 hours of training, salary SEK 25,000/month. Intervene in disputes before the police. |
+| [→ Municipal security budgets](./kommunala-trygghetsbudgetar) | SEK 100/resident for locally decided security initiatives via participatory budgeting – lighting, youth centers, mediators, de-escalation. |
+| [→ Restorative justice](./reparativ-rattvisa) | For minor offenses (theft under SEK 5,000, vandalism, fighting), mediation between victim and offender replaces prosecution. Courts can mandate restorative participation. |
+| [→ Security centers](./trygghetscenter) | Transform fortress-like police stations into integrated hubs: 70% community workers, 30% police. Contains mediation rooms, youth activities, legal help, mental health care. |
 
 ## Implementation: from theory to practice
 

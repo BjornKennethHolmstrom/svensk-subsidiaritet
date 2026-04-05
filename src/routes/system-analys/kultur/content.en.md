@@ -82,23 +82,23 @@ Sweden celebrates diversity—20% foreign-born, 150 languages, pride in immigran
 
 Below are five action areas. Each area has its own page with concrete pilots, budgets, rule changes, and analysis of resistance.
 
-### [→ Grants for everyday culture](https://www.google.com/search?q=./vardagskultur)
+### [→ Grants for everyday culture](./vardagskultur)
 
 SEK 5,000 to non-professional cultural creators—Somali grandmothers recording cooking songs, teenagers documenting skateboard culture. Simple video application, no qualifications required. 10,000 grants/year = SEK 50 million.
 
-### [→ Hyperlocal public service](https://www.google.com/search?q=./hyperlokal-media)
+### [→ Hyperlocal public service](./hyperlokal-media)
 
 Break SVT/SR's broadcasting monopoly. Three regions get their own channels with local boards and guaranteed funding per capita. Which section of the Radio and Television Act needs to be amended? How much does a local channel in Kiruna cost?
 
-### [→ Language community councils](https://www.google.com/search?q=./sprakgemenskaper)
+### [→ Language community councils](./sprakgemenskaper)
 
 Reserve 1% of the cultural budget for production in languages other than Swedish. Councils for Arabic, Kurdish, Somali, etc., distribute funds based on the number of speakers in each municipality. A Kurdish poet in Botkyrka would then apply to the Kurdish council—not to the Arts Council in Stockholm.
 
-### [→ Cultural commons](https://www.google.com/search?q=./kulturella-allmanningar)
+### [→ Cultural commons](./kulturella-allmanningar)
 
 Transform municipal cultural centers into community-controlled cooperatives (one member, one vote). 70% of the program is determined by local groups, 30% is professionally curated. How do you change the Local Government Act to enable this?
 
-### [→ A multicultural curriculum](https://www.google.com/search?q=./kanon)
+### [→ A multicultural curriculum](./kanon)
 
 Replace the narrow canon with portfolio-based cultural heritage education. Students in Tensta document their families' oral traditions *at the same time* as they learn about the Viking Age. Pilot in five schools with measurable effects on engagement and identity.
 

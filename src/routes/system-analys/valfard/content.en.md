@@ -97,12 +97,12 @@ Below are six action areas. Each area has its own page with concrete pilots, bud
 
 | Measure | Short description |
 |--------|------------------|
-| [→ Welfare rings](https://www.google.com/search?q=./valfardsringar) | Groups of 10–20 households that detect needs early and offer light support (meals, childcare, companionship). Tax deduction of SEK 500/month per member. |
-| [→ Social prescribing](https://www.google.com/search?q=./social-forskrivning) | Doctors prescribe "20 hours of communal gardening" or "join a choir" instead of medication for loneliness, mild depression, stress. |
-| [→ Neighbor verification](https://www.google.com/search?q=./grannverifiering) | For simple benefits (temporary housing support, crisis grants), two neighbors verifying the need is sufficient—processing in 48 hours instead of 6 weeks. |
-| [→ Personal welfare budgets](https://www.google.com/search?q=./personliga-valfardsbudgetar) | Long-term recipients receive a "welfare card" that combines several benefits into one monthly amount—the individual themselves prioritizes between rent, food, education. |
-| [→ Municipal welfare budgets](https://www.google.com/search?q=./kommunala-valfardsbudgetar) | Municipalities receive per capita funding to design locally adapted support—national minimum level but local methods. |
-| [→ Social investment funds](https://www.google.com/search?q=./sociala-investeringsfonder) | Community foundations that finance preventive measures and measure returns in reduced future benefit dependency. |
+| [→ Welfare rings](./valfardsringar) | Groups of 10–20 households that detect needs early and offer light support (meals, childcare, companionship). Tax deduction of SEK 500/month per member. |
+| [→ Social prescribing](./social-forskrivning) | Doctors prescribe "20 hours of communal gardening" or "join a choir" instead of medication for loneliness, mild depression, stress. |
+| [→ Neighbor verification](./grannverifiering) | For simple benefits (temporary housing support, crisis grants), two neighbors verifying the need is sufficient—processing in 48 hours instead of 6 weeks. |
+| [→ Personal welfare budgets](./personliga-valfardsbudgetar) | Long-term recipients receive a "welfare card" that combines several benefits into one monthly amount—the individual themselves prioritizes between rent, food, education. |
+| [→ Municipal welfare budgets](./kommunala-valfardsbudgetar) | Municipalities receive per capita funding to design locally adapted support—national minimum level but local methods. |
+| [→ Social investment funds](./sociala-investeringsfonder) | Community foundations that finance preventive measures and measure returns in reduced future benefit dependency. |
 
 ## Implementation: from theory to practice
 
