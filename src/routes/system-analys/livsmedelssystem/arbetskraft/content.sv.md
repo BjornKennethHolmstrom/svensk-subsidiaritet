@@ -2,6 +2,8 @@
 
 [← Tillbaka till huvudartikeln](..)
 
+**Sammanfattning**: Bara 1 % av arbetskraften sysslar med jordbruk, men ett distribuerat system kräver en fördubbling. Här presenteras fyra konkreta källor – nyanlända, livsstilsflyttare, automation som komplement och säsongsarbete – samt finansiering genom omfördelning av befintliga EU-stöd.
+
 ## Tillgång till mark genom innovativa arrenden
 
 **Åtgärden**: Reformera arrendeavtal för jordbruksmark för att möjliggöra inträde för nya lantbrukare. Potentiella mekanismer inkluderar system för koldioxidkrediter som ger incitament åt markägare (Svenska kyrkan, Sveaskog, kommunala markbanker) att arrendera ut till utövare av regenerativt jordbruk.

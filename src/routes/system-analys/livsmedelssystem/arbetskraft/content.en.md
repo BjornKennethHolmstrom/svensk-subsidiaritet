@@ -2,6 +2,8 @@
 
 [← Back to main article](..)
 
+**Summary**: Only 1% of the workforce is in agriculture, but a distributed system requires a doubling. This section presents four concrete sources—new arrivals, lifestyle movers, automation as complement, and seasonal work—plus financing through redistribution of existing EU subsidies.
+
 ## Land Access Through Leasehold Innovation
 
 **The intervention**: Reform agricultural leasehold arrangements to enable new farmer entry. Potential mechanisms include carbon credit systems that incentivize landowners (Church of Sweden, Sveaskog, municipal land banks) to lease to regenerative practitioners.

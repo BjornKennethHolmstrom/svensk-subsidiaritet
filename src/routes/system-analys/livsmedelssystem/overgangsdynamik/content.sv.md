@@ -2,6 +2,8 @@
 
 [← Tillbaka till huvudartikeln](..)
 
+**Sammanfattning**: Komplexa system förändras inte linjärt. Här beskrivs fem strategier för övergången – safe-to-fail-experiment, störningar som acceleratorer, portföljdiversifiering, skalhopping mellan nivåer och konsten att inte agera för tidigt.
+
 De tre faserna i implementeringsplanen är en logisk sekvens, men omställningen kommer inte att följa en rak linje. Komplexa adaptiva system (som livsmedelssystem) förändras genom **störningar, experiment och portföljstrategier** – inte genom central planering. Därför behöver vi en medveten design för övergångens dynamik.
 
 ## 1. Safe-to-fail-experiment – inte fail-safe

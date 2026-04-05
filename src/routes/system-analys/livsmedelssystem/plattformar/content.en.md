@@ -2,6 +2,8 @@
 
 [← Back to main article](..)
 
+**Summary**: REKO shows the demand exists—but Facebook groups don't scale. This section describes a federated, open platform built on Swish and BankID, with a cooperative ownership model that makes buyouts and co-optation structurally impossible.
+
 ## The Measure
 
 Open-source platforms that enable direct contact between producer and consumer, cooperative coordination, and transparent origin tracking. This breaks the retail oligopoly by creating alternative distribution channels—not by competing on price, but by offering relationships, traceability, and local adaptation.

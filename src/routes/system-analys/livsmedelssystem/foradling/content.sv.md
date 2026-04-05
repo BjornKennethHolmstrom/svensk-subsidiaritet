@@ -2,6 +2,8 @@
 
 [← Tillbaka till huvudartikeln](..)
 
+**Sammanfattning**: Danmark har 30 mobila slakterier – Sverige har noll, på grund av regelverk snarare än teknik. Här presenteras tre regionala piloter (Jämtland, Skåne, Västra Götaland), den danska modellen, konkreta kostnadskalkyler och de regeländringar som krävs.
+
 ## Åtgärden
 
 Mobila och kooperativa förädlingsenheter (slakterier, kvarnar, fermenteringsanläggningar, mejerier) som betjänar flera små producenter. Detta minskar de kapitalkrav som för närvarande tvingar fram konsolidering och gör att småskaliga producenter kan förädla sina råvaror lokalt istället för att skicka dem till centraliserade anläggningar – eller tvingas sälja obearbetat till låga priser.
@@ -53,7 +55,7 @@ Danmark har sedan 2015 tillåtit mobila slakterier för upp till 500 djur per å
 
 ## Regelförändringar som krävs
 
-1. **Inför en ny kategori i livsmedelslagen**: "Småskalig mobila enhet" med förenklade krav (separata rum krävs inte, bara rengöringsprotokoll).
+1. **Inför en ny kategori i livsmedelslagen**: "Småskalig mobil enhet" med förenklade krav (separata rum krävs inte, bara rengöringsprotokoll).
 2. **Ändra EU-stödens kriterier** så att 30 % av investeringsstödet öronmärks för mobila och kooperativa enheter under 2 Mkr.
 3. **Skapa en nationell "grön väg"** för tillstånd – en handläggare per län som har särskild kompetens för småskalig, distribuerad förädling, med max 6 månaders handläggningstid.
 

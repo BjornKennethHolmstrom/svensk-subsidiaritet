@@ -2,6 +2,8 @@
 
 [← Tillbaka till huvudartikeln](..)
 
+**Sammanfattning**: Centraliserade system skapar passiva konsumenter. Här beskrivs fyra åtgärder för efterfrågeresiliens – skolkök som pedagogik, kommunala säsongskalendrar, konserveringsnoder via bibliotek och krislådor med lokala råvaror.
+
 ## Problemet som ingen pratar om
 
 Ett resilient livsmedelssystem kräver inte bara distribuerad produktion – det kräver **efterfrågeflexibilitet**. Svenska hushåll har vant sig vid att alla grönsaker finns året runt, att kött kommer i plastförpackad standardiserad form, och att matlagning kan ske på under 15 minuter. Denna bekvämlighet är en produkt av det centraliserade systemet – och ett hinder för omställning. Om krisen kommer men bönderna odlar morötter och kål (som klarar svensk vinter) medan konsumenterna kräver avokado och sallad året runt, då spelar det ingen roll hur bra produktionen är.

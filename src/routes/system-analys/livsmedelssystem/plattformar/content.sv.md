@@ -2,6 +2,8 @@
 
 [← Tillbaka till huvudartikeln](..)
 
+**Sammanfattning**: REKO visar att efterfrågan finns – men Facebook-grupper skalar inte. Här beskrivs en federerad, öppen plattform byggd på Swish och BankID, med kooperativ ägarmodell som gör uppköp och kooptering strukturellt omöjliga.
+
 ## Åtgärden
 
 Plattformar med öppen källkod som möjliggör direktkontakt mellan producent och konsument, kooperativ samordning och transparent ursprungsspårning. Detta bryter detaljhandelsoligopolet genom att skapa alternativa distributionskanaler – inte genom att konkurrera på pris, utan genom att erbjuda relationer, spårbarhet och lokal anpassning.

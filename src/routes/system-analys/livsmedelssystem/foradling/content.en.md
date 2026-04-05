@@ -2,6 +2,8 @@
 
 [← Back to main article](..)
 
+**Summary**: Denmark has 30 mobile slaughterhouses—Sweden has zero, due to regulation rather than technology. This section presents three regional pilots (Jämtland, Skåne, Västra Götaland), the Danish model, concrete cost estimates, and the regulatory changes required.
+
 ## The Measure
 
 Mobile and cooperative processing units (slaughterhouses, mills, fermentation plants, dairies) that serve multiple small producers. This reduces the capital requirements that currently force consolidation and allows small-scale producers to process their raw materials locally instead of sending them to centralized facilities—or being forced to sell unprocessed goods at low prices.

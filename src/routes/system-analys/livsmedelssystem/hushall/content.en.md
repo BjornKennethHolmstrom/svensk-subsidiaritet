@@ -2,6 +2,8 @@
 
 [← Back to main article](..)
 
+**Summary**: Centralized systems create passive consumers. This section describes four measures for demand resilience—school kitchens as pedagogy, municipal seasonal calendars, preserving nodes via libraries, and emergency boxes with local produce.
+
 ## The Problem No One Is Talking About
 
 A resilient food system requires not just distributed production—it requires **demand flexibility**. Swedish households have grown accustomed to all vegetables being available year-round, meat coming in standardized plastic packaging, and cooking taking under 15 minutes. This convenience is a product of the centralized system—and an obstacle to transition. If a crisis hits and farmers are growing carrots and cabbage (which survive the Swedish winter) while consumers demand avocados and lettuce year-round, it won't matter how good the production is.

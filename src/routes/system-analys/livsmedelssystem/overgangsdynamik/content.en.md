@@ -2,6 +2,8 @@
 
 [← Back to main article](..)
 
+**Summary**: Complex systems don't change linearly. This section describes five strategies for the transition—safe-to-fail experiments, disruptions as accelerators, portfolio diversification, scale-crossing between levels, and the art of not acting too early.
+
 The three phases in the implementation plan are a logical sequence, but the transition will not follow a straight line. Complex adaptive systems (like food systems) change through **disruptions, experiments, and portfolio strategies**—not through central planning. Therefore, we need a conscious design for the dynamics of the transition.
 
 ## 1. Safe-to-Fail Experiments – Not Fail-Safe
