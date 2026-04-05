@@ -16,6 +16,79 @@ Sverige lägger 30 % av BNP på socialt skydd – cirka 1 500 miljarder kronor �
 - **Medikalisering av sociala problem**: ”Utmattningssyndrom” är nu Sveriges ledande orsak till sjukskrivning – en unikt svensk diagnos som speglar systemisk dysfunktion, inte individuell patologi.
 - **Fattigdomsfälla genom behovsprövning**: En ensamstående förälder som tjänar 5 000 kr på deltidsarbete förlorar 6 000 kr i bidrag. Systemet bestraffar aktivt det beteende det påstår sig uppmuntra.
 
+
+<svg width="100%" viewBox="0 0 680 340" xmlns="http://www.w3.org/2000/svg" style="font-family: system-ui, -apple-system, sans-serif;">
+<line x1="80" y1="280" x2="640" y2="280" stroke="#B4B2A9" stroke-width="0.5"/>
+<line x1="80" y1="280" x2="80" y2="40" stroke="#B4B2A9" stroke-width="0.5"/>
+<text x="360" y="320" text-anchor="middle" font-size="12" fill="#888780">Arbetsinkomst (kr/månad)</text>
+<text x="30" y="160" text-anchor="middle" font-size="12" fill="#888780" transform="rotate(-90 30 160)">Disponibel inkomst</text>
+<text x="80" y="296" text-anchor="middle" font-size="11" fill="#888780">0</text>
+<text x="220" y="296" text-anchor="middle" font-size="11" fill="#888780">5 000</text>
+<text x="360" y="296" text-anchor="middle" font-size="11" fill="#888780">10 000</text>
+<text x="500" y="296" text-anchor="middle" font-size="11" fill="#888780">15 000</text>
+<text x="640" y="296" text-anchor="middle" font-size="11" fill="#888780">20 000</text>
+<text x="72" y="280" text-anchor="end" font-size="11" fill="#888780">0</text>
+<text x="72" y="220" text-anchor="end" font-size="11" fill="#888780">5 000</text>
+<text x="72" y="160" text-anchor="end" font-size="11" fill="#888780">10 000</text>
+<text x="72" y="100" text-anchor="end" font-size="11" fill="#888780">15 000</text>
+<text x="72" y="52" text-anchor="end" font-size="11" fill="#888780">20 000</text>
+<line x1="80" y1="220" x2="640" y2="220" stroke="#D3D1C7" stroke-width="0.3" stroke-dasharray="4 4"/>
+<line x1="80" y1="160" x2="640" y2="160" stroke="#D3D1C7" stroke-width="0.3" stroke-dasharray="4 4"/>
+<line x1="80" y1="100" x2="640" y2="100" stroke="#D3D1C7" stroke-width="0.3" stroke-dasharray="4 4"/>
+<line x1="80" y1="280" x2="640" y2="52" stroke="#9FE1CB" stroke-width="1" stroke-dasharray="6 4"/>
+<text x="580" y="78" font-size="11" fill="#0F6E56">1:1 (ingen fälla)</text>
+<path d="M80 160 L120 156 L160 150 L200 148 L220 152 L240 162 L260 168 L300 164 L340 150 L400 130 L460 112 L520 94 L580 78 L640 62" fill="none" stroke="#E24B4A" stroke-width="2"/>
+<rect x="80" y="148" width="200" height="26" rx="0" fill="#FCEBEB" opacity="0.3"/>
+<line x1="220" y1="148" x2="220" y2="174" stroke="#E24B4A" stroke-width="0.5" stroke-dasharray="3 3"/>
+<circle cx="220" cy="152" r="4" fill="#E24B4A"/>
+<rect x="226" y="130" width="180" height="36" rx="4" fill="#FCEBEB" stroke="#A32D2D" stroke-width="0.5"/>
+<text x="316" y="146" text-anchor="middle" font-size="11" font-weight="500" fill="#791F1F">Tjänar 5 000 kr</text>
+<text x="316" y="160" text-anchor="middle" font-size="11" fill="#A32D2D">Förlorar 6 000 kr i bidrag</text>
+<circle cx="80" cy="160" r="4" fill="#888780"/>
+<text x="90" y="144" font-size="11" fill="#5F5E5A">Fullt bidrag</text>
+<text x="90" y="157" font-size="11" fill="#5F5E5A">(10 000 kr)</text>
+<rect x="140" y="192" width="110" height="18" rx="3" fill="#FCEBEB" stroke="#A32D2D" stroke-width="0.5"/>
+<text x="195" y="204" text-anchor="middle" font-size="11" fill="#791F1F">Marginalskatt >100 %</text>
+</svg>
+
+<svg width="100%" viewBox="0 0 680 300" xmlns="http://www.w3.org/2000/svg" style="font-family: system-ui, -apple-system, sans-serif;">
+<defs><marker id="wa" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<text x="110" y="24" text-anchor="middle" font-size="14" font-weight="500" fill="#2C2C2A">Mänskliga behov</text>
+<text x="110" y="42" text-anchor="middle" font-size="12" fill="#888780">Hög varians</text>
+<text x="370" y="24" text-anchor="middle" font-size="14" font-weight="500" fill="#2C2C2A">Försäkringskassan</text>
+<text x="370" y="42" text-anchor="middle" font-size="12" fill="#888780">3 000+ algoritmregler</text>
+<text x="580" y="24" text-anchor="middle" font-size="14" font-weight="500" fill="#2C2C2A">Utfall</text>
+<text x="580" y="42" text-anchor="middle" font-size="12" fill="#888780">Binärt ja/nej</text>
+<rect x="42" y="62" width="136" height="28" rx="4" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
+<text x="110" y="80" text-anchor="middle" font-size="11" fill="#3C3489">Delad vårdnad</text>
+<rect x="42" y="98" width="136" height="28" rx="4" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
+<text x="110" y="116" text-anchor="middle" font-size="11" fill="#085041">Kronisk smärta</text>
+<rect x="42" y="134" width="136" height="28" rx="4" fill="#FAEEDA" stroke="#854F0B" stroke-width="0.5"/>
+<text x="110" y="152" text-anchor="middle" font-size="11" fill="#633806">Utmattningssyndrom</text>
+<rect x="42" y="170" width="136" height="28" rx="4" fill="#FBEAF0" stroke="#993556" stroke-width="0.5"/>
+<text x="110" y="188" text-anchor="middle" font-size="11" fill="#72243E">Deltidsarbete + bidrag</text>
+<rect x="42" y="206" width="136" height="28" rx="4" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
+<text x="110" y="224" text-anchor="middle" font-size="11" fill="#0C447C">Nyanländ utan nätverk</text>
+
+<path d="M178 62 L295 100 L295 175 L178 220" fill="none" stroke="#888780" stroke-width="0.5" stroke-dasharray="4 4"/>
+<line x1="178" y1="145" x2="295" y2="145" stroke="#888780" stroke-width="1.5" marker-end="url(#wa)"/>
+<rect x="300" y="90" width="140" height="110" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
+<text x="370" y="118" text-anchor="middle" font-size="12" font-weight="500" fill="#712B13">Algoritmiskt</text>
+<text x="370" y="136" text-anchor="middle" font-size="12" font-weight="500" fill="#712B13">beslutsstöd</text>
+<text x="370" y="160" text-anchor="middle" font-size="11" fill="#993C1D">3 000+ regler</text>
+<text x="370" y="178" text-anchor="middle" font-size="11" fill="#993C1D">40–80 % godkännande</text>
+<line x1="440" y1="125" x2="510" y2="105" stroke="#888780" stroke-width="1.5" marker-end="url(#wa)"/>
+<line x1="440" y1="165" x2="510" y2="185" stroke="#888780" stroke-width="1.5" marker-end="url(#wa)"/>
+<rect x="515" y="85" width="130" height="40" rx="6" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
+<text x="580" y="110" text-anchor="middle" font-size="14" font-weight="500" fill="#27500A">Beviljad</text>
+<rect x="515" y="165" width="130" height="40" rx="6" fill="#FCEBEB" stroke="#A32D2D" stroke-width="0.5"/>
+<text x="580" y="190" text-anchor="middle" font-size="14" font-weight="500" fill="#791F1F">Avslag</text>
+<text x="580" y="228" text-anchor="middle" font-size="11" fill="#888780">40 % avslag i första instans</text>
+<text x="580" y="244" text-anchor="middle" font-size="11" fill="#888780">Överklagan: 11 månader</text>
+<text x="340" y="272" text-anchor="middle" font-size="12" fill="#888780">Ashbys lag: låg variation i styrenheten kan inte matcha hög variation i behoven</text>
+<text x="340" y="290" text-anchor="middle" font-size="12" fill="#E24B4A">Resultat: eskalerande byråkrati och försvagad faktisk välfärd</text>
+</svg>
+
 ## Subsidiaritetsbaserade åtgärder
 
 Här följer sex åtgärdsområden. Varje område har en egen sida med konkreta piloter, budgetar, regeländringar och analys av motstånd.
