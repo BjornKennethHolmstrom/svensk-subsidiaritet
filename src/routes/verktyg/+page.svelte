@@ -40,6 +40,13 @@
       status: 'active',
     },
     { 
+      id: 'ngo_pledge', 
+      icon: '🤝', 
+      color: 'bg-blue-50 text-blue-600 border-blue-200',
+      link: '/verktyg/ngo-lofte',
+      status: 'active'
+    },
+    { 
       id: 'library', 
       icon: '📚', 
       color: 'bg-amber-50 text-amber-600 border-amber-200',

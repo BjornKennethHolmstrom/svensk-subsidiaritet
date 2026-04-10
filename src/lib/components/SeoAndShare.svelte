@@ -52,7 +52,7 @@
 
   // Labels (same as before)
   const labels = {
-    share: { sv: 'Dela denna analys', en: 'Share this analysis' },
+    share: { sv: 'Dela detta', en: 'Share this' },
     twitter: { sv: 'Dela på X/Twitter', en: 'Share on X/Twitter' },
     facebook: { sv: 'Dela på Facebook', en: 'Share on Facebook' },
     linkedin: { sv: 'Dela på LinkedIn', en: 'Share on LinkedIn' },

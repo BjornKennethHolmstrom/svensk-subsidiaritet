@@ -141,6 +141,11 @@ export const translations = {
         description: "Färdiga lektionsplaneringar och moduler för gymnasiet. Bygg systemförståelse i klassrummet.",
         action: "Gå till Lärarrummet"
       },
+      ngo_pledge: {
+        title: "NGO‑löfte",
+        description: "Ett verktyg för att flytta makt och resurser från internationella huvudkontor till lokalsamhällen. Fem konkreta åtaganden för hjälporganisationer.",
+        action: "Läs löftet"
+      },
       library: {
         title: "Mönsterbiblioteket",
         description: "En databas över beprövade lösningar för decentralisering, från matgillen till energigemenskaper.",
@@ -309,6 +314,11 @@ export const translations = {
         title: "For Schools",
         description: "Ready-made lesson plans and modules for high schools. Build systems thinking in the classroom.",
         action: "Enter Teacher's Lounge"
+      },
+      ngo_pledge: {
+        title: "NGO Pledge",
+        description: "A tool to shift power and resources from global headquarters to local communities. Five concrete commitments for aid organizations.",
+        action: "Read the Pledge"
       },
       library: {
         title: "Pattern Library",
