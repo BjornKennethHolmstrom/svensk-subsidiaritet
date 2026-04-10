@@ -2,36 +2,43 @@
   import { page } from '$app/stores';
   import { locale } from '$lib/stores/i18n';
 
-  // Props
+  // Props with defaults per language
   export let title = '';
   export let description = '';
+  export let image = '/images/og-default.png'; // optional: social image
 
   $: currentLocale = $locale;
   $: url = typeof window !== 'undefined' ? window.location.href : '';
 
-  // Default texts per language
+  // Default fallbacks
   const defaults = {
     sv: {
       title: 'Svensk Subsidiaritet – Systemanalys',
-      description: 'En analys av centraliseringens kostnader och den subsidiära vägen framåt.'
+      description: 'En analys av centraliseringens kostnader och den subsidiära vägen framåt.',
+      image: '/images/og-default-sv.png'
     },
     en: {
       title: 'Swedish Subsidiarity – System Analysis',
-      description: 'An analysis of the costs of centralization and the subsidiarity-based path forward.'
+      description: 'An analysis of the costs of centralization and the subsidiarity-based path forward.',
+      image: '/images/og-default-en.png'
     }
   };
 
-  $: shareTitle = title || defaults[currentLocale].title;
-  $: shareDescription = description || defaults[currentLocale].description;
+  $: seoTitle = title || defaults[currentLocale].title;
+  $: seoDescription = description || defaults[currentLocale].description;
+  $: seoImage = image || defaults[currentLocale].image;
+  $: canonicalUrl = url;
 
-  // Share URLs
+  // Share URLs (same as before)
+  $: shareTitle = seoTitle;
+  $: shareDescription = seoDescription;
   $: twitterUrl = `https://twitter.com/intent/tweet?url=${encodeURIComponent(url)}&text=${encodeURIComponent(shareTitle)}`;
   $: facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`;
   $: linkedinUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(url)}`;
   $: blueskyUrl = `https://bsky.app/intent/compose?text=${encodeURIComponent(shareTitle + '\n' + url)}`;
   $: redditUrl = `https://reddit.com/submit?url=${encodeURIComponent(url)}&title=${encodeURIComponent(shareTitle)}`;
 
-  // Copy link
+  // Copy link logic (same as before)
   let copied = false;
   const copyUrl = async () => {
     try {
@@ -43,7 +50,7 @@
     }
   };
 
-  // Labels
+  // Labels (same as before)
   const labels = {
     share: { sv: 'Dela denna analys', en: 'Share this analysis' },
     twitter: { sv: 'Dela på X/Twitter', en: 'Share on X/Twitter' },
@@ -56,11 +63,35 @@
   };
 </script>
 
+<svelte:head>
+  <!-- Primary Meta -->
+  <title>{seoTitle}</title>
+  <meta name="title" content={seoTitle} />
+  <meta name="description" content={seoDescription} />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={canonicalUrl} />
+  <meta property="og:title" content={seoTitle} />
+  <meta property="og:description" content={seoDescription} />
+  <meta property="og:image" content={seoImage} />
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content={canonicalUrl} />
+  <meta property="twitter:title" content={seoTitle} />
+  <meta property="twitter:description" content={seoDescription} />
+  <meta property="twitter:image" content={seoImage} />
+
+  <!-- Canonical -->
+  <link rel="canonical" href={canonicalUrl} />
+</svelte:head>
+
+<!-- Share Buttons UI -->
 <div class="mt-12 border-t border-stone-200 pt-8">
   <p class="mb-4 text-center font-sans text-sm font-medium uppercase tracking-wider text-stone-500">
     {labels.share[currentLocale]}
   </p>
-
   <div class="flex flex-wrap items-center justify-center gap-2">
     <!-- Copy Link Button -->
     <button

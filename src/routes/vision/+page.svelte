@@ -3,6 +3,7 @@
   import ContentSV from './content.sv.md';
   import ContentEN from './content.en.md';
   import { fade } from 'svelte/transition';
+  import SeoAndShare from '$lib/components/SeoAndShare.svelte';
 
   // PDF URLs
   const pdfUrls = {
@@ -33,4 +34,10 @@
   {:else}
     <ContentEN />
   {/if}
+
+  <SeoAndShare 
+     title="Manifest för distribuerad systemförståelse – Svensk Subsidiaritet"
+     description="Sverige måste gå från centraliserad kontroll till nätverkad intelligens."
+     image="/images/manifest-og.png"
+   />
 </div>
