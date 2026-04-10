@@ -24,34 +24,7 @@ The paradox: Sweden achieves apparent efficiency (low prices, consistent availab
 
 **The feedback loop**: Retail concentration drives producer concentration (small farms cannot access markets) which drives further retail concentration (fewer suppliers enable greater buyer power). This is a reinforcing loop with no internal correction mechanism.
 
-<svg width="100%" viewBox="0 0 680 340" xmlns="http://www.w3.org/2000/svg" style="font-family: system-ui, -apple-system, sans-serif;">
-<defs>
-  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-    <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-  </marker>
-</defs>
-
-<rect x="200" y="30" width="280" height="56" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
-<text x="340" y="50" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="500" fill="#712B13">Retail concentration</text>
-<text x="340" y="70" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#993C1D">Three chains control 95%</text>
-
-<rect x="200" y="240" width="280" height="56" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
-<text x="340" y="260" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="500" fill="#085041">Producer concentration</text>
-<text x="340" y="280" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#0F6E56">25% of farms → 80% of value</text>
-
-<path d="M480 86 L480 240" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
-<text x="494" y="150" font-size="12" fill="#5F5E5A">Volume requirements</text>
-<text x="494" y="166" font-size="12" fill="#5F5E5A">exclude small producers</text>
-
-<path d="M200 240 L200 86" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
-<text x="186" y="150" text-anchor="end" font-size="12" fill="#5F5E5A">Fewer suppliers</text>
-<text x="186" y="166" text-anchor="end" font-size="12" fill="#5F5E5A">enable greater buyer power</text>
-
-<text x="340" y="168" text-anchor="middle" font-size="12" fill="#888780">Reinforcing loop</text>
-<text x="340" y="184" text-anchor="middle" font-size="12" fill="#888780">with no correction mechanism</text>
-
-<text x="340" y="326" text-anchor="middle" font-size="12" fill="#888780">→ 50% import dependency despite 80% self-sufficiency in 1950</text>
-</svg>
+![Retail Concentration → Producer Concentration](/diagrams/livsmedelssystem/feedback-loop.en.svg)
 
 ### Just-in-Time Vulnerability: Optimization Against Resilience
 
@@ -69,94 +42,7 @@ The paradox: Sweden achieves apparent efficiency (low prices, consistent availab
 
 **The alternative**: Subsidy redirection toward bioregional diversity, small-scale operations, and regenerative practices would shift incentive structures, enabling rather than constraining distributed food systems.
 
-<svg width="100%" viewBox="0 0 680 360" xmlns="http://www.w3.org/2000/svg" style="font-family: system-ui, -apple-system, sans-serif;">
-
-<text x="170" y="28" text-anchor="middle" font-size="14" font-weight="500" fill="#2C2C2A">Centralized system</text>
-<text x="170" y="46" text-anchor="middle" font-size="12" fill="#888780">Single points of failure</text>
-
-<rect x="70" y="68" width="60" height="34" rx="6" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
-<text x="100" y="89" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#712B13">ICA</text>
-<rect x="140" y="68" width="60" height="34" rx="6" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
-<text x="170" y="89" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#712B13">Coop</text>
-<rect x="210" y="68" width="60" height="34" rx="6" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
-<text x="240" y="89" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#712B13">Axfood</text>
-
-<rect x="115" y="135" width="110" height="28" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.5"/>
-<text x="170" y="153" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#5F5E5A">Central processing</text>
-
-<rect x="95" y="200" width="65" height="26" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.5"/>
-<text x="128" y="217" text-anchor="middle" dominant-baseline="central" font-size="11" fill="#5F5E5A">Large farm</text>
-<rect x="180" y="200" width="65" height="26" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.5"/>
-<text x="213" y="217" text-anchor="middle" dominant-baseline="central" font-size="11" fill="#5F5E5A">Large farm</text>
-
-<circle cx="85" cy="272" r="3" fill="#B4B2A9"/><circle cx="101" cy="272" r="3" fill="#B4B2A9"/>
-<circle cx="117" cy="272" r="3" fill="#B4B2A9"/><circle cx="133" cy="272" r="3" fill="#B4B2A9"/>
-<circle cx="149" cy="272" r="3" fill="#B4B2A9"/><circle cx="165" cy="272" r="3" fill="#B4B2A9"/>
-<circle cx="181" cy="272" r="3" fill="#B4B2A9"/><circle cx="197" cy="272" r="3" fill="#B4B2A9"/>
-<circle cx="213" cy="272" r="3" fill="#B4B2A9"/><circle cx="229" cy="272" r="3" fill="#B4B2A9"/>
-<circle cx="245" cy="272" r="3" fill="#B4B2A9"/><circle cx="261" cy="272" r="3" fill="#B4B2A9"/>
-
-<line x1="100" y1="102" x2="145" y2="135" stroke="#B4B2A9" stroke-width="0.5"/>
-<line x1="170" y1="102" x2="170" y2="135" stroke="#B4B2A9" stroke-width="0.5"/>
-<line x1="240" y1="102" x2="195" y2="135" stroke="#B4B2A9" stroke-width="0.5"/>
-<line x1="145" y1="163" x2="128" y2="200" stroke="#B4B2A9" stroke-width="0.5"/>
-<line x1="195" y1="163" x2="213" y2="200" stroke="#B4B2A9" stroke-width="0.5"/>
-<line x1="128" y1="226" x2="140" y2="268" stroke="#B4B2A9" stroke-width="0.3"/>
-<line x1="213" y1="226" x2="200" y2="268" stroke="#B4B2A9" stroke-width="0.3"/>
-
-<text x="170" y="302" text-anchor="middle" font-size="12" fill="#E24B4A">✕ 3 days of inventory</text>
-<text x="170" y="318" text-anchor="middle" font-size="12" fill="#E24B4A">✕ bottlenecks · import dependency</text>
-
-<line x1="340" y1="16" x2="340" y2="340" stroke="#D3D1C7" stroke-width="0.5" stroke-dasharray="4 4"/>
-
-<text x="510" y="28" text-anchor="middle" font-size="14" font-weight="500" fill="#2C2C2A">Distributed system</text>
-<text x="510" y="46" text-anchor="middle" font-size="12" fill="#888780">Requisite variety</text>
-
-<rect x="385" y="72" width="50" height="30" rx="6" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
-<text x="410" y="91" text-anchor="middle" dominant-baseline="central" font-size="11" fill="#085041">Node</text>
-<rect x="460" y="66" width="50" height="30" rx="6" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
-<text x="485" y="85" text-anchor="middle" dominant-baseline="central" font-size="11" fill="#085041">Node</text>
-<rect x="545" y="76" width="50" height="30" rx="6" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
-<text x="570" y="95" text-anchor="middle" dominant-baseline="central" font-size="11" fill="#085041">Node</text>
-<rect x="395" y="140" width="50" height="30" rx="6" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
-<text x="420" y="159" text-anchor="middle" dominant-baseline="central" font-size="11" fill="#085041">Node</text>
-<rect x="480" y="135" width="50" height="30" rx="6" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
-<text x="505" y="154" text-anchor="middle" dominant-baseline="central" font-size="11" fill="#085041">Node</text>
-<rect x="560" y="145" width="50" height="30" rx="6" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
-<text x="585" y="164" text-anchor="middle" dominant-baseline="central" font-size="11" fill="#085041">Node</text>
-
-<rect x="398" y="210" width="18" height="14" rx="3" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
-<rect x="425" y="210" width="18" height="14" rx="3" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
-<rect x="462" y="206" width="18" height="14" rx="3" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
-<rect x="498" y="208" width="18" height="14" rx="3" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
-<rect x="535" y="212" width="18" height="14" rx="3" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
-<rect x="568" y="208" width="18" height="14" rx="3" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
-<rect x="600" y="210" width="18" height="14" rx="3" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
-<rect x="412" y="232" width="18" height="14" rx="3" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
-<rect x="482" y="230" width="18" height="14" rx="3" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
-<rect x="552" y="232" width="18" height="14" rx="3" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
-
-<line x1="410" y1="102" x2="420" y2="140" stroke="#9FE1CB" stroke-width="0.5"/>
-<line x1="485" y1="96" x2="505" y2="135" stroke="#9FE1CB" stroke-width="0.5"/>
-<line x1="570" y1="106" x2="585" y2="145" stroke="#9FE1CB" stroke-width="0.5"/>
-<line x1="435" y1="81" x2="460" y2="78" stroke="#9FE1CB" stroke-width="0.4"/>
-<line x1="510" y1="78" x2="545" y2="85" stroke="#9FE1CB" stroke-width="0.4"/>
-<line x1="445" y1="155" x2="480" y2="148" stroke="#9FE1CB" stroke-width="0.4"/>
-<line x1="530" y1="150" x2="560" y2="155" stroke="#9FE1CB" stroke-width="0.4"/>
-<line x1="420" y1="170" x2="407" y2="210" stroke="#9FE1CB" stroke-width="0.4"/>
-<line x1="505" y1="165" x2="498" y2="208" stroke="#9FE1CB" stroke-width="0.4"/>
-<line x1="585" y1="175" x2="577" y2="208" stroke="#9FE1CB" stroke-width="0.4"/>
-
-<circle cx="400" cy="272" r="3" fill="#9FE1CB"/><circle cx="420" cy="274" r="3" fill="#9FE1CB"/>
-<circle cx="445" cy="270" r="3" fill="#9FE1CB"/><circle cx="470" cy="273" r="3" fill="#9FE1CB"/>
-<circle cx="495" cy="271" r="3" fill="#9FE1CB"/><circle cx="520" cy="274" r="3" fill="#9FE1CB"/>
-<circle cx="545" cy="270" r="3" fill="#9FE1CB"/><circle cx="570" cy="273" r="3" fill="#9FE1CB"/>
-<circle cx="595" cy="271" r="3" fill="#9FE1CB"/><circle cx="615" cy="273" r="3" fill="#9FE1CB"/>
-<circle cx="385" cy="274" r="3" fill="#9FE1CB"/><circle cx="635" cy="272" r="3" fill="#9FE1CB"/>
-
-<text x="510" y="302" text-anchor="middle" font-size="12" fill="#1D9E75">✓ Redundancy · diversity</text>
-<text x="510" y="318" text-anchor="middle" font-size="12" fill="#1D9E75">✓ Local adaptation</text>
-</svg>
+![Centralized vs Distributed System](/diagrams/livsmedelssystem/centralized-distributed.en.svg)
 
 ## Subsidiarity-Based Interventions
 

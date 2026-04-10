@@ -26,6 +26,32 @@
     { id: 'immigration', slug: 'immigration', icon: '🌍' },
     { id: 'research', slug: 'forskning', icon: '🔬' }
   ];
+
+  const displayNames = {
+    livsmedelssystem: { sv: 'Livsmedel', en: 'Food' },
+    halsovard: { sv: 'Hälsa', en: 'Health' },
+    utbildning: { sv: 'Skola', en: 'School' },
+    aldreomsorg: { sv: 'Äldre', en: 'Elder' },
+    boende: { sv: 'Boende', en: 'Housing' },
+    energi: { sv: 'Energi', en: 'Energy' },
+    transport: { sv: 'Transport', en: 'Transport' },
+    valfard: { sv: 'Välfärd', en: 'Welfare' },
+    trygghet: { sv: 'Trygghet', en: 'Safety' },
+    kultur: { sv: 'Kultur', en: 'Culture' }
+  };
+
+  const pdfFileNames = {
+    livsmedelssystem: { sv: 'Livsmedelssystem', en: 'Food-System' },
+    halsovard: { sv: 'Hälsovård', en: 'Healthcare' },
+    utbildning: { sv: 'Utbildning', en: 'Education' },
+    aldreomsorg: { sv: 'Äldreomsorg', en: 'Elder-Care' },
+    boende: { sv: 'Boende', en: 'Housing' },
+    energi: { sv: 'Energi', en: 'Energy' },
+    transport: { sv: 'Transport', en: 'Transport' },
+    valfard: { sv: 'Välfärd', en: 'Welfare' },
+    trygghet: { sv: 'Trygghet', en: 'Safety' },
+    kultur: { sv: 'Kultur', en: 'Culture' }
+  };
 </script>
 
 <div class="mx-auto max-w-5xl px-6 py-12" in:fade={{ duration: 200 }}>
@@ -87,6 +113,37 @@
           </div>
         </a>
       {/each}
+    </div>
+  </section>
+
+  <section class="mb-12 rounded-xl border border-stone-200 bg-white p-6">
+    <div class="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+      <div class="flex items-center gap-3">
+        <span class="text-2xl">📄</span>
+        <div>
+          <h2 class="font-sans text-lg font-bold text-stone-900">
+            {$locale === 'sv' ? 'Ladda ner analyserna' : 'Download the analyses'}
+          </h2>
+          <p class="text-sm text-stone-500">
+            {$locale === 'sv' 
+              ? 'Samlade PDF:er för varje system – perfekt för utskrift eller vidaredelning.' 
+              : 'Combined PDFs for each system – perfect for printing or sharing.'}
+          </p>
+        </div>
+      </div>
+      <div class="flex flex-wrap gap-2">
+        {#each systems as system}
+          <a
+            href="/downloads/analyser/{pdfFileNames[system.slug][$locale]}-{$locale === 'sv' ? 'svensk-subsidiaritet' : 'swedish-subsidiarity'}.pdf"
+            download
+            class="inline-flex items-center gap-1 rounded-md border border-stone-300 bg-white px-3 py-1.5 text-xs font-medium text-stone-700 transition-colors hover:bg-stone-50 hover:text-stone-900"
+          >
+            <span>{system.icon}</span>
+            <span>{displayNames[system.slug][$locale]}</span>
+            <span class="text-stone-400">PDF</span>
+          </a>
+        {/each}
+      </div>
     </div>
   </section>
 
