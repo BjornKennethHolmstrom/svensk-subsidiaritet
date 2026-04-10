@@ -10,6 +10,20 @@
     sv: '/downloads/Manifest-svensk-subsidiaritet.pdf',
     en: '/downloads/Manifesto-swedish-subsidiarity.pdf'
   };
+
+  // Metadata för SEO och delning – ett objekt per språk
+  const shareMeta = {
+    sv: {
+      title: 'Manifest för distribuerad systemförståelse – Svensk Subsidiaritet',
+      description: 'Sverige måste gå från centraliserad kontroll till nätverkad intelligens. Läs manifestet för ett resilient, självstyrande och mänskligt Sverige.',
+      image: '/images/manifest-og.png'
+    },
+    en: {
+      title: 'Manifesto for Distributed Systems Literacy – Swedish Subsidiarity',
+      description: 'Sweden must transition from centralized control to networked intelligence. Read the manifesto for a resilient, self-governing, and human Sweden.',
+      image: '/images/manifest-og-en.png'
+    }
+  };
 </script>
 
 <div class="prose-container" in:fade={{ duration: 200 }}>
@@ -35,9 +49,10 @@
     <ContentEN />
   {/if}
 
+  <!-- SEO + Delningsknappar (dynamiska) -->
   <SeoAndShare 
-     title="Manifest för distribuerad systemförståelse – Svensk Subsidiaritet"
-     description="Sverige måste gå från centraliserad kontroll till nätverkad intelligens."
-     image="/images/manifest-og.png"
-   />
+    title={shareMeta[$locale].title} 
+    description={shareMeta[$locale].description} 
+    image={shareMeta[$locale].image}
+  />
 </div>

@@ -217,3 +217,4 @@ Möjligheten finns att visa att återförandet av omsorg till samhällen där de
 ---
 
 *Denna analys tillämpar cybernetiska principer (särskilt Ashbys lag om erforderlig variation) och systemtänkande på svensk äldreomsorg. Datakällor inkluderar SCB:s demografiska prognoser, kommunal äldreomsorgsstatistik och internationell forskning om samhällsbaserade omsorgsmodeller.*
+
