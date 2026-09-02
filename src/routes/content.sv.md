@@ -129,7 +129,7 @@ Om vi sprider mandat innan ansvarskedjorna är tydliga kan **ansvarsutkrävandet
 
 Om fler aktörer ska delta utan bättre informations- och deliberationsstrukturer kan **beslutshastigheten falla**.
 
-Detta är vår **Transition Valley**.
+Detta är vår **övergångsdal** (*Transition valley*).
 
 Därför behöver vi bygga broarna innan vi tar bort de gamla bärande konstruktionerna.
 
@@ -143,7 +143,7 @@ Inte:
 
 ---
 
-# Transition Graph
+# Övergångsgraf
 
 Vår föreslagna utvecklingsväg är därför kapacitetsbaserad.
 
@@ -179,7 +179,7 @@ Testa nya former för områden där problemen redan är tvärgående, lokala ell
 
 Koppla ihop nivåerna så att lokal autonomi och övergripande samordning kan samexistera.
 
-### 9. Meta-governance
+### 9. Metastyrning (eng. Meta Governance)
 
 Skapa permanent kapacitet att utvärdera om själva styrningsarkitekturen fungerar.
 
@@ -189,7 +189,7 @@ Låt institutioner och ansvarsfördelning förändras när verkligheten och kuns
 
 ---
 
-# Fem broar över Transition Valley
+# Fem broar över övergångsdalen
 
 ## 1. Koordination
 
@@ -243,15 +243,15 @@ Det gör subsidiaritet **adaptiv i stället för dogmatisk**.
 
 ---
 
-# Meta-governance
+# Metastyrning
 
 När ett samhälle består av många olika styrningsnoder uppstår en ny fråga:
 
 > **Vem ser till att styrningssystemen fungerar tillsammans?**
 
-Det är här meta-governance kommer in.
+Det är här metastyrning kommer in.
 
-Meta-governance är inte tänkt som en "superregering".
+Metastyrning är inte tänkt som en "superregering".
 
 Det är kapaciteten att:
 

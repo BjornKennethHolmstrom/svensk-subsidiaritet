@@ -20,12 +20,13 @@ export const translations = {
     },
     architecture: {
       navLabel: "Arkitektur",
+      shortLabel: "Styrningsarkitektur",
       pages: {
-        spektrum: "Styrningsspektrum",
-        matris: "Styrningsmatris",
-        "adaptiv-subsidiaritet": "Adaptiv subsidiaritet",
-        "polycentrisk-styrning": "Polycentrisk styrning",
-        "meta-styrning": "Meta-styrning"
+        spektrum: "Styrningsspektrumet",
+        matris: "Arkitekturmatrisen",
+        "adaptivSubsidiaritet": "Adaptiv subsidiaritet",
+        "polycentriskStyrning": "Polycentrisk styrning",
+        "metaStyrning": "Meta-styrning"
       }
     },
     systemAnalysis: {
@@ -216,12 +217,13 @@ export const translations = {
     },
     architecture: {
       navLabel: "Architecture",
+      shortLabel: "Governance Architecture",
       pages: {
-        spektrum: "Governance Spectrum",
-        matris: "Governance Architecture Matrix",
-        "adaptiv-subsidiaritet": "Adaptive Subsidiarity",
-        "polycentrisk-styrning": "Polycentric Governance",
-        "meta-styrning": "Meta-Governance"
+        spektrum: "The Governance Spectrum",
+        matris: "The Governance Architecture Matrix",
+        "adaptivSubsidiaritet": "Adaptive Subsidiarity",
+        "polycentriskStyrning": "Polycentric Governance",
+        "metaStyrning": "Meta-Governance"
       }
     },
     systemAnalysis: {
