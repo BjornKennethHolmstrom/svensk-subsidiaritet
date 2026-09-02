@@ -20,7 +20,7 @@ Det är grunden för projektets fokus på subsidiaritet, distribuerad styrning o
 
 ## Vad vi gör
 
-Vi sysselsätter oss huvudsakligen med tre typer av verksamhet:
+Projektet ägnar sig huvudsakligen åt tre typer av verksamhet:
 
 **Analyser**  
 Vi studerar strukturella sårbarheter och styrningsproblem i viktiga svenska samhällssystem.
@@ -47,7 +47,7 @@ Svensk Subsidiaritet är dock ett **självständigt svenskt forsknings- och poli
 
 Projektet drivs i huvudsak av mig, med AI som ett av flera verktyg.
 
-Jag har ingen organisation bakom mig, inget partistöd, ingen finansiering. Det jag har är en vilja att lära mig och applicera systemtänkande, lite teknisk bakgrund och en övertygelse om att någon behöver ställa de här frågorna — även om svaren tar tid.
+Jag har ingen organisation bakom mig, inget partistöd, ingen finansiering. Det jag har är en teknisk och analytisk bakgrund, en vilja att lära mig, ställa frågor, formulera idéer och pröva dem mot bättre argument och AI som arbetsverktyg.
 
 Det innebär begränsade resurser — men också stor frihet att pröva idéer, ändra uppfattning och följa argument där de leder.
 

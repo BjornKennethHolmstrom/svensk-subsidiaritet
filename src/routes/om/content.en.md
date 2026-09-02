@@ -20,7 +20,7 @@ That is the basis for the project's focus on subsidiarity, distributed governanc
 
 ## What we do
 
-We mainly engage in three types of activities:
+The project mainly focuses on three types of activities:
 
 **Analysis**
 We study structural vulnerabilities and governance problems in important Swedish social systems.
@@ -47,7 +47,7 @@ However, Swedish Subsidiarity is an **independent Swedish research and policy in
 
 The project is mainly driven by me, with AI as one of several tools.
 
-I have no organization behind me, no party support, no funding. What I do have is a willingness to learn and apply systems thinking, some technical background, and a conviction that someone needs to ask these questions — even if the answers take time.
+I have no organization behind me, no party support, no funding. What I do have is a technical and analytical background, a willingness to learn, ask questions, formulate ideas and test them against better arguments and AI as a working tool.
 
 This means limited resources — but also great freedom to try out ideas, change your mind, and follow arguments where they lead.
 
