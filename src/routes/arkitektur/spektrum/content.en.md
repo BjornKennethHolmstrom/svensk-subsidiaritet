@@ -12,6 +12,8 @@ The spectrum is not a simple line. Several dimensions can move independently: a 
 
 ## The twelve architectures
 
+![The Governance Spectrum](/images/architecture/governance-spectrum.en.svg)
+
 | # | Architecture | Core idea | Divergence from today |
 |---|---|---|---|
 | 1 | Majority Coalition | A coalition with its own majority governs with a coherent program | Very low |

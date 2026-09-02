@@ -40,6 +40,12 @@ The final, and perhaps most important, building block: the capacity to continuou
 
 ## How they fit together
 
+![Platform system architecture](/images/architecture/website-structure.en.svg)
+
+The spectrum describes **where** we can move. The matrix describes **what we gain and lose** along the way. Adaptive subsidiarity and polycentric governance describe **the principles** that make a more distributed architecture meaningful rather than chaotic. Meta-governance describes **how the system learns** to correct itself.
+
+Together, these do not form a finished blueprint for Sweden. They are a *design language* — a way of asking better questions about governance, which we can then test against real Swedish problems in our policy laboratories.
+
 The spectrum describes **where** we can move. The matrix describes **what we gain and lose** along the way. Adaptive subsidiarity and polycentric governance describe **the principles** that make a more distributed architecture meaningful rather than chaotic. Meta-governance describes **how the system learns** to correct itself.
 
 Together, these do not form a finished blueprint for Sweden. They are a *design language* — a way of asking better questions about governance, which we can then test against real Swedish problems in our policy laboratories.

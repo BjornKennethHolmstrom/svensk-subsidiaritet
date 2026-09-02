@@ -23,6 +23,8 @@ Below, the twelve architectures are scored (1–10, higher is better for that pr
 
 ---
 
+![Matrix trends for coordination and accountability](/images/architecture/matrix-trends.en.svg)
+
 ## The valley is real
 
 Look especially at the sequence 1 → 5, and at 4 → 7 → 8 → 9. **Coordination** and **accountability** dip before the new, distributed forms of the same capability have had time to mature.

@@ -23,6 +23,8 @@ Nedan har vi poängsatt de tolv arkitekturerna (1–10, högre är bättre för 
 
 ---
 
+![Matristrender för samordning och ansvarsutkrävande](/images/architecture/matrix-trends.sv.svg)
+
 ## Dalen är verklig
 
 Titta särskilt på sekvensen 1 → 5, och på 4 → 7 → 8 → 9. **Samordning** och **ansvarsutkrävande** sjunker innan de nya, distribuerade formerna av samma sak hunnit mogna.

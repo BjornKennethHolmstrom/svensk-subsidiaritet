@@ -12,6 +12,8 @@ Spektrumet är inte en enkel linje. Flera dimensioner kan röra sig oberoende av
 
 ## De tolv arkitekturerna
 
+![Styrningsspektrumet](/images/architecture/governance-spectrum.sv.svg)
+
 | # | Arkitektur | Kärnidé | Divergens från idag |
 |---|---|---|---|
 | 1 | Majoritetskoalition | En koalition med egen majoritet styr med ett sammanhållet program | Mycket låg |

@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="100%" height="100%">
+  <!-- Bakgrund -->
+  <rect width="1000" height="500" fill="#f8fafc" />
+
+  <defs>
+    <!-- Pilspets för huvudaxeln -->
+    <marker id="main-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#334155" />
+    </marker>
+  </defs>
+
+  <!-- Huvudrubrik och underrubrik -->
+  <text x="500" y="45" font-family="sans-serif" font-size="24" font-weight="bold" fill="#0f172a" text-anchor="middle">
+    Styrningsspektrumet: 12 arkitekturer
+  </text>
+  <text x="500" y="70" font-family="sans-serif" font-size="14" fill="#475569" text-anchor="middle">
+    En strukturell karta från "vem får styra?" till "vilken institution bör utföra vilken funktion?"
+  </text>
+
+  <!-- Bakgrundssektioner för de fyra faserna -->
+  <!-- Fas 1 -->
+  <rect x="40" y="110" width="220" height="340" rx="8" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="2" />
+  <text x="150" y="140" font-family="sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">
+    Politisk decentralisering
+  </text>
+  
+  <!-- Fas 2 -->
+  <rect x="270" y="110" width="220" height="340" rx="8" fill="#e0f2fe" stroke="#bae6fd" stroke-width="2" opacity="0.6" />
+  <text x="380" y="140" font-family="sans-serif" font-size="14" font-weight="bold" fill="#0369a1" text-anchor="middle">
+    Epistemisk decentralisering
+  </text>
+
+  <!-- Fas 3 -->
+  <rect x="500" y="110" width="220" height="340" rx="8" fill="#fef9c3" stroke="#fef08a" stroke-width="2" opacity="0.6" />
+  <text x="610" y="140" font-family="sans-serif" font-size="14" font-weight="bold" fill="#a16207" text-anchor="middle">
+    Territoriell decentralisering
+  </text>
+
+  <!-- Fas 4 -->
+  <rect x="730" y="110" width="220" height="340" rx="8" fill="#ccfbf1" stroke="#99f6e4" stroke-width="2" opacity="0.6" />
+  <text x="840" y="140" font-family="sans-serif" font-size="14" font-weight="bold" fill="#0f766e" text-anchor="middle">
+    Metastyrning
+  </text>
+
+  <!-- Genomgående horisontell axel -->
+  <line x1="20" y1="280" x2="960" y2="280" stroke="#334155" stroke-width="3" stroke-dasharray="8 4" marker-end="url(#main-arrow)" />
+
+  <!-- Noder och text för de 12 arkitekturerna -->
+  <!-- Grupp 1 (Politisk) -->
+  <circle cx="80" cy="280" r="8" fill="#0f172a" />
+  <text x="80" y="250" font-family="sans-serif" font-size="12" font-weight="bold" fill="#0f172a" text-anchor="middle">1</text>
+  <text x="80" y="310" font-family="sans-serif" font-size="11" fill="#334155" text-anchor="middle">Majoritetskoalition</text>
+
+  <circle cx="150" cy="280" r="8" fill="#0f172a" />
+  <text x="150" y="250" font-family="sans-serif" font-size="12" font-weight="bold" fill="#0f172a" text-anchor="middle">2</text>
+  <text x="150" y="325" font-family="sans-serif" font-size="11" fill="#334155" text-anchor="middle">Samlingsstyre</text>
+
+  <circle cx="220" cy="280" r="8" fill="#0f172a" />
+  <text x="220" y="250" font-family="sans-serif" font-size="12" font-weight="bold" fill="#0f172a" text-anchor="middle">3</text>
+  <text x="220" y="310" font-family="sans-serif" font-size="11" fill="#334155" text-anchor="middle">Konsensusdemokrati</text>
+
+  <!-- Grupp 2 (Epistemisk) -->
+  <circle cx="310" cy="280" r="8" fill="#0284c7" />
+  <text x="310" y="250" font-family="sans-serif" font-size="12" font-weight="bold" fill="#0284c7" text-anchor="middle">4</text>
+  <text x="310" y="325" font-family="sans-serif" font-size="11" fill="#0369a1" text-anchor="middle">Expertkommittéer</text>
+
+  <circle cx="380" cy="280" r="8" fill="#0284c7" />
+  <text x="380" y="250" font-family="sans-serif" font-size="12" font-weight="bold" fill="#0284c7" text-anchor="middle">5</text>
+  <text x="380" y="310" font-family="sans-serif" font-size="11" fill="#0369a1" text-anchor="middle">Medborgarråd</text>
+
+  <circle cx="450" cy="280" r="8" fill="#0284c7" />
+  <text x="450" y="250" font-family="sans-serif" font-size="12" font-weight="bold" fill="#0284c7" text-anchor="middle">6</text>
+  <text x="450" y="325" font-family="sans-serif" font-size="11" fill="#0369a1" text-anchor="middle">Distribuerad kontext</text>
+
+  <!-- Grupp 3 (Territoriell) -->
+  <circle cx="540" cy="280" r="8" fill="#ca8a04" />
+  <text x="540" y="250" font-family="sans-serif" font-size="12" font-weight="bold" fill="#ca8a04" text-anchor="middle">7</text>
+  <text x="540" y="310" font-family="sans-serif" font-size="11" fill="#a16207" text-anchor="middle">Kommunalt självstyre</text>
+
+  <circle cx="610" cy="280" r="8" fill="#ca8a04" />
+  <text x="610" y="250" font-family="sans-serif" font-size="12" font-weight="bold" fill="#ca8a04" text-anchor="middle">8</text>
+  <text x="610" y="325" font-family="sans-serif" font-size="11" fill="#a16207" text-anchor="middle">Bioregional autonomi</text>
+
+  <circle cx="680" cy="280" r="8" fill="#ca8a04" />
+  <text x="680" y="250" font-family="sans-serif" font-size="12" font-weight="bold" fill="#ca8a04" text-anchor="middle">9</text>
+  <text x="680" y="310" font-family="sans-serif" font-size="11" fill="#a16207" text-anchor="middle">Flytande jurisdiktioner</text>
+
+  <!-- Grupp 4 (Metastyrning) -->
+  <circle cx="770" cy="280" r="8" fill="#0d9488" />
+  <text x="770" y="250" font-family="sans-serif" font-size="12" font-weight="bold" fill="#0d9488" text-anchor="middle">10</text>
+  <text x="770" y="325" font-family="sans-serif" font-size="11" fill="#0f766e" text-anchor="middle">Nätverksstyrning</text>
+
+  <circle cx="840" cy="280" r="8" fill="#0d9488" />
+  <text x="840" y="250" font-family="sans-serif" font-size="12" font-weight="bold" fill="#0d9488" text-anchor="middle">11</text>
+  <text x="840" y="310" font-family="sans-serif" font-size="11" fill="#0f766e" text-anchor="middle">Cybernetisk reglering</text>
+
+  <circle cx="910" cy="280" r="10" fill="#0d9488" stroke="#ffffff" stroke-width="2" />
+  <text x="910" y="248" font-family="sans-serif" font-size="12" font-weight="bold" fill="#0d9488" text-anchor="middle">12</text>
+  <text x="910" y="325" font-family="sans-serif" font-size="11" font-weight="bold" fill="#0f766e" text-anchor="middle">Adaptivt polycentriskt</text>
+  <text x="910" y="340" font-family="sans-serif" font-size="11" font-weight="bold" fill="#0f766e" text-anchor="middle">samvälde</text>
+
+  <!-- Beskrivande fotnoter för skiftena i botten -->
+  <text x="150" y="420" font-family="sans-serif" font-size="11" fill="#64748b" text-anchor="middle">Kapacitet att integrera</text>
+  <text x="150" y="435" font-family="sans-serif" font-size="11" fill="#64748b" text-anchor="middle">politiska perspektiv</text>
+
+  <text x="380" y="420" font-family="sans-serif" font-size="11" fill="#64748b" text-anchor="middle">Kapacitet att processa</text>
+  <text x="380" y="435" font-family="sans-serif" font-size="11" fill="#64748b" text-anchor="middle">komplex information</text>
+
+  <text x="610" y="420" font-family="sans-serif" font-size="11" fill="#64748b" text-anchor="middle">Kapacitet att allokera</text>
+  <text x="610" y="435" font-family="sans-serif" font-size="11" fill="#64748b" text-anchor="middle">geografiskt mandat</text>
+
+  <text x="840" y="420" font-family="sans-serif" font-size="11" fill="#64748b" text-anchor="middle">Kapacitet att utforma</text>
+  <text x="840" y="435" font-family="sans-serif" font-size="11" fill="#64748b" text-anchor="middle">strukturella spelregler</text>
+</svg>

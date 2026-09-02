@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="100%">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8fafc" />
+  
+  <!-- Grid and axes -->
+  <g stroke="#e2e8f0" stroke-width="1">
+    <line x1="80" y1="60" x2="740" y2="60" />
+    <line x1="80" y1="140" x2="740" y2="140" />
+    <line x1="80" y1="220" x2="740" y2="220" />
+    <line x1="80" y1="300" x2="740" y2="300" />
+  </g>
+
+  <g stroke="#64748b" stroke-width="2">
+    <line x1="80" y1="300" x2="760" y2="300" />
+    <line x1="80" y1="300" x2="80" y2="40" />
+  </g>
+
+  <!-- Title -->
+  <text x="400" y="25" font-family="sans-serif" font-size="18" font-weight="bold" fill="#0f172a" text-anchor="middle">
+    Matrix Trends: Coordination and Accountability Across the 12 Architectures
+  </text>
+
+  <!-- Y-axis labels -->
+  <text x="70" y="305" font-family="sans-serif" font-size="11" fill="#64748b" text-anchor="end">3</text>
+  <text x="70" y="225" font-family="sans-serif" font-size="11" fill="#64748b" text-anchor="end">6</text>
+  <text x="70" y="145" font-family="sans-serif" font-size="11" fill="#64748b" text-anchor="end">8</text>
+  <text x="70" y="65" font-family="sans-serif" font-size="11" fill="#64748b" text-anchor="end">10</text>
+
+  <!-- X-axis (Architecture 1 to 12) -->
+  <!-- Point X-coordinates distributed from 130 to 710 -->
+  <!-- 1:130, 2:183, 3:236, 4:289, 5:342, 6:395, 7:448, 8:501, 9:554, 10:607, 11:660, 12:713 -->
+
+  <!-- Curve for Coordination (dips in the middle: 9, 7, 7, 5, 8, 7, 5, 5, 4, 7, 8, 9) -->
+  <!-- Y-mapping: 10->60, 9->95, 8->140, 7->180, 5->260, 4->300 -->
+  <polyline points="
+    130,95, 183,180, 236,180, 289,260, 342,140, 395,180, 448,260, 501,260, 554,300, 607,180, 660,140, 713,95
+  " fill="none" stroke="#0d9488" stroke-width="3" />
+
+  <!-- Curve for Accountability (dips: 9, 8, 7, 6, 7, 7, 6, 5, 5, 7, 7, 9) -->
+  <polyline points="
+    130,95, 183,140, 236,180, 289,220, 342,180, 395,180, 448,220, 501,260, 554,260, 607,180, 660,180, 713,95
+  " fill="none" stroke="#e11d48" stroke-width="3" stroke-dasharray="4 4" />
+
+  <!-- X-axis markers and numbers -->
+  <g font-family="sans-serif" font-size="11" fill="#475569" text-anchor="middle">
+    <text x="130" y="320">1</text>
+    <text x="183" y="320">2</text>
+    <text x="236" y="320">3</text>
+    <text x="289" y="320">4</text>
+    <text x="342" y="320">5</text>
+    <text x="395" y="320">6</text>
+    <text x="448" y="320">7</text>
+    <text x="501" y="320">8</text>
+    <text x="554" y="320">9</text>
+    <text x="607" y="320">10</text>
+    <text x="660" y="320">11</text>
+    <text x="713" y="320">12</text>
+  </g>
+
+  <!-- Legend -->
+  <g transform="translate(250, 360)">
+    <line x1="0" y1="0" x2="20" y2="0" stroke="#0d9488" stroke-width="3" />
+    <text x="28" y="4" font-family="sans-serif" font-size="12" fill="#0f172a">Coordination</text>
+    
+    <line x1="140" y1="0" x2="160" y2="0" stroke="#e11d48" stroke-width="3" stroke-dasharray="4 4" />
+    <text x="168" y="4" font-family="sans-serif" font-size="12" fill="#0f172a">Accountability</text>
+  </g>
+</svg>

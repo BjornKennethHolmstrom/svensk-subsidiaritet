@@ -40,6 +40,8 @@ Den sista, och kanske viktigaste, byggstenen: kapaciteten att kontinuerligt frå
 
 ## Hur de hänger ihop
 
+![Plattformens systemarkitektur](/images/architecture/website-structure.sv.svg)
+
 Spektrumet beskriver **vart** vi kan röra oss. Matrisen beskriver **vad vi vinner och förlorar** på vägen. Adaptiv subsidiaritet och polycentrisk styrning beskriver **principerna** som gör en mer distribuerad arkitektur meningsfull snarare än kaotisk. Meta-governance beskriver **hur systemet lär sig** att korrigera sig självt.
 
 Tillsammans bildar de inte en färdig blåkopia för Sverige. De är ett *designspråk* — ett sätt att ställa bättre frågor om styrning, som vi sedan kan pröva mot verkliga svenska problem i våra policy-laboratorier.
