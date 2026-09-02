@@ -16,6 +16,20 @@
       color: 'bg-amber-50 text-amber-700 border-amber-200',
       link: '/ramverk/aubi',
       status: 'active'
+    },
+    {
+      id: 'governanceEngineering',
+      icon: '⚙️',
+      color: 'bg-stone-50 text-stone-700 border-stone-200',
+      link: 'https://www.bjornkennethholmstrom.org/syntheses',
+      status: 'external'
+    },
+    {
+      id: 'ggf',
+      icon: 'ggf',
+      color: 'bg-teal-50 text-teal-700 border-teal-200',
+      link: 'https://globalgovernanceframeworks.org',
+      status: 'external'
     }
   ]);
 </script>
@@ -38,8 +52,16 @@
         class="group relative flex flex-col justify-between overflow-hidden rounded-xl border border-stone-200 bg-white p-8 transition-all hover:-translate-y-1 hover:shadow-xl hover:border-stone-300"
       >
         <div>
-          <div class="mb-6 flex h-14 w-14 items-center justify-center rounded-xl text-3xl {fw.color} shadow-sm">
-            {fw.icon}
+          <div class="mb-6 flex h-14 w-14 items-center justify-center rounded-xl {fw.color} shadow-sm">
+            {#if fw.icon === 'ggf'}
+              <img
+                src="/images/logo-ggf.svg"
+                alt="Global Governance Frameworks"
+                class="h-10 w-10 object-contain"
+              />
+            {:else}
+              <span class="text-3xl" aria-hidden="true">{fw.icon}</span>
+            {/if}
           </div>
 
           <h3 class="mb-3 font-sans text-xl font-bold text-manifesto-black">
@@ -56,14 +78,19 @@
             href={fw.link}
             class="inline-flex w-full items-center justify-center rounded-lg bg-manifesto-black px-4 py-3 font-sans text-sm font-bold text-white transition-transform active:scale-95 group-hover:bg-stone-800"
           >
-            {$t.frameworks[fw.id].action} →
+            {$t.frameworks[fw.id].action}
+            {#if fw.status === 'external'}
+              ↗
+            {:else}
+              →
+            {/if}
           </a>
         </div>
       </div>
     {/each}
   </div>
 
-  <!-- Relationship Section -->
+  <!-- Relationship Section 
   <section class="mt-24 rounded-2xl bg-stone-50 p-8 md:p-12 border border-stone-100">
     <div class="md:flex gap-12 items-start">
       <div class="md:w-1/3 mb-8 md:mb-0">
@@ -92,6 +119,6 @@
         </p>
       </div>
     </div>
-  </section>
+  </section> -->
 
 </div>

@@ -342,9 +342,9 @@ We are interested in what actually improves:
 
 **[Read the manifesto →](/manifest)**
 
-**[Explore the systems analyses →](/system-analys)**
+**[See the governance spectrum →](/arkitektur)**
 
-**[See the governance spectrum →](/ramverk)**
+**[Explore the systems analyses →](/system-analys)**
 
 **[Test the tools →](/verktyg)**
 

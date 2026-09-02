@@ -31,9 +31,9 @@
         <!-- Manifesto -->
         <a href="/vision" class="hover:text-black transition-colors">{$t.nav.manifesto}</a>
 
-        <!-- Frameworks -->
-        <a href="/ramverk" class="hover:text-black transition-colors">{$t.nav.frameworks}</a>
-        
+        <!-- Architecture -->
+        <a href="/arkitektur" class="hover:text-black transition-colors">{$t.nav.architecture}</a>
+
         <!-- Resources Dropdown -->
         <div class="relative group">
           <button class="flex items-center gap-1 text-stone-600 hover:text-black transition-colors">
@@ -43,6 +43,7 @@
             </svg>
           </button>
           <div class="absolute left-0 mt-2 w-56 rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50 py-2">
+          <a href="/ramverk" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.nav.frameworks}</a>
             <a href="/system-analys" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.nav.analysis}</a>
             <a href="/verktyg" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.nav.tools}</a>
             <a href="/bibliotek" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.nav.library}</a>
@@ -114,14 +115,13 @@
         {$t.nav.manifesto}
       </a>
 
-      
-      <!-- Frameworks -->
+      <!-- Architecture -->
       <a 
-        href="/ramverk" 
+        href="/arkitektur" 
         class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
         onclick={closeMobileMenu}
       >
-        {$t.nav.frameworks}
+        {$t.nav.architecture}
       </a>
       
       <!-- Resources label (non-clickable) -->
@@ -129,6 +129,13 @@
         {$t.nav.resources}
       </div>
       <!-- Resource items -->
+      <a 
+        href="/ramverk" 
+        class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2"
+        onclick={closeMobileMenu}
+      >
+        {$t.nav.frameworks}
+      </a>
       <a 
         href="/system-analys" 
         class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2"

@@ -2,9 +2,10 @@ export const translations = {
   sv: {
     nav: {
       manifesto: "Manifest",
+      architecture: "Arkitektur",
+      frameworks: "Ramverk",
       resources: "Resurser",
       analysis: "Systemanalys",
-      frameworks: "Ramverk",
       tools: "Verktyg",
       library: "Bibliotek",
       about: "Om"
@@ -14,8 +15,18 @@ export const translations = {
     },
     footer: {
       rights: "Alla rättigheter reserverade.",
-      built_with: "Svensk Subsidiaritet är ett svenskt forsknings- och policyprojekt inom styrning. Det bygger på styrning som ingenjörskonst och utvecklar svenska tillämpningar av idéer som är kompatibla med de globala ramverken för styrning.",
+      built_with: "Svensk Subsidiaritet är ett svenskt forsknings- och policyprojekt inom styrning. Det bygger på Styrning som ingenjörskonst och utvecklar svenska tillämpningar av idéer som är kompatibla med de globala ramverken för styrning, Global Governance Frameworks.",
       contact: "Kontakt"
+    },
+    architecture: {
+      navLabel: "Arkitektur",
+      pages: {
+        spektrum: "Styrningsspektrum",
+        matris: "Styrningsmatris",
+        "adaptiv-subsidiaritet": "Adaptiv subsidiaritet",
+        "polycentrisk-styrning": "Polycentrisk styrning",
+        "meta-styrning": "Meta-styrning"
+      }
     },
     systemAnalysis: {
       food: "Livsmedelssystem",
@@ -40,7 +51,7 @@ export const translations = {
     },
     frameworks: {
       title: "Ramverk",
-      subtitle: "De analytiska instrumenten bakom diagnosen — hur vi mäter styrningsarkitektur och vad som krävs för att den ska fungera.",
+      subtitle: "De idéer, mätverktyg och forskningsprogram som hjälper oss att förstå, mäta och utveckla styrning för ett komplext samhälle.",
       gsi: {
         title: "Global Subsidiarity Index (GSI)",
         description: "Ett universellt mätverktyg för styrningsarkitektur. Mäter beslutsavstånd, kunskapsinkludering och resiliensarkitektur i nationer, regioner och kommuner.",
@@ -50,6 +61,16 @@ export const translations = {
         title: "Adaptiv universell basinkomst (AUBI)",
         description: "Subsidiarity kräver kognitiv bandbredd. AUBI är den ekonomiska infrastruktur som frigör medborgarnas kapacitet att faktiskt delta i distribuerad styrning.",
         action: "Läs analysen"
+      },
+      governanceEngineering: {
+        title: "Governance as Engineering",
+        description: "Ett forskningsprogram som tillämpar systemteori, styrteori, cybernetik och empirisk testning på styrning av komplexa adaptiva system.",
+        action: "Läs forskningsguiden"
+      },
+      ggf: {
+        title: "Global Governance Frameworks",
+        description: "Ett globalt ramverk för samordnad, subsidiär och adaptiv styrning över nivåer, domäner, kulturer och tidsskalor.",
+        action: "Besök GGF"
       },
       relationship: {
         title: "Hur hänger de ihop?",
@@ -177,9 +198,10 @@ export const translations = {
   en: {
     nav: {
       manifesto: "Manifesto",
+      architecture: "Architecture",
+      frameworks: "Frameworks",
       resources: "Resources",
       analysis: "System Analysis",
-      frameworks: "Frameworks",
       tools: "Tools",
       library: "Library",
       about: "About"
@@ -191,6 +213,16 @@ export const translations = {
       rights: "All rights reserved.",
       built_with: "Svensk Subsidiaritet is a Swedish governance research and policy project. It draws on Governance as Engineering and develops Swedish applications of ideas compatible with the Global Governance Frameworks.",
       contact: "Contact"
+    },
+    architecture: {
+      navLabel: "Architecture",
+      pages: {
+        spektrum: "Governance Spectrum",
+        matris: "Governance Architecture Matrix",
+        "adaptiv-subsidiaritet": "Adaptive Subsidiarity",
+        "polycentrisk-styrning": "Polycentric Governance",
+        "meta-styrning": "Meta-Governance"
+      }
     },
     systemAnalysis: {
       food: "Food Systems",
@@ -215,7 +247,7 @@ export const translations = {
     },
     frameworks: {
       title: "Frameworks",
-      subtitle: "The analytical instruments behind the diagnosis — how we measure governance architecture and what it takes to make it work.",
+      subtitle: "The ideas, measurement tools and research programs that help us understand, measure and develop governance for a complex society.",
       gsi: {
         title: "Global Subsidiarity Index (GSI)",
         description: "A universal measurement tool for governance architecture. Measures decision distance, knowledge inclusion, and resilience architecture across nations, regions, and municipalities.",
@@ -225,6 +257,16 @@ export const translations = {
         title: "Adaptive Universal Basic Income (AUBI)",
         description: "Subsidiarity requires cognitive bandwidth. AUBI is the economic infrastructure that unlocks citizens' capacity to actually participate in distributed governance.",
         action: "Read the analysis"
+      },
+      governanceEngineering: {
+        title: "Governance as Engineering",
+        description: "A research programme applying systems theory, control theory, cybernetics, and empirical testing to governing complex adaptive systems.",
+        action: "Read the research guide"
+      },
+      ggf: {
+        title: "Global Governance Frameworks",
+        description: "A global framework for coordinated, subsidiarity-based, and adaptive governance across levels, domains, cultures, and timescales.",
+        action: "Visit GGF"
       },
       relationship: {
         title: "How do they connect?",

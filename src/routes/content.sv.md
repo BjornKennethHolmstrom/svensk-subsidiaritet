@@ -342,9 +342,9 @@ Vi är intresserade av vad som faktiskt förbättrar:
 
 **[Läs manifestet →](/manifest)**
 
-**[Utforska systemanalyserna →](/system-analys)**
+**[Se governance-spektrumet →](/arkitektur)**
 
-**[Se governance-spektrumet →](/ramverk)**
+**[Utforska systemanalyserna →](/system-analys)**
 
 **[Testa verktygen →](/verktyg)**
 
