@@ -9,11 +9,11 @@ export const translations = {
       about: "Om"
     },
     header: {
-      subtitle: "Forskning och policy för närstyre"
+      subtitle: "Forskning och policy för adaptiv och distribuerad styrning"
     },
     footer: {
       rights: "Alla rättigheter reserverade.",
-      built_with: "Byggd på GGF-OS",
+      built_with: "Svensk Subsidiaritet är ett svenskt forsknings- och policyprojekt inom styrning. Det bygger på styrning som ingenjörskonst och utvecklar svenska tillämpningar av idéer som är kompatibla med de globala ramverken för styrning.",
       contact: "Kontakt"
     },
     systemAnalysis: {
@@ -183,11 +183,11 @@ export const translations = {
       about: "About"
     },
     header: {
-      subtitle: "Research and policy for subsidiarity"
+      subtitle: "Research and policy for adaptive and distributed governance "
     },
     footer: {
       rights: "All rights reserved.",
-      built_with: "Built on GGF-OS",
+      built_with: "Svensk Subsidiaritet is a Swedish governance research and policy project. It draws on Governance as Engineering and develops Swedish applications of ideas compatible with the Global Governance Frameworks.",
       contact: "Contact"
     },
     systemAnalysis: {

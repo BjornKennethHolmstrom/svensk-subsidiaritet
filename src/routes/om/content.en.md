@@ -2,6 +2,12 @@
 
 **Swedish Subsidiarity** is an independent research and policy initiative examining how centralization creates fragility in Swedish society — and what the alternatives might be.
 
+**Swedish Subsidiarity** is politically non-aligned.
+
+We develop and test governance mechanisms rather than prescribe which political party should implement them.
+
+Proposals are evaluated according to institutional performance, democratic legitimacy, accountability, resilience and adaptability.
+
 ## Background
 
 My name is Björn Kenneth Holmström. This project emerged from an analysis of global systemic risks that led to a simple conclusion: complex problems cannot be solved with centralized control. You have to distribute intelligence.

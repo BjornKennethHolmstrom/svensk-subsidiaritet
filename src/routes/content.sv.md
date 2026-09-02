@@ -1,121 +1,377 @@
-# Fem strukturproblem. Fem mekanismer. Noll extra kostnad.
+# Svensk Subsidiaritet
 
-Sverige har världens mest sofistikerade offentliga system. De är professionellt ledda, generöst finansierade — och de producerar resultat som strider mot sina egna mål.
+## Bättre styrning för ett komplext samhälle
 
-Det här är inte en ideologisk kritik. Det är en teknisk diagnos. Och för varje problem finns en mekanism som vänder incitamenten rätt, utan att kosta mer.
+Sverige har starka institutioner, hög kompetens och en lång demokratisk tradition. Ändå fastnar många av våra svåraste problem mellan system, nivåer och ansvarsområden.
 
----
+Frågan är därför inte bara om beslut ska fattas **centralt eller lokalt**.
 
-## Problemen vi alla ser men ingen löser
+Den viktigare frågan är:
 
-### Sjuksköterskan som inte kan bo i sin egen kommun
+> **Vem bör besluta vad, på vilken nivå, med vilken kunskap, med vilket ansvar — och hur ska hela systemet kunna samordnas och lära sig?**
 
-Upplands Väsby behöver sjuksköterskor, lärare och poliser. Men en nybyggd tvåa kostar 4,5 miljoner. Kommunen *vill* bygga billigare bostäder men Plan- och bygglagen förbjuder krav på upplåtelseform i detaljplanen. Byggherrar behöver 15–20% marginal för att räkna hem projektet. Nuvarande invånare oroar sig för förtätning.
+Svensk Subsidiaritet är ett oberoende forsknings- och policyprojekt om hur svensk styrning kan bli mer **responsiv, kunskapsbaserad, ansvarstagande, resilient och adaptiv**.
 
-Tre intressen som låser varandra. Ingen av dem är orimlig. Alla tillsammans gör lösningen omöjlig — med nuvarande verktyg.
+Vi utgår från subsidiaritetsprincipen, men ser subsidiaritet som en del av en större arkitektur.
 
-**→ Mekanism: Densitet som valuta.** Kommunen erbjuder bonus-byggrätt (+20% BTA). Villkoret: marken för bonusytan tillfaller en Community Land Trust. Byggherren får sin kalkyl, kommunen får långsiktigt prisstabila bostäder, befintliga invånare får grannar som bidrar till trygghet genom självförvaltning. Inga skattesubventioner. Civilrättsligt avtal, inte PBL-krav.
-
-[Läs hela förslaget: TAK-404 →](/forslag/tak-404)
+**Rätt beslut. Rätt plats. Rätt kunskap. Rätt ansvar.**
 
 ---
 
-### 30% av alla över 75 är ensamma varje dag
+## Varför detta behövs
 
-Ensamhet ökar dödligheten med 26% — lika skadligt som 15 cigaretter om dagen. Samtidigt saknar 40% av unga 16–29 meningsfulla sätt att bidra till sitt lokalsamhälle. Föreningsdeltagandet har minskat med 22% sedan 2010.
+Många samhällsproblem är inte egentligen brist på vilja eller resurser. De är problem med **systemdesign**.
 
-Det här är inte ett omsorgsgap — professionell vård ska fortsätta som förut. Det är ett *folkhälsogap*: behovet av daglig social kontakt som ligger utanför lagstadgat ansvar. Kommunen kan inte anställa sig ur ensamhetsepidemin.
+En myndighet kan optimera det som ligger inom dess mandat medan ett annat mål försämras.
 
-**→ Mekanism: Grannskapspoäng.** En plattform där frivilliga "guldkant"-aktiviteter (spelkompis, språkkafé, promenadkompis) belönas med poäng som löses in mot underutnyttjad kommunal kapacitet under lågtrafik — simhallar, teaterbiljetter, kulturhus. Aldrig för lagstadgade insatser. Aldrig i konkurrens med anställd personal. Fackligt godkänt innan pilot.
+En kommun kan ha bäst kunskap om ett problem men sakna befogenhet att agera.
 
-[Läs hela förslaget: TAK-406 →](/forslag/tak-406)
+En nationell lösning kan skapa likformighet där lokala variationer egentligen är en styrka.
 
----
+Olika institutioner kan ha legitimt olika perspektiv men sakna mekanismer för att väga ihop dem.
 
-### Om Östersjön blockeras — vem sköter skogen i Norrbotten?
+Och när ansvar delas mellan många aktörer blir det ibland oklart:
 
-Värde skapas lokalt: vindkraft, gruvor, skog, mat. Men vinsten beskattas centralt. Resursrika kommuner går bankrutt medan Stockholm växer. "Brain drain" har skapat kritisk kompetensbrist i de regioner som producerar vår el och vår mat. Vid en kris saknar vi den decentraliserade personalstyrka som krävs.
+> **Vem bestämde? Vem visste? Vem hade mandat? Vem har ansvar för resultatet?**
 
-Landsbygden är inte en kostnad. Den är vår backup-generator. Och vi håller på att stänga av den.
-
-**→ Mekanism: Regional skatteväxling.** Sänkt arbetsgivaravgift i glesbygd, finansierad genom höjd fastighetsskatt på icke-flyttbara tillgångar (vindkraftverk, gruvor, vattenkraft). Plus: teknikneutral uppkopplingsgaranti via totalförsvaret, och en frivillig landsbygdstjänst för unga som kopplar krisberedskap till bristyrken. Budget-neutralt vid full implementering.
-
-[Läs hela förslaget: TAK-502 →](/forslag/tak-502)
+Svensk Subsidiaritet försöker behandla detta som ett **styrningsproblem som går att analysera, testa och förbättra**.
 
 ---
 
-### Varför startar svenskar hälften så många företag som danskar?
+# Från en regering som styr allt till ett system som kan styra tillsammans
 
-Inte för att vi saknar idéer. För att vårt trygghetssystem straffar risktagande. Den som lämnar anställning för att starta företag förlorar a-kassa. Den som misslyckas saknar mjuklandning. Effektiv marginalskatt vid övergång från försörjningsstöd till deltidsarbete: 60–80%. Systemet som ska skydda oss *fångar* oss.
+Den svenska modellen utgår i hög grad från en central politisk kedja:
 
-Ekonomisk otrygghet ökar kortisol med 40–60% och försämrar kognitiv funktion motsvarande 13 IQ-poäng. Vi betalar redan — i sjukvårdskostnader, produktionsbortfall och outnyttjad potential.
+**Väljare → riksdag → regering → förvaltning**
 
-**→ Mekanism: Omställningsgaranti.** Separera grundtrygghet (alla) från inkomstförsäkring (via a-kassan). 12 200 kr/månad garanterad grundnivå, oberoende av livssituation. Avtrappning 60 öre per intjänad krona istället för binära trösklar. Kvalificeringsvillkor: 5 år för icke-medborgare. Försöksverksamhet i utvalda kommuner före nationell utrullning. Beräknad nettoeffekt: budget-neutral genom minskad administration och bättre hälsoutfall.
+Den är tydlig och har stora fördelar.
 
-[Läs hela förslaget: Omställningsgarantin →](/forslag/omstallningsgarantin)
+Men ett komplext samhälle innehåller många olika typer av problem, kunskap och legitimitet. Det är därför inte självklart att samma permanenta majoritet bör vara den bästa beslutsformen för varje fråga.
 
----
+Vi undersöker därför ett spektrum av styrningsformer — från dagens parlamentariska system till mer distribuerade och polycentriska arkitekturer.
 
-### Vi pratar om psykologiskt försvar — men pendlarna är redan utmattade
+## Styrningsspektrumet
 
-MSB:s föreskrifter om civilt försvar kräver psykologisk motståndskraft. Men en befolkning präglad av kronisk stress och kognitiv utmattning har sämre förmåga att stå emot desinformation och kriser. Vi planerar för krig men ignorerar att vardagen redan bryter ner vår kognitiva resiliens.
+1. **Majoritetsregering**  
+   En sammanhållen regeringskoalition driver ett sammanhållet program.
 
-**→ Mekanism: Kognitiva skyddsrum i kollektivtrafiken.** "Vila-vagnen" på Roslagsbanan under lågtrafik — digitalfri zon med dämpad stimulans. "Trygghets-hållplatser" med ljuddesign vid busslinjer i utsatta områden. Inget som belastar driftsbudget — externt finansierat via MSB/EU som totalförsvarstest i fredstid.
+2. **Minoritetsregering**  
+   Regeringen styr utan egen majoritet men så länge den tolereras av riksdagen.
 
-[Läs hela förslaget: TAK-405 →](/forslag/tak-405)
+3. **Förtroende- och budgetstöd**  
+   Partier kan säkerställa regeringens fortlevnad och budget utan att stödja all politik.
 
----
+4. **Fråga-för-fråga-parlamentarism**  
+   Majoriteter byggs utifrån sakfrågan snarare än genom ett permanent block.
 
-## Mönstret
+5. **Samordnande eller neutral verkställande makt**  
+   Den politiska nivån bestämmer riktningen medan den verkställande nivån i högre grad fungerar som ett kompetent genomförande- och samordningslager.
 
-Dessa fem förslag ser olika ut. Men de gör alla samma sak.
+6. **Parlament + medborgarförsamlingar**  
+   Representativ demokrati kompletteras med strukturerad deliberation och medborgarkunskap.
 
-Varje förslag identifierar en plats där systemets **uttalade mål** och dess **faktiska incitament** pekar åt motsatt håll — och erbjuder en mekanism som vänder incitamenten utan att kräva mer resurser.
+7. **Flera råd och beslutsarenor**  
+   Olika former av legitimitet och kunskap får tydligt avgränsade institutionella roller.
 
-| Problem | Systemets mål | Systemets faktiska incitament | Mekanismen |
-|---------|--------------|------------------------------|------------|
-| Bostäder | Billiga bostäder åt alla | Maximera pris per m² | Byt densitet mot CLT-mark |
-| Ensamhet | Social sammanhållning | Billigare att isolera | Skapa valuta för kontakt |
-| Landsbygd | Hela Sverige ska leva | Extrahera värde, exportera folk | Beskatta det som stannar |
-| Trygghet | Skydda mot risk | Fånga i passivitet | Separera golv och försäkring |
-| Resiliens | Psykologiskt försvar | Ignorera vardagsstress | Använd befintlig infrastruktur |
+8. **Polycentrisk styrning per område**  
+   Olika samhällsområden styrs genom nätverk av delvis självständiga aktörer.
 
-Det här är inte fem separata problem. Det är **ett mönster**: svenska system som motarbetar sina egna mål. Och det kräver inte mer pengar att lösa — det kräver bättre design.
+9. **Djup subsidiaritet**  
+   Beslut flyttas systematiskt till den lägsta nivå som kan hantera dem väl.
 
----
+10. **Nästlad polycentrisk styrning**  
+    Lokal, regional, nationell och internationell styrning kopplas samman utan att allt behöver vara hierarkiskt.
 
-## Utforska vidare
+11. **Pluralistisk GGF-liknande styrning**  
+    Demokratiska, deliberativa, lokala, vetenskapliga, ekologiska och andra relevanta perspektiv kopplas samman genom tydliga roller.
 
-<div class="grid gap-4 md:grid-cols-2 not-prose mt-8">
+12. **Adaptiv polycentrisk styrning**  
+    Styrningssystemet kan själv utvärdera om ansvar, mandat och institutionella relationer fortfarande är rätt utformade.
 
-<a href="/system-analys" class="block p-6 border border-stone-300 hover:border-black transition-colors">
-<h3 class="font-sans font-bold text-lg mb-2">Systemanalyser</h3>
-<p class="text-stone-600 text-sm">Cybernetisk diagnos av centralisering i 10 svenska system — från livsmedel till hälsovård.</p>
-</a>
-
-<a href="/verktyg" class="block p-6 border border-stone-300 hover:border-black transition-colors">
-<h3 class="font-sans font-bold text-lg mb-2">Verktyg</h3>
-<p class="text-stone-600 text-sm">Närhetskompass och maktanalys — mät beslutsdistansen i ditt eget sammanhang.</p>
-</a>
-
-<a href="/studiecirkel" class="block p-6 border border-stone-300 hover:border-black transition-colors">
-<h3 class="font-sans font-bold text-lg mb-2">Studiecirkelkit</h3>
-<p class="text-stone-600 text-sm">Komplett material för lokal utbildning i distribuerad styrning.</p>
-</a>
-
-<a href="/vision" class="block p-6 border border-stone-300 hover:border-black transition-colors">
-<h3 class="font-sans font-bold text-lg mb-2">Visionen</h3>
-<p class="text-stone-600 text-sm">Manifest för distribuerad systemförståelse — den djupare analysen av varför centralisering sviker oss.</p>
-</a>
-
-</div>
+> Målet är inte att automatiskt röra sig mot "mer decentralisering".  
+> Målet är att hitta **rätt fördelning av beslut, kunskap, ansvar och samordning för varje problem**.
 
 ---
 
-<div class="text-center text-stone-500 text-sm mt-16">
+# Governance as Engineering
 
-*Svensk Subsidiaritet är ett oberoende forsknings- och policyprojekt. Alla förslag är fria att använda, anpassa och implementera.*
+Vi ser styrning som ett designproblem.
 
-Björn Kenneth Holmström · [Global Governance Frameworks](https://globalgovernanceframeworks.org) · bjorn.kenneth.holmstrom@gmail.com
+Det betyder att vi inte börjar med frågan:
 
-</div>
+> *Vilken ideologi har rätt?*
+
+utan med frågor som:
+
+- Var finns den relevanta kunskapen?
+- Var uppstår problemet och dess konsekvenser?
+- Vilken skala kräver samordning?
+- Vem bör ha mandat att agera?
+- Hur gör vi ansvar spårbart?
+- Hur hanterar vi konflikter mellan nivåer?
+- Hur snabbt måste systemet kunna fatta beslut?
+- Hur märker vi att en institution fungerar dåligt?
+- Hur kan en dålig institutionell lösning korrigeras?
+
+Detta är kärnan i vårt angreppssätt: **styrning som ingenjörskonst för komplexa adaptiva system**.
+
+---
+
+# Men övergången är lika viktig som slutmålet
+
+Det räcker inte att beskriva en bättre slutarkitektur.
+
+En reform kan vara bra på lång sikt men ändå farlig att införa för tidigt.
+
+Om vi distribuerar ansvar innan vi har byggt bättre samordning kan **koordinationen falla**.
+
+Om vi sprider mandat innan ansvarskedjorna är tydliga kan **ansvarsutkrävandet falla**.
+
+Om fler aktörer ska delta utan bättre informations- och deliberationsstrukturer kan **beslutshastigheten falla**.
+
+Detta är vår **Transition Valley**.
+
+Därför behöver vi bygga broarna innan vi tar bort de gamla bärande konstruktionerna.
+
+## Övergångsprincipen
+
+> **Bevara → förstärk → koppla samman → testa → delegera → integrera → anpassa**
+
+Inte:
+
+> **Avcentralisera → hoppas att samordning uppstår.**
+
+---
+
+# Transition Graph
+
+Vår föreslagna utvecklingsväg är därför kapacitetsbaserad.
+
+### 1. Politisk pluralisering
+
+Stärk riksdagens förmåga att skapa fungerande majoriteter även när ingen permanent regeringskoalition finns.
+
+### 2. Epistemisk kapacitet
+
+Bygg bättre strukturer för forskning, prognoser, systemanalys, konsekvensbedömning och medborgardeliberation.
+
+### 3. Samordningskapacitet
+
+Förbättra samverkan mellan departement, myndigheter, kommuner, regioner och andra aktörer.
+
+### 4. Ansvarsinfrastruktur
+
+Gör mandat, beslut, uppföljning, revision och överklagande tydliga även när ansvar delas.
+
+### 5. Interoperabilitet
+
+Skapa gemensamma protokoll för information, beslutsdokumentation, konflikthantering och eskalering.
+
+### 6. Selektiv subsidiaritet
+
+Flytta utvalda beslut när det finns goda skäl att tro att beslutet blir bättre på en lägre nivå.
+
+### 7. Polycentriska experiment
+
+Testa nya former för områden där problemen redan är tvärgående, lokala eller bioregionala.
+
+### 8. Nästlad styrning
+
+Koppla ihop nivåerna så att lokal autonomi och övergripande samordning kan samexistera.
+
+### 9. Meta-governance
+
+Skapa permanent kapacitet att utvärdera om själva styrningsarkitekturen fungerar.
+
+### 10. Adaptiv styrning
+
+Låt institutioner och ansvarsfördelning förändras när verkligheten och kunskapsläget förändras.
+
+---
+
+# Fem broar över Transition Valley
+
+## 1. Koordination
+
+Distribuerad makt kräver mekanismer för att samordna aktörer som fortfarande är autonoma.
+
+**Bygg först:** tvärsektoriella råd, gemensamma data, gemensamma modeller, eskaleringsregler och samordningsprotokoll.
+
+## 2. Ansvar
+
+När fler aktörer får mandat måste det bli lättare, inte svårare, att följa ansvar.
+
+**Bygg först:** tydliga mandat, beslutsspårbarhet, oberoende revision, överklagande och konflikthantering.
+
+## 3. Hastighet
+
+Fler aktörer behöver inte betyda långsammare styrning — men bara om beslut kan fattas utan onödiga tillståndskedjor.
+
+**Bygg först:** delegerade befogenheter, fördefinierade trösklar och tidsbegränsade krisregler.
+
+## 4. Kunskap
+
+Mer pluralism skapar mer relevant information men också mer komplexitet.
+
+**Bygg först:** evidenssyntes, deliberation, scenariomodellering och tydliga sätt att representera osäkerhet.
+
+## 5. Legitimitet
+
+När nya institutioner tillkommer måste människor förstå varför de finns.
+
+**Bygg först:** tydliga roller, tydliga mandat och en begriplig fördelning mellan vallegitimitet, medborgardeliberation, sakkunskap och lokal representation.
+
+---
+
+# Adaptive Subsidiarity
+
+Subsidiaritet betyder inte:
+
+> "allt ska beslutas så lokalt som möjligt."
+
+Det betyder:
+
+> **"Beslut ska fattas på den nivå där de kan hanteras bäst, givet kunskap, externa effekter, samordningsbehov, kapacitet, legitimitet och ansvar."**
+
+En funktion kan därför röra sig:
+
+**nedåt → uppåt → sidledes → nedåt igen**
+
+beroende på vad erfarenhet och data visar.
+
+Det gör subsidiaritet **adaptiv i stället för dogmatisk**.
+
+---
+
+# Meta-governance
+
+När ett samhälle består av många olika styrningsnoder uppstår en ny fråga:
+
+> **Vem ser till att styrningssystemen fungerar tillsammans?**
+
+Det är här meta-governance kommer in.
+
+Meta-governance är inte tänkt som en "superregering".
+
+Det är kapaciteten att:
+
+- upptäcka luckor mellan institutioner
+- hantera konflikter mellan nivåer
+- förbättra samordning
+- följa upp hur ansvarsfördelningen fungerar
+- pröva nya institutionella lösningar
+- ändra styrningsarkitekturen när den inte längre passar verkligheten
+
+Det är därför vi inte ser governance design som något som fastställs en gång för alla.
+
+> **Själva styrningssystemet måste kunna lära sig.**
+
+---
+
+# Från idé till test
+
+Det här projektet handlar inte om att kräva att Sverige ska hoppa från dagens institutioner till en färdig idealmodell.
+
+Vi vill i stället:
+
+**diagnostisera → formulera → experimentera → mäta → lära → skala eller backa**
+
+Varje reform bör därför beskrivas med:
+
+**Förväntade vinster**
+
+**Möjliga nackdelar**
+
+**Osäkerheter**
+
+**Vad som skulle kunna falsifiera hypotesen**
+
+**Hur en pilot kan utformas**
+
+**Vilka resultat som motiverar nästa steg**
+
+Det är skillnaden mellan en politisk vision och ett **lärande reformsystem**.
+
+---
+
+# Våra policy-laboratorier
+
+De mer konkreta förslagen på denna webbplats ska ses som tillämpningar av samma grundfråga:
+
+> **Var har dagens system en strukturell mismatch mellan mål, incitament, kunskap, beslut och ansvar?**
+
+Det kan handla om:
+
+- bostäder
+- ensamhet och gemenskap
+- landsbygd och regional resiliens
+- trygghetssystem
+- transport och mobilitet
+- ekologisk resiliens
+- demokratiskt deltagande
+
+Vi söker inte en enda mekanism som löser allt.
+
+Vi söker **bättre mekanismer för olika problemtyper**.
+
+---
+
+# Forskning före övertygelse
+
+Svensk Subsidiaritet är ett oberoende forsknings- och policyprojekt.
+
+Vi försöker därför göra något ganska ovanligt i politiken:
+
+> **Vi vill hitta argument som överlever försök att motbevisa dem.**
+
+Det betyder att vi också publicerar sådant som inte fungerar.
+
+En idé blir inte bättre för att den är vår.
+
+En reform är inte bra för att den låter vacker.
+
+Och decentralisering är inte bra bara för att den är decentralisering.
+
+Vi är intresserade av vad som faktiskt förbättrar:
+
+**demokratisk legitimitet · kunskapskvalitet · samordning · ansvar · resiliens · anpassningsförmåga**
+
+---
+
+# Börja här
+
+**[Läs manifestet →](/manifest)**
+
+**[Utforska systemanalyserna →](/system-analys)**
+
+**[Se governance-spektrumet →](/ramverk)**
+
+**[Testa verktygen →](/verktyg)**
+
+**[Besök biblioteket →](/bibliotek)**
+
+---
+
+## En långsiktig riktning
+
+Vi tror inte att nästa steg för svensk demokrati nödvändigtvis är en ny "superregering", ett nytt block eller ännu mer centralisering.
+
+Det kan vara något enklare:
+
+> **Ett samhälle där beslut fattas närmare dem som berörs när det är bättre — men där institutionerna samtidigt har kapacitet att samordna sig när problemen kräver större skala.**
+
+Ett samhälle där:
+
+**demokratisk legitimitet** inte står i motsats till **sakkunskap**,
+
+**lokal autonomi** inte står i motsats till **nationell samordning**,
+
+och **stabilitet** inte står i motsats till **förmågan att förändras**.
+
+Det är den typen av styrning vi vill undersöka.
+
+**Rätt beslut. Rätt plats. Rätt kunskap. Rätt ansvar.**
+
+---
+
+*Svensk Subsidiaritet · Ett oberoende forsknings- och policyprojekt*

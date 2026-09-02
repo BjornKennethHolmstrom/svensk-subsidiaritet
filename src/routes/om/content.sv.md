@@ -2,6 +2,12 @@
 
 **Svensk Subsidiaritet** är ett oberoende forsknings- och policyinitiativ som undersöker hur centralisering skapar sårbarhet i det svenska samhället — och vad alternativen kan vara.
 
+**Svensk subsidiaritet** är politiskt obunden.
+
+Vi utvecklar och testar styrningsmekanismer snarare än att föreskriva vilket politiskt parti som ska implementera dem.
+
+Förslag utvärderas utifrån institutionell prestanda, demokratisk legitimitet, ansvarsskyldighet, motståndskraft och anpassningsförmåga.
+
 ## Bakgrund
 
 Jag heter Björn Kenneth Holmström. Det här projektet växte fram ur en analys av globala systemrisker som ledde till en enkel slutsats: komplexa problem kan inte lösas med centraliserad styrning. Man måste distribuera intelligensen.

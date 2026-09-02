@@ -1,121 +1,377 @@
-# Five Structural Problems. Five Mechanisms. Zero Extra Cost.
+# Swedish Subsidiarity
 
-Sweden has the world's most sophisticated public systems. They are professionally led, generously funded — and they produce results that contradict their own goals.
+## Better Governance for a Complex Society
 
-This is not an ideological critique. It is a technical diagnosis. And for every problem, there is a mechanism that aligns incentives correctly, without costing more.
+Sweden has strong institutions, high competence, and a long democratic tradition. Yet many of our most difficult problems get stuck between systems, levels, and areas of responsibility.
 
----
+The question is therefore not only whether decisions should be made **centrally or locally**.
 
-## The Problems We All See But No One Solves
+The more important question is:
 
-### The Nurse Who Cannot Live in Her Own Municipality
+> **Who should decide what, at what level, with what knowledge, with what responsibility — and how should the entire system be able to coordinate and learn?**
 
-Upplands Väsby needs nurses, teachers, and police officers. But a newly built two-room apartment costs 4.5 million SEK. The municipality *wants* to build cheaper housing, but the Planning and Building Act prohibits requirements on tenure form in the detailed development plan. Developers need a 15–20% margin to make the project viable. Current residents worry about densification.
+Swedish Subsidiarity is an independent research and policy project about how Swedish governance can become more **responsive, knowledge-based, accountable, resilient, and adaptive**.
 
-Three interests locking each other out. None of them is unreasonable. All together make the solution impossible — with current tools.
+We start from the principle of subsidiarity, but we see subsidiarity as part of a larger architecture.
 
-**→ Mechanism: Density as Currency.** The municipality offers bonus building rights (+20% Gross Floor Area). The condition: the land for the bonus area falls to a Community Land Trust. The developer gets their calculation, the municipality gets long-term price-stable housing, existing residents get neighbors who contribute to safety through self-management. No tax subsidies. Civil law agreement, not PBA requirement.
-
-[Read the full proposal: TAK-404 →]()
+**Right decision. Right place. Right knowledge. Right responsibility.**
 
 ---
 
-### 30% of Everyone Over 75 is Lonely Every Day
+## Why This Is Needed
 
-Loneliness increases mortality by 26% — as harmful as 15 cigarettes a day. At the same time, 40% of young people aged 16–29 lack meaningful ways to contribute to their local community. Association participation has decreased by 22% since 2010.
+Many societal problems are not really a lack of will or resources. They are problems of **system design**.
 
-This is not a care gap — professional care should continue as before. It is a *public health gap*: the need for daily social contact that lies outside statutory responsibility. The municipality cannot hire its way out of the loneliness epidemic.
+One agency can optimize what falls within its mandate while another goal deteriorates.
 
-**→ Mechanism: Neighborhood Points.** A platform where voluntary "silver lining" activities (game partner, language café, walking buddy) are rewarded with points that are redeemed for underutilized municipal capacity during off-peak hours — swimming pools, theater tickets, culture houses. Never for statutory interventions. Never in competition with employed staff. Union approved before pilot.
+A municipality can have the best knowledge about a problem but lack the authority to act.
 
-[Read the full proposal: TAK-406 →]()
+A national solution can create uniformity where local variation is actually a strength.
 
----
+Different institutions can legitimately have different perspectives but lack mechanisms to weigh them together.
 
-### If the Baltic Sea is Blocked — Who Manages the Forest in Norrbotten?
+And when responsibility is shared among many actors, it sometimes becomes unclear:
 
-Value is created locally: wind power, mines, forest, food. But profit is taxed centrally. Resource-rich municipalities go bankrupt while Stockholm grows. "Brain drain" has created a critical skills shortage in the regions that produce our electricity and our food. In a crisis, we lack the decentralized workforce required.
+> **Who decided? Who knew? Who had the mandate? Who is responsible for the outcome?**
 
-The countryside is not a cost. It is our backup generator. And we are in the process of shutting it down.
-
-**→ Mechanism: Regional Tax Swap.** Reduced employer contributions in sparsely populated areas, financed through increased property tax on non-movable assets (wind turbines, mines, hydropower). Plus: technology-neutral connectivity guarantee via total defense, and a voluntary rural service for young people linking crisis preparedness to shortage occupations. Budget-neutral at full implementation.
-
-[Read the full proposal: TAK-502 →]()
+Swedish Subsidiarity seeks to treat this as a **governance problem that can be analyzed, tested, and improved**.
 
 ---
 
-### Why Do Swedes Start Half as Many Companies as Danes?
+# From a Government That Governs Everything to a System That Can Govern Together
 
-Not because we lack ideas. Because our social safety net punishes risk-taking. Anyone leaving employment to start a company loses unemployment benefits. Anyone who fails lacks a soft landing. Effective marginal tax rate when transitioning from income support to part-time work: 60–80%. The system designed to protect us *traps* us.
+The Swedish model largely rests on a central political chain:
 
-Economic insecurity increases cortisol by 40–60% and impairs cognitive function equivalent to 13 IQ points. We are already paying — in healthcare costs, production loss, and untapped potential.
+**Voters → Parliament → Government → Administration**
 
-**→ Mechanism: Transition Guarantee.** Separate basic security (everyone) from income insurance (via unemployment funds). 12,200 SEK/month guaranteed basic level, independent of life situation. Tapering 60 öre per earned krona instead of binary thresholds. Qualification condition: 5 years for non-citizens. Pilot activity in selected municipalities before national rollout. Estimated net effect: budget-neutral through reduced administration and better health outcomes.
+It is clear and has great advantages.
 
-[Read the full proposal: Transition Guarantee →]()
+But a complex society contains many different types of problems, knowledge, and legitimacy. It is therefore not self-evident that the same permanent majority should be the best form of decision-making for every issue.
 
----
+We therefore examine a spectrum of governance forms — from today's parliamentary system to more distributed and polycentric architectures.
 
-### We Talk About Psychological Defense — But Commuters Are Already Exhausted
+## The Governance Spectrum
 
-MSB's regulations on civil defense require psychological resilience. But a population characterized by chronic stress and cognitive exhaustion has a poorer ability to resist disinformation and crises. We plan for war but ignore that everyday life is already breaking down our cognitive resilience.
+1. **Majority Government**  
+   A cohesive government coalition drives a cohesive program.
 
-**→ Mechanism: Cognitive Shelters in Public Transport.** The "Rest Carriage" on Roslagsbanan during off-peak hours — digital-free zone with subdued stimulation. "Safety Stops" with sound design at bus lines in vulnerable areas. Nothing that burdens the operating budget — externally financed via MSB/EU as total defense testing in peacetime.
+2. **Minority Government**  
+   The government governs without its own majority but as long as it is tolerated by Parliament.
 
-[Read the full proposal: TAK-405 →]()
+3. **Confidence and Budget Support**  
+   Parties can ensure the government's survival and budget without supporting all of its policies.
 
----
+4. **Issue-by-Issue Parliamentarism**  
+   Majorities are built based on the issue at hand rather than through a permanent bloc.
 
-## The Pattern
+5. **Coordinating or Neutral Executive Power**  
+   The political level sets the direction while the executive level functions more as a competent implementation and coordination layer.
 
-These five proposals look different. But they all do the same thing.
+6. **Parliament + Citizens' Assemblies**  
+   Representative democracy is complemented with structured deliberation and citizen knowledge.
 
-Each proposal identifies a place where the system's **stated goal** and its **actual incentives** point in opposite directions — and offers a mechanism that reverses the incentives without requiring more resources.
+7. **Multiple Councils and Decision Arenas**  
+   Different forms of legitimacy and knowledge are given clearly delimited institutional roles.
 
-| Problem | System's Goal | System's Actual Incentive | The Mechanism |
-| --- | --- | --- | --- |
-| Housing | Cheap housing for all | Maximize price per m² | Trade density for CLT land |
-| Loneliness | Social cohesion | Cheaper to isolate | Create currency for contact |
-| Countryside | The whole of Sweden should live | Extract value, export people | Tax what stays |
-| Security | Protect against risk | Trap in passivity | Separate floor and insurance |
-| Resilience | Psychological defense | Ignore everyday stress | Use existing infrastructure |
+8. **Polycentric Governance by Sector**  
+   Different societal areas are governed through networks of partially autonomous actors.
 
-These are not five separate problems. It is **one pattern**: Swedish systems working against their own goals. And it does not require more money to solve — it requires better design.
+9. **Deep Subsidiarity**  
+   Decisions are systematically moved to the lowest level that can handle them well.
 
----
+10. **Nested Polycentric Governance**  
+    Local, regional, national, and international governance are linked together without everything needing to be hierarchical.
 
-## Explore Further
+11. **Pluralist GGF-like Governance**  
+    Democratic, deliberative, local, scientific, ecological, and other relevant perspectives are connected through clear roles.
 
-<div class="grid gap-4 md:grid-cols-2 not-prose mt-8">
+12. **Adaptive Polycentric Governance**  
+    The governance system itself can evaluate whether responsibilities, mandates, and institutional relationships are still properly designed.
 
-<a href="/system-analys" class="block p-6 border border-stone-300 hover:border-black transition-colors">
-<h3 class="font-sans font-bold text-lg mb-2">Systems Analysis</h3>
-<p class="text-stone-600 text-sm">Cybernetic diagnosis of centralization in 10 Swedish systems — from food to healthcare.</p>
-</a>
-
-<a href="/verktyg" class="block p-6 border border-stone-300 hover:border-black transition-colors">
-<h3 class="font-sans font-bold text-lg mb-2">Tools</h3>
-<p class="text-stone-600 text-sm">Proximity compass and power analysis — measure the decision distance in your own context.</p>
-</a>
-
-<a href="/studiecirkel" class="block p-6 border border-stone-300 hover:border-black transition-colors">
-<h3 class="font-sans font-bold text-lg mb-2">Study Circle Kit</h3>
-<p class="text-stone-600 text-sm">Complete material for local education in distributed governance.</p>
-</a>
-
-<a href="/vision" class="block p-6 border border-stone-300 hover:border-black transition-colors">
-<h3 class="font-sans font-bold text-lg mb-2">The Vision</h3>
-<p class="text-stone-600 text-sm">Manifesto for distributed systems understanding — the deeper analysis of why centralization fails us.</p>
-</a>
-
-</div>
+> The goal is not to automatically move toward "more decentralization."  
+> The goal is to find the **right distribution of decisions, knowledge, responsibility, and coordination for each problem**.
 
 ---
 
-<div class="text-center text-stone-500 text-sm mt-16">
+# Governance as Engineering
 
-*Swedish Subsidiarity is an independent research and policy project. All proposals are free to use, adapt, and implement.*
+We see governance as a design problem.
 
-Björn Kenneth Holmström · [Global Governance Frameworks]() · bjorn.kenneth.holmstrom@gmail.com
+This means we do not start with the question:
 
-</div>
+> *Which ideology is right?*
+
+but with questions such as:
+
+- Where does the relevant knowledge reside?
+- Where does the problem and its consequences arise?
+- What scale requires coordination?
+- Who should have the mandate to act?
+- How do we make responsibility traceable?
+- How do we handle conflicts between levels?
+- How quickly must the system be able to make decisions?
+- How do we notice that an institution is functioning poorly?
+- How can a bad institutional solution be corrected?
+
+This is the core of our approach: **governance as engineering for complex adaptive systems**.
+
+---
+
+# But the Transition Is Just as Important as the End Goal
+
+It is not enough to describe a better final architecture.
+
+A reform can be good in the long term but still dangerous to introduce too early.
+
+If we distribute responsibility before we have built better coordination, **coordination can collapse**.
+
+If we spread mandates before accountability chains are clear, **accountability can collapse**.
+
+If more actors are to participate without better information and deliberation structures, **decision speed can collapse**.
+
+This is our **Transition Valley**.
+
+Therefore, we need to build the bridges before we remove the old load-bearing structures.
+
+## The Transition Principle
+
+> **Preserve → Strengthen → Connect → Test → Delegate → Integrate → Adapt**
+
+Not:
+
+> **Decentralize → Hope that coordination emerges.**
+
+---
+
+# Transition Graph
+
+Our proposed development path is therefore capacity-based.
+
+### 1. Political Pluralization
+
+Strengthen Parliament's ability to create functioning majorities even when no permanent government coalition exists.
+
+### 2. Epistemic Capacity
+
+Build better structures for research, forecasting, systems analysis, impact assessment, and citizen deliberation.
+
+### 3. Coordination Capacity
+
+Improve collaboration between ministries, agencies, municipalities, regions, and other actors.
+
+### 4. Accountability Infrastructure
+
+Make mandates, decisions, follow-up, audit, and appeals clear even when responsibility is shared.
+
+### 5. Interoperability
+
+Create common protocols for information, decision documentation, conflict management, and escalation.
+
+### 6. Selective Subsidiarity
+
+Move selected decisions when there are good reasons to believe the decision will be better at a lower level.
+
+### 7. Polycentric Experiments
+
+Test new forms for areas where problems are already cross-cutting, local, or bioregional.
+
+### 8. Nested Governance
+
+Link the levels so that local autonomy and overarching coordination can coexist.
+
+### 9. Meta-governance
+
+Create permanent capacity to evaluate whether the governance architecture itself is working.
+
+### 10. Adaptive Governance
+
+Let institutions and the distribution of responsibilities change as reality and the state of knowledge change.
+
+---
+
+# Five Bridges Across the Transition Valley
+
+## 1. Coordination
+
+Distributed power requires mechanisms to coordinate actors that are still autonomous.
+
+**Build first:** cross-sectoral councils, shared data, shared models, escalation rules, and coordination protocols.
+
+## 2. Accountability
+
+When more actors receive mandates, it must become easier, not harder, to trace responsibility.
+
+**Build first:** clear mandates, decision traceability, independent audit, appeals, and conflict management.
+
+## 3. Speed
+
+More actors need not mean slower governance — but only if decisions can be made without unnecessary approval chains.
+
+**Build first:** delegated authorities, predefined thresholds, and time-limited crisis rules.
+
+## 4. Knowledge
+
+More pluralism creates more relevant information but also more complexity.
+
+**Build first:** evidence synthesis, deliberation, scenario modeling, and clear ways of representing uncertainty.
+
+## 5. Legitimacy
+
+When new institutions are added, people must understand why they exist.
+
+**Build first:** clear roles, clear mandates, and a comprehensible distribution between electoral legitimacy, citizen deliberation, expertise, and local representation.
+
+---
+
+# Adaptive Subsidiarity
+
+Subsidiarity does not mean:
+
+> "everything should be decided as locally as possible."
+
+It means:
+
+> **"Decisions should be made at the level where they can be handled best, given knowledge, external effects, coordination needs, capacity, legitimacy, and responsibility."**
+
+A function can therefore move:
+
+**downward → upward → sideways → downward again**
+
+depending on what experience and data show.
+
+This makes subsidiarity **adaptive instead of dogmatic**.
+
+---
+
+# Meta-governance
+
+When a society consists of many different governance nodes, a new question arises:
+
+> **Who ensures that the governance systems function together?**
+
+This is where meta-governance comes in.
+
+Meta-governance is not intended as a "super-government."
+
+It is the capacity to:
+
+- detect gaps between institutions
+- handle conflicts between levels
+- improve coordination
+- follow up on how the distribution of responsibilities is working
+- test new institutional solutions
+- change the governance architecture when it no longer fits reality
+
+This is why we do not see governance design as something that is fixed once and for all.
+
+> **The governance system itself must be able to learn.**
+
+---
+
+# From Idea to Test
+
+This project is not about demanding that Sweden jump from today's institutions to a finished ideal model.
+
+Instead, we want to:
+
+**diagnose → formulate → experiment → measure → learn → scale or pull back**
+
+Every reform should therefore be described with:
+
+**Expected benefits**
+
+**Possible drawbacks**
+
+**Uncertainties**
+
+**What could falsify the hypothesis**
+
+**How a pilot can be designed**
+
+**Which results justify the next step**
+
+That is the difference between a political vision and a **learning reform system**.
+
+---
+
+# Our Policy Laboratories
+
+The more concrete proposals on this website should be seen as applications of the same fundamental question:
+
+> **Where does today's system have a structural mismatch between goals, incentives, knowledge, decisions, and responsibility?**
+
+This could involve:
+
+- housing
+- loneliness and community
+- rural areas and regional resilience
+- welfare systems
+- transport and mobility
+- ecological resilience
+- democratic participation
+
+We are not seeking a single mechanism that solves everything.
+
+We are seeking **better mechanisms for different types of problems**.
+
+---
+
+# Research Before Conviction
+
+Swedish Subsidiarity is an independent research and policy project.
+
+We therefore try to do something quite unusual in politics:
+
+> **We want to find arguments that survive attempts to disprove them.**
+
+This means we also publish things that do not work.
+
+An idea does not become better because it is ours.
+
+A reform is not good because it sounds beautiful.
+
+And decentralization is not good just because it is decentralization.
+
+We are interested in what actually improves:
+
+**democratic legitimacy · knowledge quality · coordination · accountability · resilience · adaptability**
+
+---
+
+# Start Here
+
+**[Read the manifesto →](/manifest)**
+
+**[Explore the systems analyses →](/system-analys)**
+
+**[See the governance spectrum →](/ramverk)**
+
+**[Test the tools →](/verktyg)**
+
+**[Visit the library →](/bibliotek)**
+
+---
+
+## A Long-Term Direction
+
+We do not believe that the next step for Swedish democracy is necessarily a new "super-government," a new bloc, or even more centralization.
+
+It could be something simpler:
+
+> **A society where decisions are made closer to those affected when that is better — but where institutions simultaneously have the capacity to coordinate when problems require a larger scale.**
+
+A society where:
+
+**democratic legitimacy** is not opposed to **expertise**,
+
+**local autonomy** is not opposed to **national coordination**,
+
+and **stability** is not opposed to **the ability to change**.
+
+That is the kind of governance we want to examine.
+
+**Right decision. Right place. Right knowledge. Right responsibility.**
+
+---
+
+*Swedish Subsidiarity · An independent research and policy project*
