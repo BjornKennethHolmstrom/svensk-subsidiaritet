@@ -340,7 +340,7 @@ Vi är intresserade av vad som faktiskt förbättrar:
 
 # Börja här
 
-**[Läs manifestet →](/manifest)**
+**[Läs manifestet →](/vision)**
 
 **[Se governance-spektrumet →](/arkitektur)**
 

@@ -340,7 +340,7 @@ We are interested in what actually improves:
 
 # Start Here
 
-**[Read the manifesto →](/manifest)**
+**[Read the manifesto →](/vision)**
 
 **[See the governance spectrum →](/arkitektur)**
 

@@ -1,305 +1,563 @@
-# Manifest för distribuerad systemförståelse
+# Manifest för ett lärande Sverige
 
-## Den svenska vägen från centraliserad kontroll till nätverkad intelligens
+## Bättre styrning för ett komplext samhälle
 
 ---
 
 ## Preambel
-### Centraliseringsparadoxen
 
-Sverige står vid en historisk brytpunkt. Vi har byggt världens mest sofistikerade centraliserade system – inom vård, skola, omsorg, energi och mer därtill. Dessa system är tekniskt excellenta, professionellt ledda och generöst finansierade. **Och de sviker oss.**
+### När komplexiteten överstiger styrningsarkitekturen
 
-Inte trots sin excellens, utan **på grund av den.**
+Sverige har byggt institutioner med hög kompetens, stor räckvidd och betydande förmåga att samordna resurser. Den svenska förvaltningen, välfärdsstaten och det representativa demokratiska systemet har skapat stora värden och bör inte avfärdas.
 
-Våra centraliserade system har:
+Men samhällets problem förändras.
 
-* **Urholkat lokalsamhällets motståndskraft** genom att ersätta mänskliga relationer med byråkratiska processer
-* **Skapat professionella kaster** frikopplade från de liv de säger sig tjäna
-* **Standardiserat mångfald** till homogena lösningar
-* **Koncentrerat makt och rikedom** till Stockholm samtidigt som värde dräneras från regionerna
-* **Optimerat för effektivitet** på bekostnad av anpassningsförmåga
-* **Digitaliserat kontroll** samtidigt som de utlovar demokratisering
+Kunskap finns på fler platser än tidigare. Problem sträcker sig över organisatoriska och geografiska gränser. Lokala förhållanden varierar. Teknologin förändrar både hur människor samarbetar och hur makt utövas. Ekologiska, ekonomiska och sociala system blir allt tätare sammankopplade.
 
-Vi står inte inför isolerade kriser inom bostäder, vård, energi eller utbildning. Vi står inför **en enda kris av övercentralisering** som manifesterar sig över varje område av det svenska livet.
+När styrningsarkitekturen inte längre passar problemens struktur uppstår återkommande följder:
 
-Lösningen är inte bättre centraliserade system. Lösningen är **en helt annan typ av system.**
+* beslut fattas långt från den kunskap som behövs för att fatta dem väl
+* olika institutioner optimerar var för sig och skapar konflikter tillsammans
+* ansvar blir otydligt när problem går över organisatoriska gränser
+* likformighet används där variation skulle kunna ge bättre resultat
+* lokala initiativ får svårt att utvecklas eller spridas
+* central samordning används där lokal anpassning är viktigare
+* lokala särlösningar skapas utan tillräcklig samordning uppåt eller åt sidan
 
----
+Detta betyder inte att centralisering alltid är fel.
 
-## Del I
-### Argumentet för distribuerad systemförståelse
+Det betyder att **centralisering och decentralisering måste behandlas som verktyg, inte trosbekännelser.**
 
-#### Vad vi menar med distribuerad systemförståelse
+Den centrala frågan är:
 
-Distribuerad systemförståelse är **kapaciteten att designa, styra och utveckla komplexa mänskliga system som är lokalt kontrollerade men globalt sammankopplade, motståndskraftiga men anpassningsbara, diversifierade men sammanhängande.**
+> **Vem bör besluta vad, på vilken nivå, med vilken kunskap, med vilket ansvar — och hur ska olika delar av systemet kunna fungera tillsammans?**
 
-Det är inte:
+Vi behöver inte avskaffa staten.
 
-* ❌ En återgång till primitiv lokalism
-* ❌ Ett förkastande av expertis
-* ❌ En nedmontering av välfärdsstaten
-* ❌ En naiv tilltro till teknik
-
-Det är:
-
-* ✅ Erkännandet att intelligens uppstår ur sammankoppling, inte koncentration
-* ✅ Förståelsen att motståndskraft kommer från mångfald, inte likriktning
-* ✅ Praktiken att designa system där kontrollen ökar ju närmare hemmet man kommer
-* ✅ Konsten att balansera lokal autonomi med globalt ansvar
-
-#### Varför Sverige behöver denna kompetens nu
-
-1. **Det demografiska imperativet:** En åldrande befolkning kräver system som är relationsrika, inte bara professionellt bemannade.
-2. **Klimatimperativet:** Klimatresiliens kräver distribuerade energi-, mat- och vattensystem, inte sköra centraliserade sådana.
-3. **Det digitala imperativet:** Teknik kan distribuera makt eller koncentrera den – vi måste välja distribution.
-4. **Det demokratiska imperativet:** Tilliten till institutioner sjunker; endast genuint deltagande kan återställa den.
-5. **Det ekonomiska imperativet:** Centraliserade system håller på att bli för kostsamma; distribuerade system är inneboende mer effektiva i mänsklig skala.
+Vi behöver göra den **bättre på att styra ett komplext samhälle**.
 
 ---
 
-## Del II
-### Principer för distribuerad systemförståelse
+# Del I
 
-#### De tio principerna för svensk subsidiaritet
+## Vad vi menar med subsidiaritet
 
-1. **Närhetsprincipen:** Beslut ska fattas på den nivå som ligger närmast de som berörs.
-2. **Mångfaldsprincipen:** Systemhälsa kräver flera tillvägagångssätt, inte "en bästa väg".
-3. **Redundansprincipen:** Kritiska funktioner bör ha flera oberoende vägar.
-4. **Modularitetsprincipen:** System bör bestå av utbytbara, reparerbara delar.
-5. **Feedback-principen:** Information ska flöda fritt dit den kan informera handling.
-6. **Transparensprincipen:** Makt ska vara synlig och ansvarig inför dem den påverkar.
-7. **Interoperabilitetsprincipen:** Olika system ska fungera tillsammans utan central kontroll.
-8. **Principen om mjukt misslyckande:** System ska fallera på sätt som bevarar kärnfunktioner.
-9. **Evolutionsprincipen:** System ska förbättras genom lokala experiment, inte genom "top-down"-design.
-10. **Relationsprincipen:** Mänsklig sammankoppling är inte en lyx utan ett systemkrav.
+Subsidiaritet betyder inte att allt ska beslutas så nära hemmet som möjligt.
 
----
+Det betyder att beslut bör fattas på **den nivå där kunskap, handlingsförmåga, legitimitet och samordningsbehov bäst kan förenas**.
 
-## Del III
-### Den svenska läroplanen för distribuerade system
+När en lägre nivå kan hantera en fråga väl bör beslut inte lyftas högre än nödvändigt.
 
-#### Grundläggande förmågor för alla medborgare
+När problem skapar stora externa effekter, kräver omfattande riskpoolning, berör grundläggande rättigheter eller behöver samordnas över stora geografiska områden kan en högre nivå vara bättre.
 
-**1. Systemkartläggning**
-* Läsa den dolda arkitekturen i vardagliga system
-* Identifiera hävstångspunkter för förändring
-* Kartlägga resursflöden och beslutsvägar
-* *Praktiseras genom:* Systemrevisioner i lokalsamhället, kartläggning av resursflöden
+Subsidiaritet är därför inte bara decentralisering.
 
-**2. Nätverksbyggande**
-* Bygga tillit över gränser
-* Koppla samman kompletterande förmågor
-* Facilitera framväxt (emergence) utan kontroll
-* *Praktiseras genom:* Samhällskopplar-roller, nätverksbyggande projekt
+Det är **en metod för att placera beslut på rätt nivå**.
 
-**3. Distribuerad styrning**
-* Fatta beslut utan hierarki
-* Balansera autonomi med samordning
-* Utforma ansvarsutkrävande utan byråkrati
-* *Praktiseras genom:* Medborgarråd, deltagande budgetering
+### Adaptiv subsidiaritet
 
-**4. Digital allmänning**
-* Använda teknik för att distribuera snarare än koncentrera makt
-* Bidra till och styra gemensamma digitala resurser
-* Skydda digital suveränitet
-* *Praktiseras genom:* Öppen källkods-projekt, utveckling av digitala kooperativ
+Den bästa beslutsnivån kan förändras över tid.
 
-**5. Lokal produktion**
-* Möta grundläggande behov genom lokala nätverk
-* Sluta resursloopar i samhällsskala
-* Bemästra anpassad teknik (appropriate technology)
-* *Praktiseras genom:* Fab labs, reparationskaféer, lokala matnätverk
+En funktion kan därför röra sig:
 
-**6. Konfliktnavigering**
-* Omvandla konflikt till kreativ spänning
-* Praktisera reparativa metoder
-* Balansera flera perspektiv
-* *Praktiseras genom:* Medlingsträning, dialogcirklar
+**nedåt → uppåt → sidledes → nedåt igen**
 
-#### Avancerade förmågor för systemförvaltare
+beroende på erfarenhet, kunskapsläge, kostnader, externa effekter och förändrade behov.
 
-**7. Utveckling av mönsterspråk**
-* Namnge och dela framgångsrika lokala lösningar
-* Skapa anpassningsbara mallar, inte rigida ritningar
-* Kuratera lösningsbibliotek
-* *Praktiseras genom:* Workshops i mönsterspråk, lösningsdatabaser
+Målet är inte att maximera lokal autonomi.
 
-**8. Omställningsdesign**
-* Hantera systemisk förändring utan kollaps
-* Bygga broar mellan gamla och nya system
-* Sekvensera interventioner för maximal hävstångseffekt
-* *Praktiseras genom:* Omställningslabb, scenarioplanering
-
-**9. Ekologisk integration**
-* Designa mänskliga system som del av naturliga system
-* Tillämpa biomimetik och ekologiska principer
-* Förvalta för regeneration, inte bara hållbarhet
-* *Praktiseras genom:* Permakulturdesign, ekologisk restaurering
-
-**10. Kulturell metabolism**
-* Transformera kulturella narrativ och praktiker
-* Balansera tradition och innovation
-* Skapa ritualer som bäddar in nya mönster
-* *Praktiseras genom:* Kulturella innovationslabb, ritualdesign
+Målet är att **minimera onödig centralisering utan att förlora samordning, jämlikhet eller ansvar**.
 
 ---
 
-## Del IV
-### Implementeringsväg
+# Del II
 
-#### Fas 1: Frönätverk (2026–2028)
-* Etablera **10 folkhögskolor för distribuerade system** över hela Sverige
-* Lansera stipendieprogrammet **"Svenska Systemomställarna"**
-* Skapa **Kommunala innovationszoner** i 50 kommuner med regulatorisk flexibilitet
-* Utveckla **läroplan med öppen källkod** för distribuerad systemförståelse
+## Principer för ett lärande styrningssystem
 
-#### Fas 2: Tillväxtnätverk (2029–2032)
-* Integrera distribuerad förståelse i **alla lärarutbildningar**
-* Etablera **lokala systemlabb** i varje kommun
-* Skapa **Svensk certifiering för distribuerade system** för yrkesverksamma
-* Lansera **nationellt forskningsprogram för distribuerade system**
+### 1. Närhetsprincipen
 
-#### Fas 3: Transformationsnätverk (2033–2040)
-* **Designa om offentliga institutioner** kring distribuerade principer
-* Skapa **nya juridiska entiteter** för gemensam förvaltning
-* Etablera **subsidiaritetsmått** i all policyutvärdering
-* Göra Sverige till **global exportör** av expertis inom distribuerade system
+Beslut bör fattas på den lägsta nivå där de kan hanteras effektivt och legitimt.
 
----
+### 2. Mångfaldsprincipen
 
-## Del V
-### Nödvändiga institutionella innovationer
+Komplexa problem har sällan en enda bästa lösning. System bör kunna rymma relevanta alternativa angreppssätt.
 
-1. **Svenska institutet för distribuerade system**
-   * Forskningscenter, utbildningsnav och certifieringsorgan
-   * Lokaliserat över 8 regioner, ej centraliserat i Stockholm
-   * Styrning: 50 % praktiker, 50 % forskare
+### 3. Redundansprincipen
 
-2. **Kommunala omställningskontor**
-   * I varje kommun, som stöd för lokal transformation
-   * Personal: Rådgivare för systemomställning, samhällsfacilitatorer
-   * Budget: Minst 1 % av kommunens budget
+Kritiska funktioner bör, där det är rimligt, ha flera oberoende vägar för att minska systemisk sårbarhet.
 
-3. **Den svenska tids- och talangbanken**
-   * Nationell plattform för utbyte av färdigheter och tid
-   * Integrerad med välfärds-, utbildnings- och vårdsystem
-   * Skapar alternativa värdeflöden bortom pengar
+### 4. Modularitetsprincipen
 
-4. **Mönsterbiblioteket för svenska lösningar**
-   * Öppen databas med lokalt framgångsrika innovationer
-   * Sökbar efter kontext, resurser, värderingar
-   * Underhålls av bidragsgivare från samhället
+System bör kunna förändras, repareras och experimentera lokalt utan att hela strukturen måste göras om samtidigt.
 
-5. **Den svenska subsidiaritetsrevisionen**
-   * Årlig bedömning av beslutsfattandets närhet
-   * Spårar maktfördelning över alla system
-   * Informerar policy- och finansieringsbeslut
+### 5. Feedback-principen
+
+Information om konsekvenser måste kunna nå dem som kan agera på den.
+
+### 6. Ansvarsspårbarhetsprincipen
+
+När makt delegeras måste det vara tydligt vem som har mandat, ansvar, uppföljning och möjlighet att ingripa.
+
+### 7. Interoperabilitetsprincipen
+
+Självständiga institutioner måste kunna samverka genom gemensamma regler, standarder och kommunikationsvägar.
+
+### 8. Principen om mjukt misslyckande
+
+System bör vara utformade så att lokala eller delvisa fel inte automatiskt blir systemomfattande katastrofer.
+
+### 9. Experimentprincipen
+
+När kunskapen är osäker bör väl avgränsade försök användas för att lära innan en lösning görs permanent eller storskalig.
+
+### 10. Relationsprincipen
+
+Där tillit, omsorg och samarbete är en del av systemets funktion måste styrningen bevara och stärka de relationella förutsättningarna.
 
 ---
 
-## Del VI
-### Det nödvändiga kulturella skiftet
+# Del III
 
-#### Från denna berättelse → Till denna berättelse
+## Vad god styrning måste kunna
 
-**Från expertledd utveckling → Till samhällsledd evolution**
-* Från: "De professionella vet bäst"
-* Till: "Visdom är distribuerad; experter underlättar dess framväxt"
+Vi tror inte att det finns en enda perfekt styrningsmodell.
 
-**Från Stockholm som centrum → Till Sverige som nätverk**
-* Från: "Stockholm leder, regionerna följer"
-* Till: "Flera kompetenscentra, dynamiskt sammankopplade"
+Olika problem kräver olika kombinationer av centralisering, decentralisering, expertis, deltagande och samordning.
 
-**Från enhetlig likabehandling → Till mångfaldig rättvisa**
-* Från: "Samma behandling för alla"
-* Till: "Olika stöd för olika behov och kontexter"
+Ett välfungerande system bör däremot kunna:
 
-**Från individuell konsumtion → Till relationellt bidragande**
-* Från: "Jag konsumerar statliga tjänster"
-* Till: "Vi samskapar samhällets välbefinnande"
+### 1. Använda flera slags kunskap
 
-**Från centraliserad riskhantering → Till distribuerad motståndskraft**
-* Från: "Staten skyddar oss från risk"
-* Till: "Vi bygger kollektivt anpassningsförmåga"
+Vetenskap och data kan hjälpa oss att förstå vad som händer och vad olika åtgärder sannolikt leder till.
 
----
+Professionell sakkunskap kan hjälpa oss att tolka komplexa samband och genomföra beslut.
 
-## Del VII
-### Det svenska löftet
+Människor som berörs av ett system bär erfarenhetskunskap om hur det faktiskt fungerar i vardagen.
 
-#### År 2040 ska Sverige vara:
+Demokratin avgör vilka mål och värden som ska prioriteras.
 
-1. **En nätverkad nation** där varje lokalsamhälle är både unikt sig självt och djupt kopplat till andra.
-2. **En lärande demokrati** där styrning är en delad färdighet, inte en professionell specialitet.
-3. **En motståndskraftig ekologi** där mänskliga system förstärker naturliga system på alla nivåer.
-4. **En kreativ allmänning** där kultur samskapas dagligen, inte konsumeras ibland.
-5. **En distribuerad intelligens** där problem löses där de uppstår, med resurser som matchar.
+Dessa kunskapsformer bör **kopplas samman utan att blandas ihop**.
 
-#### Den svenska fördelen inom distribuerade system
+### 2. Kombinera lokal variation med gemensamma golv
 
-Vi startar med unika styrkor:
-* **Hög social tillit** som möjliggör distribuerat ansvar
-* **Digital excellens** för att bygga sammanlänkande infrastruktur
-* **Kooperativ tradition** redan i vårt kulturella DNA
-* **Miljövärderingar** i linje med distribuerade system
-* **Liten befolkning** som tillåter snabba inlärningscykler
-* **Globalt rykte** för att influera världsomspännande transformation
+Lokala lösningar kan anpassas efter verkliga behov.
 
----
+Nationella eller högre nivåer kan samtidigt behövas för:
 
-## Ett upprop till alla svenskar: Bli systemkunniga
+* grundläggande rättigheter
+* likvärdighet
+* gemensamma kvalitetskrav
+* omfördelning
+* riskpoolning
+* nationell infrastruktur
 
-**Till de unga:** Ni ärver system som fallerar. Försök inte laga dem. Lär er att bygga andra sorters system.
+Mångfald och jämlikhet behöver därför inte vara motsatser.
 
-**Till de äldre:** Ni minns sätt att leva som centraliserade system raderade ut. Dela det minnet; det är inte nostalgi utan visdom.
+### 3. Samordna utan att centralisera allt
 
-**Till de yrkesverksamma:** Er expertis behövs, men inte som monopoliserad kontroll. Bli facilitatorer av samhällets kapacitet.
+Självständiga aktörer måste kunna lösa problem tillsammans utan att alla beslut behöver återföras till en enda central beslutsinstans.
 
-**Till invandrare:** Ni för med er perspektiv från system som fungerar annorlunda. Dessa är inte brister utan tillgångar.
+### 4. Lära utan att destabiliseras
 
-**Till landsbygdsbor:** Ni har fått höra att era sätt är bakåtsträvande. Det är de inte; de är anpassade till platsen. Lär oss.
+Ett system måste kunna experimentera och förändras utan att varje förbättringsförsök hotar de funktioner människor redan är beroende av.
 
-**Till stadsbor:** Ni har dragit nytta av koncentration. Upptäck nu kraften i sammankoppling utan centralisering.
+### 5. Koncentrera makt när det faktiskt behövs
 
-**Till politiker:** Ni kan leda denna transformation eller göras irrelevanta av den. Välj ledarskap.
+Vissa situationer kräver samlad kapacitet: nationell riskpoolning, rättighetsskydd, stora infrastruktursystem eller akuta kriser kan vara exempel.
 
-**Till alla:** Vi är inte konsumenter av system. Vi är deras medskapare. Låt oss bli kunniga i konsten att skapa system värdiga vår mänsklighet.
+Ett distribuerat samhälle måste därför också kunna **koncentrera mandat tillfälligt när omständigheterna kräver det** — och sedan återföra det när behovet upphört.
 
 ---
 
-## Löftet om distribuerad systemförståelse
+# Del IV
 
-Som svensk engagerad i vår gemensamma framtid, lovar jag att:
+## Governance as Engineering
 
-1. **Se system** i deras komplexitet och möjlighet
-2. **Bygga kopplingar** som distribuerar makt och kunskap
-3. **Praktisera styrning** på närmast möjliga nivå
-4. **Dela lärande** fritt och anpassa lösningar lokalt
-5. **Designa för motståndskraft** genom mångfald och redundans
-6. **Använda teknik** för att stärka (empower), inte kontrollera
-7. **Navigera konflikt** som kreativ potential
-8. **Mäta framgång** i välbefinnande, inte bara effektivitet
-9. **Berätta nya historier** om vad som är möjligt
-10. **Börja där jag är** med vad jag har
+Vi betraktar styrning som ett designproblem, men inte som ett problem där det alltid finns ett objektivt "optimalt" svar.
 
----
+Engineering hjälper oss att:
 
-## Tiden är nu
+* formulera problemet tydligt
+* skilja antaganden från observationer
+* identifiera trade-offs
+* modellera möjliga konsekvenser
+* testa hypoteser
+* genomföra begränsade experiment
+* följa upp resultaten
+* ändra kurs när verkligheten säger att vi hade fel
 
-Vi står mellan två framtider:
+Det innebär också en viktig begränsning:
 
-**Framtid A:** Mer centralisering, mer professionalisering, mer standardisering, mer kontroll – vilket oundvikligen leder till mer skörhet, mer alienation, högre kostnader, mer kris.
+> **Empiri kan berätta mycket om konsekvenser. Den kan inte ensam avgöra vilka värden ett samhälle bör prioritera.**
 
-**Framtid B:** Distribuerad intelligens, samhällskapacitet, kontextuella lösningar, system i mänsklig skala – vilket skapar motståndskraft, sammankoppling, överkomlighet och blomstring.
+Frågor om exempelvis jämlikhet, frihet, deltagande, trygghet, gemenskap och ekologiskt ansvar är också politiska och etiska frågor.
 
-**Valet står inte mellan välfärdsstaten och dess förstörelse. Valet står mellan en välfärdsstat som kontrollerar och en som möjliggör.**
+Governance as Engineering försöker därför inte ersätta demokratin med expertis.
 
-Sverige uppfann den moderna välfärdsstaten. Nu måste Sverige återuppfinna den för 2000-talet – inte som centraliserad utförare, utan som distribuerad möjliggörare.
-
-Detta manifest är inte slutet på en konversation. Det är början på en rörelse. En rörelse för att utveckla den kompetens som krävs för att bygga det Sverige vi behöver – och genom att göra det, erbjuda världen en modell för hur moderna samhällen kan distribuera makt utan att förlora sammanhållning, hur de kan omfamna mångfald utan att offra solidaritet, hur de kan vara lokalt förankrade och globalt sammankopplade.
-
-**Låt oss bli den mest systemkunniga nationen på jorden. Låt oss bygga det Distribuerade Sverige.**
+Det försöker göra **demokratisk styrning bättre informerad, mer experimentell och mer förmögen att lära**.
 
 ---
 
-*Detta manifest utformades som en del av det Svenska Subsidiaritetsprojektet – en utforskning av hur Sverige skulle kunna transformeras från centraliserad kontroll till distribuerad intelligens över samhällets alla system.*
+# Del V
+
+## Olika problem kräver olika styrning
+
+Det finns inget skäl att behandla alla samhällssystem som om de hade samma optimala beslutsnivå.
+
+En förenklad princip är:
+
+| Problemtyp                      | Typisk styrningsfördel                   |
+| ------------------------------- | ---------------------------------------- |
+| Stark lokal kontext och kunskap | Lägre nivå                               |
+| Stora externa effekter          | Högre nivå eller stark samordning        |
+| Omfattande riskpoolning         | Större gemensam nivå                     |
+| Grundläggande rättigheter       | Gemensamt skydd                          |
+| Tydliga stordriftsfördelar      | Samlad organisation där det är motiverat |
+| Relationer och lokal tillit     | Närmare berörda människor                |
+| Tvärgående problem              | Fler nivåer tillsammans                  |
+| Osäkerhet och innovation        | Experiment och parallella lösningar      |
+| Akuta kriser                    | Möjlighet till tillfällig koncentration  |
+
+Detta är inte en färdig formel.
+
+Det är en utgångspunkt för analys.
+
+För varje område bör vi fråga:
+
+> **Var finns kunskapen? Var uppstår konsekvenserna? Hur stort är riskpoolningsbehovet? Vilka externa effekter finns? Vilka rättigheter måste garanteras? Vilka stordriftsfördelar finns? Hur kan ansvar hållas spårbart?**
+
+---
+
+# Del VI
+
+## Vägen från dagens system
+
+Vi tror inte på en enda stor reform där Sverige byter styrningssystem över en natt.
+
+Institutionell förändring bör vara **kapacitetsbaserad och stegvis**.
+
+### 1. Bygg bättre beslutsunderlag
+
+Stärk oberoende kapacitet för:
+
+* evidenssyntes
+* prognoser
+* systemanalys
+* scenarioplanering
+* konsekvensbedömning
+* uppföljning
+
+### 2. Fördjupa deliberationen
+
+Bygg permanenta mekanismer för medborgardeliberation där komplexa eller långsiktiga frågor motiverar det.
+
+### 3. Förbättra samordningen
+
+Stärk samverkan mellan:
+
+* departement
+* myndigheter
+* kommuner
+* regioner
+* civilsamhälle
+* andra relevanta aktörer
+
+### 4. Gör ansvar spårbart
+
+Utveckla tydligare regler för:
+
+* mandat
+* beslut
+* dokumentation
+* uppföljning
+* revision
+* överklagande
+* konflikthantering
+
+### 5. Testa subsidiaritet selektivt
+
+Identifiera funktioner där det finns goda skäl att anta att mer lokal eller funktionellt distribuerad styrning kan fungera bättre.
+
+Pröva förändringen i kontrollerad skala.
+
+Mät.
+
+Lär.
+
+Skala upp, ändra eller backa.
+
+### 6. Bygg interoperabilitet
+
+När fler självständiga aktörer delar ansvar behövs gemensamma protokoll för:
+
+* information
+* data
+* standarder
+* eskalering
+* gränsöverskridande problem
+* kriser
+
+### 7. Utveckla polycentriska lösningar där de behövs
+
+Där problem redan är tvärgående, lokala eller funktionellt regionala kan flera beslutscentra behöva samverka i stället för att underordnas en enda central aktör.
+
+### 8. Gör styrningen själv lärande
+
+När erfarenheten ökar bör även ansvarsfördelningen kunna förändras.
+
+Styrningsarkitekturen ska inte bara styra samhället.
+
+Den ska också kunna **utvärdera och förbättra sig själv**.
+
+---
+
+# Del VII
+
+## Övergången måste byggas för att inte skapa nya problem
+
+En reform kan vara bra i sitt slutläge och ändå skadlig under övergången.
+
+Om central samordning minskar snabbare än alternativ samordning byggs kan koordinationen falla.
+
+Om makt sprids snabbare än ansvarssystemen kan ansvarsutkrävandet falla.
+
+Om fler aktörer inkluderas utan bättre former för kunskapsintegration kan besluten bli långsammare utan att bli bättre.
+
+Detta är **Transition Valley**.
+
+Därför gäller en enkel övergångsprincip:
+
+> **Bevara → förstärk → koppla samman → testa → delegera → integrera → anpassa.**
+
+Vi ska inte försvaga en bärande funktion innan en fungerande ersättning finns.
+
+Det gäller särskilt:
+
+**koordination**
+
+**ansvar**
+
+**krishantering**
+
+**rättighetsskydd**
+
+**riskpoolning**
+
+**administrativ kompetens**
+
+---
+
+# Del VIII
+
+## Ett lärande Sverige
+
+Vi vill att Sverige stegvis ska utveckla större förmåga att:
+
+1. fatta beslut på rätt nivå
+2. kombinera vetenskaplig, professionell och erfarenhetsbaserad kunskap
+3. förena lokal variation med gemensamma rättigheter och kvalitetsgolv
+4. samordna självständiga institutioner
+5. experimentera utan att göra hela systemet instabilt
+6. upptäcka när institutionella lösningar inte längre passar problemen
+7. ändra styrningsarkitekturen utan att varje förändring blir en systemkris
+
+Detta är inte ett löfte om en perfekt framtid.
+
+Det är ett mål om **större samhällelig lärförmåga**.
+
+---
+
+# Del IX
+
+## Institutionella prototyper
+
+Flera idéer kan vara värda att pröva, beroende på problemområde och lokala förutsättningar.
+
+Exempel:
+
+### Oberoende systems- och evidenskapacitet
+
+En nationell eller nätverksbaserad kapacitet för systemanalys, scenarier, policyutvärdering och komplexitetsanalys.
+
+### Medborgarförsamlingar
+
+Slumpmässigt sammansatta grupper som får tid, information och professionell facilitering för att överväga komplexa frågor.
+
+### Subsidiaritetsrevision
+
+Systematisk prövning av om ansvar ligger på en rimlig nivå och om dagens ansvarsfördelning skapar onödiga problem.
+
+### Lokala och regionala innovationszoner
+
+Avgränsade miljöer där nya styrningsformer kan testas under tydliga rättsliga och ekonomiska ramar.
+
+### Mönsterbibliotek
+
+Öppna samlingar av lokalt utvecklade lösningar som kan anpassas och prövas i andra sammanhang.
+
+### Tvärskaliga samordningsforum
+
+Strukturer för att hantera problem som inte passar in i befintliga administrativa gränser.
+
+Dessa ska ses som **prototyper och hypoteser**, inte som färdiga institutionella dogmer.
+
+---
+
+# Del X
+
+## Vad vi värderar
+
+Styrning är inte värdeneutral.
+
+Vi kan behöva balansera:
+
+**jämlikhet och autonomi**
+
+**enhetlighet och mångfald**
+
+**effektivitet och delaktighet**
+
+**stabilitet och experiment**
+
+**individuell frihet och gemensamt ansvar**
+
+**kortsiktiga behov och långsiktig resiliens**
+
+Det finns inget system där alla dessa värden maximeras samtidigt.
+
+En mogen demokrati bör därför inte låtsas att konflikterna kan optimeras bort.
+
+Den bör göra dem **synliga, begripliga och demokratiskt hanterbara**.
+
+---
+
+# Del XI
+
+## Det större sammanhanget
+
+Svensk Subsidiaritet fokuserar på svensk styrning, men Sverige är inte ett isolerat system.
+
+Svenska kommuner och regioner verkar inom en nationell konstitutionell ordning.
+
+Sverige verkar inom EU.
+
+Sverige är en del av nordiska och globala institutionella nätverk.
+
+Ekonomiska aktörer, digitala plattformar, civilsamhälle, professionella nätverk och internationella organisationer påverkar också hur makt, information och resurser faktiskt fördelas.
+
+Ett framtida styrningssystem måste därför kunna hantera:
+
+> **flera aktörer, flera nivåer, flera typer av legitimitet och flera typer av kunskap.**
+
+Detta är en av anledningarna till att vi studerar **polycentrisk styrning och meta-governance**.
+
+Meta-governance handlar inte om att skapa en superregering.
+
+Det handlar om att bygga förmåga att **samordna, utvärdera och utveckla relationerna mellan olika styrningssystem utan att onödigtvis ersätta deras autonomi**.
+
+---
+
+# Del XII
+
+## Vårt sätt att arbeta
+
+Vi vill inte bara argumentera för reformer.
+
+Vi vill undersöka dem.
+
+Därför bör varje större reformidé så långt som möjligt innehålla:
+
+**Förväntade vinster**
+
+**Möjliga nackdelar**
+
+**Osäkerheter**
+
+**Berörda grupper och incitament**
+
+**Institutionella hinder**
+
+**Möjliga pilotformer**
+
+**Mätbara utfall**
+
+**Villkor för uppskalning**
+
+**Villkor för att ändra eller avbryta försöket**
+
+Det gäller även våra egna idéer.
+
+> **En idé blir inte bättre för att den är vår.**
+
+Och:
+
+> **En reform är inte bra bara för att den är decentraliserande.**
+
+Vi söker lösningar som fungerar.
+
+---
+
+# Ett öppet upprop
+
+Svensk Subsidiaritet är inte ett färdigt svar.
+
+Det är en riktning för undersökning.
+
+Till politiker:
+
+**Pröva nya former där dagens institutioner inte fungerar väl.**
+
+Till tjänstepersoner:
+
+**Dela erfarenheter om vad som faktiskt fungerar i praktiken.**
+
+Till forskare:
+
+**Hjälp oss att upptäcka när våra hypoteser inte håller.**
+
+Till kommuner och regioner:
+
+**Testa där förändring kan göras säkert och mätbart.**
+
+Till medborgare:
+
+**Bidra med erfarenheter, perspektiv och kritik.**
+
+Till alla:
+
+> **Använd det som fungerar. Förbättra det som kan förbättras. Förkasta det som inte håller.**
+
+---
+
+# Ett löfte om ett lärande Sverige
+
+Vi tror att ett robust samhälle inte är ett samhälle som aldrig förändras.
+
+Det är ett samhälle som kan:
+
+**märka när verkligheten förändras,**
+
+**förstå vad som behöver förändras,**
+
+**testa nya lösningar,**
+
+**bevara det som fungerar,**
+
+**lära av det som misslyckas,**
+
+och **anpassa sina institutioner utan att förlora sin sammanhållning.**
+
+Det är vår vision för Sverige:
+
+> **Inte en stat som kontrollerar allt.**
+>
+> **Inte ett samhälle där alla lämnas åt sig själva.**
+>
+> **Utan ett samhälle som kan fördela ansvar där det hör hemma och samtidigt hålla samman det som måste hållas samman.**
+
+**Rätt beslut. Rätt plats. Rätt kunskap. Rätt ansvar.**
+
+---
+
+*Detta manifest är en del av Svensk Subsidiaritet — ett oberoende forsknings- och policyinitiativ för att undersöka hur svensk styrning kan bli mer demokratisk, kunskapsbaserad, resilient och adaptiv.*
+

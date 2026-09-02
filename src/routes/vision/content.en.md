@@ -1,302 +1,562 @@
-# Manifesto for Distributed Systems Literacy
+# Manifesto for a Learning Sweden
 
-## The Swedish Path from Centralized Control to Networked Intelligence
+## Better governance for a complex society
 
 ---
 
 ## Preamble
-### The Centralization Paradox
 
-Sweden stands at a historic inflection point. We have built the world's most sophisticated centralized systems—in healthcare, education, welfare, energy, and beyond. These systems are technically excellent, professionally managed, and generously funded. **And they are failing us.**
+### When complexity exceeds the governance architecture
 
-Not despite their excellence, but **because of it.**
+Sweden has built institutions with high competence, broad reach, and significant capacity to coordinate resources. The Swedish public administration, the welfare state, and the representative democratic system have created great value and should not be dismissed.
 
-Our centralized systems have:
-- **Eroded community resilience** by replacing human relationships with bureaucratic processes
-- **Created professional castes** detached from the lives they purport to serve
-- **Standardized diversity** into homogeneous solutions
-- **Concentrated power and wealth** in Stockholm while extracting value from regions
-- **Optimized for efficiency** at the expense of adaptability
-- **Digitized control** while promising democratization
+But society's problems are changing.
 
-We face not isolated crises in housing, healthcare, energy, or education. We face **a singular crisis of over-centralization** manifesting across every domain of Swedish life.
+Knowledge exists in more places than before. Problems extend across organizational and geographic boundaries. Local conditions vary. Technology is changing both how people collaborate and how power is exercised. Ecological, economic, and social systems are becoming increasingly interconnected.
 
-The solution is not better centralized systems. The solution is **a different kind of system altogether.**
+When the governance architecture no longer fits the structure of the problems, recurring consequences arise:
 
----
+* decisions are made far from the knowledge needed to make them well
+* different institutions optimize separately and create conflicts together
+* responsibility becomes unclear when problems cross organizational boundaries
+* uniformity is used where variation could produce better results
+* local initiatives find it difficult to develop or spread
+* central coordination is used where local adaptation is more important
+* local special solutions are created without sufficient coordination upward or sideways
 
-## Part I
-### The Case for Distributed Systems Literacy
+This does not mean that centralization is always wrong.
 
-#### What We Mean by Distributed Systems Literacy
+It means that **centralization and decentralization must be treated as tools, not creeds.**
 
-Distributed Systems Literacy is **the capacity to design, govern, and evolve complex human systems that are locally controlled yet globally connected, resilient yet adaptive, diverse yet coherent.**
+The central question is:
 
-It is not:
-- ❌ A return to primitive localism
-- ❌ A rejection of expertise
-- ❌ A dismantling of the welfare state
-- ❌ A naive faith in technology
+> **Who should decide what, at what level, with what knowledge, with what responsibility — and how should different parts of the system be able to function together?**
 
-It is:
-- ✅ The recognition that intelligence emerges from connection, not concentration
-- ✅ The understanding that resilience comes from diversity, not uniformity
-- ✅ The practice of designing systems where control increases as you move closer to home
-- ✅ The art of balancing local autonomy with global responsibility
+We do not need to abolish the state.
 
-#### Why Sweden Needs This Literacy Now
-
-1. **The Demographic Imperative:** An aging population demands systems that are relationship-rich, not just professionally staffed.
-2. **The Climate Imperative:** Climate resilience requires distributed energy, food, and water systems, not brittle centralized ones.
-3. **The Digital Imperative:** Technology can distribute power or concentrate it—we must choose distribution.
-4. **The Democratic Imperative:** Trust in institutions is declining; only genuine participation can restore it.
-5. **The Economic Imperative:** Centralized systems are becoming unaffordable; distributed systems are inherently more efficient at human scale.
+We need to make it **better at governing a complex society**.
 
 ---
 
-## Part II
-### Principles of Distributed Systems Literacy
+# Part I
 
-#### The Ten Principles of Swedish Subsidiarity
+## What we mean by subsidiarity
 
-1. **The Proximity Principle:** Decisions should be made at the closest possible level to those affected.
-2. **The Diversity Principle:** System health requires multiple approaches, not one best way.
-3. **The Redundancy Principle:** Critical functions should have multiple independent pathways.
-4. **The Modularity Principle:** Systems should be composed of interchangeable, repairable parts.
-5. **The Feedback Principle:** Information should flow freely to where it can inform action.
-6. **The Transparency Principle:** Power should be visible and accountable to those it affects.
-7. **The Interoperability Principle:** Different systems should work together without central control.
-8. **The Graceful Failure Principle:** Systems should fail in ways that preserve core functions.
-9. **The Evolutionary Principle:** Systems should improve through local experimentation, not top-down design.
-10. **The Relational Principle:** Human connection is not a luxury but a system requirement.
+Subsidiarity does not mean that everything should be decided as close to home as possible.
 
----
+It means that decisions should be made at **the level where knowledge, capacity to act, legitimacy, and the need for coordination can best be combined**.
 
-## Part III
-### The Swedish Distributed Systems Curriculum
+When a lower level can handle an issue well, decisions should not be raised higher than necessary.
 
-#### Foundational Capacities for All Citizens
+When problems create major external effects, require extensive risk pooling, concern fundamental rights, or need to be coordinated over large geographic areas, a higher level may be better.
 
-**1. Systems Mapping Literacy**
-- Reading the hidden architecture of everyday systems
-- Identifying leverage points for change
-- Mapping resource flows and decision pathways
-- *Practiced through:* Community system audits, resource flow mapping
+Subsidiarity is therefore not just decentralization.
 
-**2. Network Weaving Literacy**
-- Building trust across differences
-- Connecting complementary capacities
-- Facilitating emergence without control
-- *Practiced through:* Community connector roles, network building projects
+It is **a method for placing decisions at the right level**.
 
-**3. Distributed Governance Literacy**
-- Making decisions without hierarchy
-- Balancing autonomy with coordination
-- Designing accountability without bureaucracy
-- *Practiced through:* Citizen assemblies, participatory budgeting
+### Adaptive subsidiarity
 
-**4. Digital Commons Literacy**
-- Using technology to distribute rather than concentrate power
-- Contributing to and governing shared digital resources
-- Protecting digital sovereignty
-- *Practiced through:* Open-source projects, digital cooperative development
+The best decision level can change over time.
 
-**5. Local Production Literacy**
-- Meeting basic needs through local networks
-- Closing resource loops at community scale
-- Mastering appropriate technology
-- *Practiced through:* Fab labs, repair cafes, local food networks
+A function can therefore move:
 
-**6. Conflict Navigation Literacy**
-- Transforming conflict into creative tension
-- Practicing restorative approaches
-- Balancing multiple perspectives
-- *Practiced through:* Mediation training, dialogue circles
+**downward → upward → sideways → downward again**
 
-#### Advanced Capacities for System Stewards
+depending on experience, the state of knowledge, costs, external effects, and changing needs.
 
-**7. Pattern Language Development**
-- Naming and sharing successful local solutions
-- Creating adaptable templates, not rigid blueprints
-- Curating solution libraries
-- *Practiced through:* Pattern language workshops, solution databases
+The goal is not to maximize local autonomy.
 
-**8. Transition Design**
-- Managing systemic change without collapse
-- Building bridges between old and new systems
-- Sequencing interventions for maximum leverage
-- *Practiced through:* Transition labs, scenario planning
-
-**9. Ecological Integration**
-- Designing human systems as part of natural systems
-- Applying biomimicry and ecological principles
-- Managing for regeneration, not just sustainability
-- *Practiced through:* Permaculture design, ecological restoration
-
-**10. Cultural Metabolism**
-- Transforming cultural narratives and practices
-- Balancing tradition and innovation
-- Creating rituals that embed new patterns
-- *Practiced through:* Cultural innovation labs, ritual design
+The goal is to **minimize unnecessary centralization without losing coordination, equality, or accountability**.
 
 ---
 
-## Part IV
-### Implementation Pathway
+# Part II
 
-#### Phase 1: Seed Networks (2026–2028)
-- Establish **10 Distributed Systems Folk High Schools** across Sweden
-- Launch **"Svenska Systemombildaren"** (Swedish Systems Transformers) fellowship program
-- Create **Municipal Innovation Zones** in 50 kommuner with regulatory flexibility
-- Develop **open-source curriculum** for distributed systems literacy
+## Principles for a learning governance system
 
-#### Phase 2: Growth Networks (2029–2032)
-- Integrate distributed literacy into **all teacher education programs**
-- Establish **community systems labs** in every municipality
-- Create **Swedish Distributed Systems Certification** for professionals
-- Launch **national distributed systems research program**
+### 1. The proximity principle
 
-#### Phase 3: Transformation Networks (2033–2040)
-- **Redesign public institutions** around distributed principles
-- Create **new legal entities** for community stewardship
-- Establish **subsidiarity metrics** in all policy evaluation
-- Make Sweden **global exporter** of distributed systems expertise
+Decisions should be made at the lowest level where they can be handled effectively and legitimately.
 
----
+### 2. The diversity principle
 
-## Part V
-### Institutional Innovations Required
+Complex problems rarely have a single best solution. Systems should be able to accommodate relevant alternative approaches.
 
-1. **The Swedish Distributed Systems Institute**
-   - Research center, training hub, and certification body
-   - Located across 8 regions, not centralized in Stockholm
-   - Governance: 50% practitioners, 50% researchers
+### 3. The redundancy principle
 
-2. **Municipal Systems Transition Offices**
-   - In every kommun, supporting local transformation
-   - Staff: Systems transition advisors, community facilitators
-   - Budget: 1% of municipal budget minimum
+Critical functions should, where reasonable, have several independent pathways to reduce systemic vulnerability.
 
-3. **The Swedish Time and Talent Bank**
-   - National platform for skill and time exchange
-   - Integrated with welfare, education, and healthcare systems
-   - Creates alternative value flows beyond money
+### 4. The modularity principle
 
-4. **The Pattern Library of Swedish Solutions**
-   - Open database of locally successful innovations
-   - Searchable by context, resources, values
-   - Maintained by community contributors
+Systems should be able to change, repair, and experiment locally without the entire structure having to be remade at the same time.
 
-5. **The Swedish Subsidiarity Audit**
-   - Annual assessment of decision-making proximity
-   - Tracks power distribution across all systems
-   - Informs policy and funding decisions
+### 5. The feedback principle
+
+Information about consequences must be able to reach those who can act on it.
+
+### 6. The accountability traceability principle
+
+When power is delegated, it must be clear who has the mandate, responsibility, follow-up, and ability to intervene.
+
+### 7. The interoperability principle
+
+Independent institutions must be able to collaborate through common rules, standards, and communication channels.
+
+### 8. The soft failure principle
+
+Systems should be designed so that local or partial failures do not automatically become system-wide catastrophes.
+
+### 9. The experimentation principle
+
+When knowledge is uncertain, well-delimited trials should be used to learn before a solution is made permanent or large-scale.
+
+### 10. The relational principle
+
+Where trust, care, and cooperation are part of the system's function, governance must preserve and strengthen the relational conditions.
 
 ---
 
-## Part VI
-### The Cultural Shift Required
+# Part III
 
-#### From This Story → To This Story
+## What good governance must be able to do
 
-**From Expert-Led Development → To Community-Led Evolution**
-- From: "Professionals know best"
-- To: "Wisdom is distributed; experts facilitate its emergence"
+We do not believe that there is a single perfect governance model.
 
-**From Stockholm as Center → To Sweden as Network**
-- From: "Stockholm leads, regions follow"
-- To: "Multiple centers of excellence, dynamically connected"
+Different problems require different combinations of centralization, decentralization, expertise, participation, and coordination.
 
-**From Uniform Equality → To Diverse Equity**
-- From: "Same treatment for all"
-- To: "Different support for different needs and contexts"
+A well-functioning system should, however, be able to:
 
-**From Individual Consumption → To Relational Contribution**
-- From: "I consume state services"
-- To: "We co-create community wellbeing"
+### 1. Use several kinds of knowledge
 
-**From Centralized Risk Management → To Distributed Resilience**
-- From: "The state protects us from risk"
-- To: "We collectively build adaptive capacity"
+Science and data can help us understand what is happening and what different measures are likely to lead to.
 
----
+Professional expertise can help us interpret complex relationships and implement decisions.
 
-## Part VII
-### The Swedish Promise
+People affected by a system carry experiential knowledge about how it actually works in everyday life.
 
-#### By 2040, Sweden Will Be:
+Democracy determines which goals and values should be prioritized.
 
-1. **A Networked Nation** where every community is both uniquely itself and deeply connected to others.
-2. **A Learning Democracy** where governance is a shared skill, not a professional specialty.
-3. **A Resilient Ecology** where human systems enhance natural systems at every scale.
-4. **A Creative Commons** where culture is co-created daily, not consumed occasionally.
-5. **A Distributed Intelligence** where problems are solved where they emerge, with resources that match.
+These forms of knowledge should be **linked together without being conflated**.
 
-#### The Swedish Distributed Systems Advantage
+### 2. Combine local variation with common floors
 
-We start with unique strengths:
-- **High social trust** to enable distributed responsibility
-- **Digital excellence** to build connecting infrastructure
-- **Cooperative tradition** already in our cultural DNA
-- **Environmental values** aligned with distributed systems
-- **Small population** allowing rapid learning cycles
-- **Global reputation** to influence worldwide transformation
+Local solutions can be adapted to real needs.
 
----
+National or higher levels may at the same time be needed for:
 
-## A Call to All Swedes: Become Systems Literate
+* fundamental rights
+* equality
+* common quality requirements
+* redistribution
+* risk pooling
+* national infrastructure
 
-**To the Young:** You inherit systems that are failing. Do not try to fix them. Learn to build different ones.
+Diversity and equality therefore need not be opposites.
 
-**To the Elders:** You remember ways of living that centralized systems erased. Share that memory; it is not nostalgia but wisdom.
+### 3. Coordinate without centralizing everything
 
-**To Professionals:** Your expertise is needed, but not as monopoly control. Become facilitators of community capacity.
+Independent actors must be able to solve problems together without every decision having to be returned to a single central decision-making body.
 
-**To Immigrants:** You bring perspectives from systems that work differently. These are not deficiencies but assets.
+### 4. Learn without being destabilized
 
-**To Rural Swedes:** You have been told your ways are backwards. They are not; they are adapted to place. Teach us.
+A system must be able to experiment and change without every improvement attempt threatening the functions people already depend on.
 
-**To Urban Swedes:** You have benefited from concentration. Now discover the power of connection without centralization.
+### 5. Concentrate power when it is actually needed
 
-**To Politicians:** You can lead this transformation or be made irrelevant by it. Choose leadership.
+Some situations require pooled capacity: national risk pooling, rights protection, large infrastructure systems, or acute crises can be examples.
 
-**To All:** We are not consumers of systems. We are their co-creators. Let us become literate in the art of creating systems worthy of our humanity.
+A distributed society must therefore also be able to **temporarily concentrate mandates when circumstances require it** — and then return them when the need has ceased.
 
 ---
 
-## The Distributed Systems Literacy Pledge
+# Part IV
 
-As a Swede committed to our collective future, I pledge to:
+## Governance as Engineering
 
-1. **See systems** in their complexity and possibility
-2. **Build connections** that distribute power and knowledge
-3. **Practice governance** at the closest possible level
-4. **Share learning** freely and adapt solutions locally
-5. **Design for resilience** through diversity and redundancy
-6. **Use technology** to empower, not control
-7. **Navigate conflict** as creative potential
-8. **Measure success** in wellbeing, not just efficiency
-9. **Tell new stories** of what is possible
-10. **Begin where I am** with what I have
+We regard governance as a design problem, but not as a problem where there is always an objective "optimal" answer.
 
----
+Engineering helps us to:
 
-## The Time Is Now
+* formulate the problem clearly
+* separate assumptions from observations
+* identify trade-offs
+* model possible consequences
+* test hypotheses
+* conduct limited experiments
+* follow up on results
+* change course when reality tells us we were wrong
 
-We stand between two futures:
+It also entails an important limitation:
 
-**Future A:** More centralization, more professionalization, more standardization, more control—leading inevitably to more fragility, more alienation, more cost, more crisis.
+> **Empirical evidence can tell us a great deal about consequences. It cannot alone determine which values a society should prioritize.**
 
-**Future B:** Distributed intelligence, community capacity, contextual solutions, human-scale systems—creating resilience, connection, affordability, and flourishing.
+Questions concerning, for example, equality, freedom, participation, security, community, and ecological responsibility are also political and ethical questions.
 
-**The choice is not between the welfare state and its destruction. The choice is between a welfare state that controls and one that empowers.**
+Governance as Engineering therefore does not try to replace democracy with expertise.
 
-Sweden invented the modern welfare state. Now Sweden must reinvent it for the 21st century—not as centralized provider, but as distributed enabler.
-
-This manifesto is not the end of a conversation. It is the beginning of a movement. A movement to develop the literacy needed to build the Sweden we need—and in doing so, offer the world a model for how modern societies can distribute power without losing cohesion, how they can embrace diversity without sacrificing solidarity, how they can be locally rooted and globally connected.
-
-**Let us become the most systems-literate nation on Earth. Let us build Distributed Sweden.**
+It tries to make **democratic governance better informed, more experimental, and more capable of learning**.
 
 ---
 
-*This manifesto was drafted as part of the Swedish Subsidiarity Project—an exploration of how Sweden might transform from centralized control to distributed intelligence across all systems of society.*
+# Part V
+
+## Different problems require different governance
+
+There is no reason to treat all societal systems as though they had the same optimal decision level.
+
+A simplified principle is:
+
+| Problem type                      | Typical governance distribution            |
+| --------------------------------- | ------------------------------------------ |
+| Strong local context and knowledge | Lower level                               |
+| Large external effects            | Higher level or strong coordination        |
+| Extensive risk pooling            | Larger common level                        |
+| Fundamental rights                | Common protection                          |
+| Clear economies of scale          | Pooled organization where justified        |
+| Relationships and local trust     | Closer to the people affected              |
+| Cross-cutting problems            | Several levels together                    |
+| Uncertainty and innovation        | Experimentation and parallel solutions     |
+| Acute crises                      | Possibility of temporary concentration     |
+
+This is not a finished formula.
+
+It is a starting point for analysis.
+
+For each area we should ask:
+
+> **Where is the knowledge? Where do the consequences arise? How great is the need for risk pooling? What external effects exist? Which rights must be guaranteed? What economies of scale exist? How can accountability be kept traceable?**
+
+---
+
+# Part VI
+
+## The path from today's system
+
+We do not believe in a single major reform where Sweden changes its governance system overnight.
+
+Institutional change should be **capacity-based and gradual**.
+
+### 1. Build better decision support
+
+Strengthen independent capacity for:
+
+* evidence synthesis
+* forecasting
+* systems analysis
+* scenario planning
+* impact assessment
+* follow-up
+
+### 2. Deepen deliberation
+
+Build permanent mechanisms for citizen deliberation where complex or long-term issues justify it.
+
+### 3. Improve coordination
+
+Strengthen collaboration between:
+
+* ministries
+* government agencies
+* municipalities
+* regions
+* civil society
+* other relevant actors
+
+### 4. Make accountability traceable
+
+Develop clearer rules for:
+
+* mandates
+* decisions
+* documentation
+* follow-up
+* audit
+* appeals
+* conflict management
+
+### 5. Test subsidiarity selectively
+
+Identify functions where there are good reasons to believe that more local or functionally distributed governance could work better.
+
+Test the change at a controlled scale.
+
+Measure.
+
+Learn.
+
+Scale up, modify, or pull back.
+
+### 6. Build interoperability
+
+When more independent actors share responsibility, common protocols are needed for:
+
+* information
+* data
+* standards
+* escalation
+* cross-boundary problems
+* crises
+
+### 7. Develop polycentric solutions where they are needed
+
+Where problems are already cross-cutting, local, or functionally regional, several decision centers may need to collaborate instead of being subordinated to a single central actor.
+
+### 8. Make governance itself learning
+
+As experience grows, the distribution of responsibilities should also be able to change.
+
+The governance architecture should not only govern society.
+
+It should also be able to **evaluate and improve itself**.
+
+---
+
+# Part VII
+
+## The transition must be built so as not to create new problems
+
+A reform can be good in its end state and still be harmful during the transition.
+
+If central coordination decreases faster than alternative coordination is built, coordination can collapse.
+
+If power is spread faster than accountability systems, accountability can collapse.
+
+If more actors are included without better forms of knowledge integration, decisions can become slower without becoming better.
+
+This is **Transition Valley**.
+
+A simple transition principle therefore applies:
+
+> **Preserve → strengthen → connect → test → delegate → integrate → adapt.**
+
+We must not weaken a load-bearing function before a working replacement exists.
+
+This applies especially to:
+
+**coordination**
+
+**accountability**
+
+**crisis management**
+
+**rights protection**
+
+**risk pooling**
+
+**administrative competence**
+
+---
+
+# Part VIII
+
+## A learning Sweden
+
+We want Sweden to gradually develop a greater ability to:
+
+1. make decisions at the right level
+2. combine scientific, professional, and experience-based knowledge
+3. unite local variation with common rights and quality floors
+4. coordinate independent institutions
+5. experiment without making the entire system unstable
+6. detect when institutional solutions no longer fit the problems
+7. change the governance architecture without every change becoming a systemic crisis
+
+This is not a promise of a perfect future.
+
+It is a goal of **greater societal learning capacity**.
+
+---
+
+# Part IX
+
+## Institutional prototypes
+
+Several ideas may be worth testing, depending on the problem area and local conditions.
+
+Examples:
+
+### Independent systems and evidence capacity
+
+A national or network-based capacity for systems analysis, scenarios, policy evaluation, and complexity analysis.
+
+### Citizens' assemblies
+
+Randomly composed groups that receive time, information, and professional facilitation to consider complex issues.
+
+### Subsidiarity review
+
+Systematic examination of whether responsibility lies at a reasonable level and whether the current distribution of responsibilities creates unnecessary problems.
+
+### Local and regional innovation zones
+
+Delimited environments where new forms of governance can be tested under clear legal and economic frameworks.
+
+### Pattern library
+
+Open collections of locally developed solutions that can be adapted and tested in other contexts.
+
+### Cross-scale coordination forums
+
+Structures for handling problems that do not fit within existing administrative boundaries.
+
+These should be seen as **prototypes and hypotheses**, not as finished institutional dogmas.
+
+---
+
+# Part X
+
+## What we value
+
+Governance is not value-neutral.
+
+We may need to balance:
+
+**equality and autonomy**
+
+**uniformity and diversity**
+
+**efficiency and participation**
+
+**stability and experimentation**
+
+**individual freedom and shared responsibility**
+
+**short-term needs and long-term resilience**
+
+There is no system in which all these values are maximized simultaneously.
+
+A mature democracy should therefore not pretend that these conflicts can be optimized away.
+
+It should make them **visible, comprehensible, and democratically manageable**.
+
+---
+
+# Part XI
+
+## The larger context
+
+Swedish Subsidiarity focuses on Swedish governance, but Sweden is not an isolated system.
+
+Swedish municipalities and regions operate within a national constitutional order.
+
+Sweden operates within the EU.
+
+Sweden is part of Nordic and global institutional networks.
+
+Economic actors, digital platforms, civil society, professional networks, and international organizations also influence how power, information, and resources are actually distributed.
+
+A future governance system must therefore be able to handle:
+
+> **multiple actors, multiple levels, multiple types of legitimacy, and multiple types of knowledge.**
+
+This is one of the reasons we study **polycentric governance and meta-governance**.
+
+Meta-governance is not about creating a super-government.
+
+It is about building the capacity to **coordinate, evaluate, and develop the relationships between different governance systems without unnecessarily replacing their autonomy**.
+
+---
+
+# Part XII
+
+## Our way of working
+
+We do not only want to argue for reforms.
+
+We want to examine them.
+
+Therefore, as far as possible, every major reform idea should include:
+
+**Expected benefits**
+
+**Possible drawbacks**
+
+**Uncertainties**
+
+**Affected groups and incentives**
+
+**Institutional obstacles**
+
+**Possible pilot forms**
+
+**Measurable outcomes**
+
+**Conditions for scaling up**
+
+**Conditions for modifying or discontinuing the trial**
+
+This also applies to our own ideas.
+
+> **An idea does not become better because it is ours.**
+
+And:
+
+> **A reform is not good just because it is decentralizing.**
+
+We seek solutions that work.
+
+---
+
+# An open call
+
+Swedish Subsidiarity is not a finished answer.
+
+It is a direction for inquiry.
+
+To politicians:
+
+**Test new forms where today's institutions do not work well.**
+
+To public officials:
+
+**Share experiences about what actually works in practice.**
+
+To researchers:
+
+**Help us discover when our hypotheses do not hold.**
+
+To municipalities and regions:
+
+**Test where change can be done safely and measurably.**
+
+To citizens:
+
+**Contribute experiences, perspectives, and criticism.**
+
+To everyone:
+
+> **Use what works. Improve what can be improved. Reject what does not hold.**
+
+---
+
+# A promise of a learning Sweden
+
+We believe that a robust society is not a society that never changes.
+
+It is a society that can:
+
+**notice when reality changes,**
+
+**understand what needs to change,**
+
+**test new solutions,**
+
+**preserve what works,**
+
+**learn from what fails,**
+
+and **adapt its institutions without losing its cohesion.**
+
+That is our vision for Sweden:
+
+> **Not a state that controls everything.**
+>
+> **Not a society where everyone is left to themselves.**
+>
+> **But a society that can distribute responsibility where it belongs and at the same time hold together what must be held together.**
+
+**Right decision. Right place. Right knowledge. Right responsibility.**
+
+---
+
+*This manifesto is part of Swedish Subsidiarity — an independent research and policy initiative to examine how Swedish governance can become more democratic, knowledge-based, resilient, and adaptive.*
