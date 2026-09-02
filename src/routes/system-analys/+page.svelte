@@ -55,7 +55,7 @@
 </script>
 
 <div class="mx-auto max-w-5xl px-6 py-12" in:fade={{ duration: 200 }}>
-  
+
   <header class="mb-16 border-b border-stone-200 pb-8">
     <h1 class="mb-4 font-sans text-4xl font-bold text-manifesto-black">
       {$locale === 'sv' ? 'Systemanalys' : 'System Analysis'}

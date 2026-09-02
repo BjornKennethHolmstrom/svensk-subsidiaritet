@@ -12,7 +12,6 @@
   }
 </script>
 
-<!-- Changed: Removed transparency from header -->
 <header class="sticky top-0 z-50 w-full border-b border-stone-200 bg-white">
   <div class="mx-auto flex max-w-5xl items-center justify-between px-6 py-5">
     
@@ -29,12 +28,30 @@
     <!-- Desktop Navigation -->
     <nav class="hidden md:flex items-center gap-8">
       <div class="flex gap-6 font-sans text-sm font-medium text-stone-600">
+        <!-- Manifesto -->
         <a href="/vision" class="hover:text-black transition-colors">{$t.nav.manifesto}</a>
-        <a href="/system-analys" class="hover:text-black transition-colors">{$t.nav.analysis}</a>
+
+        <!-- Frameworks -->
         <a href="/ramverk" class="hover:text-black transition-colors">{$t.nav.frameworks}</a>
-        <a href="/verktyg" class="hover:text-black transition-colors">{$t.nav.tools}</a>
-        <a href="/bibliotek" class="hover:text-black transition-colors">{$t.nav.library}</a>
+        
+        <!-- Resources Dropdown -->
+        <div class="relative group">
+          <button class="flex items-center gap-1 text-stone-600 hover:text-black transition-colors">
+            {$t.nav.resources}
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </button>
+          <div class="absolute left-0 mt-2 w-56 rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50 py-2">
+            <a href="/system-analys" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.nav.analysis}</a>
+            <a href="/verktyg" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.nav.tools}</a>
+            <a href="/bibliotek" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.nav.library}</a>
+          </div>
+        </div>
+        
+        <!-- Contact -->
         <a href="/kontakt" class="hover:text-black transition-colors">{$t.footer.contact}</a>
+        <!-- About -->
         <a href="/om" class="hover:text-black transition-colors">{$t.nav.about}</a>
       </div>
       
@@ -88,6 +105,7 @@
     class="fixed top-0 right-0 bottom-0 w-64 bg-white border-l border-stone-200 shadow-2xl transform transition-transform duration-300 ease-in-out z-50 md:hidden pt-[73px] {mobileMenuOpen ? 'translate-x-0' : 'translate-x-full'}"
   >
     <nav class="flex flex-col p-6 gap-1">
+      <!-- Manifesto -->
       <a 
         href="/vision" 
         class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
@@ -95,13 +113,9 @@
       >
         {$t.nav.manifesto}
       </a>
-      <a 
-        href="/system-analys" 
-        class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
-        onclick={closeMobileMenu}
-      >
-        {$t.nav.analysis}
-      </a>
+
+      
+      <!-- Frameworks -->
       <a 
         href="/ramverk" 
         class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
@@ -109,20 +123,35 @@
       >
         {$t.nav.frameworks}
       </a>
+      
+      <!-- Resources label (non-clickable) -->
+      <div class="px-4 py-2 mt-2 font-sans text-xs font-semibold text-stone-400 uppercase tracking-wider">
+        {$t.nav.resources}
+      </div>
+      <!-- Resource items -->
+      <a 
+        href="/system-analys" 
+        class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2"
+        onclick={closeMobileMenu}
+      >
+        {$t.nav.analysis}
+      </a>
       <a 
         href="/verktyg" 
-        class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
+        class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2"
         onclick={closeMobileMenu}
       >
         {$t.nav.tools}
       </a>
       <a 
         href="/bibliotek" 
-        class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
+        class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2"
         onclick={closeMobileMenu}
       >
         {$t.nav.library}
       </a>
+
+      <!-- Contact -->
       <a 
         href="/kontakt" 
         class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
@@ -130,6 +159,7 @@
       >
         {$t.footer.contact}
       </a>
+      <!-- About -->
       <a 
         href="/om" 
         class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"

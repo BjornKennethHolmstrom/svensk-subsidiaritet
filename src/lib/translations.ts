@@ -2,6 +2,7 @@ export const translations = {
   sv: {
     nav: {
       manifesto: "Manifest",
+      resources: "Resurser",
       analysis: "Systemanalys",
       frameworks: "Ramverk",
       tools: "Verktyg",
@@ -176,6 +177,7 @@ export const translations = {
   en: {
     nav: {
       manifesto: "Manifesto",
+      resources: "Resources",
       analysis: "System Analysis",
       frameworks: "Frameworks",
       tools: "Tools",
