@@ -60,4 +60,4 @@ Det är närmare ingenjörskonstens **dynamiska styrarkitektur** än en traditio
 
 ---
 
-Se **[Adaptiv subsidiaritet →](/arkitektur/adaptiv-subsidiaritet/)** för principen som avgör *var* auktoriteten ska ligga, och **[Meta-governance →](/arkitektur/meta-styrning/)** för hur relationerna mellan centra själva hålls under uppsikt och kan omformas när de slutar fungera.
+Se **[Adaptiv subsidiaritet →](/arkitektur/adaptiv-subsidiaritet/)** för principen som avgör *var* auktoriteten ska ligga, och **[Meta-styrning →](/arkitektur/meta-styrning/)** för hur relationerna mellan centra själva hålls under uppsikt och kan omformas när de slutar fungera.

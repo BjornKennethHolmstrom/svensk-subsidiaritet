@@ -1,4 +1,4 @@
-# Metastyrning (eng. Meta Governance)
+# Meta-styrning (eng. Meta Governance)
 
 ## Styrningen av styrningen
 
@@ -6,7 +6,7 @@ När ett samhälle består av många styrningsnoder — lokala, regionala, natio
 
 > **Vem ser till att styrningssystemen fungerar tillsammans?**
 
-Det är inte samma sak som en "superregering". Metastyrning är kapaciteten att:
+Det är inte samma sak som en "superregering". Meta-styrning är kapaciteten att:
 
 - upptäcka luckor och överlappningar mellan institutioner
 - hantera konflikter mellan nivåer och domäner
@@ -59,7 +59,7 @@ Det är skillnaden mellan att välja en regering och att ha **konstitutionellt a
 
 ## Varför det här inte är en utopisk språngbräda
 
-Metastyrning behöver inte introduceras som en abstrakt slutstation. Det kan införas stegvis, i fullt vardagliga termer:
+Meta-styrning behöver inte introduceras som en abstrakt slutstation. Det kan införas stegvis, i fullt vardagliga termer:
 
 > "Vi saknar i dag en mekanism för att regelbundet testa om våra egna styrningsarrangemang fortfarande fungerar."
 

@@ -53,4 +53,4 @@ Två principer gör det redan nu möjligt att börja korsa dalen säkert:
 
 **[Adaptiv subsidiaritet →](/arkitektur/adaptiv-subsidiaritet/)** — beslut flyttar bara nedåt när det faktiskt förbättrar systemets prestanda, och kan flyttas tillbaka om det inte gör det.
 
-**[Meta-governance →](/arkitektur/meta-styrning/)** — en permanent kapacitet att övervaka om fördelningen av auktoritet fortfarande är rätt utformad, snarare än att anta att den är det för alltid.
+**[Meta-styrning →](/arkitektur/meta-styrning/)** — en permanent kapacitet att övervaka om fördelningen av auktoritet fortfarande är rätt utformad, snarare än att anta att den är det för alltid.

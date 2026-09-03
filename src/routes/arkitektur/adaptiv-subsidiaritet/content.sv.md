@@ -80,4 +80,4 @@ Det gör subsidiaritet till ett empiriskt designproblem snarare än ett ideologi
 
 ---
 
-Se **[Polycentrisk styrning →](/arkitektur/polycentrisk-styrning/)** för hur adaptiv subsidiaritet ser ut i praktiken när flera samhällsområden har delvis egna, samverkande styrningsekosystem, och **[Meta-governance →](/arkitektur/meta-styrning/)** för hur systemet fortlöpande utvärderar om fördelningen fortfarande stämmer.
+Se **[Polycentrisk styrning →](/arkitektur/polycentrisk-styrning/)** för hur adaptiv subsidiaritet ser ut i praktiken när flera samhällsområden har delvis egna, samverkande styrningsekosystem, och **[Meta-styrning →](/arkitektur/meta-styrning/)** för hur systemet fortlöpande utvärderar om fördelningen fortfarande stämmer.
