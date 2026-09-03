@@ -90,8 +90,8 @@
           </div>
         </div>
         
-        <!-- Contact -->
-        <a href="/kontakt" class="hover:text-black transition-colors">{$t.footer.contact}</a>
+        <!-- Contact 
+        <a href="/kontakt" class="hover:text-black transition-colors">{$t.footer.contact}</a> -->
         <!-- About -->
         <a href="/om" class="hover:text-black transition-colors">{$t.nav.about}</a>
       </div>
@@ -281,14 +281,14 @@
       </div>
     {/if}
 
-    <!-- Contact -->
+    <!-- Contact 
     <a
       href="/kontakt"
       class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
       onclick={closeMobileMenu}
     >
       {$t.footer.contact}
-    </a>
+    </a> -->
 
     <!-- About -->
     <a
