@@ -50,6 +50,6 @@ The spectrum describes **where** we can move. The matrix describes **what we gai
 
 Together, these do not form a finished blueprint for Sweden. They are a *design language* — a way of asking better questions about governance, which we can then test against real Swedish problems in our policy laboratories.
 
-An upcoming part of the site, **Transition**, picks up where architecture leaves off: how to move between these architectures without falling into the *transition valley* where coordination, accountability and decision speed temporarily worsen before the new capabilities have had time to grow.
+Next section of the site, **Transition**, picks up where architecture leaves off: how to move between these architectures without falling into the *transition valley* where coordination, accountability and decision speed temporarily worsen before the new capabilities have had time to grow.
 
 **[Read more about Governance as Engineering and the Transition Valley on the homepage →](/)**

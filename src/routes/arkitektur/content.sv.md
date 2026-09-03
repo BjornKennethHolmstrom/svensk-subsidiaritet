@@ -46,6 +46,6 @@ Spektrumet beskriver **vart** vi kan röra oss. Matrisen beskriver **vad vi vinn
 
 Tillsammans bildar de inte en färdig blåkopia för Sverige. De är ett *designspråk* — ett sätt att ställa bättre frågor om styrning, som vi sedan kan pröva mot verkliga svenska problem i våra policy-laboratorier.
 
-En kommande del av webbplatsen, **Övergången**, tar vid där arkitekturen slutar: hur man rör sig mellan dessa arkitekturer utan att falla ner i den *övergångsdal* där samordning, ansvar och beslutshastighet tillfälligt försämras innan de nya kapaciteterna hunnit växa fram.
+Nästa sektion av webbplatsen, **Övergången**, tar vid där arkitekturen slutar: hur man rör sig mellan dessa arkitekturer utan att falla ner i den *övergångsdal* där samordning, ansvar och beslutshastighet tillfälligt försämras innan de nya kapaciteterna hunnit växa fram.
 
-**[Läs mer om Governance as Engineering och Transition Valley på startsidan →](/)**
+**[Läs mer om Governance as Engineering och övergångsdalen på startsidan →](/)**
