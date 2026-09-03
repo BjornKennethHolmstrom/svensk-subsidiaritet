@@ -262,7 +262,7 @@ Det är kapaciteten att:
 - pröva nya institutionella lösningar
 - ändra styrningsarkitekturen när den inte längre passar verkligheten
 
-Det är därför vi inte ser governance design som något som fastställs en gång för alla.
+Det är därför vi inte ser styrningsdesign som något som fastställs en gång för alla.
 
 > **Själva styrningssystemet måste kunna lära sig.**
 
@@ -342,7 +342,7 @@ Vi är intresserade av vad som faktiskt förbättrar:
 
 **[Läs manifestet →](/vision)**
 
-**[Se governance-spektrumet →](/arkitektur)**
+**[Se styrningsspektrumet →](/arkitektur)**
 
 **[Utforska systemanalyserna →](/system-analys)**
 

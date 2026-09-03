@@ -449,9 +449,9 @@ Ett framtida styrningssystem måste därför kunna hantera:
 
 > **flera aktörer, flera nivåer, flera typer av legitimitet och flera typer av kunskap.**
 
-Detta är en av anledningarna till att vi studerar **polycentrisk styrning och meta-governance**.
+Detta är en av anledningarna till att vi studerar **polycentrisk styrning och meta-styrning**.
 
-Meta-governance handlar inte om att skapa en superregering.
+Meta-styrning handlar inte om att skapa en superregering.
 
 Det handlar om att bygga förmåga att **samordna, utvärdera och utveckla relationerna mellan olika styrningssystem utan att onödigtvis ersätta deras autonomi**.
 

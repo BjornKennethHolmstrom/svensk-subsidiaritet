@@ -14,8 +14,8 @@ export const translations = {
       subtitle: "Forskning och policy för adaptiv och distribuerad styrning"
     },
     footer: {
-      rights: "Alla rättigheter reserverade.",
-      built_with: "Svensk Subsidiaritet är ett svenskt forsknings- och policyprojekt inom styrning. Det bygger på Styrning som ingenjörskonst och utvecklar svenska tillämpningar av idéer som är kompatibla med de globala ramverken för styrning, Global Governance Frameworks.",
+      rights: "Eget innehåll · CC BY 4.0",
+      built_with: "Svensk Subsidiaritet är ett svenskt forsknings- och policyprojekt inom styrning. Det bygger på Styrning som ingenjörskonst och utvecklar svenska tillämpningar av idéer som är kompatibla med Global Governance Frameworks.",
       contact: "Kontakt"
     },
     architecture: {
@@ -221,7 +221,7 @@ export const translations = {
       subtitle: "Research and policy for adaptive and distributed governance "
     },
     footer: {
-      rights: "All rights reserved.",
+      rights: "Original content · CC BY 4.0",
       built_with: "Svensk Subsidiaritet is a Swedish governance research and policy project. It draws on Governance as Engineering and develops Swedish applications of ideas compatible with the Global Governance Frameworks.",
       contact: "Contact"
     },

@@ -13,13 +13,13 @@
   // Default fallbacks
   const defaults = {
     sv: {
-      title: 'Svensk Subsidiaritet – Systemanalys',
-      description: 'En analys av centraliseringens kostnader och den subsidiära vägen framåt.',
+      title: 'Svensk Subsidiaritet – Bättre styrning för ett komplext samhälle',
+      description: 'Ett oberoende forsknings- och policyinitiativ om subsidiaritet, distribuerad styrning och hur Sverige kan utveckla mer demokratisk, resilient och adaptiv styrning.',
       image: '/images/og-default-sv.png'
     },
     en: {
-      title: 'Swedish Subsidiarity – System Analysis',
-      description: 'An analysis of the costs of centralization and the subsidiarity-based path forward.',
+      title: 'Swedish Subsidiarity – Better Governance for a Complex Society',
+      description: 'An independent research and policy initiative exploring subsidiarity, distributed governance, and how Sweden can develop more democratic, resilient, and adaptive governance.',
       image: '/images/og-default-en.png'
     }
   };

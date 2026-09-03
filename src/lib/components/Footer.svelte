@@ -7,7 +7,17 @@
   <div class="mx-auto flex max-w-5xl flex-col justify-between gap-4 px-6 md:flex-row">
     
     <div>
-      <p>&copy; {year} Svensk Subsidiaritet. {$t.footer.rights}</p>
+      <p>
+        &copy; {year} Svensk Subsidiaritet.
+        <a
+          href="https://creativecommons.org/licenses/by/4.0/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="hover:text-black hover:underline transition-colors"
+        >
+          {$t.footer.rights}
+        </a>
+      </p>
     </div>
 
     <div class="flex gap-6">
