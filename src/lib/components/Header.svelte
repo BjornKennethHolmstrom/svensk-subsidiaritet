@@ -2,13 +2,23 @@
   import { t, locale, toggleLang } from '$lib/stores/i18n';
   
   let mobileMenuOpen = $state(false);
-  
+  let mobileSubmenus = $state({
+    architecture: false,
+    transition: false,
+    resources: false
+  });
+
+  function toggleSubmenu(key) {
+    mobileSubmenus[key] = !mobileSubmenus[key];
+  }  
+
   function toggleMobileMenu() {
     mobileMenuOpen = !mobileMenuOpen;
   }
   
   function closeMobileMenu() {
     mobileMenuOpen = false;
+    mobileSubmenus = { architecture: false, transition: false, resources: false };
   }
 </script>
 
@@ -133,117 +143,163 @@
 
   <!-- Mobile Menu Panel -->
   <div 
-    class="fixed top-0 right-0 bottom-0 w-64 bg-white border-l border-stone-200 shadow-2xl transform transition-transform duration-300 ease-in-out z-50 md:hidden pt-[73px] {mobileMenuOpen ? 'translate-x-0' : 'translate-x-full'}"
+    class="fixed top-0 right-0 bottom-0 w-64 bg-white border-l border-stone-200 shadow-2xl transform transition-transform duration-300 ease-in-out z-50 md:hidden flex flex-col pt-[73px] {mobileMenuOpen ? 'translate-x-0' : 'translate-x-full'}"
   >
-    <nav class="flex flex-col p-6 gap-1">
-      <!-- Manifesto -->
-      <a 
-        href="/vision" 
-        class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
-        onclick={closeMobileMenu}
-      >
-        {$t.nav.manifesto}
-      </a>
+  <nav class="flex flex-col p-6 gap-1 overflow-y-auto flex-1 min-h-0 pb-8">
+    <!-- Manifesto -->
+    <a
+      href="/vision"
+      class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
+      onclick={closeMobileMenu}
+    >
+      {$t.nav.manifesto}
+    </a>
 
-      <!-- Architecture label (links to section index) -->
+    <!-- Architecture group -->
+    <div class="flex items-center mt-2">
       <a
         href="/arkitektur/"
-        class="px-4 py-3 mt-2 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
+        class="flex-1 px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
         onclick={closeMobileMenu}
       >
         {$t.architecture.navLabel}
       </a>
-      <!-- Architecture subpages -->
-      <a href="/arkitektur/spektrum/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
-        {$t.architecture.pages.spektrum}
-      </a>
-      <a href="/arkitektur/matris/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
-        {$t.architecture.pages.matris}
-      </a>
-      <a href="/arkitektur/adaptiv-subsidiaritet/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
-        {$t.architecture.pages.adaptivSubsidiaritet}
-      </a>
-      <a href="/arkitektur/polycentrisk-styrning/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
-        {$t.architecture.pages.polycentriskStyrning}
-      </a>
-      <a href="/arkitektur/meta-styrning/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
-        {$t.architecture.pages.metaStyrning}
-      </a>
+      <button
+        onclick={() => toggleSubmenu('architecture')}
+        class="p-2 mr-1 rounded-md hover:bg-stone-100 text-stone-500 transition-colors"
+        aria-label="Toggle architecture submenu"
+        aria-expanded={mobileSubmenus.architecture}
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="h-4 w-4 transition-transform {mobileSubmenus.architecture ? 'rotate-180' : ''}"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+          stroke-width="2"
+        >
+          <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+    </div>
+    {#if mobileSubmenus.architecture}
+      <div class="ml-4 flex flex-col gap-1">
+        <a href="/arkitektur/spektrum/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors" onclick={closeMobileMenu}>
+          {$t.architecture.pages.spektrum}
+        </a>
+        <a href="/arkitektur/matris/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors" onclick={closeMobileMenu}>
+          {$t.architecture.pages.matris}
+        </a>
+        <a href="/arkitektur/adaptiv-subsidiaritet/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors" onclick={closeMobileMenu}>
+          {$t.architecture.pages.adaptivSubsidiaritet}
+        </a>
+        <a href="/arkitektur/polycentrisk-styrning/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors" onclick={closeMobileMenu}>
+          {$t.architecture.pages.polycentriskStyrning}
+        </a>
+        <a href="/arkitektur/meta-styrning/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors" onclick={closeMobileMenu}>
+          {$t.architecture.pages.metaStyrning}
+        </a>
+      </div>
+    {/if}
 
-      <!-- Transition label (links to section index) -->
+    <!-- Transition group -->
+    <div class="flex items-center mt-2">
       <a
         href="/overgang/"
-        class="px-4 py-3 mt-2 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
+        class="flex-1 px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
         onclick={closeMobileMenu}
       >
         {$t.transition.navLabel}
       </a>
-      <!-- Transition subpages -->
-      <a href="/overgang/overgangsgraf/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
-        {$t.transition.pages.overgangsgraf}
-      </a>
-      <a href="/overgang/overgangsdalen/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
-        {$t.transition.pages.overgangsdalen}
-      </a>
-      <a href="/overgang/broinstitutioner/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
-        {$t.transition.pages.broinstitutioner}
-      </a>
-      <a href="/overgang/reformvag/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
-        {$t.transition.pages.reformvag}
-      </a>
-      
-      <!-- Resources label (non-clickable) -->
-      <div class="px-4 py-2 mt-2 font-sans text-xs font-semibold text-stone-400 uppercase tracking-wider">
-        {$t.nav.resources}
+      <button
+        onclick={() => toggleSubmenu('transition')}
+        class="p-2 mr-1 rounded-md hover:bg-stone-100 text-stone-500 transition-colors"
+        aria-label="Toggle transition submenu"
+        aria-expanded={mobileSubmenus.transition}
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="h-4 w-4 transition-transform {mobileSubmenus.transition ? 'rotate-180' : ''}"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+          stroke-width="2"
+        >
+          <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+    </div>
+    {#if mobileSubmenus.transition}
+      <div class="ml-4 flex flex-col gap-1">
+        <a href="/overgang/overgangsgraf/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors" onclick={closeMobileMenu}>
+          {$t.transition.pages.overgangsgraf}
+        </a>
+        <a href="/overgang/overgangsdalen/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors" onclick={closeMobileMenu}>
+          {$t.transition.pages.overgangsdalen}
+        </a>
+        <a href="/overgang/broinstitutioner/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors" onclick={closeMobileMenu}>
+          {$t.transition.pages.broinstitutioner}
+        </a>
+        <a href="/overgang/reformvag/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors" onclick={closeMobileMenu}>
+          {$t.transition.pages.reformvag}
+        </a>
       </div>
-      <!-- Resource items -->
-      <a 
-        href="/ramverk" 
-        class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2"
-        onclick={closeMobileMenu}
-      >
-        {$t.nav.frameworks}
-      </a>
-      <a 
-        href="/system-analys" 
-        class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2"
-        onclick={closeMobileMenu}
-      >
-        {$t.nav.analysis}
-      </a>
-      <a 
-        href="/verktyg" 
-        class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2"
-        onclick={closeMobileMenu}
-      >
-        {$t.nav.tools}
-      </a>
-      <a 
-        href="/bibliotek" 
-        class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2"
-        onclick={closeMobileMenu}
-      >
-        {$t.nav.library}
-      </a>
+    {/if}
 
-      <!-- Contact -->
-      <a 
-        href="/kontakt" 
-        class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
-        onclick={closeMobileMenu}
+    <!-- Resources group -->
+    <button
+      onclick={() => toggleSubmenu('resources')}
+      class="flex items-center justify-between px-4 py-3 mt-2 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors w-full"
+      aria-expanded={mobileSubmenus.resources}
+    >
+      <span>{$t.nav.resources}</span>
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        class="h-4 w-4 transition-transform {mobileSubmenus.resources ? 'rotate-180' : ''}"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke="currentColor"
+        stroke-width="2"
       >
-        {$t.footer.contact}
-      </a>
-      <!-- About -->
-      <a 
-        href="/om" 
-        class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
-        onclick={closeMobileMenu}
-      >
-        {$t.nav.about}
-      </a>
-    </nav>
-  </div>
+        <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+      </svg>
+    </button>
+    {#if mobileSubmenus.resources}
+      <div class="ml-4 flex flex-col gap-1">
+        <a href="/ramverk" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors" onclick={closeMobileMenu}>
+          {$t.nav.frameworks}
+        </a>
+        <a href="/system-analys" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors" onclick={closeMobileMenu}>
+          {$t.nav.analysis}
+        </a>
+        <a href="/verktyg" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors" onclick={closeMobileMenu}>
+          {$t.nav.tools}
+        </a>
+        <a href="/bibliotek" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors" onclick={closeMobileMenu}>
+          {$t.nav.library}
+        </a>
+      </div>
+    {/if}
+
+    <!-- Contact -->
+    <a
+      href="/kontakt"
+      class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
+      onclick={closeMobileMenu}
+    >
+      {$t.footer.contact}
+    </a>
+
+    <!-- About -->
+    <a
+      href="/om"
+      class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
+      onclick={closeMobileMenu}
+    >
+      {$t.nav.about}
+    </a>
+  </nav>  
+ </div>
 </header>
 
 <style>
