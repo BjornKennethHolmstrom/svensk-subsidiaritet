@@ -223,7 +223,7 @@ När nya institutioner tillkommer måste människor förstå varför de finns.
 
 ---
 
-# Adaptive Subsidiarity
+# Adaptiv subsidiaritet
 
 Subsidiaritet betyder inte:
 
