@@ -48,6 +48,22 @@
           </div>
         </div>
 
+        <!-- Transition Dropdown -->
+        <div class="relative group">
+          <a href="/overgang/" class="flex items-center gap-1 text-stone-600 hover:text-black transition-colors">
+            {$t.transition.navLabel}
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </a>
+          <div class="absolute left-0 mt-2 w-56 rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50 py-2">
+            <a href="/overgang/overgangsgraf/" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.transition.pages.overgangsgraf}</a>
+            <a href="/overgang/overgangsdalen/" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.transition.pages.overgangsdalen}</a>
+            <a href="/overgang/broinstitutioner/" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.transition.pages.broinstitutioner}</a>
+            <a href="/overgang/reformvag/" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.transition.pages.reformvag}</a>
+          </div>
+        </div>
+
         <!-- Resources Dropdown -->
         <div class="relative group">
           <button class="flex items-center gap-1 text-stone-600 hover:text-black transition-colors">
@@ -152,6 +168,28 @@
       </a>
       <a href="/arkitektur/meta-styrning/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
         {$t.architecture.pages.metaStyrning}
+      </a>
+
+      <!-- Transition label (links to section index) -->
+      <a
+        href="/overgang/"
+        class="px-4 py-3 mt-2 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
+        onclick={closeMobileMenu}
+      >
+        {$t.transition.navLabel}
+      </a>
+      <!-- Transition subpages -->
+      <a href="/overgang/overgangsgraf/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
+        {$t.transition.pages.overgangsgraf}
+      </a>
+      <a href="/overgang/overgangsdalen/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
+        {$t.transition.pages.overgangsdalen}
+      </a>
+      <a href="/overgang/broinstitutioner/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
+        {$t.transition.pages.broinstitutioner}
+      </a>
+      <a href="/overgang/reformvag/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
+        {$t.transition.pages.reformvag}
       </a>
       
       <!-- Resources label (non-clickable) -->

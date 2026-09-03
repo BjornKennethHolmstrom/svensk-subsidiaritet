@@ -29,6 +29,16 @@ export const translations = {
         "metaStyrning": "Meta-styrning"
       }
     },
+    transition: {
+      navLabel: "Övergången",
+      shortLabel: "Övergången",
+      pages: {
+        overgangsgraf: "Övergångsgrafen",
+        overgangsdalen: "Övergångsdalen",
+        broinstitutioner: "Broinstitutioner",
+        reformvag: "Svensk reformväg"
+      }
+    },
     systemAnalysis: {
       food: "Livsmedelssystem",
       healthcare: "Hälsovård",
@@ -224,6 +234,16 @@ export const translations = {
         "adaptivSubsidiaritet": "Adaptive Subsidiarity",
         "polycentriskStyrning": "Polycentric Governance",
         "metaStyrning": "Meta-Governance"
+      }
+    },
+    transition: {
+      navLabel: "Transition",
+      shortLabel: "Transition",
+      pages: {
+        overgangsgraf: "The Transition Graph",
+        overgangsdalen: "The Transition Valley",
+        broinstitutioner: "Bridge Institutions",
+        reformvag: "Swedish Reform Path"
       }
     },
     systemAnalysis: {
