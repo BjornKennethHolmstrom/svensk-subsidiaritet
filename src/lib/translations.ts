@@ -39,6 +39,34 @@ export const translations = {
         reformvag: "Svensk reformväg"
       }
     },
+    evidence: {
+      navLabel: "Evidens",
+      sections: {
+        howWeKnow: "Så vet vi",
+        research: "Forskning",
+        cases: "Fall",
+        dataModels: "Data & modeller",
+        synthesis: "Syntes"
+      },
+      labels: {
+        overview: "Evidence",
+        howWeKnow: "Så vet vi",
+        questions: "Våra frågor",
+        evidenceStandards: "Evidensstandarder",
+        gaeLens: "GAE som analytisk lins",
+        research: "Forskning",
+        r1: "Subsidiaritet & decentralisering",
+        cases: "Fall",
+        s1: "Kommunsammanslagningar (S1)",
+        dataModels: "Data & modeller",
+        synthesis: "Syntes",
+        matrix: "Evidensmatrisen",
+        whatWeKnow: "Vad vi vet",
+        counterevidence: "Motevidens",
+        unknowns: "Vad vi inte vet",
+        openQuestions: "Öppna frågor"
+      }
+    },
     systemAnalysis: {
       food: "Livsmedelssystem",
       healthcare: "Hälsovård",
@@ -244,6 +272,34 @@ export const translations = {
         overgangsdalen: "The Transition Valley",
         broinstitutioner: "Bridge Institutions",
         reformvag: "Swedish Reform Path"
+      }
+    },
+    evidence: {
+      navLabel: "Evidence",
+      sections: {
+        howWeKnow: "How We Know",
+        research: "Research",
+        cases: "Cases",
+        dataModels: "Data & Models",
+        synthesis: "Synthesis"
+      },
+      labels: {
+        overview: "Evidence",
+        howWeKnow: "How We Know",
+        questions: "Our Questions",
+        evidenceStandards: "Evidence Standards",
+        gaeLens: "GAE as an Analytical Lens",
+        research: "Research",
+        r1: "Subsidiarity & Decentralization",
+        cases: "Cases",
+        s1: "Municipal Mergers (S1)",
+        dataModels: "Data & Models",
+        synthesis: "Synthesis",
+        matrix: "Evidence Matrix",
+        whatWeKnow: "What We Know",
+        counterevidence: "Counterevidence",
+        unknowns: "What We Don't Know",
+        openQuestions: "Open Questions"
       }
     },
     systemAnalysis: {

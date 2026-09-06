@@ -1,16 +1,7 @@
 <script lang="ts">
-  import { t, locale } from '$lib/stores/i18n';
+  import { locale } from '$lib/stores/i18n';
 
-  // Which top-level section this page belongs to — must match a key in translations.ts
-  // that has the shape { navLabel, pages: { [key]: string } }.
-  export let section: 'architecture' | 'transition' = 'architecture';
-  // Key into $t[section].pages, e.g. "spektrum" or "overgangsgraf". Omit for the section index page.
-  export let current: string | null = null;
-
-  const sectionHrefs: Record<string, string> = {
-    architecture: '/arkitektur/',
-    transition: '/overgang/'
-  };
+  export let trail: { label: string; href?: string }[] = [];
 </script>
 
 <nav aria-label="Breadcrumb" class="mx-auto max-w-3xl px-6 pt-10">
@@ -20,23 +11,20 @@
         {$locale === 'sv' ? 'Hem' : 'Home'}
       </a>
     </li>
-    <li aria-hidden="true">/</li>
-    <li>
-      {#if current}
-        <a href={sectionHrefs[section]} class="hover:text-black hover:underline">
-          {$t[section].navLabel}
-        </a>
-      {:else}
-        <span class="text-stone-800 font-medium" aria-current="page">
-          {$t[section].navLabel}
-        </span>
-      {/if}
-    </li>
-    {#if current}
+
+    {#each trail as item, i}
       <li aria-hidden="true">/</li>
-      <li class="text-stone-800 font-medium" aria-current="page">
-        {$t[section].pages[current]}
+      <li>
+        {#if item.href}
+          <a href={item.href} class="hover:text-black hover:underline">
+            {item.label}
+          </a>
+        {:else}
+          <span class="text-stone-800 font-medium" aria-current="page">
+            {item.label}
+          </span>
+        {/if}
       </li>
-    {/if}
+    {/each}
   </ol>
 </nav>

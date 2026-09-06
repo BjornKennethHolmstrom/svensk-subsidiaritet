@@ -5,6 +5,7 @@
   let mobileSubmenus = $state({
     architecture: false,
     transition: false,
+    evidence: false,
     resources: false
   });
 
@@ -18,7 +19,7 @@
   
   function closeMobileMenu() {
     mobileMenuOpen = false;
-    mobileSubmenus = { architecture: false, transition: false, resources: false };
+    mobileSubmenus = { architecture: false, transition: false, evidence: false, resources: false };
   }
 </script>
 
@@ -71,6 +72,23 @@
             <a href="/overgang/overgangsdalen/" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.transition.pages.overgangsdalen}</a>
             <a href="/overgang/broinstitutioner/" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.transition.pages.broinstitutioner}</a>
             <a href="/overgang/reformvag/" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.transition.pages.reformvag}</a>
+          </div>
+        </div>
+
+        <!-- Evidence Dropdown -->
+        <div class="relative group">
+          <a href="/evidens/" class="flex items-center gap-1 text-stone-600 hover:text-black transition-colors">
+            {$t.evidence.navLabel}
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </a>
+          <div class="absolute left-0 mt-2 w-56 rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50 py-2">
+            <a href="/evidens/sa-vet-vi/" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.evidence.sections.howWeKnow}</a>
+            <a href="/evidens/forskning/" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.evidence.sections.research}</a>
+            <a href="/evidens/fall/" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.evidence.sections.cases}</a>
+            <a href="/evidens/datamodeller/" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.evidence.sections.dataModels}</a>
+            <a href="/evidens/syntes/" class="block px-4 py-2 text-sm text-stone-700 hover:bg-stone-100 hover:text-black">{$t.evidence.sections.synthesis}</a>
           </div>
         </div>
 
@@ -242,6 +260,54 @@
         </a>
         <a href="/overgang/reformvag/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors" onclick={closeMobileMenu}>
           {$t.transition.pages.reformvag}
+        </a>
+      </div>
+    {/if}
+
+    <!-- Evidence label (links to section index) -->
+    <div class="flex items-center mt-2">
+      <a
+        href="/evidens/"
+        class="flex-1 px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors"
+        onclick={closeMobileMenu}
+      >
+        {$t.evidence.navLabel}
+      </a>
+      <button
+        onclick={() => toggleSubmenu('evidence')}
+        class="p-2 mr-1 rounded-md hover:bg-stone-100 text-stone-500 transition-colors"
+        aria-label="Toggle evidence submenu"
+        aria-expanded={mobileSubmenus.evidence}
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="h-4 w-4 transition-transform {mobileSubmenus.evidence ? 'rotate-180' : ''}"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+          stroke-width="2"
+        >
+          <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+    </div>
+    {#if mobileSubmenus.evidence}
+      <div class="ml-4 flex flex-col gap-1">
+        <!-- Evidence subsections -->
+        <a href="/evidens/sa-vet-vi/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
+          {$t.evidence.sections.howWeKnow}
+        </a>
+        <a href="/evidens/forskning/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
+          {$t.evidence.sections.research}
+        </a>
+        <a href="/evidens/fall/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
+          {$t.evidence.sections.cases}
+        </a>
+        <a href="/evidens/datamodeller/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
+          {$t.evidence.sections.dataModels}
+        </a>
+        <a href="/evidens/syntes/" class="px-4 py-3 rounded-lg font-sans text-sm font-medium text-stone-700 hover:bg-stone-100 hover:text-black transition-colors ml-2" onclick={closeMobileMenu}>
+          {$t.evidence.sections.synthesis}
         </a>
       </div>
     {/if}
