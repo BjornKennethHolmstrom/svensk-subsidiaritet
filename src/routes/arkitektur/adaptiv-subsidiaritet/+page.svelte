@@ -6,7 +6,7 @@
   import Breadcrumb from '$lib/components/Breadcrumb.svelte';
 </script>
 
-<Breadcrumb />
+<Breadcrumb section="architecture" current="adaptivSubsidiaritet" />
 
 <div class="prose-container" in:fade={{ duration: 200 }}>
   {#if $locale === 'sv'}
