@@ -71,4 +71,4 @@ Det gör att en läsare kan följa hela kedjan:
 
 ## GAE-integration hittills
 
-I den här första versionen (v0.1) länkar vi till GAE där det är direkt relevant för R1 och för fallet om kommunsammanslagningar (S1). Den fullständiga kartläggningen mot alla 29 rapporter, och egna Model-sidor per GAE-modell, byggs i en senare omgång — se **[Data & modeller](/evidens/datamodeller/)**.
+Vi länkar till GAE där det är direkt relevant för forskningsämnena och fallen. Tre GAE-modeller har nu egna fördjupningssidor — se **[GAE-modeller](/evidens/datamodeller/modeller/)** för Nödvändig variation (GAE IV), Samordningsskatt (GAE V) och Adaptationsflaskhalsen (GAE XV). Den fullständiga kartläggningen mot alla 29 rapporter, och fler enskilda modellsidor, byggs ut efter hand — se **[Öppna frågor](/evidens/syntes/oppna-fragor/)**.

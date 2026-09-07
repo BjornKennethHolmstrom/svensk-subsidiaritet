@@ -71,4 +71,4 @@ That lets a reader follow the full chain:
 
 ## GAE integration so far
 
-In this first version (v0.1), we link to GAE where directly relevant to R1 and to the municipal mergers case (S1). The full mapping against all 29 reports, and dedicated Model pages for each GAE model, will be built in a later round — see **[Data & Models](/evidens/datamodeller/)**.
+We link to GAE where directly relevant to the research topics and cases. Three GAE models now have dedicated pages — see **[GAE Models](/evidens/datamodeller/modeller/)** for Requisite Variety (GAE IV), Coordination Tax (GAE V), and The Adaptation Bottleneck (GAE XV). The full mapping against all 29 reports, and further individual model pages, will be built out over time — see **[Open Questions](/evidens/syntes/oppna-fragor/)**.
