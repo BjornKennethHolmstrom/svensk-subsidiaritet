@@ -168,7 +168,7 @@ See full entries in the **[Evidence Matrix →](/evidens/syntes/matris/)**.
 
 ---
 
-## Sources
+<h2 id="kallor">Sources</h2>
 
 **Primary (Swedish government documents):**
 - Kungl. Maj:ts proposition nr 236, 1946 — [SRC-S1-001](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/kungl-majts-proposition-nr-236_e730236/html/)
