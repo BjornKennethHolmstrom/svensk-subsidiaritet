@@ -8,7 +8,7 @@
   $: trail = [
     { label: $t.evidence.navLabel, href: '/evidens/' },
     { label: $t.evidence.labels.dataModels, href: '/evidens/datamodeller/' },
-    { label: $t.evidence.labels.modeller, href: 'evidens/datamodeller/modeller/' },
+    { label: $t.evidence.labels.modeller, href: '/evidens/datamodeller/modeller/' },
     { label: $t.evidence.labels.adapationsflaskhalsen }
   ];
 </script>
