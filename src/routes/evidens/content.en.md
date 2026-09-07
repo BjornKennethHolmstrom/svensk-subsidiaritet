@@ -26,7 +26,7 @@ Until we test the relevant mechanism, we don't know which one applies to a given
 Research → Cases → Data & Models → Synthesis
 ```
 
-**[Research](/evidens/research/)** synthesizes what the literature currently says about nine broad empirical questions — one page per question, not one page per theoretical paper.
+**[Research](/evidens/forskning/)** synthesizes what the literature currently says about nine broad empirical questions — one page per question, not one page per theoretical paper.
 
 **[Cases](/evidens/fall/)** reconstruct what actually happened in real Swedish (and eventually Nordic and international) governance reforms — beyond labels like "decentralization."
 

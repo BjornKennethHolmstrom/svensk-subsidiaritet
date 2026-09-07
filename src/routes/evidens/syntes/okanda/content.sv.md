@@ -12,8 +12,8 @@ Att skriva "det finns just nu otillräcklig evidens för att svara på det här"
 
 **Varför det spelar roll:** Nästan allt på den här webbplatsen bygger på att skilja formell decentralisering från faktisk beslutsnärhet, men vi har ännu inte ett validerat mått på det senare.
 **Nuvarande evidens:** Enbart kvalitativ rekonstruktion på fallnivå (t.ex. **[Fall S1](/evidens/fall/sverige/kommunsammanslagningar/)**).
-**Varför olöst:** Inget operationellt mått har byggts eller testats ännu.
-**Behövd evidens:** Ett fungerande mått på "beslutsnärhet" — se den planerade sidan under **[Data & modeller](/evidens/datamodeller/)**.
+**Varför olöst:** En första specifikation finns nu — se **[Beslutsnärhet](/evidens/datamodeller/matt/beslutsnarhet/)** — men den har ännu inte tillämpats på verklig data för något fall.
+**Behövd evidens:** Tillämpa beslutsnärhetsmåttet på minst ett fall (S1 är den naturliga första kandidaten, givet dess korrigering med lokala organ 1979) och utvärdera om ramverket faktiskt fungerar.
 **Prioritet:** Hög.
 
 ### 2. Kartläggning av auktoritet/information/resurser under formella administrativa nivåer

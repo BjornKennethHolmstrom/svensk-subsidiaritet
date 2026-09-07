@@ -12,8 +12,8 @@ Writing "there is currently insufficient evidence to answer this" is one of the 
 
 **Why it matters:** Almost everything on this site depends on distinguishing formal decentralization from actual decision proximity, but we don't yet have a validated measure of the latter.
 **Current evidence:** Case-level qualitative reconstruction only (e.g. [Case S1](/evidens/fall/sverige/kommunsammanslagningar/)).
-**Why unresolved:** No operational measure has been built or tested yet.
-**Needed evidence:** A working "Decision Proximity" measure — see the planned page under [Data & Models](/evidens/datamodeller/).
+**Why unresolved:** A first specification now exists — see [Decision Proximity](/evidens/datamodeller/matt/beslutsnarhet/) — but it has not yet been applied to real data for any case.
+**Needed evidence:** Apply the Decision Proximity measure to at least one case (S1 is the natural first candidate, given its 1979 local-organs correction) and evaluate whether the framework actually works.
 **Priority:** High.
 
 ### 2. Authority/information/resource mapping below formal administrative levels

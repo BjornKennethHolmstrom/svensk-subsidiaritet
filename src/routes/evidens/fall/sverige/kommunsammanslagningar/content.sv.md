@@ -168,7 +168,7 @@ Se fullständiga poster i **[Evidensmatrisen →](/evidens/syntes/matris/)**.
 
 ---
 
-<h2 id="kallor">Källor</h2>
+## Källor
 
 **Primära (svenska regeringsdokument):**
 - Kungl. Maj:ts proposition nr 236, 1946 — [SRC-S1-001](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/kungl-majts-proposition-nr-236_e730236/html/)

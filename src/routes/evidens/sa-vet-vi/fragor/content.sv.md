@@ -55,6 +55,6 @@ Det huvudsakliga området där GAE:s sekvens **sensa → lära → agera** blir 
 
 ## Nuvarande täckning
 
-I den här första versionen (v0.1) av evidens har vi byggt **R1** fullt ut som demonstration av hela metoden — fråga → hypoteser → fall → syntes. R2–R9 finns definierade här som ett levande forskningsprogram, men deras egna sidor byggs i senare omgångar.
+I den här första versionen (v0.1) av Evidence har vi byggt **R1** fullt ut som demonstration av hela metoden — fråga → hypoteser → fall → syntes. R2–R9 finns definierade här som ett levande forskningsprogram, men deras egna sidor byggs i senare omgångar.
 
 **[Se hela evidensmatrisen →](/evidens/syntes/matris/)** för hur befintlig evidens redan kopplar till flera av dessa ämnen genom hypoteserna H1–H20.

@@ -12,44 +12,17 @@ Governance Measures → GAE Models → Simulations
 
 ---
 
-## Governance Measures
+## [Measures →](/evidens/datamodeller/matt/)
 
-Our own operationalizations of concepts that would otherwise stay abstract — for example *decision proximity*, *authority depth*, *information distance*, *coordination burden*, *functional scale fit*, *capacity*, *accountability distance*, and *adaptation latency*.
+Our own operationalizations of concepts that would otherwise stay abstract — so far **Decision Proximity** and **Authority Depth**, with six more planned. These are **not** established, validated indices yet. Every measure page is explicit about its assumptions and limitations, in line with GAE's own caution that some indices and thresholds are heuristic rather than derived.
 
-These are **not** established, validated indices yet. Every measure page is explicit about its assumptions and limitations, in line with GAE's own caution that some indices and thresholds are heuristic rather than derived.
+## [GAE Models →](/evidens/datamodeller/modeller/)
 
-*Status: the framework is defined; individual measure pages will be built in a later round.*
+Three model spotlights so far — **Requisite Variety (GAE IV)**, **Coordination Tax (GAE V)**, **The Adaptation Bottleneck (GAE XV)** — each explaining what the model tests, what it establishes, and what it doesn't, with links to the full report and code.
 
----
+## [Simulations →](/evidens/datamodeller/simuleringar/)
 
-## GAE Models
-
-Governance as Engineering (GAE) already has 29 published reports and associated simulations on GitHub. We don't duplicate that work here.
-
-Instead, each relevant model page explains:
-
-> **What does the model test?**
-> **What did the model find?**
-> **What does it not establish?**
-
-and always ends with:
-
-> **Read the full GAE report →**
-> **View the simulation / code →**
-
-See **[GAE as an Analytical Lens](/evidens/sa-vet-vi/gae/)** for how we think about the relationship between model results ([R]), institutional interpretation ([IP]), and heuristics ([H]).
-
-*Status: overview and link structure in place; individual model pages will be built in a later round.*
-
----
-
-## Simulations
-
-A catalogue of the computational experiments belonging to the GAE models, with metadata, results and interpretation — not a duplication of the full notebooks or repositories.
-
-All GAE simulations are collected in **[gae-governance-simulator](https://github.com/BjornKennethHolmstrom/gae-governance-simulator)** on GitHub.
-
-*Status: external link in place; catalogue pages will be built in a later round.*
+A pointer to **[gae-governance-simulator](https://github.com/BjornKennethHolmstrom/gae-governance-simulator)** on GitHub, with guidance on how to read a simulation result consistent with the project's evidence standards.
 
 ---
 
@@ -61,4 +34,4 @@ Since GAE's reports are already fully published and the simulations already live
 
 without us duplicating technical content that already exists elsewhere.
 
-**[See the Evidence Matrix →](/evidens/syntes/matris/)** for how measures and models will connect to hypotheses as they're built out.
+**[See the Evidence Matrix →](/evidens/syntes/matris/)** for how measures and models connect to hypotheses.

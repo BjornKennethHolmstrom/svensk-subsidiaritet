@@ -2,7 +2,7 @@
 
 ## Version 0.1 — provisorisk med flit
 
-Det här är det första syntesskiktet i Svensk Subsidiaritets evidencekorpus. Statusarna speglar **det nuvarande korpuset**, inte slutliga slutsatser, och uppdateras när nya studier, fall, data och modeller läggs till. Se uppdateringsregeln längst ner.
+Det här är det första syntesskiktet i Svensk Subsidiaritets Evidence-korpus. Statusarna speglar **det nuvarande korpuset**, inte slutliga slutsatser, och uppdateras när nya studier, fall, data och modeller läggs till. Se uppdateringsregeln längst ner.
 
 ---
 
@@ -46,7 +46,7 @@ Det här är det första syntesskiktet i Svensk Subsidiaritets evidencekorpus. S
 | H19 | Systemtänkande kan förbättra beslutskvalitet i komplexa styrningsmiljöer. | Rimlig och GAE-relevant; robust operationalisering och kausal evidens är ännu inte fastställda. | Risk för svag/begreppsligt tvetydig mätning. | Låg | Låg | Olöst |
 | H20 | Styrningsarkitekturens effektivitet beror delvis på aktörskompetens, medan arkitekturen själv kan forma kompetens. | Framväxande från S2/S3/S5 och R8:s konceptuella arbete; direkta interaktionstest saknas. | Kan vara ickelinjär och starkt kontextberoende. | Delvis | Låg | Explorativ / olöst |
 
-*Fallen S2–S5 finns utkastade i korpuset och refereras ovan genom sina fynd; deras egna publika sidor kommer i en senare byggomgång — se [Fall](/evidens/fall/).*
+*Fallen S2–S5 har nu egna fullständiga sidor — se [Fall](/evidens/fall/) för S2 (skoldecentralisering), S3 (Ädelreformen), S4 (kommunalekonomisk utjämning) och S5 (mellankommunal samverkan).*
 
 ---
 

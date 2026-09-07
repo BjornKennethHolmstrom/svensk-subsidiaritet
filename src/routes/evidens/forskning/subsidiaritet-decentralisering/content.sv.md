@@ -129,7 +129,7 @@ Se de fullständiga posterna i **[Evidensmatrisen →](/evidens/syntes/matris/)*
 
 **[S1 — Svenska kommunsammanslagningar, 1952–1974 →](/evidens/fall/sverige/kommunsammanslagningar/)** — vårt mest utvecklade fall för det här ämnet; relevant även för H5, H7, H8, H10, H14.
 
-Ytterligare svenska fall (skoldecentralisering, Ädelreformen, kommunalekonomisk utjämning, mellankommunal samverkan) berör också detta ämne och får egna sidor i en senare omgång — se deras preliminära behandling under **[Fall →](/evidens/fall/)**.
+Ytterligare svenska fall berör också detta ämne: **[S2 — Skoldecentralisering](/evidens/fall/sverige/skoldecentralisering/)** för ett andra, skarpare test av nästlad centralisering; **[S5 — Mellankommunal samverkan](/evidens/fall/sverige/mellankommunal-samverkan/)** för ett alternativ till sammanslagning; se **[Fall →](/evidens/fall/)** för hela urvalet.
 
 ---
 

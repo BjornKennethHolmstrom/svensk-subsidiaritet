@@ -46,7 +46,7 @@ This is the first synthesis layer of the Svensk Subsidiaritet Evidence corpus. S
 | H19 | Systems reasoning can improve decision quality in complex governance environments. | Plausible and GAE-relevant; robust operationalisation and causal evidence are not yet established. | Risk of weak/construct-ambiguous measurement. | Low | Low | Unresolved |
 | H20 | Governance architecture effectiveness depends partly on actor capability, while architecture itself may shape capability. | Emerging from S2/S3/S5 and R8 conceptual work; direct interaction tests absent. | Could be nonlinear and highly context-dependent. | Partial | Low | Exploratory / unresolved |
 
-*Cases S2–S5 are drafted in the corpus and referenced above by their findings; their dedicated public pages will follow in a later build round — see [Cases](/evidens/fall/).*
+*Cases S2–S5 now have their own full pages — see [Cases](/evidens/fall/) for S2 (school decentralization), S3 (Ädelreformen), S4 (fiscal equalization), and S5 (intermunicipal cooperation).*
 
 ---
 

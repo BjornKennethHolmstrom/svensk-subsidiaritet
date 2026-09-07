@@ -50,7 +50,7 @@ Examples of how central GAE concepts connect to research topics and hypotheses:
 | Boundary instability | H14, H15, R3, R4 | [Paper XVIII: The Boundary Instability Principle](https://www.bjornkennethholmstrom.org/working-papers/boundary-instability) |
 | Plural observation (governors/sentinels/bridges) | H13, R9 | [Paper XIX: Governors, Sentinels, and Bridges](https://www.bjornkennethholmstrom.org/working-papers/governors-sentinels-bridges) |
 
-This is a start, not a complete 29-report mapping — see **[Open Questions](/evidence/synthesis/open-questions/)**. For a overview of all reports — see [The reader's guide The Clouded Mirror — Synthesis](https://www.bjornkennethholmstrom.org/syntheses)
+This is a start, not a complete 29-report mapping — see **[Open Questions](/evidens/syntes/oppna-fragor/)**.
 
 ---
 

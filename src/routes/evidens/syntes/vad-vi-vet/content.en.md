@@ -64,3 +64,5 @@ This page presents only claims for which the evidence currently supports a reaso
 ## What's deliberately absent from this list
 
 Six claims (C6, and hypotheses H2, H11–H13, H15–H20) are currently **exploratory or unresolved** — not because they're uninteresting, but because the evidence doesn't yet support confident synthesis. They live in the **[Evidence Matrix](/evidens/syntes/matris/)** and **[What We Don't Know](/evidens/syntes/okanda/)** instead of here.
+
+We'd rather have a short, defensible list than a long, overconfident one.

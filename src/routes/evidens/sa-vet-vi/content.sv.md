@@ -4,7 +4,7 @@
 
 Innan vi presenterar en enda slutsats behöver vi vara tydliga med **hur vi vet det vi tror oss veta**, och hur säkra vi faktiskt är.
 
-Det här är kanske den viktigaste sidan i hela evidenssektionen, eftersom den sätter reglerna för alla andra.
+Det här är kanske den viktigaste sidan i hela Evidence-sektionen, eftersom den sätter reglerna för alla andra.
 
 ---
 

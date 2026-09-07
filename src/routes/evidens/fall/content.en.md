@@ -10,33 +10,34 @@ Every case maps authority, information and resources **before** and **after**, a
 
 ## The initial Swedish case set
 
-Five cases form the core of the current corpus. Together they cover scale, capacity, information, democracy, coordination, equalization, autonomy, nested centralization and polycentricity:
+Five cases form the core of the current corpus — all now fully built out. Together they cover scale, capacity, information, democracy, coordination, equalization, autonomy, nested centralization and polycentricity:
 
 ### [S1 — Municipal mergers, 1952–1974 →](/evidens/fall/sverige/kommunsammanslagningar/)
-The number of municipalities fell from 2,498 to 277. A reform intended to *preserve* municipal self-government by making the local level more capable — which simultaneously concentrated local political authority dramatically.
-**Status: finished draft**
+The number of municipalities fell from 2,498 to 277. A reform intended to *preserve* municipal self-government by making the local level more capable — which simultaneously concentrated local political authority dramatically. **Governance topology: pooling through territorial fusion.**
 
-### S2 — School decentralization / municipalization
-The early-1990s reforms are one of the most important Swedish examples of formal decentralization, and useful for distinguishing formal responsibility from actual decision-making capacity.
-*Status: research draft — to be published in a later round*
+### [S2 — School decentralization / municipalization, 1989–1993 →](/evidens/fall/sverige/skoldecentralisering/)
+The reform explicitly intended decentralization to continue past the municipality, down to schools and professionals. Evidence shows local steering below the municipal level remained uneven — the clearest test in the corpus of the nested-centralization hypothesis.
 
-### S3 — Ädelreformen
-Transfer of responsibility for elder care between principals. Shows persistent cross-boundary coordination problems despite clearer formal division of responsibility.
-*Status: research draft — to be published in a later round*
+### [S3 — Ädelreformen, 1992 →](/evidens/fall/sverige/adelreformen/)
+Responsibility transfer between principals in elder care — but with physicians deliberately left at the county level. Shows persistent cross-boundary coordination problems despite clearer formal responsibility and predominantly positive evaluations.
 
-### S4 — Fiscal equalization
-Directly shows how Swedish local autonomy combines with extensive fiscal equalization between municipalities.
-*Status: research draft — to be published in a later round*
+### [S4 — Fiscal equalization, 1993–present →](/evidens/fall/sverige/kommunalekonomisk-utjamning/)
+Directly shows how Swedish local autonomy combines with extensive fiscal equalization between municipalities. **Governance topology: pooling through shared financing** — without merging decision centres.
 
-### S5 — Intermunicipal cooperation
-Strong evidence that cooperation can strengthen small municipalities' capacity without territorial merger — but with its own coordination and accountability costs.
-*Status: research draft — to be published in a later round*
+### [S5 — Intermunicipal cooperation, 1990s–present →](/evidens/fall/sverige/mellankommunal-samverkan/)
+Strong evidence that cooperation can strengthen small municipalities' capacity without territorial merger — but with its own coordination and accountability costs. **Governance topology: pooling through functional cooperation.**
+
+---
+
+## Three ways to solve the same scale problem
+
+S1, S4 and S5 together form a particularly valuable comparative framework: the same underlying scale problem (insufficient capacity alone) solved through three architecturally distinct approaches — merger (pool everything, lose local decision centres), equalization (pool fiscal risk, keep the decisions), and cooperation (pool selected functions, keep the decisions). See the **[Evidence Matrix →](/evidens/syntes/matris/)** for how they connect to hypotheses H5, H8 and H9.
 
 ---
 
 ## Roadmap
 
-This is the **initial Swedish case set**, not a complete mapping. Additional Swedish cases, Nordic comparisons and international contrasts are under investigation and will be added as evidence gaps are identified — see **[Open Questions](/evidens/syntes/oppna-fragor/)**.
+This is the **initial Swedish case set**, not a complete mapping. Nordic comparisons and international contrasts are under investigation and will be added as evidence gaps are identified — see **[Open Questions](/evidens/syntes/oppna-fragor/)**.
 
 We'd rather build a few cases well than many cases superficially.
 

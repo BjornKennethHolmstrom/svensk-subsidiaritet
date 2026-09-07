@@ -65,3 +65,4 @@ Den här sidan presenterar bara påståenden där evidensen just nu stödjer en 
 
 Sex påståenden (C6, samt hypoteserna H2, H11–H13, H15–H20) är just nu **explorativa eller olösta** — inte för att de är ointressanta, utan för att evidensen ännu inte stödjer en säker syntes. De finns i **[Evidensmatrisen](/evidens/syntes/matris/)** och **[Vad vi inte vet](/evidens/syntes/okanda/)** i stället för här.
 
+Vi föredrar en kort, försvarbar lista framför en lång, överdrivet självsäker.

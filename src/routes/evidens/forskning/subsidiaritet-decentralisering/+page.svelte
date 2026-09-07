@@ -5,11 +5,7 @@
   import { fade } from 'svelte/transition';
   import Breadcrumb from '$lib/components/Breadcrumb.svelte';
 
-  $: trail = [
-    { label: $t.evidence.navLabel, href: '/evidens/' },
-    { label: $t.evidence.labels.research, href: '/evidens/forskning/' },
-    { label: $t.evidence.labels.r1 }
-  ];
+  $: trail = [{ label: $t.evidence.navLabel, href: '/evidens/' }, { label: $t.evidence.labels.research, href: '/evidens/forskning/' }, { label: $t.evidence.labels.r1 }];
 </script>
 
 <Breadcrumb {trail} />

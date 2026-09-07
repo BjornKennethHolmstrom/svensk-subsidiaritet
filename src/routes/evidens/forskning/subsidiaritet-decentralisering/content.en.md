@@ -129,7 +129,7 @@ See the full entries in the **[Evidence Matrix →](/evidens/syntes/matris/)**.
 
 **[S1 — Swedish municipal mergers, 1952–1974 →](/evidens/fall/sverige/kommunsammanslagningar/)** — our most developed case for this topic; also relevant to H5, H7, H8, H10, H14.
 
-Additional Swedish cases (school decentralization, Ädelreformen, fiscal equalization, intermunicipal cooperation) also bear on this topic and will get their own pages in a later round — see their preliminary treatment in **[Cases →](/evidens/fall/)**.
+Additional Swedish cases also bear on this topic: **[S2 — School decentralization](/evidens/fall/sverige/skoldecentralisering/)** for a second, sharper test of nested centralization; **[S5 — Intermunicipal cooperation](/evidens/fall/sverige/mellankommunal-samverkan/)** for an alternative to merger; see **[Cases →](/evidens/fall/)** for the full set.
 
 ---
 
@@ -147,6 +147,6 @@ Additional Swedish cases (school decentralization, Ädelreformen, fiscal equaliz
 - Comparative synthesis, decentralization in health and education. [SRC-X-002](https://doi.org/10.1093/WBRO/LKW001)
 - Information, governance and service delivery (systematic review). [SRC-X-003](https://www.sciencedirect.com/science/article/pii/S0305750X18302468)
 - Schakel, decentralization and heterogeneous preferences (comparative). [SRC-X-004](https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0491.2010.01482.x)
-- Sources for Case S1 — see the [full source list on the case page](/evidens/fall/sverige/kommunsammanslagningar/#sources).
+- Sources for Case S1 — see the [full source list on the case page](/evidens/fall/sverige/kommunsammanslagningar/#kallor).
 
 *Last updated: corpus v0.1.*

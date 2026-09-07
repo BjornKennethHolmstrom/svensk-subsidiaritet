@@ -50,7 +50,7 @@ Exempel på hur centrala GAE-begrepp kopplar till forskningsämnen och hypoteser
 | Gränsinstabilitet | H14, H15, R3, R4 | [Rapport XVIII: Principen om gränsinstabilitet](https://www.bjornkennethholmstrom.org/working-papers/boundary-instability) |
 | Pluralt observerande (guvernörer/vaktposter/broar) | H13, R9 | [Rapport XIX: Guvernörer, vaktposter och broar](https://www.bjornkennethholmstrom.org/working-papers/governors-sentinels-bridges) |
 
-Detta är en start, inte en fullständig 29-rapportskartläggning — se **[Öppna frågor](/evidens/syntes/oppna-fragor/)**. För en översikt av alla rapporter — se [Läsguiden The Clouded Mirror — Syntes](https://www.bjornkennethholmstrom.org/syntheses)
+Detta är en start, inte en fullständig 29-rapportskartläggning — se **[Öppna frågor](/evidens/syntes/oppna-fragor/)**.
 
 ---
 

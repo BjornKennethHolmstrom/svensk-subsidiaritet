@@ -2,7 +2,7 @@
 
 ## Det framåtblickande forskningsprogrammet
 
-Frågor här kan senare bli hypoteser, studier, simuleringar eller experiment. Det här är den mest ärliga enskilda sidan i evidenssektionen om vad projektet ännu inte vet — se **[Vad vi inte vet](/evidens/syntes/okanda/)** för de underliggande evidensluckor de här frågorna svarar mot.
+Frågor här kan senare bli hypoteser, studier, simuleringar eller experiment. Det här är den mest ärliga enskilda sidan i Evidence-sektionen om vad projektet ännu inte vet — se **[Vad vi inte vet](/evidens/syntes/okanda/)** för de underliggande evidensluckor de här frågorna svarar mot.
 
 ---
 

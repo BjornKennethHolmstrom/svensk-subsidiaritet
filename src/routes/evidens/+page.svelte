@@ -4,9 +4,11 @@
   import ContentEN from './content.en.md';
   import { fade } from 'svelte/transition';
   import Breadcrumb from '$lib/components/Breadcrumb.svelte';
+
+  $: trail = [{ label: $t.evidence.navLabel }];
 </script>
 
-<Breadcrumb trail={[{ label: $t.evidence.navLabel }]} />
+<Breadcrumb {trail} />
 
 <div class="prose-container" in:fade={{ duration: 200 }}>
   {#if $locale === 'sv'}

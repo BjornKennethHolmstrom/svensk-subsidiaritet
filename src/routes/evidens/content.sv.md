@@ -1,10 +1,10 @@
-# Evidens
+# Evidence
 
 ## Vi utgår inte från att decentralisering alltid är bättre
 
 Svensk Subsidiaritet bygger en **[styrningsarkitektur](/arkitektur/)** och en **[övergångsstrategi](/overgang/)**. Men en arkitektur är bara en hypotes tills den prövas mot verkligheten.
 
-Evidens är den empiriska och analytiska nivån i projektet. Dess uppgift är inte att argumentera för att decentralisering är bra. Dess uppgift är att undersöka:
+Evidence är den empiriska och analytiska nivån i projektet. Dess uppgift är inte att argumentera för att decentralisering är bra. Dess uppgift är att undersöka:
 
 > **Under vilka förhållanden ger en viss fördelning av beslutsrätt, information, resurser och ansvar bättre systemresultat?**
 
@@ -16,7 +16,7 @@ Det ska gå att röra sig från **fråga → forskning → fall → mekanism →
 
 Det är lätt att välja styrningsnivå utifrån intuition eller ideologi: "beslut ska fattas nära människor" eller "vissa saker kräver nationell samordning." Båda kan vara sanna — beroende på vilken mekanism som faktiskt är i spel.
 
-Innan vi testar den relevanta mekanismen vet vi inte vilken av dem som gäller för en given fråga. Evidens-sektionen finns för att göra det testet systematiskt, snarare än att anta svaret i förväg.
+Innan vi testar den relevanta mekanismen vet vi inte vilken av dem som gäller för en given fråga. Evidence-sektionen finns för att göra det testet systematiskt, snarare än att anta svaret i förväg.
 
 ---
 
@@ -81,4 +81,4 @@ Det här är preliminära, reviderbara bedömningar — inte slutsatser.
 
 ---
 
-*Evidens är under uppbyggnad. Nuvarande täckning (v0.1) omfattar ett första forskningsspår, ett fullständigt utarbetat fall, och den fullständiga evidensmatrisen — inte hela forskningsprogrammet. Se [Öppna frågor](/evidens/syntes/oppna-fragor/) för vad som återstår.*
+*Evidence är under uppbyggnad. Nuvarande täckning (v0.1) omfattar ett första forskningsspår, ett fullständigt utarbetat fall, och den fullständiga evidensmatrisen — inte hela forskningsprogrammet. Se [Öppna frågor](/evidens/syntes/oppna-fragor/) för vad som återstår.*
