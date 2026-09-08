@@ -22,6 +22,10 @@ Some simulations are built specifically for Svensk Subsidiaritet — not part of
 
 Nine sub-studies of an adaptive universal basic income architecture: need heterogeneity, social capital, collective funding, and a real capacity constraint. Tests hypothesis **H2b**. Full technical report available as a downloadable PDF.
 
+### [Can Governance Scale Be Factorized? →](/evidens/datamodeller/simuleringar/styrningsfaktorisering/)
+
+Governance Factorization Simulator v0.1.1c: a mechanistic model that was frozen and then made to predict how eight Swedish municipal functions ought to be organized — before we examined how they actually are organized. The result was mixed, which led to synthesis claim **C4** being split into **C4a** and **C4b**. This is the project's first **frozen benchmark**: the model was allowed to fail before it was changed.
+
 ---
 
 ## How to read a simulation result
@@ -39,6 +43,7 @@ A simulation result is a **[R]-level (rigorous) finding within its model** — s
 - **H11** references a direct empirical AI test within GAE X with a high estimated correlation between observers — but institutional generalization from that specific, domain-specific test is not established, and the hypothesis is rated "Unresolved" for that reason.
 - Several other hypotheses (H12, H13) reference "formal model support" or "formal/model motivation" from specific GAE reports without yet having a corresponding empirical institutional test.
 - **H2b** references the AUBI simulations, rated "Model-supported / empirically unresolved" — see **[the Evidence Matrix →](/evidens/syntes/matris/)**.
+- **C4a/C4b** reference the governance factorization test. It is the only work in the corpus where a model result has gone all the way to a locked empirical pattern test — and where the model was partly contradicted. The difference between model support and empirical support is therefore particularly visible there.
 
 In every case, we keep model-level support and empirical support visually distinct, to avoid a simulation result being mistakenly read as empirical evidence.
 

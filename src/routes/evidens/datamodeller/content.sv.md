@@ -22,7 +22,7 @@ Tre modell-nedslag hittills — **Nödvändig variation (GAE IV)**, **Samordning
 
 ## [Simuleringar →](/evidens/datamodeller/simuleringar/)
 
-En pekare till **[gae-governance-simulator](https://github.com/BjornKennethHolmstrom/gae-governance-simulator)** på GitHub, med vägledning för hur man läser ett simuleringsresultat i linje med projektets evidensstandarder.
+Två saker: en pekare till **[gae-governance-simulator](https://github.com/BjornKennethHolmstrom/gae-governance-simulator)** på GitHub, och projektets egna simuleringar — **[AUBI-simuleringarna](/evidens/datamodeller/simuleringar/aubi/)** (H2b) och **[styrningsfaktoriseringstestet](/evidens/datamodeller/simuleringar/styrningsfaktorisering/)** (C4a/C4b), där en fryst modell fick förutsäga hur åtta svenska kommunala funktioner borde organiseras innan verkligheten undersöktes. Sidan förklarar också hur ett simuleringsresultat ska läsas i linje med projektets evidensstandarder.
 
 ---
 

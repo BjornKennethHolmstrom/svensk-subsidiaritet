@@ -1,10 +1,10 @@
-# Evidence
+# Evidens
 
 ## Vi utgår inte från att decentralisering alltid är bättre
 
 Svensk Subsidiaritet bygger en **[styrningsarkitektur](/arkitektur/)** och en **[övergångsstrategi](/overgang/)**. Men en arkitektur är bara en hypotes tills den prövas mot verkligheten.
 
-Evidence är den empiriska och analytiska nivån i projektet. Dess uppgift är inte att argumentera för att decentralisering är bra. Dess uppgift är att undersöka:
+Evidens är den empiriska och analytiska nivån i projektet. Dess uppgift är inte att argumentera för att decentralisering är bra. Dess uppgift är att undersöka:
 
 > **Under vilka förhållanden ger en viss fördelning av beslutsrätt, information, resurser och ansvar bättre systemresultat?**
 
@@ -16,7 +16,7 @@ Det ska gå att röra sig från **fråga → forskning → fall → mekanism →
 
 Det är lätt att välja styrningsnivå utifrån intuition eller ideologi: "beslut ska fattas nära människor" eller "vissa saker kräver nationell samordning." Båda kan vara sanna — beroende på vilken mekanism som faktiskt är i spel.
 
-Innan vi testar den relevanta mekanismen vet vi inte vilken av dem som gäller för en given fråga. Evidence-sektionen finns för att göra det testet systematiskt, snarare än att anta svaret i förväg.
+Innan vi testar den relevanta mekanismen vet vi inte vilken av dem som gäller för en given fråga. Evidens-sektionen finns för att göra det testet systematiskt, snarare än att anta svaret i förväg.
 
 ---
 
@@ -61,7 +61,7 @@ Den fullständiga bilden finns i **[Evidensmatrisen](/evidens/syntes/matris/)**,
 - Evidensen stödjer i högre grad ett **villkorat "governance fit"-påstående** än en universell decentraliseringsprincip.
 - **Formell decentralisering är inte en tillförlitlig proxy** för att beslut faktiskt flyttar närmare de som berörs.
 - Den lämpliga styrningsskalan **varierar kraftigt mellan olika funktioner** snarare än att följa en enda administrativ nivå.
-- Vissa fördelar som förknippas med större skala kan **eventuellt uppnås genom delad finansiering eller delade funktioner**, utan att slå samman de underliggande politiska jurisdiktionerna.
+- Vissa fördelar som förknippas med större skala **uppnås i praktiken genom delad finansiering eller delade funktioner**, utan att slå samman de underliggande politiska jurisdiktionerna — men vi kan ännu inte förutsäga *vilken* uppdelning som passar en given funktion. Se **[Kan styrningens skala faktoriseras? →](/evidens/datamodeller/simuleringar/styrningsfaktorisering/)**
 
 Det här är preliminära, reviderbara bedömningar — inte slutsatser.
 
@@ -81,4 +81,4 @@ Det här är preliminära, reviderbara bedömningar — inte slutsatser.
 
 ---
 
-*Evidence är under uppbyggnad. Nuvarande täckning (v0.1) omfattar ett första forskningsspår, ett fullständigt utarbetat fall, och den fullständiga evidensmatrisen — inte hela forskningsprogrammet. Se [Öppna frågor](/evidens/syntes/oppna-fragor/) för vad som återstår.*
+*Evidens är under uppbyggnad. Nuvarande täckning (v0.1) omfattar ett första forskningsspår, ett fullständigt utarbetat fall, och den fullständiga evidensmatrisen — inte hela forskningsprogrammet. Se [Öppna frågor](/evidens/syntes/oppna-fragor/) för vad som återstår.*

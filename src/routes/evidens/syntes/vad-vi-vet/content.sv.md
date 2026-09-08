@@ -39,14 +39,16 @@ Den här sidan presenterar bara påståenden där evidensen just nu stödjer en 
 
 ---
 
-### C4 — Skala kan faktoriseras
+### C4a — Styrningsfunktioner kan faktoriseras över skalor
 
-> **Vissa fördelar förknippade med större skala kan eventuellt uppnås genom delad finansiering eller delade funktioner utan att slå samman de underliggande politiska jurisdiktionerna.**
+> **Olika komponenter i en styrningsfunktion — politisk auktoritet, produktion, specialistkapacitet, finansiering och koordinering — kan ligga på olika skalor i stället för att buntas ihop på en enda territoriell nivå.**
 
-**Räckvidd:** Jämförelse av sammanslagning (S1) mot samverkan (S5) och utjämning (S4).
+**Räckvidd:** Jämförelse av sammanslagning (S1) mot samverkan (S5) och utjämning (S4), plus de åtta kommunala funktioner som komponentkodades i [styrningsfaktoriseringstestet](/evidens/datamodeller/simuleringar/styrningsfaktorisering/).
 **Konfidens:** Medel.
-**Stödjande evidens:** S4, S5, jämförelse med [S1](/evidens/fall/sverige/kommunsammanslagningar/), hypoteserna H8, H9.
-**Kvalificering:** Märkt "lovande" snarare än "stödd" — en direkt, kontrollerad jämförelse av sammanslagning kontra samverkan kontra oberoende drift inom samma funktioner saknas fortfarande.
+**Stödjande evidens:** S4, S5, jämförelse med [S1](/evidens/fall/sverige/kommunsammanslagningar/), hypoteserna H8, H9, samt komponentkodningen av IT, upphandling, miljötillsyn, räddningstjänst, VA, fysisk planering, äldreomsorg och specialist-socialtjänst.
+**Kvalificering:** Uppgraderad från "lovande" till villkorat stödd efter att komponentseparation observerats i samtliga åtta funktioner. Men att en arkitektur *förekommer* säger inget om dess utfall — en direkt, kontrollerad jämförelse av sammanslagning kontra samverkan kontra oberoende drift inom samma funktioner saknas fortfarande.
+
+*Den andra halvan av gamla C4 — att problemstrukturen räcker för att förutsäga **vilken** faktorisering som är rätt — är nu **C4b** och står som blandad/olöst i [Evidensmatrisen](/evidens/syntes/matris/). Den hör inte hemma på den här sidan än.*
 
 ---
 
@@ -63,6 +65,6 @@ Den här sidan presenterar bara påståenden där evidensen just nu stödjer en 
 
 ## Vad som medvetet inte finns med i den här listan
 
-Sex påståenden (C6, samt hypoteserna H2, H11–H13, H15–H20) är just nu **explorativa eller olösta** — inte för att de är ointressanta, utan för att evidensen ännu inte stödjer en säker syntes. De finns i **[Evidensmatrisen](/evidens/syntes/matris/)** och **[Vad vi inte vet](/evidens/syntes/okanda/)** i stället för här.
+Sju påståenden (C4b och C6, samt hypoteserna H2, H11–H13, H15–H20) är just nu **explorativa eller olösta** — inte för att de är ointressanta, utan för att evidensen ännu inte stödjer en säker syntes. De finns i **[Evidensmatrisen](/evidens/syntes/matris/)** och **[Vad vi inte vet](/evidens/syntes/okanda/)** i stället för här.
 
 Vi föredrar en kort, försvarbar lista framför en lång, överdrivet självsäker.

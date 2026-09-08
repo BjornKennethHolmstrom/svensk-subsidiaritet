@@ -22,6 +22,10 @@ Vissa simuleringar är gjorda specifikt för Svensk Subsidiaritet — inte en de
 
 Nio delstudier av en adaptiv universell basinkomst-arkitektur: behovsheterogenitet, socialt kapital, kollektiv finansiering, och en real kapacitetsbegränsning. Testar hypotes **H2b**. Fullständig teknisk rapport finns som nedladdningsbar PDF.
 
+### [Kan styrningens skala faktoriseras? →](/evidens/datamodeller/simuleringar/styrningsfaktorisering/)
+
+Governance Factorization Simulator v0.1.1c: en mekanistisk modell som frystes och därefter fick förutsäga hur åtta svenska kommunala funktioner borde organiseras — innan vi undersökte hur de faktiskt är organiserade. Resultatet blev blandat, vilket ledde till att syntespåstående **C4** delades i **C4a** och **C4b**. Det här är projektets första **frysta benchmark**: modellen fick misslyckas innan den ändrades.
+
 ---
 
 ## Hur man läser ett simuleringsresultat
@@ -39,6 +43,7 @@ Ett simuleringsresultat är ett **[R]-nivå (rigoröst) fynd inom sin modell** �
 - **H11** refererar till ett direkt empiriskt AI-test inom GAE X med en hög skattad korrelation mellan observatörer — men institutionell generalisering från det specifika, domänspecifika testet är inte fastställd, och hypotesen är klassad "Olöst" av just den anledningen.
 - Flera andra hypoteser (H12, H13) refererar till "formellt modellstöd" eller "formell/modellmässig motivering" från specifika GAE-rapporter utan att ännu ha ett motsvarande empiriskt institutionellt test.
 - **H2b** refererar till AUBI-simuleringarna, klassad "Modellstött / empiriskt olöst" — se **[Evidensmatrisen →](/evidens/syntes/matris/)**.
+- **C4a/C4b** refererar till styrningsfaktoriseringstestet. Det är det enda arbetet i korpuset där ett modellresultat har gått hela vägen till ett låst empiriskt mönstertest — och där modellen delvis motsades. Skillnaden mellan modellstöd och empiriskt stöd är därför särskilt synlig där.
 
 I samtliga fall håller vi modellnivåstöd och empiriskt stöd visuellt åtskilda, för att undvika att ett simuleringsresultat av misstag läses som empirisk evidens.
 

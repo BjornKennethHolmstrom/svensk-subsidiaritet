@@ -22,7 +22,7 @@ Three model spotlights so far — **Requisite Variety (GAE IV)**, **Coordination
 
 ## [Simulations →](/evidens/datamodeller/simuleringar/)
 
-A pointer to **[gae-governance-simulator](https://github.com/BjornKennethHolmstrom/gae-governance-simulator)** on GitHub, with guidance on how to read a simulation result consistent with the project's evidence standards.
+Two things: a pointer to **[gae-governance-simulator](https://github.com/BjornKennethHolmstrom/gae-governance-simulator)** on GitHub, and the project's own simulations — the **[AUBI simulations](/evidens/datamodeller/simuleringar/aubi/)** (H2b) and the **[governance factorization test](/evidens/datamodeller/simuleringar/styrningsfaktorisering/)** (C4a/C4b), where a frozen model was made to predict how eight Swedish municipal functions ought to be organized before reality was examined. The page also explains how to read a simulation result consistent with the project's evidence standards.
 
 ---
 

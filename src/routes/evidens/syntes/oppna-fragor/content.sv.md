@@ -42,6 +42,19 @@ De fem empiriskt testbara förutsägelserna från **[AUBI-simuleringarna](/evide
 
 ---
 
+## Specifikt från styrningsfaktoriseringstestet (C4a/C4b)
+
+Det **[frysta blindtestet](/evidens/datamodeller/simuleringar/styrningsfaktorisering/)** lämnade efter sig ett ovanligt konkret forskningsprogram, eftersom modellens missar pekar åt bestämda håll:
+
+- Under vilka förhållanden bör finansiell risk poolas på en skala medan produktionen förblir lokal — mönstret i äldreomsorgen — och när är det tvärtom fel? (Rör C4b, H9.)
+- Hur mycket av faktisk skalplacering förklaras av problemstruktur, och hur mycket av rättslig tilldelning? Det kommunala planmonopolet ser ut att överrösta problemstruktur helt; hur ofta gäller det? (Rör C4b, H7.)
+- När bestäms rätt produktionsskala av nätgeografi och nedlagt kapital snarare än av generella stordriftsfördelar? VA är det tydligaste fallet — vilka andra funktioner beter sig så? (Rör H5.)
+- Hur bör nästlade skalor representeras — lokala noder i en gemensam organisation i ett större ledningssystem — utan att modellen bara blir mer komplex? (Rör H14.)
+- Replikerar mönstret på funktioner som modellen inte utvecklats mot? Planerat holdout-urval: avfall, kollektivtrafik, bibliotek, gymnasieskola, bygglov, livsmedelskontroll, färdtjänst, civil beredskap.
+- Och den fråga testet gjorde möjlig att ställa på riktigt: förekomsten av en arkitektur säger inget om dess utfall — hur skulle ett utfallstest av komponentseparation faktiskt se ut?
+
+---
+
 ## Strukturella / ämnesövergripande frågor
 
 - Vad är rätt sätt att aggregera evidens över fall med olika kausal identifieringsstyrka, tidshorisonter och definitioner av decentralisering, utan att skapa ett förhastat "subsidiaritetsindex"? (Se den explicita metodologiska varningen i det underliggande fallkorpuset.)

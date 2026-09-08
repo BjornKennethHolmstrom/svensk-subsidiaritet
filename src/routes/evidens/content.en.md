@@ -61,7 +61,7 @@ The full picture lives in the **[Evidence Matrix](/evidens/syntes/matris/)**, bu
 - The evidence is more consistent with a **conditional "governance fit" proposition** than a universal decentralization principle.
 - **Formal decentralization is not a reliable proxy** for decisions actually moving closer to those affected.
 - The appropriate governance scale **varies substantially by function** rather than following one universal administrative level.
-- Some benefits associated with larger scale may **potentially be achieved through shared financing or shared functions**, without merging the underlying political jurisdictions.
+- Some benefits associated with larger scale **are in practice achieved through shared financing or shared functions**, without merging the underlying political jurisdictions — but we cannot yet predict *which* split suits a given function. See **[Can Governance Scale Be Factorized? →](/evidens/datamodeller/simuleringar/styrningsfaktorisering/)**
 
 These are preliminary, revisable assessments — not conclusions.
 

@@ -39,14 +39,16 @@ This page presents only claims for which the evidence currently supports a reaso
 
 ---
 
-### C4 — Scale can be factorized
+### C4a — Governance functions can be factorized across scales
 
-> **Some benefits associated with larger scale may potentially be obtained through shared financing or shared functions without merging the underlying political jurisdictions.**
+> **Different components of a governance function — political authority, production, specialist capacity, financing, and coordination — can sit at different scales rather than being bundled at a single territorial level.**
 
-**Scope:** Comparison of merger (S1) against cooperation (S5) and equalization (S4).
+**Scope:** Comparison of merger (S1) against cooperation (S5) and equalization (S4), plus the eight municipal functions component-coded in the [governance factorization test](/evidens/datamodeller/simuleringar/styrningsfaktorisering/).
 **Confidence:** Medium.
-**Supporting evidence:** S4, S5, comparison with [S1](/evidens/fall/sverige/kommunsammanslagningar/), hypotheses H8, H9.
-**Qualification:** Labelled "promising" rather than "supported" — a direct, controlled comparison of merger vs. cooperation vs. independent provision across the same functions is still missing.
+**Supporting evidence:** S4, S5, comparison with [S1](/evidens/fall/sverige/kommunsammanslagningar/), hypotheses H8, H9, plus the component coding of IT, procurement, environmental inspection, fire and rescue, water and sewerage, physical planning, elder care, and specialist social services.
+**Qualification:** Upgraded from "promising" to conditionally supported after component separation was observed in all eight functions. But the *existence* of an architecture says nothing about its outcomes — a direct, controlled comparison of merger vs. cooperation vs. independent provision across the same functions is still missing.
+
+*The other half of the old C4 — that problem structure suffices to predict **which** factorization is right — is now **C4b** and stands as mixed/unresolved in the [Evidence Matrix](/evidens/syntes/matris/). It doesn't belong on this page yet.*
 
 ---
 
@@ -63,6 +65,6 @@ This page presents only claims for which the evidence currently supports a reaso
 
 ## What's deliberately absent from this list
 
-Six claims (C6, and hypotheses H2, H11–H13, H15–H20) are currently **exploratory or unresolved** — not because they're uninteresting, but because the evidence doesn't yet support confident synthesis. They live in the **[Evidence Matrix](/evidens/syntes/matris/)** and **[What We Don't Know](/evidens/syntes/okanda/)** instead of here.
+Seven claims (C4b and C6, and hypotheses H2, H11–H13, H15–H20) are currently **exploratory or unresolved** — not because they're uninteresting, but because the evidence doesn't yet support confident synthesis. They live in the **[Evidence Matrix](/evidens/syntes/matris/)** and **[What We Don't Know](/evidens/syntes/okanda/)** instead of here.
 
 We'd rather have a short, defensible list than a long, overconfident one.

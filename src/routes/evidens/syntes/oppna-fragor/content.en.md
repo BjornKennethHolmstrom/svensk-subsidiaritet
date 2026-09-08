@@ -42,6 +42,19 @@ The five empirically testable predictions from the **[AUBI simulations](/evidens
 
 ---
 
+## Specifically from the governance factorization test (C4a/C4b)
+
+The **[frozen blind test](/evidens/datamodeller/simuleringar/styrningsfaktorisering/)** left behind an unusually concrete research agenda, because the model's misses point in specific directions:
+
+- Under what conditions should fiscal risk be pooled at one scale while production stays local — the elder-care pattern — and when is the reverse the right answer? (Relates to C4b, H9.)
+- How much actual scale placement is explained by problem structure, and how much by legal assignment? The municipal planning monopoly appears to override problem structure entirely; how often does that hold? (Relates to C4b, H7.)
+- When is the right production scale set by network geography and sunk capital rather than by general economies of scale? Water and sewerage is the clearest case — which other functions behave this way? (Relates to H5.)
+- How should nested scales be represented — local nodes inside a joint organization inside a larger command system — without the model simply becoming more complex? (Relates to H14.)
+- Does the pattern replicate on functions the model was not developed against? Planned holdout set: waste management, public transport, libraries, upper secondary schools, building permits, food safety inspection, mobility services, civil preparedness.
+- And the question the test made it possible to ask properly: the existence of an architecture says nothing about its outcomes — what would an outcome test of component separation actually look like?
+
+---
+
 ## Structural / cross-cutting questions
 
 - What is the right way to aggregate evidence across cases with different causal identification strength, time horizons, and definitions of decentralization, without producing a premature "subsidiarity score"? (See the explicit methodological warning in the underlying case corpus.)
