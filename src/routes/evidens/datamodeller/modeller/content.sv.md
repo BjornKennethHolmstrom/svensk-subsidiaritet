@@ -16,7 +16,7 @@ Varför det spelar roll att matcha ett styrningssystems interna variation mot de
 ### [Samordningsskatt (GAE V) →](/evidens/datamodeller/modeller/samordningsskatt/)
 Den strukturella kostnaden för att hålla flera distribuerade beslutsfattare agerande sammanhängande — motvikten till nödvändig variation, och central för **[R7](/evidens/forskning/samordning-komplexitet-ansvar/)**.
 
-### [Adaptationsflaskhalsen (GAE XV) →](/evidens/datamodeller/modeller/adaptationsflaskhalsen/)
+### [Adaptionsflaskhalsen (GAE XV) →](/evidens/datamodeller/modeller/adaptionsflaskhalsen/)
 Varför ett styrningssystems övergripande adaptiva hastighet begränsas av dess långsammaste sensa→lära→agera-länk — direkt relevant för **[R9](/evidens/forskning/styrning-anpassning/)**:s öppna fråga om varför svenska institutionella korrigeringar tar år till decennier.
 
 ---

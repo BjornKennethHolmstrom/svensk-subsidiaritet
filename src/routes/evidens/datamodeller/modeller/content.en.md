@@ -16,7 +16,7 @@ Why matching a governance system's internal variety to its problem environment's
 ### [Coordination Tax (GAE V) →](/evidens/datamodeller/modeller/samordningsskatt/)
 The structural cost of keeping multiple distributed decision-makers acting coherently — the counterweight to requisite variety, and central to **[R7](/evidens/forskning/samordning-komplexitet-ansvar/)**.
 
-### [The Adaptation Bottleneck (GAE XV) →](/evidens/datamodeller/modeller/adaptationsflaskhalsen/)
+### [The Adaptation Bottleneck (GAE XV) →](/evidens/datamodeller/modeller/adaptionsflaskhalsen/)
 Why a governance system's overall adaptive speed is limited by its slowest sense→learn→act link — directly relevant to **[R9](/evidens/forskning/styrning-anpassning/)**'s open question of why Swedish institutional corrections take years to decades.
 
 ---

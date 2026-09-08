@@ -147,6 +147,26 @@ Den fullständiga tekniska rapporten (metod, alla nio delstudier, känslighetsan
 
 ---
 
+## Kod och rådata
+
+All simuleringskod och samtliga resultatfiler finns öppet på GitHub:
+**[svensk-subsidiaritet-simulations](https://github.com/BjornKennethHolmstrom/svensk-subsidiaritet-simulations)**
+
+Arkivet innehåller de 25 Python-skript och 28 CSV-filer som ligger bakom siffrorna på
+den här sidan, uppdelade i den enkla och den utökade modellen. Två dokument är värda
+att läsa innan man drar slutsatser av resultaten:
+
+- **MANIFEST.md** kopplar varje skript till de resultatfiler det producerar och till
+  vad körningen undersöker.
+- **METOD.md** redovisar modellantaganden och kända begränsningar — bland annat att
+  Universal inte belastas med administrationskostnad, att förlustmåttet skiljer sig
+  mellan de två modellerna, och att den utökade modellen inte är bit-identiskt
+  reproducerbar eftersom arbets- och fuskbesluten använder en oseedad slumpgenerator.
+
+Koden är licensierad under MIT, resultat och text under CC BY 4.0.
+
+---
+
 ## Relaterat
 
 **[H2b i Evidensmatrisen →](/evidens/syntes/matris/)**

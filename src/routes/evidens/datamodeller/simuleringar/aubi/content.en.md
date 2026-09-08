@@ -147,6 +147,20 @@ The complete technical report (methodology, all nine sub-studies, sensitivity an
 
 ---
 
+## Code and Raw Data
+
+All simulation code and all result files are openly available on GitHub:
+**[svensk-subsidiaritet-simulations](https://github.com/BjornKennethHolmstrom/svensk-subsidiaritet-simulations)**
+
+The archive contains the 25 Python scripts and 28 CSV files behind the numbers on this page, divided into the simple and the extended model. Two documents are worth reading before drawing conclusions from the results:
+
+- **MANIFEST.md** links each script to the result files it produces and to what the run investigates.
+- **METOD.md** reports model assumptions and known limitations — including that Universal is not charged an administrative cost, that the loss measure differs between the two models, and that the extended model is not bit-identically reproducible because the work and cheating decisions use an unseeded random generator.
+
+The code is licensed under MIT, results and text under CC BY 4.0.
+
+---
+
 ## Related
 
 **[H2b in the Evidence Matrix →](/evidens/syntes/matris/)**
