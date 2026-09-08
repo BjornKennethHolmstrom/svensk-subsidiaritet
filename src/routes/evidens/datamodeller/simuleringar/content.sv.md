@@ -1,36 +1,49 @@
 # Simuleringar
 
-## Där GAE-koden faktiskt bor
+## Två typer: externa GAE-simuleringar, och projektoriginal
+
+Den här sidan samlar två olika sorters simuleringsarbete. De ska läsas med samma försiktighet, men de bor på olika ställen och har olika ursprung.
+
+---
+
+## GAE-simuleringar (externa)
 
 Alla Governance as Engineering-simuleringar samlas i ett kanoniskt repository:
 
 **[gae-governance-simulator →](https://github.com/BjornKennethHolmstrom/gae-governance-simulator)**
 
-Den här webbplatsen duplicerar inte den koden eller lagrar om resultaten. Den här sidan finns för att peka tydligt dit, och för att förklara hur man läser det man hittar där i det här projektets evidensstandarder.
+Den här webbplatsen duplicerar inte den koden eller lagrar om resultaten. Se **[GAE-modeller →](/evidens/datamodeller/modeller/)** för tolkningslagret som kopplar specifika rapporter (och deras simuleringar) till det här projektets hypoteser.
+
+## Projektoriginal simuleringar (här på webbplatsen)
+
+Vissa simuleringar är gjorda specifikt för Svensk Subsidiaritet — inte en del av GAE-serien. De hanteras annorlunda: koden och rapporterna hör hemma här, med egna sidor och nedladdningsbara rapporter.
+
+### [AUBI-simuleringar →](/evidens/datamodeller/simuleringar/aubi/)
+
+Nio delstudier av en adaptiv universell basinkomst-arkitektur: behovsheterogenitet, socialt kapital, kollektiv finansiering, och en real kapacitetsbegränsning. Testar hypotes **H2b**. Fullständig teknisk rapport finns som nedladdningsbar PDF.
 
 ---
 
 ## Hur man läser ett simuleringsresultat
 
-Ett simuleringsresultat är ett **[R]-nivå (rigoröst) fynd inom sin modell** — se **[Så vet vi](/evidens/sa-vet-vi/)** för den fullständiga förklaringen av anspråksnivåer. Det betyder:
+Ett simuleringsresultat är ett **[R]-nivå (rigoröst) fynd inom sin modell** — se **[Så vet vi](/evidens/sa-vet-vi/)** för den fullständiga förklaringen av anspråksnivåer. Det gäller båda typerna ovan, oavsett om simuleringen kommer från GAE-serien eller är gjord för det här projektet:
 
 - Det är ett precist, reproducerbart resultat **givet modellens antaganden**.
-- Det är **inte**, i sig, ett empiriskt påstående om verkliga svenska institutioner — det kräver ett separat, disciplinerat [IP]-översättningssteg, vilket är vad sidorna under **[GAE-modeller](/evidens/datamodeller/modeller/)** försöker göra för ett fåtal specifika rapporter.
+- Det är **inte**, i sig, ett empiriskt påstående om verkliga institutioner — det kräver ett separat, disciplinerat [IP]-översättningssteg.
 - Behandla en simulering som du skulle behandla ett matematiskt bevis av ett teorem: korrekt inom sina termer, och en genuint användbar guide för intuition, men inte i sig en mätning av världen.
 
 ---
 
 ## Var simuleringsresultat används i det här korpuset
 
-Två hypoteser i **[Evidensmatrisen](/evidens/syntes/matris/)** refererar till direkta empiriska test genomförda som en del av GAE-arbetet snarare än rent teoretiska modeller:
-
 - **H11** refererar till ett direkt empiriskt AI-test inom GAE X med en hög skattad korrelation mellan observatörer — men institutionell generalisering från det specifika, domänspecifika testet är inte fastställd, och hypotesen är klassad "Olöst" av just den anledningen.
-- Flera andra hypoteser (H12, H13) refererar till "formellt modellstöd" eller "formell/modellmässig motivering" från specifika GAE-rapporter utan att ännu ha ett motsvarande empiriskt institutionellt test — de är också klassade "Olöst" eller "Låg–Medel konfidens" i matrisen, precis för att hålla modellnivåstöd och empiriskt stöd visuellt åtskilda.
+- Flera andra hypoteser (H12, H13) refererar till "formellt modellstöd" eller "formell/modellmässig motivering" från specifika GAE-rapporter utan att ännu ha ett motsvarande empiriskt institutionellt test.
+- **H2b** refererar till AUBI-simuleringarna, klassad "Modellstött / empiriskt olöst" — se **[Evidensmatrisen →](/evidens/syntes/matris/)**.
+
+I samtliga fall håller vi modellnivåstöd och empiriskt stöd visuellt åtskilda, för att undvika att ett simuleringsresultat av misstag läses som empirisk evidens.
 
 ---
 
 ## Vad som är planerat här
 
-En egentlig katalogsida — en post per simulering, med metadata, en sammanfattning i klarspråk av vad som testades, och en länk till de specifika resultaten i repositoryt — är planerad men ännu inte byggd. Fram tills dess är själva GitHub-repositoryt den kanoniska källan; bläddra direkt där för den nuvarande uppsättningen simuleringar.
-
-**[Se GAE-modeller →](/evidens/datamodeller/modeller/)** för tolkningslagret som kopplar specifika rapporter (och deras simuleringar) till det här projektets hypoteser.
+En egentlig katalogsida för GAE-simuleringarna — en post per simulering, med metadata och en länk till specifika resultat i repositoryt — är planerad men ännu inte byggd. Fram tills dess är GitHub-repositoryt den kanoniska källan för de simuleringarna.

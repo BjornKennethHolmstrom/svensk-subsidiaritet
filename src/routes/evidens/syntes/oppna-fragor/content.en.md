@@ -30,6 +30,18 @@ Questions here may later become hypotheses, studies, simulations, or experiments
 
 ---
 
+## Specifically from the AUBI simulations (H2b)
+
+The five empirically testable predictions from the **[AUBI simulations](/evidens/datamodeller/simuleringar/aubi/)** define a concrete next research phase — not more simulations of the same model, but a targeted look at real transfer systems:
+
+- Do real systems with high need heterogeneity (e.g. disability benefits, personal budgets, caregiver support) empirically perform better when differentiated/adaptive than when uniform — in line with Prediction 1?
+- Are there real thresholds where targeting/adaptation becomes worse than universalism due to observation and classification error, in line with Prediction 2?
+- Can systems be found where explicit weighting against severe deprivation (or its absence) explains differences in how the most vulnerable groups actually fare, in line with Prediction 3?
+- Would a comparison between rapidly and slowly recalculated need-based systems (e.g. reassessment intervals in disability insurance) show the volatility difference Prediction 4 assumes?
+- Are there examples of systems combining a universal component with a collectively-funded component (e.g. universal benefits + publicly funded care) where the balance between them varies with local production capacity, in line with Prediction 5?
+
+---
+
 ## Structural / cross-cutting questions
 
 - What is the right way to aggregate evidence across cases with different causal identification strength, time horizons, and definitions of decentralization, without producing a premature "subsidiarity score"? (See the explicit methodological warning in the underlying case corpus.)

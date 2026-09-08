@@ -30,6 +30,18 @@ Frågor här kan senare bli hypoteser, studier, simuleringar eller experiment. D
 
 ---
 
+## Specifikt från AUBI-simuleringarna (H2b)
+
+De fem empiriskt testbara förutsägelserna från **[AUBI-simuleringarna](/evidens/datamodeller/simuleringar/aubi/)** definierar en konkret nästa forskningsfas — inte fler simuleringar av samma modell, utan en riktad granskning av verkliga transfereringssystem:
+
+- Har verkliga system med hög behovsheterogenitet (t.ex. sjukersättning, personliga budgetar, anhörigstöd) empiriskt bättre utfall när de är differentierade/adaptiva än när de är enhetliga — i linje med Förutsägelse 1?
+- Finns det verkliga trösklar där targeting/adaptation blir sämre än universalism på grund av observations- och klassificeringsfel, i linje med Förutsägelse 2?
+- Går det att hitta system där explicit viktning mot svår deprivation (eller avsaknad därav) förklarar skillnader i hur de mest utsatta grupperna faktiskt klaras av, i linje med Förutsägelse 3?
+- Skulle en jämförelse mellan snabbt och långsamt omräknade behovsbaserade system (t.ex. omprövningsintervall i sjukförsäkring) visa den volatilitetsskillnad Förutsägelse 4 antar?
+- Finns det exempel på system som kombinerar en universell del med en kollektivt finansierad del (t.ex. universella bidrag + offentligt finansierad omsorg) där balansen mellan dem varierar med lokal produktionskapacitet, i linje med Förutsägelse 5?
+
+---
+
 ## Strukturella / ämnesövergripande frågor
 
 - Vad är rätt sätt att aggregera evidens över fall med olika kausal identifieringsstyrka, tidshorisonter och definitioner av decentralisering, utan att skapa ett förhastat "subsidiaritetsindex"? (Se den explicita metodologiska varningen i det underliggande fallkorpuset.)

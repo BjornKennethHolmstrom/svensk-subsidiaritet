@@ -1,36 +1,49 @@
 # Simulations
 
-## Where the GAE code actually lives
+## Two kinds: external GAE simulations, and project-original work
+
+This page brings together two different kinds of simulation work. Both should be read with the same caution, but they live in different places and have different origins.
+
+---
+
+## GAE simulations (external)
 
 All Governance as Engineering simulations are collected in one canonical repository:
 
 **[gae-governance-simulator →](https://github.com/BjornKennethHolmstrom/gae-governance-simulator)**
 
-This site doesn't duplicate that code or re-host results. This page exists to point to it clearly, and to explain how to read what you'll find there in the context of this project's evidence standards.
+This site doesn't duplicate that code or re-host results. See **[GAE Models →](/evidens/datamodeller/modeller/)** for the interpretive layer connecting specific reports (and their simulations) to this project's hypotheses.
+
+## Project-original simulations (hosted here)
+
+Some simulations are built specifically for Svensk Subsidiaritet — not part of the GAE series. These are handled differently: the code and reports belong here, with their own pages and downloadable reports.
+
+### [AUBI Simulations →](/evidens/datamodeller/simuleringar/aubi/)
+
+Nine sub-studies of an adaptive universal basic income architecture: need heterogeneity, social capital, collective funding, and a real capacity constraint. Tests hypothesis **H2b**. Full technical report available as a downloadable PDF.
 
 ---
 
 ## How to read a simulation result
 
-A simulation result is a **[R]-level (rigorous) finding within its model** — see **[How We Know](/evidens/sa-vet-vi/)** for the full explanation of claim levels. That means:
+A simulation result is a **[R]-level (rigorous) finding within its model** — see **[How We Know](/evidens/sa-vet-vi/)** for the full explanation of claim levels. This applies to both categories above, whether the simulation comes from the GAE series or was built for this project:
 
-- It's a precise, reproducible result *given the model's assumptions*.
-- It is **not**, by itself, an empirical claim about real Swedish institutions — that requires a separate, disciplined [IP] translation step, which is what the **[GAE Models](/evidens/datamodeller/modeller/)** pages attempt for a handful of specific reports.
+- It's a precise, reproducible result **given the model's assumptions**.
+- It is **not**, by itself, an empirical claim about real institutions — that requires a separate, disciplined [IP] translation step.
 - Treat a simulation the way you'd treat a mathematical proof of a theorem: correct within its terms, and a genuinely useful guide to intuition, but not itself a measurement of the world.
 
 ---
 
 ## Where simulation results are used in this corpus
 
-Two hypotheses in the **[Evidence Matrix](/evidens/syntes/matris/)** reference direct empirical tests conducted as part of the GAE work rather than purely theoretical models:
-
 - **H11** references a direct empirical AI test within GAE X with a high estimated correlation between observers — but institutional generalization from that specific, domain-specific test is not established, and the hypothesis is rated "Unresolved" for that reason.
-- Several other hypotheses (H12, H13) reference "formal model support" or "formal/model motivation" from specific GAE reports without yet having a corresponding empirical institutional test — these are also rated "Unresolved" or "Low–Medium confidence" in the matrix, precisely to keep model-level support and empirical support visually distinct.
+- Several other hypotheses (H12, H13) reference "formal model support" or "formal/model motivation" from specific GAE reports without yet having a corresponding empirical institutional test.
+- **H2b** references the AUBI simulations, rated "Model-supported / empirically unresolved" — see **[the Evidence Matrix →](/evidens/syntes/matris/)**.
+
+In every case, we keep model-level support and empirical support visually distinct, to avoid a simulation result being mistakenly read as empirical evidence.
 
 ---
 
 ## What's planned here
 
-A proper catalogue page — one entry per simulation, with metadata, a plain-language summary of what was tested, and a link to the specific results in the repository — is planned but not yet built. Until then, the GitHub repository itself is the canonical source; browse it directly for the current set of simulations.
-
-**[See GAE Models →](/evidens/datamodeller/modeller/)** for the interpretive layer connecting specific reports (and their simulations) to this project's hypotheses.
+A proper catalogue page for the GAE simulations — one entry per simulation, with metadata and a link to specific results in the repository — is planned but not yet built. Until then, the GitHub repository is the canonical source for those simulations.
