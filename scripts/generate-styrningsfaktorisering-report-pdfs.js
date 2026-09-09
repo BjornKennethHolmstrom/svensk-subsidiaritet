@@ -13,6 +13,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { marked } from 'marked';
+import katex from 'katex';
 import puppeteer from 'puppeteer';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -26,7 +27,6 @@ const STATIC_DIR = path.join(__dirname, '../static');
 const AUTHOR = 'Björn Kenneth Holmström';
 const SITE_URL = 'svensksubsidiaritet.se';
 
-// File mapping: language code -> { input file, output file, title, subtitle }
 const CONFIG = {
     sv: {
         input: path.join(REPORT_DIR, 'styrningsfaktorisering-v0.5-blindtest-rapport-sv.md'),
@@ -44,7 +44,7 @@ const CONFIG = {
     }
 };
 
-// --- STYLING (Report-style, serif body, sans headings) ---
+// --- STYLING ---
 const pdfStyles = `
 <style>
     @page {
@@ -91,7 +91,6 @@ const pdfStyles = `
         font-size: 10pt;
     }
 
-    /* Content */
     h1, h2, h3, h4 {
         font-family: 'Arial', sans-serif;
         color: #000;
@@ -135,9 +134,16 @@ const pdfStyles = `
         padding: 0.5rem;
     }
 
-    /* Mathematical formulas rendered by MathJax */
-    mjx-container {
-        font-size: 100% !important;
+    /* KaTeX sizing to match body text */
+    .katex {
+        font-size: 1.1em;
+    }
+    .katex-display {
+        font-size: 1.1em;
+        margin: 1em 0;
+        overflow-x: auto;
+        overflow-y: hidden;
+        padding: 0.5em 0;
     }
 
     .footer {
@@ -151,7 +157,6 @@ const pdfStyles = `
 </style>
 `;
 
-// MIME types for image embedding
 const mimeTypes = {
     '.svg': 'image/svg+xml',
     '.png': 'image/png',
@@ -161,14 +166,10 @@ const mimeTypes = {
     '.webp': 'image/webp'
 };
 
-/**
- * Convert image src attributes to Base64 data URIs
- */
 function embedImagesAsBase64(html) {
     const imgRegex = /<img[^>]+src=["']([^"']+)["'][^>]*>/gi;
     
     return html.replace(imgRegex, (match, src) => {
-        // Skip external or already embedded
         if (src.startsWith('http://') || src.startsWith('https://') || src.startsWith('data:')) {
             return match;
         }
@@ -202,6 +203,43 @@ function embedImagesAsBase64(html) {
     });
 }
 
+function preRenderMath(mdContent) {
+    const blocks = [];
+    let processed = mdContent;
+
+    processed = processed.replace(/\$\$([\s\S]*?)\$\$|\\\[([\s\S]*?)\\\]/g, (match, tex1, tex2) => {
+        const tex = (tex1 ?? tex2 ?? '').trim();
+        try {
+            const rendered = katex.renderToString(tex, { displayMode: true, throwOnError: false });
+            blocks.push(rendered);
+            return `%%MATH${blocks.length - 1}%%`;
+        } catch (e) {
+            console.warn('KaTeX display error:', e);
+            blocks.push(match);
+            return `%%MATH${blocks.length - 1}%%`;
+        }
+    });
+
+    processed = processed.replace(/(?<!\$)\$(?!\$)([\s\S]*?)(?<!\$)\$(?!\$)|\\\(([\s\S]*?)\\\)/g, (match, tex1, tex2) => {
+        const tex = (tex1 ?? tex2 ?? '').trim();
+        try {
+            const rendered = katex.renderToString(tex, { displayMode: false, throwOnError: false });
+            blocks.push(rendered);
+            return `%%MATH${blocks.length - 1}%%`;
+        } catch (e) {
+            console.warn('KaTeX inline error:', e);
+            blocks.push(match);
+            return `%%MATH${blocks.length - 1}%%`;
+        }
+    });
+
+    return { processed, blocks };
+}
+
+function restoreMath(html, blocks) {
+    return html.replace(/%%MATH(\d+)%%/g, (_, idx) => blocks[parseInt(idx)] ?? '');
+}
+
 async function generatePDF(lang) {
     const config = CONFIG[lang];
     if (!config) return;
@@ -213,27 +251,23 @@ async function generatePDF(lang) {
         return;
     }
     
-    // Read and parse markdown
     let markdown = fs.readFileSync(config.input, 'utf-8');
-    markdown = markdown.replace(/^---\n[\s\S]*?\n---\n/, ''); // Remove frontmatter
-    const contentHtml = marked.parse(markdown);
+    markdown = markdown.replace(/^---\n[\s\S]*?\n---\n/, '');
     
-    // Build HTML with cover page and MathJax for formulas
+    const { processed: processedMarkdown, blocks } = preRenderMath(markdown);
+    const rawContentHtml = marked.parse(processedMarkdown);
+    const contentHtml = restoreMath(rawContentHtml, blocks);
+    
+    const katexCssPath = path.join(__dirname, '../node_modules/katex/dist/katex.min.css');
+    const katexCssUri = 'file://' + path.resolve(katexCssPath).replace(/\\/g, '/');
+    
     let html = `
     <!DOCTYPE html>
     <html>
     <head>
         <meta charset="UTF-8">
+        <link rel="stylesheet" href="${katexCssUri}" />
         ${pdfStyles}
-        <script>
-            window.MathJax = {
-                tex: {
-                    inlineMath: [['\\\\(', '\\\\)']],
-                    displayMath: [['\\\\[', '\\\\]']]
-                }
-            };
-        </script>
-        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     </head>
     <body>
         <div class="report-cover">
@@ -259,37 +293,51 @@ async function generatePDF(lang) {
     </html>
     `;
     
-    // Embed images
     html = embedImagesAsBase64(html);
     
-    // Ensure output directory exists
     if (!fs.existsSync(OUTPUT_DIR)) {
         fs.mkdirSync(OUTPUT_DIR, { recursive: true });
     }
     
-    // Generate PDF
-    const browser = await puppeteer.launch({ headless: 'new' });
-    const page = await browser.newPage();
-    await page.setContent(html, { waitUntil: 'networkidle0' });
+    // Write temporary HTML file
+    const tempHtmlFile = path.join(OUTPUT_DIR, `temp-render-styrningsfaktorisering-${lang}.html`);
+    fs.writeFileSync(tempHtmlFile, html);
+    const tempHtmlUri = 'file://' + path.resolve(tempHtmlFile).replace(/\\/g, '/');
     
-    await page.pdf({
-        path: config.output,
-        format: 'A4',
-        printBackground: true,
-        displayHeaderFooter: true,
-        headerTemplate: '<div></div>',
-        footerTemplate: `
-            <div style="font-size: 9pt; font-family: sans-serif; color: #a8a29e; margin: 0 auto; padding-bottom: 10px; text-align: center;">
-                ${config.title} • <span class="pageNumber"></span>
-            </div>
-        `,
-        margin: { top: '2.2cm', bottom: '2.2cm', left: '1.8cm', right: '1.8cm' }
+    const browser = await puppeteer.launch({
+        headless: 'new',
+        args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--allow-file-access-from-files']
     });
     
-    await page.close();
-    await browser.close();
-    
-    console.log(`✅ Saved: ${path.basename(config.output)}`);
+    try {
+        const page = await browser.newPage();
+        page.setDefaultNavigationTimeout(120000);
+        console.log('Loading HTML file locally...');
+        await page.goto(tempHtmlUri, { waitUntil: ['domcontentloaded', 'networkidle0'], timeout: 120000 });
+        console.log('Content loaded, generating PDF...');
+        
+        await page.pdf({
+            path: config.output,
+            format: 'A4',
+            printBackground: true,
+            displayHeaderFooter: true,
+            headerTemplate: '<div></div>',
+            footerTemplate: `
+                <div style="font-size: 9pt; font-family: sans-serif; color: #a8a29e; margin: 0 auto; padding-bottom: 10px; text-align: center;">
+                    ${config.title} • <span class="pageNumber"></span>
+                </div>
+            `,
+            margin: { top: '2.2cm', bottom: '2.2cm', left: '1.8cm', right: '1.8cm' }
+        });
+        
+        console.log(`✅ Saved: ${path.basename(config.output)}`);
+    } catch (error) {
+        console.error(`❌ Error generating ${lang.toUpperCase()} PDF:`, error);
+        throw error;
+    } finally {
+        await browser.close();
+        if (fs.existsSync(tempHtmlFile)) fs.unlinkSync(tempHtmlFile);
+    }
 }
 
 async function generateAll() {

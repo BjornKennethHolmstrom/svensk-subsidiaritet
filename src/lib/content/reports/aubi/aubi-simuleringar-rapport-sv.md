@@ -359,8 +359,8 @@ Här undersöktes hur valet av basnivå (\(\alpha\)) och andel högbehov (\(p_{\
 
 **Huvudresultat:**
 
-- Vid hög heterogenitet var en relativt låg bas (\(\alpha \approx 0.4–0.6\)) och en måttlig målgrupp (\(p_{\text{high}} \approx 0.2–0.4\)) optimal för att minimera genomsnittlig förlust. För att minska svår deprivation krävdes dock en högre bas (\(\alpha \geq 0.6\)).
-- Vid låg heterogenitet var en hög bas (\(\alpha \approx 0.8–0.9\)) och en bredare målgrupp (\(p_{\text{high}} \approx 0.3–0.5\)) bäst.
+- Vid hög heterogenitet var en relativt låg bas (\(\alpha \approx 0.4	\text{–}0.6\)) och en måttlig målgrupp (\(p_{\text{high}} \approx 0.2\text{–}0.4\)) optimal för att minimera genomsnittlig förlust. För att minska svår deprivation krävdes dock en högre bas (\(\alpha \geq 0.6\)).
+- Vid låg heterogenitet var en hög bas (\(\alpha \approx 0.8\text{–}0.9\)) och en bredare målgrupp (\(p_{\text{high}} \approx 0.3\text{–}0.5\)) bäst.
 - Det fanns en tydlig målkonflikt: den parameteruppsättning som minimerade medelabs skiljde sig från den som minimerade svår deprivation, särskilt vid hög heterogenitet.
 
 **Slutsats:** Det finns ingen generell optimal parameteruppsättning; valet måste kopplas till vilket välfärdsmål som prioriteras och hur heterogen populationen är.
@@ -372,7 +372,7 @@ I denna delstudie infördes tidsvariation i behoven genom en AR(1)-process. Vi j
 **Huvudresultat:**
 
 - Dynamisk optimering minskade genomsnittlig förlust jämfört med fasta parametrar, särskilt när behoven förändrades.
-- Anpassningshastigheten \(\gamma\) var betydelsefull: snabb anpassning (\(\gamma = 1\)) ledde till högre volatilitet, medan trögare anpassning (\(\gamma = 0.1–0.5\)) gav stabilare resultat och ofta lägre medelförlust.
+- Anpassningshastigheten \(\gamma\) var betydelsefull: snabb anpassning (\(\gamma = 1\)) ledde till högre volatilitet, medan trögare anpassning (\(\gamma = 0.1\text{–}0.5\)) gav stabilare resultat och ofta lägre medelförlust.
 - Den dynamiska varianten kunde i vissa fall minska svår deprivation (särskilt vid låg heterogenitet), men vid hög heterogenitet tenderade den att öka severe jämfört med fasta parametrar om enbart medelabs optimerades.
 
 **Slutsats:** Löpande parameterjustering kan förbättra träffsäkerheten, men kräver omsorgsfullt val av anpassningshastighet och målfunktion för att inte skapa nya problem.
@@ -396,7 +396,7 @@ I denna delstudie modellerades återkoppling: transfer påverkar framtida behov.
 
 **Huvudresultat:**
 
-- Vid måttlig återkoppling (\(\beta = 0.1–0.5\)) presterade Adaptive med dynamisk optimering och \(\lambda \geq 1\) bäst. Den hade både lägre medelabs och lägre severe än Universal och fasta parametrar.
+- Vid måttlig återkoppling (\(\beta = 0.1\text{–}0.5\)) presterade Adaptive med dynamisk optimering och \(\lambda \geq 1\) bäst. Den hade både lägre medelabs och lägre severe än Universal och fasta parametrar.
 - Vid stark återkoppling (\(\beta = 1.0\)) ökade alla förluster, men den dynamiska modellen var fortfarande mest robust.
 - Viktningen mot svår deprivation visade sig också dämpa behovsspiraler: system med högre \(\lambda\) tenderade att få lägre slutligt medelbehov.
 
@@ -433,7 +433,7 @@ Vi varierade \(\phi_{work}\), \(\eta_{work}\) och vikterna för underförsörjni
 **Huvudresultat:**
 
 - När socialt kapital vägde tungt (ω₃ ≥ 0.34) var \(b = 0.6\) optimal i samtliga testade kombinationer.
-- När enbart materiell deprivation vägde (ω₃ = 0) var \(b = 1.0\) oftast bäst, men högre \(\phi_{work}\) kunde förskjuta optimum till \(b = 0.6–0.8\).
+- När enbart materiell deprivation vägde (ω₃ = 0) var \(b = 1.0\) oftast bäst, men högre \(\phi_{work}\) kunde förskjuta optimum till \(b = 0.6\text{–}0.8\).
 - Högre \(\phi_{work}\) och \(\eta_{work}\) förbättrade alltid den totala välfärden, oavsett vikter.
 - Arbetsdeltagandet var okänsligt för dessa parametrar och låg stabilt på cirka 53 %.
 

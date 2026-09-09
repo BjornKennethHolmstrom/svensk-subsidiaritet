@@ -360,8 +360,8 @@ Here, how the choice of base level (\(\alpha\)) and share of high-need (\(p_{\te
 
 **Main results:**
 
-- Under high heterogeneity, a relatively low base (\(\alpha \approx 0.4–0.6\)) and a moderate target group (\(p_{\text{high}} \approx 0.2–0.4\)) was optimal for minimizing average loss. To reduce severe deprivation, however, a higher base was required (\(\alpha \geq 0.6\)).
-- Under low heterogeneity, a high base (\(\alpha \approx 0.8–0.9\)) and a broader target group (\(p_{\text{high}} \approx 0.3–0.5\)) was best.
+- Under high heterogeneity, a relatively low base (\(\alpha \approx 0.4\text{–}0.6\)) and a moderate target group (\(p_{\text{high}} \approx 0.2\text{–}0.4\)) was optimal for minimizing average loss. To reduce severe deprivation, however, a higher base was required (\(\alpha \geq 0.6\)).
+- Under low heterogeneity, a high base (\(\alpha \approx 0.8\text{–}0.9\)) and a broader target group (\(p_{\text{high}} \approx 0.3\text{–}0.5\)) was best.
 - There was a clear goal conflict: the parameter set that minimized mean absolute loss differed from the one that minimized severe deprivation, particularly under high heterogeneity.
 
 **Conclusion:** There is no general optimal parameter set; the choice must be linked to which welfare goal is prioritized and how heterogeneous the population is.
@@ -373,7 +373,7 @@ In this sub-study, time variation in needs was introduced through an AR(1) proce
 **Main results:**
 
 - Dynamic optimization reduced average loss compared to fixed parameters, especially when needs changed.
-- The adaptation speed \(\gamma\) was important: fast adaptation (\(\gamma = 1\)) led to higher volatility, while more sluggish adaptation (\(\gamma = 0.1–0.5\)) gave more stable results and often lower mean loss.
+- The adaptation speed \(\gamma\) was important: fast adaptation (\(\gamma = 1\)) led to higher volatility, while more sluggish adaptation (\(\gamma = 0.1\text{–}0.5\)) gave more stable results and often lower mean loss.
 - The dynamic variant could in some cases reduce severe deprivation (especially under low heterogeneity), but under high heterogeneity it tended to increase severe compared to fixed parameters if only mean absolute loss was optimized.
 
 **Conclusion:** Ongoing parameter adjustment can improve accuracy, but requires careful choice of adaptation speed and objective function to avoid creating new problems.
@@ -397,7 +397,7 @@ In this sub-study, feedback was modeled: transfer affects future needs. A first 
 
 **Main results:**
 
-- Under moderate feedback (\(\beta = 0.1–0.5\)), Adaptive with dynamic optimization and \(\lambda \geq 1\) performed best. It had both lower mean absolute loss and lower severe than Universal and fixed parameters.
+- Under moderate feedback (\(\beta = 0.1\text{–}0.5\)), Adaptive with dynamic optimization and \(\lambda \geq 1\) performed best. It had both lower mean absolute loss and lower severe than Universal and fixed parameters.
 - Under strong feedback (\(\beta = 1.0\)), all losses increased, but the dynamic model was still most robust.
 - Weighting toward severe deprivation also proved to dampen need spirals: systems with higher \(\lambda\) tended to get lower final mean need.
 
@@ -434,7 +434,7 @@ We varied \(\phi_{work}\), \(\eta_{work}\), and the weights for underprovision, 
 **Main results:**
 
 - When social capital weighed heavily (ω₃ ≥ 0.34), \(b = 0.6\) was optimal in all tested combinations.
-- When only material deprivation weighed (ω₃ = 0), \(b = 1.0\) was usually best, but higher \(\phi_{work}\) could shift the optimum to \(b = 0.6–0.8\).
+- When only material deprivation weighed (ω₃ = 0), \(b = 1.0\) was usually best, but higher \(\phi_{work}\) could shift the optimum to \(b = 0.6\text{–}0.8\).
 - Higher \(\phi_{work}\) and \(\eta_{work}\) always improved total welfare, regardless of weights.
 - Work participation was insensitive to these parameters and remained stable at approximately 53%.
 
