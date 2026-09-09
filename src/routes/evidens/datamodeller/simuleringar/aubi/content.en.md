@@ -65,16 +65,52 @@ That's exactly the kind of **conditionality** this line of work was looking for 
 
 ### When adaptation does *not* help — failure modes
 
-Just as important as when the mechanism works is when it doesn't:
+Just as important as when the mechanism works is when it doesn't. The model identifies seven ways adaptive provision can fail. These are **model-identified risks**, not observed failures of real AUBI systems:
 
-- **At low need heterogeneity**, adaptation provides little or no advantage — the administrative cost of observing and targeting becomes a pure loss.
-- **At high measurement error**, the adaptive advantage disappears entirely: the system misdirects resources often enough to erase the gain from better matching.
-- **Without explicit weighting against severe deprivation (λ)**, the objective function readily optimizes away the most vulnerable in favour of average accuracy — a pure design choice can therefore produce a result that looks good on average while performing poorly for those with the greatest need.
+- **Measurement failure.** At high observation error, the adaptive advantage disappears: the system misdirects resources often enough to erase the gain from better matching.
+- **Administrative overload.** At low need heterogeneity, adaptation provides little or no advantage — the cost of observing and targeting becomes a pure loss. Even at high heterogeneity, sufficiently expensive differentiation can erase the advantage.
+- **Objective-function failure.** Without explicit weighting against severe deprivation (λ), the objective function readily optimizes away the most vulnerable in favour of average accuracy. A pure design choice can therefore produce a result that looks good on average while performing poorly for those with the greatest need.
+- **Adaptation instability.** Very rapid parameter adjustment increases responsiveness but also volatility. In the tested scenarios, moderate inertia (γ ≤ 0.5) was often preferable — a result *within the model*, not a parameter recommendation for the real world.
+- **Feedback instability.** The intervention changes the variable the system is trying to control: need → provision → behaviour/conditions → changed need. This makes the problem cybernetic rather than a one-way targeting problem, and stabilizing mechanisms matter more the stronger the feedback.
+- **Goodhart risk.** When provision depends on *measured* need, actors gain incentives to optimize the indicator rather than the underlying condition.
+- **Capacity constraint.** Increased nominal transfers do not automatically create more real goods and services. Especially relevant for housing and other capacity-constrained goods.
 
 ### Other findings
 
 - **Voluntary-work participation was stable at around 53%, largely independent of the basic-income level** — see the calibration caveat below before reading anything into this about real human behaviour.
 - **A mix (≈60% basic income / 40% collective fund) was robust** across several scenarios once social capital was weighted in, including after a real capacity constraint was introduced for the basic income. **b ≈ 0.6 is a simulation result for this specific model, these parameters, and this objective function — not a policy recommendation.**
+
+---
+
+## A conditional architecture space, not a verdict on universalism vs targeting
+
+The simulations should not be read as settling the old dispute between universalism and means-testing — in either direction. What the model describes instead is a **conditional architecture space**, where which design works depends on the system's circumstances:
+
+```text
+low heterogeneity
+        ↓
+a larger universal component may dominate
+
+high heterogeneity
+        ↓
+adaptive/collective components gain value
+
+poor measurement
+        ↓
+the adaptive advantage shrinks
+
+high administrative burden
+        ↓
+the adaptive advantage shrinks
+
+strong collective effects
+        ↓
+collective provision gains value
+```
+
+This makes the bridge to the actual universalism/targeting literature more useful: the question is not which principle is better, but under which observable conditions each architecture performs.
+
+The same logic applies to AUBI itself. The simulations support treating AUBI as a **family of architectures** rather than one fixed system — the size of the floor, the strength of the adaptive layer, the method of need recognition, the speed of adjustment, administrative intensity, the fund's share, the welfare objective, and real resource constraints are all free design dimensions. The model's conclusion is therefore that **there is likely no universally optimal AUBI parameterization**, only parameter ranges that are viable given a particular context. That too is a model-derived conclusion.
 
 ---
 
@@ -94,15 +130,21 @@ A new sub-study ("Real Capacity Model") addresses this directly: the basic incom
 
 Perhaps the most valuable output of these simulations isn't "AUBI works" — it's that the model generates concrete, falsifiable predictions that can be tested against real transfer systems:
 
-**Prediction 1.** Higher need heterogeneity in a population should increase the relative value of differentiated/adaptive provision over uniform provision.
+**Prediction 1 — heterogeneity.** Higher need heterogeneity in a population should increase the relative value of differentiated/adaptive provision over uniform provision. *Observable implication:* in otherwise comparable populations, need-adaptive interventions should beat uniform provision more clearly where the distribution of relevant needs is more dispersed.
 
-**Prediction 2.** Higher observation error (harder to accurately assess need) should reduce or eliminate that advantage.
+**Prediction 2 — measurement quality.** Higher observation error (harder to accurately assess need) should reduce or eliminate that advantage. *Observable implication:* targeted or adaptive programmes with poorer needs assessment should show smaller gains, more misallocation, or both.
 
-**Prediction 3.** The benefit of adaptation should depend on how the welfare objective is weighted — particularly how the system treats severe deprivation, not just average accuracy.
+**Prediction 3 — administrative cost.** The advantage of differentiated provision should decline as the cost of differentiating rises. *Observable implication:* at similar need heterogeneity, lower-cost targeting should outperform administratively intensive targeting once total system costs are counted, not just transfer expenditure.
 
-**Prediction 4.** Rapid parameter adaptation should create more outcome volatility than moderate adaptation.
+**Prediction 4 — objective function.** The benefit of adaptation should depend on how the welfare objective is weighted — particularly how the system treats severe deprivation, not just average accuracy. *Observable implication:* programmes optimizing average shortfall should allocate differently from programmes explicitly prioritizing the worst-off.
 
-**Prediction 5.** The optimal balance between individual and collective provision should depend on real capacity and how much social value is weighted in.
+**Prediction 5 — adaptation speed.** Rapid parameter adaptation should create more outcome volatility than moderate adaptation, when observations are noisy. *Observable implication:* highly responsive benefit rules should show greater short-term instability when need estimates are uncertain or fast-changing.
+
+**Prediction 6 — feedback.** The effectiveness of adaptive transfers should depend partly on whether the transfer itself changes future need. *Observable implication:* programmes that materially alter measured need should show systematic differences between static targeting evaluations and longer-run evaluations.
+
+**Prediction 7 — collective interventions.** Where collective interventions genuinely reduce future need or create valued social capital, a mixed individual/collective architecture should outperform an equally resourced purely individual transfer, under the corresponding welfare objective. *Observable implication:* programmes combining individual transfers with effective community interventions should outperform transfer-only programmes on appropriately defined broader outcomes.
+
+**Prediction 8 — real capacity.** The welfare effect of additional purchasing power should depend on the supply-side capacity of the relevant goods and services. *Observable implication:* the same transfer increase should have different real effects in areas and sectors with different capacity constraints — housing is the clearest case.
 
 These predictions point toward a concrete next empirical question: **do real social-insurance and transfer systems — disability supplements, child benefits, housing support, caregiver benefits, personal budgets, adaptive social protection — have properties matching the model's assumptions, and do their actual outcomes match the predictions above?** That's where this should go next, not toward more simulations of the same model. See **[Open Questions →](/evidens/syntes/oppna-fragor/)**.
 
@@ -119,6 +161,19 @@ These predictions point toward a concrete next empirical question: **do real soc
 - that the 60/40 split is a policy recommendation
 - that the participation figure (53%) says anything about real human behaviour
 - that the model has fully resolved the real-resource-constraint question (see above)
+
+---
+
+## GAE interpretation
+
+The simulations connect to several mechanisms in the **[GAE lens](/evidens/sa-vet-vi/gae/)**. These are *analytical mappings*, not empirical confirmation — GAE helps name what the model is doing; it doesn't confirm the model is right.
+
+- **Variety gap.** Heterogeneous needs create demand for differentiated system responses.
+- **Observability.** Adaptive provision depends on sufficient information about relevant need.
+- **Goodhart risk.** Measurement-based provision creates incentives to optimize the observable indicator.
+- **Adaptation bottleneck.** Slow adjustment prevents the system from matching rapidly changing needs.
+- **Feedback.** The intervention changes the state it is trying to control.
+- **Requisite alignment.** The architecture should match the structure of the problem and the information actually available.
 
 ---
 
@@ -167,4 +222,4 @@ The code is licensed under MIT, results and text under CC BY 4.0.
 **[Open Questions →](/evidens/syntes/oppna-fragor/)** — the predictions above, plus calibration against real data and modelling strategic behaviour.
 **[How We Know →](/evidens/sa-vet-vi/)** — for the [R]/[IP]/[H] system and the model-vs-empirical distinction used throughout this page.
 
-*Last updated: after the real capacity model sub-study.*
+*Last updated: after the H2b synthesis (v0.1) — full failure-mode list, architecture space, eight predictions, and GAE mapping.*

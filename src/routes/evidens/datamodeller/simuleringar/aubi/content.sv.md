@@ -65,16 +65,52 @@ Det är precis den typ av **villkorlighet** vi letade efter — "behovsheterogen
 
 ### När adaptation *inte* hjälper — failure modes
 
-Lika viktigt som när mekanismen fungerar är när den inte gör det:
+Lika viktigt som när mekanismen fungerar är när den inte gör det. Modellen identifierar sju sätt som adaptiv provision kan misslyckas på. Det här är **modellidentifierade risker**, inte observerade misslyckanden hos verkliga AUBI-system:
 
-- **Vid låg behovsheterogenitet** ger adaptation liten eller ingen fördel — administrationskostnaden för att observera och rikta blir en ren förlust.
-- **Vid högt mätfel** försvinner den adaptiva fördelen helt: systemet riktar resurser fel tillräckligt ofta för att äta upp vinsten från bättre matchning.
-- **Utan explicit viktning mot svår deprivation (λ)** optimerar målfunktionen lätt bort de mest utsatta till förmån för genomsnittlig träffsäkerhet — ett rent designval kan alltså producera ett resultat som ser bra ut i genomsnitt men är dåligt för dem med störst behov.
+- **Mätfel.** Vid högt observationsfel försvinner den adaptiva fördelen: systemet riktar resurser fel tillräckligt ofta för att äta upp vinsten från bättre matchning.
+- **Administrativ överbelastning.** Vid låg behovsheterogenitet ger adaptation liten eller ingen fördel — kostnaden för att observera och rikta blir en ren förlust. Även vid hög heterogenitet kan tillräckligt dyr differentiering radera fördelen.
+- **Fel målfunktion.** Utan explicit viktning mot svår deprivation (λ) optimerar målfunktionen lätt bort de mest utsatta till förmån för genomsnittlig träffsäkerhet. Ett rent designval kan alltså producera ett resultat som ser bra ut i genomsnitt men är dåligt för dem med störst behov.
+- **Anpassningsinstabilitet.** Mycket snabb parameterjustering ökar responsiviteten men också volatiliteten. I de testade scenarierna var måttlig tröghet (γ ≤ 0,5) ofta att föredra — ett resultat *inom modellen*, inte en parameterrekommendation för verkligheten.
+- **Återkopplingsinstabilitet.** Insatsen förändrar den variabel systemet försöker styra: behov → provision → beteende/villkor → förändrat behov. Det gör problemet cybernetiskt snarare än ett enkelriktat riktningsproblem, och stabiliserande mekanismer blir viktigare ju starkare återkopplingen är.
+- **Goodhart-risk.** När provision beror på *uppmätt* behov får aktörer incitament att optimera indikatorn snarare än det underliggande tillståndet.
+- **Kapacitetsbegränsning.** Ökade nominella transfereringar skapar inte automatiskt fler reala varor och tjänster. Särskilt relevant för bostäder och andra kapacitetsbegränsade nyttigheter.
 
 ### Övriga fynd
 
 - **Deltagande i frivilligt arbete var stabilt kring 53 %, i stort sett oberoende av basinkomstnivån** — se kalibreringsreservationen nedan innan detta tolkas som något om verkligt mänskligt beteende.
 - **En blandning (≈60 % basinkomst / 40 % kollektiv fond) var robust** över flera scenarier när socialt kapital vägdes in, inklusive efter att en real kapacitetsbegränsning infördes för basinkomsten. **b ≈ 0,6 är ett simuleringsresultat för den här modellen, de här parametrarna och den här målfunktionen — inte en policyrekommendation.**
+
+---
+
+## Ett villkorat arkitekturrum, inte ett svar på universalism kontra targeting
+
+Simuleringarna ska inte läsas som att de avgör den gamla striden om universalism mot behovsprövning — varken åt det ena eller det andra hållet. Vad modellen i stället beskriver är ett **villkorat arkitekturrum**, där vilken utformning som fungerar beror på systemets förutsättningar:
+
+```text
+låg heterogenitet
+        ↓
+större universell komponent kan dominera
+
+hög heterogenitet
+        ↓
+adaptiva/kollektiva komponenter vinner värde
+
+dålig mätning
+        ↓
+den adaptiva fördelen krymper
+
+hög administrativ börda
+        ↓
+den adaptiva fördelen krymper
+
+starka kollektiva effekter
+        ↓
+kollektiv provision vinner värde
+```
+
+Det gör kopplingen till den faktiska forskningslitteraturen om universalism och targeting mer användbar: frågan är inte vilken princip som är bäst, utan under vilka observerbara betingelser respektive arkitektur presterar.
+
+Samma logik gäller AUBI själv. Simuleringarna stödjer att behandla AUBI som en **familj av arkitekturer** snarare än ett fixerat system — grundens storlek, det adaptiva lagrets styrka, metoden för behovsigenkänning, justeringshastigheten, den administrativa intensiteten, fondens andel, målfunktionen och de reala resursramarna är alla fria designdimensioner. Modellens slutsats är därför att **det troligen inte finns någon universellt optimal AUBI-parametrisering**, bara parameterintervall som är rimliga givet en viss kontext. Också det är en modellhärledd slutsats.
 
 ---
 
@@ -94,15 +130,21 @@ En ny delstudie ("Real kapacitetsmodell") adresserar det här direkt: basinkomst
 
 Det kanske mest värdefulla resultatet av de här simuleringarna är inte "AUBI fungerar" — det är att modellen genererar konkreta, falsifierbara förutsägelser som kan prövas mot verkliga transfereringssystem:
 
-**Förutsägelse 1.** Högre behovsheterogenitet i en population bör öka värdet av differentierad/adaptiv tilldelning relativt enhetlig tilldelning.
+**Förutsägelse 1 — heterogenitet.** Högre behovsheterogenitet i en population bör öka värdet av differentierad/adaptiv tilldelning relativt enhetlig tilldelning. *Observerbar implikation:* i i övrigt jämförbara populationer bör behovsanpassade insatser slå enhetlig provision tydligare där behovsfördelningen är mer spridd.
 
-**Förutsägelse 2.** Högre observationsfel (svårare att korrekt bedöma behov) bör minska eller eliminera den fördelen.
+**Förutsägelse 2 — mätkvalitet.** Högre observationsfel (svårare att korrekt bedöma behov) bör minska eller eliminera den fördelen. *Observerbar implikation:* riktade eller adaptiva program med sämre behovsbedömning bör visa mindre vinster, mer felallokering, eller båda.
 
-**Förutsägelse 3.** Fördelen av adaptation beror på hur välfärdsmålet viktas — särskilt hur systemet behandlar svår deprivation, inte bara genomsnittlig träffsäkerhet.
+**Förutsägelse 3 — administrationskostnad.** Fördelen av differentierad provision bör minska när kostnaden för att differentiera stiger. *Observerbar implikation:* vid likartad behovsheterogenitet bör billigare targeting slå administrativt intensiv targeting när totala systemkostnader räknas in, inte bara transfereringsutgiften.
 
-**Förutsägelse 4.** Snabb parameteranpassning bör skapa mer volatilitet i utfall än måttlig anpassning.
+**Förutsägelse 4 — målfunktion.** Fördelen av adaptation beror på hur välfärdsmålet viktas — särskilt hur systemet behandlar svår deprivation, inte bara genomsnittlig träffsäkerhet. *Observerbar implikation:* program som optimerar genomsnittligt underskott bör fördela annorlunda än program som uttryckligen prioriterar de sämst ställda.
 
-**Förutsägelse 5.** Den optimala balansen mellan individuell och kollektiv tilldelning bör bero på real kapacitet och hur mycket socialt värde viktas in.
+**Förutsägelse 5 — anpassningshastighet.** Snabb parameteranpassning bör skapa mer volatilitet i utfall än måttlig anpassning, när observationerna är brusiga. *Observerbar implikation:* mycket responsiva ersättningsregler bör visa större kortsiktig instabilitet när behovsuppskattningarna är osäkra eller snabbt föränderliga.
+
+**Förutsägelse 6 — återkoppling.** Effektiviteten hos adaptiva transfereringar bör delvis bero på om transfereringen i sig förändrar framtida behov. *Observerbar implikation:* program som märkbart förändrar uppmätt behov bör visa systematiska skillnader mellan statiska targeting-utvärderingar och långsiktiga utvärderingar.
+
+**Förutsägelse 7 — kollektiva insatser.** När kollektiva insatser faktiskt minskar framtida behov eller skapar värderat socialt kapital bör en blandad individuell/kollektiv arkitektur slå en lika resurssatt rent individuell transferering, under motsvarande välfärdsmål. *Observerbar implikation:* program som kombinerar individuella transfereringar med fungerande gemensamma insatser bör slå rena transfereringsprogram på bredare utfallsmått.
+
+**Förutsägelse 8 — real kapacitet.** Välfärdseffekten av ökad köpkraft bör bero på utbudskapaciteten i de relevanta varorna och tjänsterna. *Observerbar implikation:* samma transfereringsökning bör ge olika reala effekter i områden och sektorer med olika kapacitetsbegränsningar — bostäder är det tydligaste fallet.
 
 Dessa förutsägelser pekar mot en konkret nästa empirisk fråga: **har verkliga socialförsäkrings- och transfereringssystem — sjukersättning, barnbidrag, bostadsstöd, anhörigstöd, personliga budgetar, adaptivt socialt skydd — egenskaper som motsvarar modellens antaganden, och matchar deras faktiska utfall förutsägelserna ovan?** Det är dit vi bör gå härnäst, inte till ännu fler simuleringar av samma modell. Se **[Öppna frågor →](/evidens/syntes/oppna-fragor/)**.
 
@@ -119,6 +161,19 @@ Dessa förutsägelser pekar mot en konkret nästa empirisk fråga: **har verklig
 - att 60/40-fördelningen är en policyrekommendation
 - att deltagandesiffran (53 %) säger något om verkligt mänskligt beteende
 - att modellen har löst frågan om real resursbegränsning fullt ut (se ovan)
+
+---
+
+## GAE-tolkning
+
+Simuleringarna knyter an till flera mekanismer i **[GAE-linsen](/evidens/sa-vet-vi/gae/)**. Det här är *analytiska kopplingar*, inte empirisk bekräftelse — GAE hjälper oss att namnge vad modellen gör, det bekräftar inte att modellen har rätt.
+
+- **Varietetsgap.** Heterogena behov skapar efterfrågan på differentierade systemsvar.
+- **Observerbarhet.** Adaptiv provision förutsätter tillräcklig information om relevant behov.
+- **Goodhart-risk.** Mätbaserad provision skapar incitament att optimera den observerbara indikatorn.
+- **Anpassningsflaskhals.** Långsam justering hindrar systemet från att möta snabbt föränderliga behov.
+- **Återkoppling.** Insatsen förändrar det tillstånd den försöker styra.
+- **Nödvändig samstämmighet.** Arkitekturen bör matcha problemets struktur och den information som faktiskt finns tillgänglig.
 
 ---
 
@@ -173,4 +228,4 @@ Koden är licensierad under MIT, resultat och text under CC BY 4.0.
 **[Öppna frågor →](/evidens/syntes/oppna-fragor/)** — förutsägelserna ovan, samt kalibrering mot verklig data och modellering av strategiskt beteende.
 **[Så vet vi →](/evidens/sa-vet-vi/)** — för [R]/[IP]/[H]-systemet och skillnaden mellan modell- och empirisk evidens som används ovan.
 
-*Senast uppdaterad: efter delstudien om real kapacitetsmodell.*
+*Senast uppdaterad: efter H2b-syntesen (v0.1) — fullständig failure-mode-lista, arkitekturrum, åtta förutsägelser och GAE-koppling.*
