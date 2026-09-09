@@ -43,10 +43,10 @@ Den här sidan presenterar bara påståenden där evidensen just nu stödjer en 
 
 > **Olika komponenter i en styrningsfunktion — politisk auktoritet, produktion, specialistkapacitet, finansiering och koordinering — kan ligga på olika skalor i stället för att buntas ihop på en enda territoriell nivå.**
 
-**Räckvidd:** Jämförelse av sammanslagning (S1) mot samverkan (S5) och utjämning (S4), plus de åtta kommunala funktioner som komponentkodades i [styrningsfaktoriseringstestet](/evidens/datamodeller/simuleringar/styrningsfaktorisering/).
+**Räckvidd:** Jämförelse av sammanslagning (S1) mot samverkan (S5) och utjämning (S4), plus de sexton funktioner som komponentkodades i de två [styrningsfaktoriseringstesten](/evidens/datamodeller/simuleringar/styrningsfaktorisering/) — åtta kommunala i v0.1, åtta mekaniskt valda i v0.5.
 **Konfidens:** Medel.
 **Stödjande evidens:** S4, S5, jämförelse med [S1](/evidens/fall/sverige/kommunsammanslagningar/), hypoteserna H8, H9, samt komponentkodningen av IT, upphandling, miljötillsyn, räddningstjänst, VA, fysisk planering, äldreomsorg och specialist-socialtjänst.
-**Kvalificering:** Uppgraderad från "lovande" till villkorat stödd efter att komponentseparation observerats i samtliga åtta funktioner. Men att en arkitektur *förekommer* säger inget om dess utfall — en direkt, kontrollerad jämförelse av sammanslagning kontra samverkan kontra oberoende drift inom samma funktioner saknas fortfarande.
+**Kvalificering:** Uppgraderad från "lovande" till villkorat stödd efter att komponentseparation observerats i samtliga åtta funktioner i v0.1-testet, och därefter replikerad på åtta nya funktioner i v0.5 — nu även regionala och nationella, inte bara kommunala. Konfidensen är ändå oförändrad: att en arkitektur *förekommer* säger inget om dess utfall, och en direkt, kontrollerad jämförelse av sammanslagning kontra samverkan kontra oberoende drift inom samma funktioner saknas fortfarande.
 
 *Den andra halvan av gamla C4 — att problemstrukturen räcker för att förutsäga **vilken** faktorisering som är rätt — är nu **C4b** och står som blandad/olöst i [Evidensmatrisen](/evidens/syntes/matris/). Den hör inte hemma på den här sidan än.*
 

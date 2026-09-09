@@ -43,10 +43,10 @@ This page presents only claims for which the evidence currently supports a reaso
 
 > **Different components of a governance function — political authority, production, specialist capacity, financing, and coordination — can sit at different scales rather than being bundled at a single territorial level.**
 
-**Scope:** Comparison of merger (S1) against cooperation (S5) and equalization (S4), plus the eight municipal functions component-coded in the [governance factorization test](/evidens/datamodeller/simuleringar/styrningsfaktorisering/).
+**Scope:** Comparison of merger (S1) against cooperation (S5) and equalization (S4), plus the sixteen functions component-coded across the two [governance factorization tests](/evidens/datamodeller/simuleringar/styrningsfaktorisering/) — eight municipal in v0.1, eight mechanically selected in v0.5.
 **Confidence:** Medium.
 **Supporting evidence:** S4, S5, comparison with [S1](/evidens/fall/sverige/kommunsammanslagningar/), hypotheses H8, H9, plus the component coding of IT, procurement, environmental inspection, fire and rescue, water and sewerage, physical planning, elder care, and specialist social services.
-**Qualification:** Upgraded from "promising" to conditionally supported after component separation was observed in all eight functions. But the *existence* of an architecture says nothing about its outcomes — a direct, controlled comparison of merger vs. cooperation vs. independent provision across the same functions is still missing.
+**Qualification:** Upgraded from "promising" to conditionally supported after component separation was observed in all eight functions in the v0.1 test, then replicated across eight new functions in v0.5 — now regional and national, not only municipal. Confidence is nonetheless unchanged: the *existence* of an architecture says nothing about its outcomes, and a direct, controlled comparison of merger vs. cooperation vs. independent provision across the same functions is still missing.
 
 *The other half of the old C4 — that problem structure suffices to predict **which** factorization is right — is now **C4b** and stands as mixed/unresolved in the [Evidence Matrix](/evidens/syntes/matris/). It doesn't belong on this page yet.*
 

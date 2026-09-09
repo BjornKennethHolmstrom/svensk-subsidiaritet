@@ -24,7 +24,7 @@ Nine sub-studies of an adaptive universal basic income architecture: need hetero
 
 ### [Can Governance Scale Be Factorized? →](/evidens/datamodeller/simuleringar/styrningsfaktorisering/)
 
-Governance Factorization Simulator v0.1.1c: a mechanistic model that was frozen and then made to predict how eight Swedish municipal functions ought to be organized — before we examined how they actually are organized. The result was mixed, which led to synthesis claim **C4** being split into **C4a** and **C4b**. This is the project's first **frozen benchmark**: the model was allowed to fail before it was changed.
+The Governance Factorization Simulator: a mechanistic model frozen before each test and then made to predict how real Swedish functions ought to be organized — before we examine how they actually are organized. Two blind tests are complete. v0.1 produced a mixed result, which led to synthesis claim **C4** being split into **C4a** and **C4b**. v0.5, with a six-role architecture and a mechanically selected sample of eight new functions, improved on its locked predecessor most clearly on the distinction between coordination and binding authority — but four sharply local functions are still missed entirely. Full report available as a downloadable PDF.
 
 ---
 
@@ -43,7 +43,7 @@ A simulation result is a **[R]-level (rigorous) finding within its model** — s
 - **H11** references a direct empirical AI test within GAE X with a high estimated correlation between observers — but institutional generalization from that specific, domain-specific test is not established, and the hypothesis is rated "Unresolved" for that reason.
 - Several other hypotheses (H12, H13) reference "formal model support" or "formal/model motivation" from specific GAE reports without yet having a corresponding empirical institutional test.
 - **H2b** references the AUBI simulations, rated "Model-supported / empirically unresolved" — see **[the Evidence Matrix →](/evidens/syntes/matris/)**.
-- **C4a/C4b** reference the governance factorization test. It is the only work in the corpus where a model result has gone all the way to a locked empirical pattern test — and where the model was partly contradicted. The difference between model support and empirical support is therefore particularly visible there.
+- **C4a/C4b** reference the governance factorization tests. This is the only work in the corpus where a model result has gone all the way to locked empirical pattern tests — twice, against different function samples — and where the model was partly contradicted both times. The difference between model support and empirical support is therefore particularly visible there.
 
 In every case, we keep model-level support and empirical support visually distinct, to avoid a simulation result being mistakenly read as empirical evidence.
 

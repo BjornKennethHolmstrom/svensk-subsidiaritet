@@ -73,19 +73,21 @@ Grund: S1, S3, S4, S5, H5, H7, H14. **Status:** Villkorat stödd. **Konfidens:**
 ### C4a — Styrningsfunktioner kan faktoriseras över skalor
 > Olika komponenter i en styrningsfunktion — politisk auktoritet, produktion, specialistkapacitet, finansiering och koordinering — kan ligga på olika skalor i stället för att buntas ihop på en enda territoriell nivå.
 
-Grund: S4, S5, jämförelse med S1, H8/H9, samt [styrningsfaktoriseringstestet](/evidens/datamodeller/simuleringar/styrningsfaktorisering/), som fann komponentseparation i samtliga åtta undersökta funktioner. **Status:** Villkorat stödd. **Konfidens:** Medel.
+Grund: S4, S5, jämförelse med S1, H8/H9, samt [styrningsfaktoriseringstestet](/evidens/datamodeller/simuleringar/styrningsfaktorisering/), som fann komponentseparation i samtliga sexton undersökta funktioner över två frysta blindtest — det andra med mekaniskt (hashvalt) urval och med fall utanför den kommunala sfären. **Status:** Villkorat stödd. **Konfidens:** Medel.
 
-*Ej Hög: åtta funktioner, strategiskt urval, bedömning i komponentkodningen — och att en arkitektur förekommer säger inget om dess utfall.*
+*Ej Hög: sexton funktioner, litet urval, bedömning i komponentkodningen — och att en arkitektur förekommer säger inget om dess utfall.*
 
 ### C4b — Problemstruktur förutsäger den specifika faktoriseringen
 > Den relativa vikten av lokal information, stordriftsfördelar, specialistkapacitet, externaliteter och riskpoolning räcker för att förutsäga vilka konkreta styrningskomponenter som bör poolas och vilka som bör förbli lokala.
 
-Grund: [styrningsfaktoriseringstestet](/evidens/datamodeller/simuleringar/styrningsfaktorisering/) — den frysta modellen fick en tydlig funktionell träff, två delvisa och tre tydliga missar på åtta funktioner. **Status:** Blandad / olöst. **Konfidens:** Låg–Medel.
+Grund: [styrningsfaktoriseringstestet](/evidens/datamodeller/simuleringar/styrningsfaktorisering/) — v0.1 fick en tydlig funktionell träff, två delvisa och tre tydliga missar på åtta funktioner. v0.5 förbättrade den låsta föregångaren v0.4 på fyra av sex mått i ett nytt blindtest, starkast för bindande beslutanderätt (60,4 % → 78,0 %), men fyra skarpt lokala funktioner fick fortfarande noll sannolikhet för kompatibel helarkitektur. **Status:** Blandad / olöst, med delförbättring. **Konfidens:** Låg–Medel.
+
+*Ingen framgångströskel förregistrerades och ingen slumpbaslinje har publicerats. Det tolkbara resultatet är förbättringen mot den låsta föregångaren på samma nya fall, inte de absoluta träffprocenten.*
 
 ### C5 — Samordning är en designvariabel, inte bara en kostnad
 > När auktoritet och kapacitet fördelas över flera noder blir samordningsarkitekturen en avgörande faktor för om decentralisering ger fördelar eller fragmentering.
 
-Grund: S3, S5, H6/H8/H14, GAE:s samordningsmekanismer. **Status:** Villkorat stödd. **Konfidens:** Medel.
+Grund: S3, S5, H6/H8/H14, GAE:s samordningsmekanismer, samt separationen av policysamordning och gränssnittssamordning i [styrningsfaktoriseringssimulatorn v0.5](/evidens/datamodeller/simuleringar/styrningsfaktorisering/). **Status:** Villkorat stödd. **Konfidens:** Medel.
 
 ### C6 — Mänsklig kompetens är en framväxande saknad variabel
 > Effektiviteten hos komplex eller decentraliserad styrning kan bero inte bara på institutionell arkitektur utan också på de kognitiva, medborgerliga, professionella och relationella förmågorna hos aktörerna som verkar inom den.
@@ -153,6 +155,18 @@ Matrisen ska versioneras. Varje betydande statusändring ska registrera: datum, 
 | H3, H8 | Oförändrade | Ny evidens | Stödjande men inte statusförändrande. |
 
 **Inte ändrat:** ingen hypotes flyttades till Hög konfidens. Ett test på åtta strategiskt valda funktioner motiverar inte det.
+
+---
+**Tillagd evidens (v0.5):** [Kan olika delar av samma samhällsfunktion behöva styras på olika nivåer?](/evidens/datamodeller/simuleringar/styrningsfaktorisering/) — ett andra blindtest, med mekaniskt hashvalt urval av åtta nya funktioner och sexrollsarkitektur.
+
+**Ändringar:**
+
+| Post | Före | Efter | Skäl |
+|---|---|---|---|
+| C4a | Villkorat stödd, Medel | Oförändrad status, ny evidens | Komponentseparation replikerad på åtta nya funktioner, nu även regionala och nationella. Konfidensen höjs inte: sexton fall är fortfarande få. |
+| C4b | Blandad / olöst, Låg–Medel | Blandad / olöst med delförbättring, Låg–Medel | Bindande beslutanderätt förutsägs klart bättre än i föregående låsta version, men fyra av åtta fall har fortfarande noll helarkitekturkompatibilitet. |
+| C5 | Villkorat stödd, Medel | Oförändrad status, ny evidens | Separationen av policy- och gränssnittssamordning gav en mätbar förbättring — samordningsarkitektur är en egen designvariabel. |
+| H5, H7, H9, H14 | Oförändrade | Ny evidens | Stödjande men inte statusförändrande. |
 
 ---
 

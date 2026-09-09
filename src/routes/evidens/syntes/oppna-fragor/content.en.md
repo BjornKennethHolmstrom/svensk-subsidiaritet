@@ -32,26 +32,32 @@ Questions here may later become hypotheses, studies, simulations, or experiments
 
 ## Specifically from the AUBI simulations (H2b)
 
-The five empirically testable predictions from the **[AUBI simulations](/evidens/datamodeller/simuleringar/aubi/)** define a concrete next research phase — not more simulations of the same model, but a targeted look at real transfer systems:
+The eight empirically testable predictions from the **[AUBI simulations](/evidens/datamodeller/simuleringar/aubi/)** define a concrete next research phase — not more simulations of the same model, but a targeted look at real transfer systems:
 
 - Do real systems with high need heterogeneity (e.g. disability benefits, personal budgets, caregiver support) empirically perform better when differentiated/adaptive than when uniform — in line with Prediction 1?
 - Are there real thresholds where targeting/adaptation becomes worse than universalism due to observation and classification error, in line with Prediction 2?
-- Can systems be found where explicit weighting against severe deprivation (or its absence) explains differences in how the most vulnerable groups actually fare, in line with Prediction 3?
-- Would a comparison between rapidly and slowly recalculated need-based systems (e.g. reassessment intervals in disability insurance) show the volatility difference Prediction 4 assumes?
-- Are there examples of systems combining a universal component with a collectively-funded component (e.g. universal benefits + publicly funded care) where the balance between them varies with local production capacity, in line with Prediction 5?
+- Where total system costs are counted rather than transfer expenditure alone, does cheaper targeting outperform administratively intensive targeting at comparable need heterogeneity, in line with Prediction 3?
+- Can systems be found where explicit weighting against severe deprivation (or its absence) explains differences in how the most vulnerable groups actually fare, in line with Prediction 4?
+- Would a comparison between rapidly and slowly recalculated need-based systems (e.g. reassessment intervals in disability insurance) show the volatility difference Prediction 5 assumes?
+- Do programmes that materially change measured need show systematic differences between static targeting evaluations and long-run evaluations, in line with Prediction 6?
+- Do programmes combining individual transfers with effective community interventions outperform transfer-only programmes on broader outcomes at equal resourcing, in line with Prediction 7?
+- Does the same transfer increase produce different real effects in areas and sectors with different supply-side capacity — housing being the clearest case — in line with Prediction 8?
 
 ---
 
-## Specifically from the governance factorization test (C4a/C4b)
+## Specifically from the governance factorization tests (C4a/C4b)
 
-The **[frozen blind test](/evidens/datamodeller/simuleringar/styrningsfaktorisering/)** left behind an unusually concrete research agenda, because the model's misses point in specific directions:
+The **[frozen blind tests](/evidens/datamodeller/simuleringar/styrningsfaktorisering/)** have left behind an unusually concrete research agenda, because the model's misses point in specific directions. The questions below come from the v0.1 and v0.5 tests respectively; none of them is resolved.
 
 - Under what conditions should fiscal risk be pooled at one scale while production stays local — the elder-care pattern — and when is the reverse the right answer? (Relates to C4b, H9.)
 - How much actual scale placement is explained by problem structure, and how much by legal assignment? The municipal planning monopoly appears to override problem structure entirely; how often does that hold? (Relates to C4b, H7.)
 - When is the right production scale set by network geography and sunk capital rather than by general economies of scale? Water and sewerage is the clearest case — which other functions behave this way? (Relates to H5.)
 - How should nested scales be represented — local nodes inside a joint organization inside a larger command system — without the model simply becoming more complex? (Relates to H14.)
-- Does the pattern replicate on functions the model was not developed against? Planned holdout set: waste management, public transport, libraries, upper secondary schools, building permits, food safety inspection, mobility services, civil preparedness.
-- And the question the test made it possible to ask properly: the existence of an architecture says nothing about its outcomes — what would an outcome test of component separation actually look like?
+- How does one represent genuinely strong locality? Four sharply local functions in the v0.5 test received zero probability of a compatible full architecture — is the model missing a locality advantage, diseconomies of scale, a spatial delivery constraint, or a task decomposition? (Relates to C4b, H5.)
+- How does one distinguish task-required authority from institutionally inherited authority? PET/CT sits under broad authority because it belongs to a regional healthcare system, not because the task requires it. (Relates to C4b, H7.)
+- How does one model broad interfaces atop local production? Parking enforcement has local issuance and a national payment chain — a pattern the model can express but does not produce naturally. (Relates to C5.)
+- How does one permit broad binding authority with decentralized production without building it in as a desired result? The current model algebra makes that combination structurally difficult. (A known validity boundary.)
+- And the question the tests made it possible to ask properly: the existence of an architecture says nothing about its outcomes — what would an outcome test of component separation actually look like?
 
 ---
 

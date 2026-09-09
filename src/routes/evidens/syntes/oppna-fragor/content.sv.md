@@ -44,13 +44,16 @@ De fem empiriskt testbara förutsägelserna från **[AUBI-simuleringarna](/evide
 
 ## Specifikt från styrningsfaktoriseringstestet (C4a/C4b)
 
-Det **[frysta blindtestet](/evidens/datamodeller/simuleringar/styrningsfaktorisering/)** lämnade efter sig ett ovanligt konkret forskningsprogram, eftersom modellens missar pekar åt bestämda håll:
+De **[frysta blindtesten](/evidens/datamodeller/simuleringar/styrningsfaktorisering/)** har lämnat efter sig ett ovanligt konkret forskningsprogram, eftersom modellens missar pekar åt bestämda håll. Frågorna nedan kommer från v0.1- respektive v0.5-testet; ingen av dem är löst.
 
 - Under vilka förhållanden bör finansiell risk poolas på en skala medan produktionen förblir lokal — mönstret i äldreomsorgen — och när är det tvärtom fel? (Rör C4b, H9.)
 - Hur mycket av faktisk skalplacering förklaras av problemstruktur, och hur mycket av rättslig tilldelning? Det kommunala planmonopolet ser ut att överrösta problemstruktur helt; hur ofta gäller det? (Rör C4b, H7.)
 - När bestäms rätt produktionsskala av nätgeografi och nedlagt kapital snarare än av generella stordriftsfördelar? VA är det tydligaste fallet — vilka andra funktioner beter sig så? (Rör H5.)
 - Hur bör nästlade skalor representeras — lokala noder i en gemensam organisation i ett större ledningssystem — utan att modellen bara blir mer komplex? (Rör H14.)
-- Replikerar mönstret på funktioner som modellen inte utvecklats mot? Planerat holdout-urval: avfall, kollektivtrafik, bibliotek, gymnasieskola, bygglov, livsmedelskontroll, färdtjänst, civil beredskap.
+- Hur representerar man verkligt stark lokalitet? Fyra skarpt lokala funktioner i v0.5-testet fick noll sannolikhet för kompatibel helarkitektur — saknas en lokalitetsfördel, skalnackdelar, ett rumsligt utförandevillkor eller en uppgiftsuppdelning? (Rör C4b, H5.)
+- Hur skiljer man uppgiftskrävd beslutanderätt från institutionellt ärvd? PET/CT ligger under bred beslutanderätt därför att den ingår i ett regionalt sjukvårdssystem, inte därför att uppgiften kräver det. (Rör C4b, H7.)
+- Hur modellerar man breda gränssnitt ovanpå lokal produktion? Parkeringsövervakning har lokal utfärdning och nationell betalningskedja — ett mönster modellen kan uttrycka men inte producerar naturligt. (Rör C5.)
+- Hur tillåter man bred bindande beslutanderätt med decentraliserad produktion utan att bygga in det som önskat resultat? Nuvarande modellalgebra gör den kombinationen strukturellt svår. (Känd giltighetsgräns.)
 - Och den fråga testet gjorde möjlig att ställa på riktigt: förekomsten av en arkitektur säger inget om dess utfall — hur skulle ett utfallstest av komponentseparation faktiskt se ut?
 
 ---
