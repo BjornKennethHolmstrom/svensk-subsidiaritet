@@ -1,563 +1,115 @@
-# Manifest för ett lärande Sverige
+# Ett lärande Sverige
 
-## Bättre styrning för ett komplext samhälle
+*Visionen bakom Svensk Subsidiaritet*
 
----
+Sverige har byggt institutioner med hög kompetens, stor räckvidd och betydande förmåga att samordna resurser. Förvaltningen, välfärdsstaten och den representativa demokratin har skapat stora värden, och ingenting i den här texten förutsätter att de ska rivas.
 
-## Preambel
+Men problemen förändras. Kunskap finns på fler platser än tidigare, problem korsar organisatoriska och geografiska gränser, lokala förhållanden varierar och ekologiska, ekonomiska och sociala system blir allt tätare sammankopplade. När styrningens arkitektur inte längre passar problemens struktur uppstår återkommande mönster. Beslut fattas långt från den kunskap som behövs för att fatta dem väl. Myndigheter optimerar var för sig och skapar konflikter tillsammans. Ansvar blir otydligt när problem går över gränser. Likformighet används där variation hade fungerat bättre, samtidigt som lokala särlösningar växer fram utan samordning där samordning behövs.
 
-### När komplexiteten överstiger styrningsarkitekturen
+Inget av detta betyder att centralisering är fel. Det betyder att centralisering och decentralisering är verktyg, inte trosbekännelser. Den centrala frågan är vem som bör besluta vad, på vilken nivå, med vilken kunskap och vilket ansvar – och hur systemets delar ändå kan fungera tillsammans. Staten behöver inte avskaffas. Den behöver bli bättre på att styra ett komplext samhälle.
 
-Sverige har byggt institutioner med hög kompetens, stor räckvidd och betydande förmåga att samordna resurser. Den svenska förvaltningen, välfärdsstaten och det representativa demokratiska systemet har skapat stora värden och bör inte avfärdas.
+## Vad subsidiaritet betyder
 
-Men samhällets problem förändras.
+Subsidiaritet betyder att beslut bör fattas på den nivå där kunskap, handlingsförmåga, legitimitet och samordningsbehov bäst kan förenas. När en lägre nivå kan hantera en fråga väl finns ingen anledning att lyfta den högre. När ett problem skapar stora externa effekter, kräver riskpoolning, berör grundläggande rättigheter eller måste samordnas över stora områden kan en högre nivå vara bättre.
 
-Kunskap finns på fler platser än tidigare. Problem sträcker sig över organisatoriska och geografiska gränser. Lokala förhållanden varierar. Teknologin förändrar både hur människor samarbetar och hur makt utövas. Ekologiska, ekonomiska och sociala system blir allt tätare sammankopplade.
+Den bästa nivån är heller inte given en gång för alla. En funktion kan behöva flyttas nedåt, sedan uppåt eller åt sidan och senare tillbaka, beroende på erfarenhet, kunskapsläge och förändrade behov. Det är vad projektet menar med adaptiv subsidiaritet. Målet är inte att maximera lokal autonomi, utan att undvika onödig centralisering utan att förlora samordning, likvärdighet eller ansvar.
 
-När styrningsarkitekturen inte längre passar problemens struktur uppstår återkommande följder:
+Skolans kommunalisering kring 1990 visar varför detta är svårare än det låter. Ansvaret flyttades formellt från staten till kommunerna, men kapacitet, uppföljning och lokal användning av handlingsutrymmet följde inte automatiskt med. Att flytta ett beslut är inte detsamma som att flytta förmågan att fatta det väl.
 
-* beslut fattas långt från den kunskap som behövs för att fatta dem väl
-* olika institutioner optimerar var för sig och skapar konflikter tillsammans
-* ansvar blir otydligt när problem går över organisatoriska gränser
-* likformighet används där variation skulle kunna ge bättre resultat
-* lokala initiativ får svårt att utvecklas eller spridas
-* central samordning används där lokal anpassning är viktigare
-* lokala särlösningar skapas utan tillräcklig samordning uppåt eller åt sidan
+## Tio principer
 
-Detta betyder inte att centralisering alltid är fel.
+1. **Närhet.** Beslut bör fattas på den lägsta nivå där de kan hanteras effektivt och legitimt.
+2. **Mångfald.** Komplexa problem har sällan en enda bästa lösning, och systemet bör kunna rymma relevanta alternativ.
+3. **Redundans.** Kritiska funktioner bör, där det är rimligt, ha flera oberoende vägar.
+4. **Modularitet.** Delar av systemet bör kunna ändras, repareras och prövas lokalt utan att helheten måste göras om.
+5. **Återkoppling.** Information om konsekvenser måste nå dem som kan agera på den.
+6. **Spårbart ansvar.** När makt delegeras måste det framgå vem som har mandat, ansvar och möjlighet att ingripa.
+7. **Interoperabilitet.** Självständiga institutioner måste kunna samverka genom gemensamma regler, standarder och kommunikationsvägar.
+8. **Mjuka misslyckanden.** Lokala eller delvisa fel ska inte automatiskt bli systemomfattande kriser.
+9. **Experiment.** Där kunskapen är osäker bör avgränsade försök komma före permanenta och storskaliga lösningar.
+10. **Relationer.** Där tillit, omsorg och samarbete är en del av hur systemet fungerar måste styrningen skydda dem.
 
-Det betyder att **centralisering och decentralisering måste behandlas som verktyg, inte trosbekännelser.**
+## Vad god styrning behöver klara
 
-Den centrala frågan är:
+Det finns ingen perfekt styrningsmodell. Olika problem kräver olika blandningar av centralisering, decentralisering, expertis, deltagande och samordning. Men ett välfungerande system behöver klara några saker oavsett modell.
 
-> **Vem bör besluta vad, på vilken nivå, med vilken kunskap, med vilket ansvar — och hur ska olika delar av systemet kunna fungera tillsammans?**
+Det behöver använda flera slags kunskap utan att blanda ihop dem. Vetenskap och data säger något om vad som händer och vad olika åtgärder sannolikt leder till. Professionell sakkunskap hjälper till att tolka samband och genomföra beslut. De som berörs av ett system vet hur det fungerar i vardagen. Och demokratin avgör vilka mål och värden som ska väga tyngst.
 
-Vi behöver inte avskaffa staten.
+Det behöver kombinera lokal variation med gemensamma golv. Lokala lösningar kan anpassas efter verkliga behov, samtidigt som rättigheter, likvärdighet, kvalitetskrav, omfördelning, riskpoolning och nationell infrastruktur ofta kräver en gemensam nivå. Mångfald och jämlikhet är inte nödvändigtvis motsatser.
 
-Vi behöver göra den **bättre på att styra ett komplext samhälle**.
+Det behöver också kunna samordna utan att centralisera allt, lära och experimentera utan att hota de funktioner människor redan är beroende av, och koncentrera mandat tillfälligt när en kris kräver det – för att sedan återföra dem när behovet är över.
 
----
+## Styrning som ingenjörskonst
 
-# Del I
+Projektet bygger på forskningsprogrammet Styrning som ingenjörskonst (*Governance as Engineering*), som behandlar styrning som ett designproblem. Det betyder inte att det alltid finns ett objektivt optimalt svar. Det betyder att formulera problemet tydligt, skilja antaganden från observationer, synliggöra avvägningar, modellera konsekvenser, pröva hypoteser i begränsad skala och byta kurs när verkligheten visar att man hade fel.
 
-## Vad vi menar med subsidiaritet
+Metoden har en tydlig gräns. Empiri kan säga mycket om konsekvenser, men den kan inte ensam avgöra vilka värden ett samhälle ska prioritera. Frågor om jämlikhet, frihet, trygghet, gemenskap och ekologiskt ansvar är också politiska och etiska. Syftet är därför inte att ersätta demokrati med expertis, utan att göra demokratisk styrning bättre informerad och bättre på att lära.
 
-Subsidiaritet betyder inte att allt ska beslutas så nära hemmet som möjligt.
+## Olika problem, olika nivåer
 
-Det betyder att beslut bör fattas på **den nivå där kunskap, handlingsförmåga, legitimitet och samordningsbehov bäst kan förenas**.
+Det finns inget skäl att anta att alla samhällssystem har samma lämpliga beslutsnivå. Tabellen är ingen formel, men en utgångspunkt för analys.
 
-När en lägre nivå kan hantera en fråga väl bör beslut inte lyftas högre än nödvändigt.
+| Problemtyp | Typisk styrningsfördel |
+|---|---|
+| Stark lokal kontext och kunskap | Lägre nivå |
+| Stora externa effekter | Högre nivå eller stark samordning |
+| Omfattande riskpoolning | Större gemensam nivå |
+| Grundläggande rättigheter | Gemensamt skydd |
+| Tydliga stordriftsfördelar | Samlad organisation där det är motiverat |
+| Relationer och lokal tillit | Nära dem som berörs |
+| Tvärgående problem | Flera nivåer tillsammans |
+| Osäkerhet och innovation | Experiment och parallella lösningar |
+| Akuta kriser | Möjlighet till tillfällig koncentration |
 
-När problem skapar stora externa effekter, kräver omfattande riskpoolning, berör grundläggande rättigheter eller behöver samordnas över stora geografiska områden kan en högre nivå vara bättre.
-
-Subsidiaritet är därför inte bara decentralisering.
-
-Det är **en metod för att placera beslut på rätt nivå**.
-
-### Adaptiv subsidiaritet
-
-Den bästa beslutsnivån kan förändras över tid.
-
-En funktion kan därför röra sig:
-
-**nedåt → uppåt → sidledes → nedåt igen**
-
-beroende på erfarenhet, kunskapsläge, kostnader, externa effekter och förändrade behov.
-
-Målet är inte att maximera lokal autonomi.
-
-Målet är att **minimera onödig centralisering utan att förlora samordning, jämlikhet eller ansvar**.
-
----
-
-# Del II
-
-## Principer för ett lärande styrningssystem
-
-### 1. Närhetsprincipen
-
-Beslut bör fattas på den lägsta nivå där de kan hanteras effektivt och legitimt.
-
-### 2. Mångfaldsprincipen
-
-Komplexa problem har sällan en enda bästa lösning. System bör kunna rymma relevanta alternativa angreppssätt.
-
-### 3. Redundansprincipen
-
-Kritiska funktioner bör, där det är rimligt, ha flera oberoende vägar för att minska systemisk sårbarhet.
-
-### 4. Modularitetsprincipen
-
-System bör kunna förändras, repareras och experimentera lokalt utan att hela strukturen måste göras om samtidigt.
-
-### 5. Feedback-principen
-
-Information om konsekvenser måste kunna nå dem som kan agera på den.
-
-### 6. Ansvarsspårbarhetsprincipen
-
-När makt delegeras måste det vara tydligt vem som har mandat, ansvar, uppföljning och möjlighet att ingripa.
-
-### 7. Interoperabilitetsprincipen
-
-Självständiga institutioner måste kunna samverka genom gemensamma regler, standarder och kommunikationsvägar.
-
-### 8. Principen om mjukt misslyckande
-
-System bör vara utformade så att lokala eller delvisa fel inte automatiskt blir systemomfattande katastrofer.
-
-### 9. Experimentprincipen
-
-När kunskapen är osäker bör väl avgränsade försök användas för att lära innan en lösning görs permanent eller storskalig.
-
-### 10. Relationsprincipen
-
-Där tillit, omsorg och samarbete är en del av systemets funktion måste styrningen bevara och stärka de relationella förutsättningarna.
-
----
-
-# Del III
-
-## Vad god styrning måste kunna
-
-Vi tror inte att det finns en enda perfekt styrningsmodell.
-
-Olika problem kräver olika kombinationer av centralisering, decentralisering, expertis, deltagande och samordning.
-
-Ett välfungerande system bör däremot kunna:
-
-### 1. Använda flera slags kunskap
-
-Vetenskap och data kan hjälpa oss att förstå vad som händer och vad olika åtgärder sannolikt leder till.
-
-Professionell sakkunskap kan hjälpa oss att tolka komplexa samband och genomföra beslut.
-
-Människor som berörs av ett system bär erfarenhetskunskap om hur det faktiskt fungerar i vardagen.
-
-Demokratin avgör vilka mål och värden som ska prioriteras.
-
-Dessa kunskapsformer bör **kopplas samman utan att blandas ihop**.
-
-### 2. Kombinera lokal variation med gemensamma golv
-
-Lokala lösningar kan anpassas efter verkliga behov.
-
-Nationella eller högre nivåer kan samtidigt behövas för:
-
-* grundläggande rättigheter
-* likvärdighet
-* gemensamma kvalitetskrav
-* omfördelning
-* riskpoolning
-* nationell infrastruktur
-
-Mångfald och jämlikhet behöver därför inte vara motsatser.
-
-### 3. Samordna utan att centralisera allt
-
-Självständiga aktörer måste kunna lösa problem tillsammans utan att alla beslut behöver återföras till en enda central beslutsinstans.
-
-### 4. Lära utan att destabiliseras
-
-Ett system måste kunna experimentera och förändras utan att varje förbättringsförsök hotar de funktioner människor redan är beroende av.
-
-### 5. Koncentrera makt när det faktiskt behövs
-
-Vissa situationer kräver samlad kapacitet: nationell riskpoolning, rättighetsskydd, stora infrastruktursystem eller akuta kriser kan vara exempel.
-
-Ett distribuerat samhälle måste därför också kunna **koncentrera mandat tillfälligt när omständigheterna kräver det** — och sedan återföra det när behovet upphört.
-
----
-
-# Del IV
-
-## Governance as Engineering
-
-Vi betraktar styrning som ett designproblem, men inte som ett problem där det alltid finns ett objektivt "optimalt" svar.
-
-Engineering hjälper oss att:
-
-* formulera problemet tydligt
-* skilja antaganden från observationer
-* identifiera trade-offs
-* modellera möjliga konsekvenser
-* testa hypoteser
-* genomföra begränsade experiment
-* följa upp resultaten
-* ändra kurs när verkligheten säger att vi hade fel
-
-Det innebär också en viktig begränsning:
-
-> **Empiri kan berätta mycket om konsekvenser. Den kan inte ensam avgöra vilka värden ett samhälle bör prioritera.**
-
-Frågor om exempelvis jämlikhet, frihet, deltagande, trygghet, gemenskap och ekologiskt ansvar är också politiska och etiska frågor.
-
-Governance as Engineering försöker därför inte ersätta demokratin med expertis.
-
-Det försöker göra **demokratisk styrning bättre informerad, mer experimentell och mer förmögen att lära**.
-
----
-
-# Del V
-
-## Olika problem kräver olika styrning
-
-Det finns inget skäl att behandla alla samhällssystem som om de hade samma optimala beslutsnivå.
-
-En förenklad princip är:
-
-| Problemtyp                      | Typisk styrningsfördel                   |
-| ------------------------------- | ---------------------------------------- |
-| Stark lokal kontext och kunskap | Lägre nivå                               |
-| Stora externa effekter          | Högre nivå eller stark samordning        |
-| Omfattande riskpoolning         | Större gemensam nivå                     |
-| Grundläggande rättigheter       | Gemensamt skydd                          |
-| Tydliga stordriftsfördelar      | Samlad organisation där det är motiverat |
-| Relationer och lokal tillit     | Närmare berörda människor                |
-| Tvärgående problem              | Fler nivåer tillsammans                  |
-| Osäkerhet och innovation        | Experiment och parallella lösningar      |
-| Akuta kriser                    | Möjlighet till tillfällig koncentration  |
-
-Detta är inte en färdig formel.
-
-Det är en utgångspunkt för analys.
-
-För varje område bör vi fråga:
-
-> **Var finns kunskapen? Var uppstår konsekvenserna? Hur stort är riskpoolningsbehovet? Vilka externa effekter finns? Vilka rättigheter måste garanteras? Vilka stordriftsfördelar finns? Hur kan ansvar hållas spårbart?**
-
----
-
-# Del VI
+För varje område blir frågorna desamma: var finns kunskapen, var uppstår konsekvenserna, hur stort är behovet av riskpoolning, vilka externa effekter och rättigheter berörs, vilka stordriftsfördelar finns och hur kan ansvaret hållas spårbart?
 
 ## Vägen från dagens system
 
-Vi tror inte på en enda stor reform där Sverige byter styrningssystem över en natt.
+Sverige behöver inte byta styrningssystem över en natt, och bör inte försöka. Förändring bör ske stegvis och bygga på kapacitet som faktiskt finns på plats. En rimlig ordning är att först stärka beslutsunderlagen, genom oberoende kapacitet för evidenssyntes, prognoser, systemanalys och uppföljning, och att utveckla permanenta former för medborgardeliberation där komplexa eller långsiktiga frågor motiverar det. Därefter behöver samordningen mellan departement, myndigheter, kommuner, regioner och civilsamhälle förbättras, och reglerna för mandat, dokumentation, revision och överklagande bli tydligare.
 
-Institutionell förändring bör vara **kapacitetsbaserad och stegvis**.
+Först då är det rimligt att pröva subsidiaritet selektivt: identifiera funktioner där det finns goda skäl att tro att mer lokal styrning fungerar bättre, testa i kontrollerad skala, mäta och sedan skala upp, justera eller backa. Där fler aktörer delar ansvar behövs gemensamma protokoll för information, eskalering och kriser. På sikt behöver styrningsarkitekturen själv kunna utvärderas och ändras när erfarenheten visar att ansvarsfördelningen inte längre passar.
 
-### 1. Bygg bättre beslutsunderlag
+## Övergångsdalen
 
-Stärk oberoende kapacitet för:
+En reform kan vara bra i sitt slutläge och ändå skadlig under övergången. Om central samordning försvinner snabbare än annan samordning byggs upp faller koordinationen. Om makt sprids snabbare än ansvarssystemen utvecklas faller ansvarsutkrävandet. Om fler aktörer bjuds in utan bättre sätt att väga samman kunskap blir besluten långsammare utan att bli bättre. Projektet kallar detta övergångsdalen.
 
-* evidenssyntes
-* prognoser
-* systemanalys
-* scenarioplanering
-* konsekvensbedömning
-* uppföljning
+Den praktiska slutsatsen är att en bärande funktion inte ska försvagas innan en fungerande ersättning finns. Det gäller särskilt samordning, ansvar, krishantering, rättighetsskydd, riskpoolning och administrativ kompetens. Ordningen blir att bevara, förstärka, koppla samman, testa, delegera, integrera och anpassa – inte att decentralisera och hoppas att samordningen löser sig.
 
-### 2. Fördjupa deliberationen
-
-Bygg permanenta mekanismer för medborgardeliberation där komplexa eller långsiktiga frågor motiverar det.
-
-### 3. Förbättra samordningen
-
-Stärk samverkan mellan:
-
-* departement
-* myndigheter
-* kommuner
-* regioner
-* civilsamhälle
-* andra relevanta aktörer
-
-### 4. Gör ansvar spårbart
-
-Utveckla tydligare regler för:
-
-* mandat
-* beslut
-* dokumentation
-* uppföljning
-* revision
-* överklagande
-* konflikthantering
-
-### 5. Testa subsidiaritet selektivt
-
-Identifiera funktioner där det finns goda skäl att anta att mer lokal eller funktionellt distribuerad styrning kan fungera bättre.
-
-Pröva förändringen i kontrollerad skala.
-
-Mät.
-
-Lär.
-
-Skala upp, ändra eller backa.
-
-### 6. Bygg interoperabilitet
-
-När fler självständiga aktörer delar ansvar behövs gemensamma protokoll för:
-
-* information
-* data
-* standarder
-* eskalering
-* gränsöverskridande problem
-* kriser
-
-### 7. Utveckla polycentriska lösningar där de behövs
-
-Där problem redan är tvärgående, lokala eller funktionellt regionala kan flera beslutscentra behöva samverka i stället för att underordnas en enda central aktör.
-
-### 8. Gör styrningen själv lärande
-
-När erfarenheten ökar bör även ansvarsfördelningen kunna förändras.
-
-Styrningsarkitekturen ska inte bara styra samhället.
-
-Den ska också kunna **utvärdera och förbättra sig själv**.
-
----
-
-# Del VII
-
-## Övergången måste byggas för att inte skapa nya problem
-
-En reform kan vara bra i sitt slutläge och ändå skadlig under övergången.
-
-Om central samordning minskar snabbare än alternativ samordning byggs kan koordinationen falla.
-
-Om makt sprids snabbare än ansvarssystemen kan ansvarsutkrävandet falla.
-
-Om fler aktörer inkluderas utan bättre former för kunskapsintegration kan besluten bli långsammare utan att bli bättre.
-
-Detta är **Transition Valley**.
-
-Därför gäller en enkel övergångsprincip:
-
-> **Bevara → förstärk → koppla samman → testa → delegera → integrera → anpassa.**
-
-Vi ska inte försvaga en bärande funktion innan en fungerande ersättning finns.
-
-Det gäller särskilt:
-
-**koordination**
-
-**ansvar**
-
-**krishantering**
-
-**rättighetsskydd**
-
-**riskpoolning**
-
-**administrativ kompetens**
-
----
-
-# Del VIII
-
-## Ett lärande Sverige
-
-Vi vill att Sverige stegvis ska utveckla större förmåga att:
-
-1. fatta beslut på rätt nivå
-2. kombinera vetenskaplig, professionell och erfarenhetsbaserad kunskap
-3. förena lokal variation med gemensamma rättigheter och kvalitetsgolv
-4. samordna självständiga institutioner
-5. experimentera utan att göra hela systemet instabilt
-6. upptäcka när institutionella lösningar inte längre passar problemen
-7. ändra styrningsarkitekturen utan att varje förändring blir en systemkris
-
-Detta är inte ett löfte om en perfekt framtid.
-
-Det är ett mål om **större samhällelig lärförmåga**.
-
----
-
-# Del IX
+[Mer om övergångsdalen →](/overgang/overgangsdalen)
 
 ## Institutionella prototyper
 
-Flera idéer kan vara värda att pröva, beroende på problemområde och lokala förutsättningar.
+Några idéer kan vara värda att pröva, beroende på område och lokala förutsättningar:
 
-Exempel:
+- **Oberoende system- och evidenskapacitet**, nationellt eller i nätverk, för systemanalys, scenarier och policyutvärdering.
+- **Medborgarförsamlingar**, där slumpmässigt utvalda grupper får tid, underlag och facilitering för att överväga komplexa frågor.
+- **Subsidiaritetsrevision**, en systematisk prövning av om ansvar ligger på en rimlig nivå.
+- **Lokala och regionala innovationszoner**, där nya styrningsformer testas under tydliga rättsliga och ekonomiska ramar.
+- **Mönsterbibliotek**, öppna samlingar av lokala lösningar som kan anpassas och prövas på andra håll.
+- **Tvärskaliga samordningsforum** för problem som inte passar in i befintliga administrativa gränser.
 
-### Oberoende systems- och evidenskapacitet
+Det här är hypoteser att pröva, inte färdiga modeller.
 
-En nationell eller nätverksbaserad kapacitet för systemanalys, scenarier, policyutvärdering och komplexitetsanalys.
+## Värden som måste vägas
 
-### Medborgarförsamlingar
+Styrning är inte värdeneutral. Jämlikhet och autonomi, enhetlighet och mångfald, effektivitet och delaktighet, stabilitet och experiment, individuell frihet och gemensamt ansvar, kortsiktiga behov och långsiktig resiliens – inget system maximerar alla samtidigt. En mogen demokrati bör inte låtsas att sådana konflikter kan optimeras bort, utan göra dem synliga och möjliga att hantera demokratiskt.
 
-Slumpmässigt sammansatta grupper som får tid, information och professionell facilitering för att överväga komplexa frågor.
+## Sverige i ett större system
 
-### Subsidiaritetsrevision
+Svenska kommuner och regioner verkar inom en nationell konstitutionell ordning. Sverige verkar inom EU och i nordiska och internationella nätverk, och ekonomiska aktörer, digitala plattformar och civilsamhälle påverkar hur makt och information faktiskt fördelas. Styrning behöver därför hantera flera aktörer, nivåer och former av legitimitet samtidigt.
 
-Systematisk prövning av om ansvar ligger på en rimlig nivå och om dagens ansvarsfördelning skapar onödiga problem.
+Det är skälet till att projektet studerar polycentrisk styrning och metastyrning. Metastyrning handlar inte om en överordnad superregering, utan om förmågan att samordna och utvärdera relationerna mellan olika styrningssystem utan att i onödan ta över deras självständighet.
 
-### Lokala och regionala innovationszoner
+## Hur idéerna prövas
 
-Avgränsade miljöer där nya styrningsformer kan testas under tydliga rättsliga och ekonomiska ramar.
+Varje större reformidé på sajten ska så långt som möjligt redovisa förväntade vinster, möjliga nackdelar, osäkerheter, berörda grupper och deras incitament, institutionella hinder, möjliga pilotformer, mätbara utfall, villkor för uppskalning och villkor för att ändra eller avbryta ett försök. Det gäller även projektets egna idéer. En idé blir inte bättre för att den är ens egen, och en reform är inte bra bara för att den decentraliserar.
 
-### Mönsterbibliotek
+## Bidra
 
-Öppna samlingar av lokalt utvecklade lösningar som kan anpassas och prövas i andra sammanhang.
+Svensk Subsidiaritet är en riktning för undersökning, inte ett färdigt svar, och den blir bättre av motstånd. Arbetar du i en kommun, region eller myndighet är dina erfarenheter av vad som faktiskt fungerar särskilt värdefulla. Forskar du är kritik av hypoteserna – och exempel på när de inte håller – det mest användbara bidraget. Och har du vardagserfarenhet av hur systemen fungerar är det ofta just den kunskapen som saknas i beslutsunderlagen.
 
-### Tvärskaliga samordningsforum
+## Riktningen
 
-Strukturer för att hantera problem som inte passar in i befintliga administrativa gränser.
+Ett robust samhälle är inte ett samhälle som aldrig förändras. Det är ett samhälle som märker när verkligheten ändras, prövar nya lösningar, bevarar det som fungerar, lär av det som misslyckas och anpassar sina institutioner utan att förlora sin sammanhållning. Inte en stat som kontrollerar allt, och inte ett samhälle där alla lämnas åt sig själva, utan ett där ansvar ligger där det hör hemma och det som måste hållas samman hålls samman.
 
-Dessa ska ses som **prototyper och hypoteser**, inte som färdiga institutionella dogmer.
-
----
-
-# Del X
-
-## Vad vi värderar
-
-Styrning är inte värdeneutral.
-
-Vi kan behöva balansera:
-
-**jämlikhet och autonomi**
-
-**enhetlighet och mångfald**
-
-**effektivitet och delaktighet**
-
-**stabilitet och experiment**
-
-**individuell frihet och gemensamt ansvar**
-
-**kortsiktiga behov och långsiktig resiliens**
-
-Det finns inget system där alla dessa värden maximeras samtidigt.
-
-En mogen demokrati bör därför inte låtsas att konflikterna kan optimeras bort.
-
-Den bör göra dem **synliga, begripliga och demokratiskt hanterbara**.
-
----
-
-# Del XI
-
-## Det större sammanhanget
-
-Svensk Subsidiaritet fokuserar på svensk styrning, men Sverige är inte ett isolerat system.
-
-Svenska kommuner och regioner verkar inom en nationell konstitutionell ordning.
-
-Sverige verkar inom EU.
-
-Sverige är en del av nordiska och globala institutionella nätverk.
-
-Ekonomiska aktörer, digitala plattformar, civilsamhälle, professionella nätverk och internationella organisationer påverkar också hur makt, information och resurser faktiskt fördelas.
-
-Ett framtida styrningssystem måste därför kunna hantera:
-
-> **flera aktörer, flera nivåer, flera typer av legitimitet och flera typer av kunskap.**
-
-Detta är en av anledningarna till att vi studerar **polycentrisk styrning och meta-styrning**.
-
-Meta-styrning handlar inte om att skapa en superregering.
-
-Det handlar om att bygga förmåga att **samordna, utvärdera och utveckla relationerna mellan olika styrningssystem utan att onödigtvis ersätta deras autonomi**.
-
----
-
-# Del XII
-
-## Vårt sätt att arbeta
-
-Vi vill inte bara argumentera för reformer.
-
-Vi vill undersöka dem.
-
-Därför bör varje större reformidé så långt som möjligt innehålla:
-
-**Förväntade vinster**
-
-**Möjliga nackdelar**
-
-**Osäkerheter**
-
-**Berörda grupper och incitament**
-
-**Institutionella hinder**
-
-**Möjliga pilotformer**
-
-**Mätbara utfall**
-
-**Villkor för uppskalning**
-
-**Villkor för att ändra eller avbryta försöket**
-
-Det gäller även våra egna idéer.
-
-> **En idé blir inte bättre för att den är vår.**
-
-Och:
-
-> **En reform är inte bra bara för att den är decentraliserande.**
-
-Vi söker lösningar som fungerar.
-
----
-
-# Ett öppet upprop
-
-Svensk Subsidiaritet är inte ett färdigt svar.
-
-Det är en riktning för undersökning.
-
-Till politiker:
-
-**Pröva nya former där dagens institutioner inte fungerar väl.**
-
-Till tjänstepersoner:
-
-**Dela erfarenheter om vad som faktiskt fungerar i praktiken.**
-
-Till forskare:
-
-**Hjälp oss att upptäcka när våra hypoteser inte håller.**
-
-Till kommuner och regioner:
-
-**Testa där förändring kan göras säkert och mätbart.**
-
-Till medborgare:
-
-**Bidra med erfarenheter, perspektiv och kritik.**
-
-Till alla:
-
-> **Använd det som fungerar. Förbättra det som kan förbättras. Förkasta det som inte håller.**
-
----
-
-# Ett löfte om ett lärande Sverige
-
-Vi tror att ett robust samhälle inte är ett samhälle som aldrig förändras.
-
-Det är ett samhälle som kan:
-
-**märka när verkligheten förändras,**
-
-**förstå vad som behöver förändras,**
-
-**testa nya lösningar,**
-
-**bevara det som fungerar,**
-
-**lära av det som misslyckas,**
-
-och **anpassa sina institutioner utan att förlora sin sammanhållning.**
-
-Det är vår vision för Sverige:
-
-> **Inte en stat som kontrollerar allt.**
->
-> **Inte ett samhälle där alla lämnas åt sig själva.**
->
-> **Utan ett samhälle som kan fördela ansvar där det hör hemma och samtidigt hålla samman det som måste hållas samman.**
-
-**Rätt beslut. Rätt plats. Rätt kunskap. Rätt ansvar.**
-
----
-
-*Detta manifest är en del av Svensk Subsidiaritet — ett oberoende forsknings- och policyinitiativ för att undersöka hur svensk styrning kan bli mer demokratisk, kunskapsbaserad, resilient och adaptiv.*
-
+*Rätt beslut. Rätt plats. Rätt kunskap. Rätt ansvar.*

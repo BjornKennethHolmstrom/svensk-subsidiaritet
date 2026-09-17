@@ -1,59 +1,30 @@
 # About Swedish Subsidiarity
 
-**Swedish Subsidiarity** is an independent research and policy initiative examining how centralization creates fragility in Swedish society — and what the alternatives might be.
+Swedish Subsidiarity is an independent research and policy initiative that examines how decisions, knowledge and responsibility are distributed in Swedish governance: where that distribution works, where it creates fragility or gaps, and which alternatives are worth testing.
 
-**Swedish Subsidiarity** is politically non-aligned.
+The project is politically non-aligned. It develops and tests governance mechanisms but takes no position on which party should implement them. Proposals are assessed on, among other things, institutional performance, democratic legitimacy, accountability, resilience and adaptability.
 
-We develop and test governance mechanisms rather than prescribe which political party should implement them.
+## Who is behind it
 
-Proposals are evaluated based on, among other things, institutional performance, democratic legitimacy, accountability, resilience and adaptability.
+My name is Björn Kenneth Holmström, and I run the project largely on my own. I have no organization behind me, no party backing and no funding. What I do have is a technical and analytical background, an interest in how complex systems are governed, and a willingness to test my ideas against better arguments. AI is one of several tools in the work.
 
-## Background
+The project grew out of an interest in global systemic risks, complex adaptive systems and the question of how governance can be designed when relevant knowledge and influence are spread across many people, places and institutions. The core hypothesis is that decisions should be made where knowledge, capacity to act and legitimacy can best be combined, while the system must still be able to coordinate when problems require a larger scale.
 
-My name is **Björn Kenneth Holmström** and I founded Swedish Subsidiarity.
+To be alone in this means limited resources, but also the freedom to test ideas, change my mind and follow arguments where they lead. In the longer run I hope it can grow into something bigger than a one-person project, through criticism, collaboration, research and local trials.
 
-The project grew out of an interest in global systemic risks, complex adaptive systems and the question of how governance can be designed when relevant knowledge and influence are spread across many people, places and institutions.
+## What the project does
 
-A central hypothesis is that **decisions should be made at the level where relevant knowledge, capacity for action and legitimacy can best be combined — while the system must be able to be coordinated across borders when problems require a larger scale.**
+The project has three parts. **Analysis** maps structural vulnerabilities and governance problems in key Swedish societal systems. **Design** develops concrete institutional and policy mechanisms for distributing decisions, knowledge, responsibility and coordination better. **Testing** uses models, simulations, comparisons and, where possible, practical pilots to find out what actually works.
 
-That is the basis for the project's focus on subsidiarity, distributed governance and Governance as Engineering.
+The aim is not to replace today's institutions with a finished model, but to contribute to a better ability to govern a complex society.
 
-## What we do
+## Research context
 
-The project mainly focuses on three types of activities:
+Swedish Subsidiarity is the Swedish, policy-oriented application of broader project on the governance of complex adaptive systems. It builds on Governance as Engineering, a research program that uses systems theory, cybernetics, control theory, institutional analysis and empirical testing to understand and develop governance architectures.
 
-**Analysis**
-We study structural vulnerabilities and governance problems in important Swedish social systems.
+It also connects with the Global Governance Frameworks (GGF), a broader framework for coordinated and adaptive multi-level governance. Swedish Subsidiarity is nonetheless an independent initiative, and the proposals here are meant to stand on their own.
 
-**Design**
-We develop concrete institutional and political mechanisms that can improve how decisions, knowledge, responsibility and coordination are distributed.
-
-**Experiments**
-We use models, simulations, comparisons and, to the extent possible, practical pilot experiments to investigate what actually works.
-
-The goal is not to replace today's institutions with a single ready-made model, but to develop **better ability to govern a complex society**.
-
-## A Swedish project in a larger research context
-
-Swedish Subsidiarity is the Swedish application and policy-oriented environment around a broader interest in the governance of complex adaptive systems.
-
-The work is linked to **Governance as Engineering**, a research program that uses, among other things, systems theory, cybernetics, control theory, institutional analysis and empirical testing to understand and develop governance architectures.
-
-It also has points of contact with **Global Governance Frameworks (GGF)**, a broader framework for coordinated, subsidiary and adaptive governance at multiple levels and within multiple areas of society.
-
-However, Swedish Subsidiarity is an **independent Swedish research and policy initiative**.
-
-## A small initiative
-
-The project is mainly driven by me, with AI as one of several tools.
-
-I have no organization behind me, no party support, no funding. What I do have is a technical and analytical background, a willingness to learn, ask questions, formulate ideas and test them against better arguments and AI as a working tool.
-
-This means limited resources — but also great freedom to try out ideas, change your mind, and follow arguments where they lead.
-
-In the long run, we would like this to develop into something bigger than a one-man initiative: through criticism, collaboration, research, local experiments, and practical use.
-
-### Contact
+## Contact
 
 📧 [bjorn.kenneth.holmstrom@gmail.com](mailto:bjorn.kenneth.holmstrom@gmail.com)
 

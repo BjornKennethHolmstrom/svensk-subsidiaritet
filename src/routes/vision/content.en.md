@@ -1,562 +1,115 @@
-# Manifesto for a Learning Sweden
+# A learning Sweden
 
-## Better governance for a complex society
+*The vision behind Swedish Subsidiarity*
 
----
+Sweden has built institutions with high competence, broad reach and considerable capacity to coordinate resources. The public administration, the welfare state and representative democracy have created great value, and nothing in this text assumes they should be torn down.
 
-## Preamble
+But problems are changing. Knowledge exists in more places than before, problems cross organizational and geographic boundaries, local conditions vary, and ecological, economic and social systems are increasingly interconnected. When the architecture of governance no longer fits the structure of the problems, recurring patterns appear. Decisions are made far from the knowledge needed to make them well. Agencies optimize separately and create conflicts together. Responsibility blurs when problems cross boundaries. Uniformity is applied where variation would have worked better, while local one-off solutions emerge without coordination where coordination is needed.
 
-### When complexity exceeds the governance architecture
+None of this means centralization is wrong. It means centralization and decentralization are tools, not creeds. The central question is who should decide what, at which level, with what knowledge and what responsibility – and how the parts of the system can still work together. The state does not need to be abolished. It needs to become better at governing a complex society.
 
-Sweden has built institutions with high competence, broad reach, and significant capacity to coordinate resources. The Swedish public administration, the welfare state, and the representative democratic system have created great value and should not be dismissed.
+## What subsidiarity means
 
-But society's problems are changing.
+Subsidiarity means that decisions should be made at the level where knowledge, capacity to act, legitimacy and the need for coordination can best be combined. When a lower level can handle an issue well, there is no reason to lift it higher. When a problem creates major external effects, requires risk pooling, concerns fundamental rights or must be coordinated across large areas, a higher level may be better.
 
-Knowledge exists in more places than before. Problems extend across organizational and geographic boundaries. Local conditions vary. Technology is changing both how people collaborate and how power is exercised. Ecological, economic, and social systems are becoming increasingly interconnected.
+Nor is the best level fixed once and for all. A function may need to move down, then up or sideways, and later back again, depending on experience, the state of knowledge and changing needs. This is what the project means by adaptive subsidiarity. The goal is not to maximize local autonomy, but to avoid unnecessary centralization without losing coordination, equity or accountability.
 
-When the governance architecture no longer fits the structure of the problems, recurring consequences arise:
+The municipalization of Swedish schools around 1990 shows why this is harder than it sounds. Responsibility moved formally from the state to the municipalities, but capacity, follow-up and local use of the new room for maneuver did not automatically follow. Moving a decision is not the same as moving the ability to make it well.
 
-* decisions are made far from the knowledge needed to make them well
-* different institutions optimize separately and create conflicts together
-* responsibility becomes unclear when problems cross organizational boundaries
-* uniformity is used where variation could produce better results
-* local initiatives find it difficult to develop or spread
-* central coordination is used where local adaptation is more important
-* local special solutions are created without sufficient coordination upward or sideways
+## Ten principles
 
-This does not mean that centralization is always wrong.
+1. **Proximity.** Decisions should be made at the lowest level where they can be handled effectively and legitimately.
+2. **Diversity.** Complex problems rarely have a single best solution, and the system should be able to accommodate relevant alternatives.
+3. **Redundancy.** Critical functions should, where reasonable, have several independent pathways.
+4. **Modularity.** Parts of the system should be able to change, be repaired and be tested locally without the whole having to be rebuilt.
+5. **Feedback.** Information about consequences must reach those who can act on it.
+6. **Traceable accountability.** When power is delegated, it must be clear who holds the mandate, the responsibility and the ability to intervene.
+7. **Interoperability.** Independent institutions must be able to work together through common rules, standards and communication channels.
+8. **Soft failure.** Local or partial failures should not automatically become system-wide crises.
+9. **Experimentation.** Where knowledge is uncertain, well-bounded trials should come before permanent and large-scale solutions.
+10. **Relationships.** Where trust, care and cooperation are part of how a system works, governance must protect them.
 
-It means that **centralization and decentralization must be treated as tools, not creeds.**
+## What good governance needs to manage
 
-The central question is:
+There is no perfect model of governance. Different problems call for different mixes of centralization, decentralization, expertise, participation and coordination. But a well-functioning system needs to manage a few things regardless of model.
 
-> **Who should decide what, at what level, with what knowledge, with what responsibility — and how should different parts of the system be able to function together?**
+It needs to use several kinds of knowledge without conflating them. Science and data tell us something about what is happening and what different measures are likely to lead to. Professional expertise helps interpret relationships and implement decisions. People affected by a system know how it works in everyday life. And democracy decides which goals and values should carry the most weight.
 
-We do not need to abolish the state.
+It needs to combine local variation with common floors. Local solutions can be adapted to real needs, while rights, equity, quality standards, redistribution, risk pooling and national infrastructure often require a common level. Diversity and equality are not necessarily opposites.
 
-We need to make it **better at governing a complex society**.
+It also needs to coordinate without centralizing everything, to learn and experiment without threatening the functions people already depend on, and to concentrate mandates temporarily when a crisis demands it – then return them when the need has passed.
 
----
+## Governance as engineering
 
-# Part I
+The project builds on the Governance as Engineering research program, which treats governance as a design problem. That does not mean there is always an objectively optimal answer. It means formulating the problem clearly, separating assumptions from observations, making trade-offs visible, modeling consequences, testing hypotheses at limited scale and changing course when reality shows you were wrong.
 
-## What we mean by subsidiarity
+The method has a clear limit. Evidence can tell us a great deal about consequences, but it cannot by itself decide which values a society should prioritize. Questions of equality, freedom, security, community and ecological responsibility are also political and ethical. The aim is therefore not to replace democracy with expertise, but to make democratic governance better informed and better at learning.
 
-Subsidiarity does not mean that everything should be decided as close to home as possible.
+## Different problems, different levels
 
-It means that decisions should be made at **the level where knowledge, capacity to act, legitimacy, and the need for coordination can best be combined**.
+There is no reason to assume that all societal systems share the same appropriate level of decision-making. The table is not a formula, but a starting point for analysis.
 
-When a lower level can handle an issue well, decisions should not be raised higher than necessary.
+| Problem type | Typical governance advantage |
+|---|---|
+| Strong local context and knowledge | Lower level |
+| Large external effects | Higher level or strong coordination |
+| Extensive risk pooling | Larger common level |
+| Fundamental rights | Common protection |
+| Clear economies of scale | Pooled organization where justified |
+| Relationships and local trust | Close to those affected |
+| Cross-cutting problems | Several levels together |
+| Uncertainty and innovation | Experiments and parallel solutions |
+| Acute crises | Capacity for temporary concentration |
 
-When problems create major external effects, require extensive risk pooling, concern fundamental rights, or need to be coordinated over large geographic areas, a higher level may be better.
-
-Subsidiarity is therefore not just decentralization.
-
-It is **a method for placing decisions at the right level**.
-
-### Adaptive subsidiarity
-
-The best decision level can change over time.
-
-A function can therefore move:
-
-**downward → upward → sideways → downward again**
-
-depending on experience, the state of knowledge, costs, external effects, and changing needs.
-
-The goal is not to maximize local autonomy.
-
-The goal is to **minimize unnecessary centralization without losing coordination, equality, or accountability**.
-
----
-
-# Part II
-
-## Principles for a learning governance system
-
-### 1. The proximity principle
-
-Decisions should be made at the lowest level where they can be handled effectively and legitimately.
-
-### 2. The diversity principle
-
-Complex problems rarely have a single best solution. Systems should be able to accommodate relevant alternative approaches.
-
-### 3. The redundancy principle
-
-Critical functions should, where reasonable, have several independent pathways to reduce systemic vulnerability.
-
-### 4. The modularity principle
-
-Systems should be able to change, repair, and experiment locally without the entire structure having to be remade at the same time.
-
-### 5. The feedback principle
-
-Information about consequences must be able to reach those who can act on it.
-
-### 6. The accountability traceability principle
-
-When power is delegated, it must be clear who has the mandate, responsibility, follow-up, and ability to intervene.
-
-### 7. The interoperability principle
-
-Independent institutions must be able to collaborate through common rules, standards, and communication channels.
-
-### 8. The soft failure principle
-
-Systems should be designed so that local or partial failures do not automatically become system-wide catastrophes.
-
-### 9. The experimentation principle
-
-When knowledge is uncertain, well-delimited trials should be used to learn before a solution is made permanent or large-scale.
-
-### 10. The relational principle
-
-Where trust, care, and cooperation are part of the system's function, governance must preserve and strengthen the relational conditions.
-
----
-
-# Part III
-
-## What good governance must be able to do
-
-We do not believe that there is a single perfect governance model.
-
-Different problems require different combinations of centralization, decentralization, expertise, participation, and coordination.
-
-A well-functioning system should, however, be able to:
-
-### 1. Use several kinds of knowledge
-
-Science and data can help us understand what is happening and what different measures are likely to lead to.
-
-Professional expertise can help us interpret complex relationships and implement decisions.
-
-People affected by a system carry experiential knowledge about how it actually works in everyday life.
-
-Democracy determines which goals and values should be prioritized.
-
-These forms of knowledge should be **linked together without being conflated**.
-
-### 2. Combine local variation with common floors
-
-Local solutions can be adapted to real needs.
-
-National or higher levels may at the same time be needed for:
-
-* fundamental rights
-* equality
-* common quality requirements
-* redistribution
-* risk pooling
-* national infrastructure
-
-Diversity and equality therefore need not be opposites.
-
-### 3. Coordinate without centralizing everything
-
-Independent actors must be able to solve problems together without every decision having to be returned to a single central decision-making body.
-
-### 4. Learn without being destabilized
-
-A system must be able to experiment and change without every improvement attempt threatening the functions people already depend on.
-
-### 5. Concentrate power when it is actually needed
-
-Some situations require pooled capacity: national risk pooling, rights protection, large infrastructure systems, or acute crises can be examples.
-
-A distributed society must therefore also be able to **temporarily concentrate mandates when circumstances require it** — and then return them when the need has ceased.
-
----
-
-# Part IV
-
-## Governance as Engineering
-
-We regard governance as a design problem, but not as a problem where there is always an objective "optimal" answer.
-
-Engineering helps us to:
-
-* formulate the problem clearly
-* separate assumptions from observations
-* identify trade-offs
-* model possible consequences
-* test hypotheses
-* conduct limited experiments
-* follow up on results
-* change course when reality tells us we were wrong
-
-It also entails an important limitation:
-
-> **Empirical evidence can tell us a great deal about consequences. It cannot alone determine which values a society should prioritize.**
-
-Questions concerning, for example, equality, freedom, participation, security, community, and ecological responsibility are also political and ethical questions.
-
-Governance as Engineering therefore does not try to replace democracy with expertise.
-
-It tries to make **democratic governance better informed, more experimental, and more capable of learning**.
-
----
-
-# Part V
-
-## Different problems require different governance
-
-There is no reason to treat all societal systems as though they had the same optimal decision level.
-
-A simplified principle is:
-
-| Problem type                      | Typical governance distribution            |
-| --------------------------------- | ------------------------------------------ |
-| Strong local context and knowledge | Lower level                               |
-| Large external effects            | Higher level or strong coordination        |
-| Extensive risk pooling            | Larger common level                        |
-| Fundamental rights                | Common protection                          |
-| Clear economies of scale          | Pooled organization where justified        |
-| Relationships and local trust     | Closer to the people affected              |
-| Cross-cutting problems            | Several levels together                    |
-| Uncertainty and innovation        | Experimentation and parallel solutions     |
-| Acute crises                      | Possibility of temporary concentration     |
-
-This is not a finished formula.
-
-It is a starting point for analysis.
-
-For each area we should ask:
-
-> **Where is the knowledge? Where do the consequences arise? How great is the need for risk pooling? What external effects exist? Which rights must be guaranteed? What economies of scale exist? How can accountability be kept traceable?**
-
----
-
-# Part VI
+For each area the questions are the same: where is the knowledge, where do the consequences arise, how great is the need for risk pooling, which external effects and rights are involved, what economies of scale exist, and how can accountability be kept traceable?
 
 ## The path from today's system
 
-We do not believe in a single major reform where Sweden changes its governance system overnight.
+Sweden does not need to change its system of governance overnight, and should not try to. Change should be gradual and build on capacity that is actually in place. A reasonable sequence is to first strengthen the basis for decisions – through independent capacity for evidence synthesis, forecasting, systems analysis and follow-up – and to develop permanent forms of citizen deliberation where complex or long-term issues justify it. Next, coordination between ministries, agencies, municipalities, regions and civil society needs to improve, and the rules for mandates, documentation, audit and appeal need to become clearer.
 
-Institutional change should be **capacity-based and gradual**.
+Only then does it make sense to test subsidiarity selectively: identify functions where there is good reason to believe more local governance would work better, test at a controlled scale, measure, and then scale up, adjust or pull back. Where more actors share responsibility, common protocols for information, escalation and crises are needed. In the longer run, the governance architecture itself must be open to evaluation and change when experience shows that the distribution of responsibility no longer fits.
 
-### 1. Build better decision support
+## The transition valley
 
-Strengthen independent capacity for:
+A reform can be sound in its end state and still harmful during the transition. If central coordination disappears faster than other coordination is built, coordination fails. If power spreads faster than accountability systems develop, accountability fails. If more actors are brought in without better ways of integrating knowledge, decisions become slower without becoming better. The project calls this the transition valley.
 
-* evidence synthesis
-* forecasting
-* systems analysis
-* scenario planning
-* impact assessment
-* follow-up
+The practical conclusion is that no load-bearing function should be weakened before a working replacement exists. This applies in particular to coordination, accountability, crisis management, rights protection, risk pooling and administrative competence. The sequence becomes preserve, strengthen, connect, test, delegate, integrate and adapt – not decentralize and hope coordination sorts itself out.
 
-### 2. Deepen deliberation
-
-Build permanent mechanisms for citizen deliberation where complex or long-term issues justify it.
-
-### 3. Improve coordination
-
-Strengthen collaboration between:
-
-* ministries
-* government agencies
-* municipalities
-* regions
-* civil society
-* other relevant actors
-
-### 4. Make accountability traceable
-
-Develop clearer rules for:
-
-* mandates
-* decisions
-* documentation
-* follow-up
-* audit
-* appeals
-* conflict management
-
-### 5. Test subsidiarity selectively
-
-Identify functions where there are good reasons to believe that more local or functionally distributed governance could work better.
-
-Test the change at a controlled scale.
-
-Measure.
-
-Learn.
-
-Scale up, modify, or pull back.
-
-### 6. Build interoperability
-
-When more independent actors share responsibility, common protocols are needed for:
-
-* information
-* data
-* standards
-* escalation
-* cross-boundary problems
-* crises
-
-### 7. Develop polycentric solutions where they are needed
-
-Where problems are already cross-cutting, local, or functionally regional, several decision centers may need to collaborate instead of being subordinated to a single central actor.
-
-### 8. Make governance itself learning
-
-As experience grows, the distribution of responsibilities should also be able to change.
-
-The governance architecture should not only govern society.
-
-It should also be able to **evaluate and improve itself**.
-
----
-
-# Part VII
-
-## The transition must be built so as not to create new problems
-
-A reform can be good in its end state and still be harmful during the transition.
-
-If central coordination decreases faster than alternative coordination is built, coordination can collapse.
-
-If power is spread faster than accountability systems, accountability can collapse.
-
-If more actors are included without better forms of knowledge integration, decisions can become slower without becoming better.
-
-This is **Transition Valley**.
-
-A simple transition principle therefore applies:
-
-> **Preserve → strengthen → connect → test → delegate → integrate → adapt.**
-
-We must not weaken a load-bearing function before a working replacement exists.
-
-This applies especially to:
-
-**coordination**
-
-**accountability**
-
-**crisis management**
-
-**rights protection**
-
-**risk pooling**
-
-**administrative competence**
-
----
-
-# Part VIII
-
-## A learning Sweden
-
-We want Sweden to gradually develop a greater ability to:
-
-1. make decisions at the right level
-2. combine scientific, professional, and experience-based knowledge
-3. unite local variation with common rights and quality floors
-4. coordinate independent institutions
-5. experiment without making the entire system unstable
-6. detect when institutional solutions no longer fit the problems
-7. change the governance architecture without every change becoming a systemic crisis
-
-This is not a promise of a perfect future.
-
-It is a goal of **greater societal learning capacity**.
-
----
-
-# Part IX
+[More on the transition valley →](/overgang/overgangsdalen)
 
 ## Institutional prototypes
 
-Several ideas may be worth testing, depending on the problem area and local conditions.
+Several ideas may be worth testing, depending on the area and local conditions:
 
-Examples:
+- **Independent systems and evidence capacity**, national or networked, for systems analysis, scenarios and policy evaluation.
+- **Citizens' assemblies**, where randomly selected groups are given time, information and facilitation to consider complex issues.
+- **Subsidiarity review**, a systematic examination of whether responsibility sits at a reasonable level.
+- **Local and regional innovation zones**, where new forms of governance are tested within clear legal and financial frameworks.
+- **Pattern libraries**, open collections of local solutions that can be adapted and tested elsewhere.
+- **Cross-scale coordination forums** for problems that do not fit existing administrative boundaries.
 
-### Independent systems and evidence capacity
+These are hypotheses to test, not finished models.
 
-A national or network-based capacity for systems analysis, scenarios, policy evaluation, and complexity analysis.
+## Values that must be weighed
 
-### Citizens' assemblies
+Governance is not value-neutral. Equality and autonomy, uniformity and diversity, efficiency and participation, stability and experimentation, individual freedom and shared responsibility, short-term needs and long-term resilience – no system maximizes all of them at once. A mature democracy should not pretend such conflicts can be optimized away, but make them visible and democratically manageable.
 
-Randomly composed groups that receive time, information, and professional facilitation to consider complex issues.
+## Sweden in a larger system
 
-### Subsidiarity review
+Swedish municipalities and regions operate within a national constitutional order. Sweden operates within the EU and within Nordic and international networks, and economic actors, digital platforms and civil society shape how power and information are actually distributed. Governance therefore has to handle multiple actors, levels and forms of legitimacy at the same time.
 
-Systematic examination of whether responsibility lies at a reasonable level and whether the current distribution of responsibilities creates unnecessary problems.
+That is why the project studies polycentric governance and meta-governance. Meta-governance is not about a super-government, but about the capacity to coordinate and evaluate the relationships between governance systems without needlessly taking over their autonomy.
 
-### Local and regional innovation zones
+## How ideas are tested
 
-Delimited environments where new forms of governance can be tested under clear legal and economic frameworks.
+Every major reform idea on the site should, as far as possible, set out expected benefits, possible drawbacks, uncertainties, affected groups and their incentives, institutional obstacles, possible pilot designs, measurable outcomes, conditions for scaling up and conditions for modifying or ending a trial. This applies to the project's own ideas too. An idea does not become better because it is yours, and a reform is not good just because it decentralizes.
 
-### Pattern library
+## Contribute
 
-Open collections of locally developed solutions that can be adapted and tested in other contexts.
+Swedish Subsidiarity is a direction of inquiry, not a finished answer, and it improves through resistance. If you work in a municipality, region or government agency, your experience of what actually works is especially valuable. If you are a researcher, criticism of the hypotheses – and examples of where they fail – is the most useful contribution. And if you know from everyday life how these systems work, that is often exactly the knowledge missing from the basis for decisions.
 
-### Cross-scale coordination forums
+## The direction
 
-Structures for handling problems that do not fit within existing administrative boundaries.
+A robust society is not one that never changes. It is one that notices when reality shifts, tests new solutions, keeps what works, learns from what fails and adapts its institutions without losing its cohesion. Not a state that controls everything, and not a society where everyone is left to fend for themselves, but one where responsibility sits where it belongs and what must hold together is held together.
 
-These should be seen as **prototypes and hypotheses**, not as finished institutional dogmas.
-
----
-
-# Part X
-
-## What we value
-
-Governance is not value-neutral.
-
-We may need to balance:
-
-**equality and autonomy**
-
-**uniformity and diversity**
-
-**efficiency and participation**
-
-**stability and experimentation**
-
-**individual freedom and shared responsibility**
-
-**short-term needs and long-term resilience**
-
-There is no system in which all these values are maximized simultaneously.
-
-A mature democracy should therefore not pretend that these conflicts can be optimized away.
-
-It should make them **visible, comprehensible, and democratically manageable**.
-
----
-
-# Part XI
-
-## The larger context
-
-Swedish Subsidiarity focuses on Swedish governance, but Sweden is not an isolated system.
-
-Swedish municipalities and regions operate within a national constitutional order.
-
-Sweden operates within the EU.
-
-Sweden is part of Nordic and global institutional networks.
-
-Economic actors, digital platforms, civil society, professional networks, and international organizations also influence how power, information, and resources are actually distributed.
-
-A future governance system must therefore be able to handle:
-
-> **multiple actors, multiple levels, multiple types of legitimacy, and multiple types of knowledge.**
-
-This is one of the reasons we study **polycentric governance and meta-governance**.
-
-Meta-governance is not about creating a super-government.
-
-It is about building the capacity to **coordinate, evaluate, and develop the relationships between different governance systems without unnecessarily replacing their autonomy**.
-
----
-
-# Part XII
-
-## Our way of working
-
-We do not only want to argue for reforms.
-
-We want to examine them.
-
-Therefore, as far as possible, every major reform idea should include:
-
-**Expected benefits**
-
-**Possible drawbacks**
-
-**Uncertainties**
-
-**Affected groups and incentives**
-
-**Institutional obstacles**
-
-**Possible pilot forms**
-
-**Measurable outcomes**
-
-**Conditions for scaling up**
-
-**Conditions for modifying or discontinuing the trial**
-
-This also applies to our own ideas.
-
-> **An idea does not become better because it is ours.**
-
-And:
-
-> **A reform is not good just because it is decentralizing.**
-
-We seek solutions that work.
-
----
-
-# An open call
-
-Swedish Subsidiarity is not a finished answer.
-
-It is a direction for inquiry.
-
-To politicians:
-
-**Test new forms where today's institutions do not work well.**
-
-To public officials:
-
-**Share experiences about what actually works in practice.**
-
-To researchers:
-
-**Help us discover when our hypotheses do not hold.**
-
-To municipalities and regions:
-
-**Test where change can be done safely and measurably.**
-
-To citizens:
-
-**Contribute experiences, perspectives, and criticism.**
-
-To everyone:
-
-> **Use what works. Improve what can be improved. Reject what does not hold.**
-
----
-
-# A promise of a learning Sweden
-
-We believe that a robust society is not a society that never changes.
-
-It is a society that can:
-
-**notice when reality changes,**
-
-**understand what needs to change,**
-
-**test new solutions,**
-
-**preserve what works,**
-
-**learn from what fails,**
-
-and **adapt its institutions without losing its cohesion.**
-
-That is our vision for Sweden:
-
-> **Not a state that controls everything.**
->
-> **Not a society where everyone is left to themselves.**
->
-> **But a society that can distribute responsibility where it belongs and at the same time hold together what must be held together.**
-
-**Right decision. Right place. Right knowledge. Right responsibility.**
-
----
-
-*This manifesto is part of Swedish Subsidiarity — an independent research and policy initiative to examine how Swedish governance can become more democratic, knowledge-based, resilient, and adaptive.*
+*Right decision. Right place. Right knowledge. Right responsibility.*

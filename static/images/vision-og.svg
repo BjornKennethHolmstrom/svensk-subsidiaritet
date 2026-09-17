@@ -5,8 +5,8 @@
    viewBox="0 0 1200 630"
    version="1.1"
    id="svg25"
-   sodipodi:docname="manifest-og-en.svg"
-   inkscape:export-filename="manifest-og-en.png"
+   sodipodi:docname="vision-og.svg"
+   inkscape:export-filename="vision-og.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
@@ -24,8 +24,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.3777778"
-     inkscape:cx="600.24194"
-     inkscape:cy="315"
+     inkscape:cx="600.96773"
+     inkscape:cy="314.99999"
      inkscape:window-width="2520"
      inkscape:window-height="1048"
      inkscape:window-x="0"
@@ -177,58 +177,44 @@
      fill="#111111"
      id="rect14" />
   <!-- Main content group -->
-  <g
-     transform="translate(600, 280)"
-     id="g16">
-    <!-- Main title (sans-serif) -->
-    <text
-       x="0"
-       y="0"
-       text-anchor="middle"
-       font-family="'Inter', 'Helvetica Neue', Arial, sans-serif"
-       font-weight="800"
-       font-size="64"
-       fill="#111111"
-       letter-spacing="-0.5"
-       id="text14">
-      Swedish Subsidiarity
-    </text>
-    <!-- Subtitle (serif) -->
-    <text
-       x="0"
-       y="60"
-       text-anchor="middle"
-       font-family="'Merriweather', Georgia, 'Times New Roman', serif"
-       font-weight="400"
-       font-style="italic"
-       font-size="28"
-       fill="#57534e"
-       id="text15">
-      Manifesto for a Learning Sweden
-    </text>
-    <!-- Decorative divider -->
-    <line
-       x1="-180"
-       y1="90"
-       x2="180"
-       y2="90"
-       stroke="#d6d3d1"
-       stroke-width="1.5"
-       id="line15" />
-    <!-- Quote line -->
-    <text
-       x="0"
-       y="140"
-       text-anchor="middle"
-       font-family="'Merriweather', Georgia, serif"
-       font-weight="400"
-       font-size="22"
-       fill="#44403c"
-       font-style="italic"
-       id="text16">
-      &quot;Better governance for a complex society&quot;
-    </text>
-  </g>
+  <text
+     x="600"
+     y="280"
+     text-anchor="middle"
+     font-family="Inter, 'Helvetica Neue', Arial, sans-serif"
+     font-weight="800"
+     font-size="64px"
+     fill="#111111"
+     letter-spacing="-0.5"
+     id="text14">Svensk Subsidiaritet</text>
+  <text
+     x="600"
+     y="340"
+     text-anchor="middle"
+     font-family="Merriweather, Georgia, 'Times New Roman', serif"
+     font-weight="400"
+     font-style="italic"
+     font-size="28px"
+     fill="#57534e"
+     id="text15">Ett lärande Sverige</text>
+  <line
+     x1="420"
+     y1="370"
+     x2="780"
+     y2="370"
+     stroke="#d6d3d1"
+     stroke-width="1.5"
+     id="line15" />
+  <text
+     x="600"
+     y="420"
+     text-anchor="middle"
+     font-family="Merriweather, Georgia, serif"
+     font-weight="400"
+     font-size="22px"
+     fill="#44403c"
+     font-style="italic"
+     id="text16">Rätt beslut. Rätt plats. Rätt kunskap. Rätt ansvar.</text>
   <!-- Footer -->
   <g
      transform="translate(600, 580)"

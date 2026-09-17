@@ -14,14 +14,14 @@
   // Metadata för SEO och delning – ett objekt per språk
   const shareMeta = {
     sv: {
-      title: 'Manifest för distribuerad systemförståelse – Svensk Subsidiaritet',
-      description: 'Sverige måste gå från centraliserad kontroll till nätverkad intelligens. Läs manifestet för ett resilient, självstyrande och mänskligt Sverige.',
-      image: '/images/manifest-og.png'
+      title: 'Ett lärande Sverige – Svensk Subsidiaritet',
+      description: 'Principerna bakom Svensk Subsidiaritet: beslut på rätt nivå, spårbart ansvar och reformer som prövas innan de skalas upp.',
+      image: '/images/vision-og.png'
     },
     en: {
-      title: 'Manifesto for Distributed Systems Literacy – Swedish Subsidiarity',
-      description: 'Sweden must transition from centralized control to networked intelligence. Read the manifesto for a resilient, self-governing, and human Sweden.',
-      image: '/images/manifest-og-en.png'
+      title: 'A Learning Sweden – Swedish Subsidiarity',
+      description: 'The principles behind Swedish subsidiarity: decisions made at the right level, traceable accountability, and reforms tested before being scaled up.',
+      image: '/images/vision-og-en.png'
     }
   };
 </script>

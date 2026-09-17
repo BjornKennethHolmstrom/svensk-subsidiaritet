@@ -1,7 +1,7 @@
 export const translations = {
   sv: {
     nav: {
-      manifesto: "Manifest",
+      vision: "Vision",
       architecture: "Arkitektur",
       frameworks: "Ramverk",
       resources: "Resurser",
@@ -258,7 +258,7 @@ export const translations = {
   },
   en: {
     nav: {
-      manifesto: "Manifesto",
+      vision: "Vision",
       architecture: "Architecture",
       frameworks: "Frameworks",
       resources: "Resources",
