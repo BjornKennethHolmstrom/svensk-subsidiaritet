@@ -1,6 +1,7 @@
 <script lang="ts">
   import { locale, t } from '$lib/stores/i18n';
   import { fade } from 'svelte/transition';
+  import SystemAnalysisNotice from '$lib/components/SystemAnalysisNotice.svelte';
 
   // RESTORED: The Icons (Visual Anchors)
   const systems = [
@@ -62,32 +63,36 @@
     </h1>
     <p class="max-w-3xl font-serif text-xl leading-relaxed text-stone-600">
       {$locale === 'sv' 
-        ? 'Sverige har optimerat sig in i sårbarhet. Här diagnostiserar vi centraliseringens kostnader i tio kritiska system och kartlägger den subsidiära vägen ut.'
-        : 'Sweden has optimized itself into fragility. Here we diagnose the costs of centralization across ten critical systems and map the subsidiarity-based path out.'}
+        ? 'Tio analyser av hur beslut, kunskap och ansvar är fördelade i centrala svenska system, och var en annan fördelning skulle kunna fungera bättre.'
+        : 'Ten analyses of how decisions, knowledge and responsibility are distributed across key Swedish systems, and where a different distribution might work better.'}
     </p>
   </header>
+
+  <div class="max-w-3xl">
+    <SystemAnalysisNotice />
+  </div>
 
   <section class="mb-12 overflow-hidden rounded-2xl border border-teal-200 bg-teal-50">
     <div class="flex flex-col items-center gap-6 p-8 md:flex-row md:justify-between">
       <div class="max-w-xl">
         <div class="mb-2 inline-flex items-center gap-2 text-sm font-bold tracking-widest text-teal-700 uppercase">
           <span class="text-xl">🎛️</span> 
-          {$locale === 'sv' ? 'Interaktiv Modell' : 'Interactive Model'}
+          {$locale === 'sv' ? 'Interaktiv modell' : 'Interactive Model'}
         </div>
         <h2 class="mb-3 font-sans text-2xl font-bold text-teal-900">
-          {$locale === 'sv' ? 'Varför System Kollapsar' : 'Why Systems Collapse'}
+          {$locale === 'sv' ? 'Vad händer när komplexiteten växer?' : 'What happens as complexity grows?'}
         </h2>
         <p class="font-serif text-teal-800 opacity-90">
           {$locale === 'sv' 
-            ? 'Innan du läser våra sektoranalyser, testa vår simulator. Se den matematiska bevisföringen för varför centraliserade system inte kan hantera lokal komplexitet.' 
-            : 'Before reading our sector analyses, try our simulator. See the mathematical proof of why centralized systems fail to handle local complexity.'}
+            ? 'Simulatorn visar mekanismen bakom analyserna i en förenklad modell: vad som händer när en central styrenhet möter mer lokal variation än den kan hantera. Den stämmer inom sina antaganden, men den mäter inte verkligheten.'
+            : 'The simulator shows the mechanism behind the analyses in a simplified model: what happens when a central controller faces more local variation than it can handle. It holds within its assumptions, but it does not measure the real world.'}
         </p>
       </div>
       <a 
         href="/simulator" 
         class="shrink-0 rounded-xl bg-teal-700 px-6 py-4 font-sans text-sm font-bold text-white transition-transform hover:scale-105 hover:bg-teal-800"
       >
-        {$locale === 'sv' ? 'Testa Simulatorn →' : 'Try the Simulator →'}
+        {$locale === 'sv' ? 'Testa simulatorn →' : 'Try the Simulator →'}
       </a>
     </div>
   </section>
@@ -108,7 +113,7 @@
           </h3>
           
           <div class="mt-4 flex items-center text-xs font-bold uppercase tracking-widest text-stone-400 group-hover:text-stone-900 transition-colors">
-            {$locale === 'sv' ? 'Läs Analys' : 'Read Analysis'}
+            {$locale === 'sv' ? 'Läs analysen' : 'Read Analysis'}
             <span class="ml-2 transition-transform group-hover:translate-x-1">→</span>
           </div>
         </a>
@@ -126,8 +131,8 @@
           </h2>
           <p class="text-sm text-stone-500">
             {$locale === 'sv' 
-              ? 'Samlade PDF:er för varje system – perfekt för utskrift eller vidaredelning.' 
-              : 'Combined PDFs for each system – perfect for printing or sharing.'}
+              ? 'Samlade PDF:er för varje system. De är ursprungliga versioner och ses över tillsammans med sidorna.'
+              : 'Combined PDFs for each system. They are the original versions and are being reviewed along with the pages.'}
           </p>
         </div>
       </div>
@@ -149,7 +154,7 @@
 
   <section class="rounded-2xl bg-stone-50 p-8 border border-stone-100">
     <h2 class="mb-6 font-sans text-xl font-bold text-stone-400 uppercase tracking-widest">
-      {$locale === 'sv' ? 'Under Utveckling' : 'In Development'}
+      {$locale === 'sv' ? 'Under utveckling' : 'In Development'}
     </h2>
     
     <div class="grid grid-cols-2 gap-4 md:grid-cols-4">
@@ -167,8 +172,8 @@
   <div class="mt-16 text-center">
     <p class="mx-auto max-w-2xl font-serif text-sm italic text-stone-400">
       {$locale === 'sv'
-        ? 'Varje analys bygger på cybernetiska principer: centralisering skapar effektivitet vid låg komplexitet, men sårbarhet vid hög komplexitet.'
-        : 'Each analysis applies cybernetic principles: centralization creates efficiency at low complexity, but fragility at high complexity.'}
+        ? 'Analyserna utgår från en arbetshypotes: centralisering ger effektivitet när komplexiteten är låg, men kan skapa sårbarhet när den är hög. Var gränsen går är en empirisk fråga.'
+        : 'The analyses start from a working hypothesis: centralization delivers efficiency when complexity is low, but can create fragility when it is high. Where the threshold lies is an empirical question.'}
     </p>
   </div>
 </div>

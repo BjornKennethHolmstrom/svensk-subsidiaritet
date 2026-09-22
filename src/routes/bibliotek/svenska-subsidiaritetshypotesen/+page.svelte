@@ -1,7 +1,7 @@
 <script lang="ts">
   import { locale, t } from '$lib/stores/i18n';
   import { fade } from 'svelte/transition';
-  import SEO from '$lib/components/SEO.svelte'; // Assuming you have an SEO component, otherwise remove
+  import RevisionNotice from '$lib/components/RevisionNotice.svelte';
 
   // --- 1. IMPORT MARKDOWN SECTIONS ---
   // You need to create these files in src/routes/bibliotek/svenska-subsidiaritetshypotesen/sections/
@@ -42,12 +42,12 @@
     },
     { 
       id: 'chapter-1', 
-      titleSv: '1. Tio Systemanalyser', titleEn: '1. The Ten Systems Analysis',
+      titleSv: '1. Tio systemanalyser', titleEn: '1. The Ten Systems Analysis',
       compSv: Ch1Sv, compEn: Ch1En 
     },
     { 
       id: 'chapter-2', 
-      titleSv: '2. Centraliseringens Kybernetik', titleEn: '2. Cybernetics of Centralization',
+      titleSv: '2. Centraliseringens kybernetik', titleEn: '2. Cybernetics of Centralization',
       compSv: Ch2Sv, compEn: Ch2En 
     },
     { 
@@ -62,7 +62,7 @@
     },
     { 
       id: 'chapter-5', 
-      titleSv: '5. Det Globala Löftet', titleEn: '5. The Global Promise',
+      titleSv: '5. Det globala löftet', titleEn: '5. The Global Promise',
       compSv: Ch5Sv, compEn: Ch5En 
     }
   ];
@@ -108,16 +108,21 @@
       
       <div class="rounded-lg border border-stone-200 bg-stone-50 p-4">
         <div class="mb-4 text-xs font-bold uppercase tracking-widest text-stone-400">
-            {$locale === 'sv' ? 'Vitbok 2026' : 'Whitepaper 2026'}
+            {$locale === 'sv' ? 'Tidig positionstext' : 'Early position paper'}
         </div>
         <a 
           href={pdfLink}
           download
-          class="flex w-full items-center justify-center gap-2 rounded-md bg-manifesto-black px-4 py-2 text-sm font-bold text-white transition-transform active:scale-95 hover:bg-stone-800"
+          class="flex w-full items-center justify-center gap-2 rounded-md border border-stone-300 bg-white px-4 py-2 text-sm font-bold text-stone-700 transition-colors hover:bg-stone-100"
         >
           <span class="text-lg">↓</span> 
           {$locale === 'sv' ? 'Ladda ner PDF' : 'Download PDF'}
         </a>
+        <p class="mt-3 text-xs leading-snug text-stone-500">
+          {$locale === 'sv'
+            ? 'PDF:en är den ursprungliga versionen, utan den här reservationen.'
+            : 'The PDF is the original version, without this caveat.'}
+        </p>
       </div>
 
       <nav class="space-y-1 border-l border-stone-200 pl-4">
@@ -144,10 +149,10 @@
     
     <div class="lg:hidden mb-8">
       <div class="mb-2 text-xs font-bold uppercase tracking-widest text-stone-400">
-        {$locale === 'sv' ? 'Vitbok' : 'Whitepaper'}
+        {$locale === 'sv' ? 'Tidig positionstext' : 'Early position paper'}
       </div>
       <h1 class="text-3xl font-bold font-sans text-manifesto-black leading-tight">
-        {$locale === 'sv' ? 'Den Svenska Subsidiaritetshypotesen' : 'The Swedish Subsidiarity Hypothesis'}
+        {$locale === 'sv' ? 'Den svenska subsidiaritetshypotesen' : 'The Swedish Subsidiarity Hypothesis'}
       </h1>
       <a 
           href={pdfLink}
@@ -160,7 +165,7 @@
 
     <header class="hidden lg:block mb-16 border-b border-stone-200 pb-8">
       <h1 class="text-4xl md:text-5xl font-bold font-sans text-manifesto-black mb-4 leading-tight">
-        {$locale === 'sv' ? 'Den Svenska Subsidiaritetshypotesen' : 'The Swedish Subsidiarity Hypothesis'}
+        {$locale === 'sv' ? 'Den svenska subsidiaritetshypotesen' : 'The Swedish Subsidiarity Hypothesis'}
       </h1>
       <p class="text-xl font-serif text-stone-600 italic">
         {$locale === 'sv' 
@@ -168,6 +173,36 @@
           : 'From centralized excellence to distributed resilience.'}
       </p>
     </header>
+
+    {#if $locale === 'sv'}
+      <RevisionNotice heading="Den här texten revideras">
+        <p>
+          Vitboken skrevs innan projektet hade sina nuvarande
+          <a href="/evidens/sa-vet-vi/evidensstandarder">evidensstandarder</a>, och den är mer tvärsäker än
+          vi står för i dag. Påståenden om att centraliserad styrning är ”matematiskt oförmögen” eller att
+          misslyckande är ”oundvikligt” går längre än vad Ashbys lag och det empiriska underlaget bär, och
+          flera siffror i introduktionen behöver kontrolleras.
+        </p>
+        <p>
+          Läs den som en hypotes att pröva, inte som en slutsats. Det som talar emot den finns samlat under
+          <a href="/evidens/syntes/motevidens">motevidens</a>.
+        </p>
+      </RevisionNotice>
+    {:else}
+      <RevisionNotice heading="This text is being revised">
+        <p>
+          This white paper was written before the project adopted its current
+          <a href="/evidens/sa-vet-vi/evidensstandarder">evidence standards</a>, and it is more certain than we
+          are today. Claims that centralised governance is "mathematically incapable" or that failure is
+          "inevitable" go further than Ashby's law and the empirical record support, and several figures in
+          the introduction need checking.
+        </p>
+        <p>
+          Read it as a hypothesis to test, not a conclusion. What counts against it is collected under
+          <a href="/evidens/syntes/motevidens">counter-evidence</a>.
+        </p>
+      </RevisionNotice>
+    {/if}
 
     <div class="space-y-24">
       {#each contentMap as section}
@@ -212,7 +247,7 @@
             {$t.footer.contact}
         </a>
         <a href="/verktyg" class="rounded-md border border-stone-300 bg-white px-6 py-3 text-sm font-bold text-stone-700 hover:bg-stone-50">
-            {$locale === 'sv' ? 'Se Verktyg' : 'View Tools'}
+            {$locale === 'sv' ? 'Se verktyg' : 'View Tools'}
         </a>
       </div>
     </div>

@@ -22,54 +22,6 @@
     </p>
   </header>
 
-  <section class="mb-16">
-    <article class="group relative flex flex-col md:flex-row gap-4 md:gap-8 bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20 p-8 rounded-2xl border-2 border-blue-200 dark:border-blue-800 shadow-lg">
-      
-      <div class="md:w-32 flex-shrink-0 pt-1">
-        <div class="font-mono text-xs text-blue-600 dark:text-blue-400 font-bold mb-3">2026</div>
-        <div class="flex flex-wrap gap-2">
-          <span class="bg-blue-600 text-white px-3 py-1.5 rounded text-[11px] uppercase tracking-wider font-bold">
-            {lang === 'sv' ? 'NYHET' : 'NEW'}
-          </span>
-          <span class="bg-indigo-100 dark:bg-indigo-900 text-indigo-700 dark:text-indigo-300 px-2 py-1 rounded-[2px] text-[10px] uppercase tracking-wider font-bold">
-            SVERIGE
-          </span>
-        </div>
-      </div>
-
-      <div>
-        <div class="text-xs font-bold uppercase tracking-widest text-blue-600 dark:text-blue-400 mb-2">
-          {lang === 'sv' ? '🇸🇪 Svensk Subsidiaritet' : '🇸🇪 Swedish Subsidiarity'}
-        </div>
-        <h3 class="text-3xl font-bold text-manifesto-black dark:text-white mb-4 group-hover:underline decoration-blue-300 underline-offset-4 transition-all">
-          <a href="/bibliotek/svenska-subsidiaritetshypotesen">
-            {lang === 'sv' ? 'Den Svenska Subsidiaritetshypotesen' : 'The Swedish Subsidiarity Hypothesis'}
-          </a>
-        </h3>
-        
-        <p class="font-serif text-stone-700 dark:text-stone-300 leading-relaxed mb-6 text-lg">
-          {lang === 'sv' 
-            ? 'Vitboken som diagnostiserar centraliseringens kostnader och presenterar ramverket för ett distribuerat Sverige. Vårt huvuddokument för svensk systemförändring.'
-            : 'The whitepaper diagnosing the costs of centralization and presenting the framework for a distributed Sweden. Our main document for Swedish systems change.'}
-        </p>
-        
-        <div class="flex flex-wrap gap-6 items-center">
-          <a href="/bibliotek/svenska-subsidiaritetshypotesen" class="text-sm font-bold uppercase tracking-widest text-manifesto-black dark:text-white border-b-2 border-black dark:border-white pb-0.5 hover:opacity-70 transition-opacity">
-            {lang === 'sv' ? 'Läs Online' : 'Read Online'} →
-          </a>
-
-          <a 
-            href={lang === 'sv' ? '/downloads/Svensk-Subsidiaritetshypotes-2026.pdf' : '/downloads/Swedish-Subsidiarity-Hypothesis-2026.pdf'}
-            download
-            class="text-sm font-bold uppercase tracking-widest text-blue-600 dark:text-blue-400 hover:text-black dark:hover:text-white transition-colors flex items-center gap-2"
-          >
-            <span>↓</span> {lang === 'sv' ? 'Ladda ner PDF' : 'Download PDF'}
-          </a>
-        </div>
-      </div>
-    </article>
-  </section>
-
   <!-- GSI cross-link (replaces the old LibrarySection) -->
   <section class="mb-16">
     <a 
@@ -96,9 +48,49 @@
     </a>
   </section>
 
+  <!-- Hypothesis paper: kept but demoted while under revision -->
+  <section class="mb-16">
+    <article class="flex flex-col gap-4 rounded-xl border border-stone-200 bg-stone-50 p-6 md:flex-row md:gap-8 dark:border-stone-700 dark:bg-stone-900/40">
+      <div class="flex-shrink-0 md:w-32">
+        <div class="mb-3 font-mono text-xs text-stone-400">2026</div>
+        <span class="inline-block rounded bg-amber-100 px-2 py-1 text-xs font-semibold text-amber-800 dark:bg-amber-900/40 dark:text-amber-300">
+          {lang === 'sv' ? 'Under revidering' : 'Under revision'}
+        </span>
+      </div>
+
+      <div>
+        <div class="mb-1 text-sm text-stone-500 dark:text-stone-400">
+          {lang === 'sv' ? 'Tidig positionstext' : 'Early position paper'}
+        </div>
+        <h3 class="mb-3 text-2xl font-bold text-stone-800 hover:underline dark:text-stone-100">
+          <a href="/bibliotek/svenska-subsidiaritetshypotesen">
+            {lang === 'sv' ? 'Den svenska subsidiaritetshypotesen' : 'The Swedish Subsidiarity Hypothesis'}
+          </a>
+        </h3>
+        <p class="mb-5 font-serif leading-relaxed text-stone-600 dark:text-stone-300">
+          {lang === 'sv'
+            ? 'Projektets första text om centraliseringens kostnader och ett mer distribuerat Sverige. Den skrevs innan våra nuvarande evidensstandarder och är mer tvärsäker än vi står för i dag. Den revideras.'
+            : 'The project\'s first text on the costs of centralization and a more distributed Sweden. It was written before our current evidence standards and is more certain than we are today. It is being revised.'}
+        </p>
+        <div class="flex flex-wrap items-center gap-6 text-sm">
+          <a href="/bibliotek/svenska-subsidiaritetshypotesen" class="font-bold text-stone-800 underline decoration-stone-300 underline-offset-4 hover:decoration-stone-800 dark:text-stone-100">
+            {lang === 'sv' ? 'Läs online' : 'Read online'}
+          </a>
+          <a
+            href={lang === 'sv' ? '/downloads/Svensk-Subsidiaritetshypotes-2026.pdf' : '/downloads/Swedish-Subsidiarity-Hypothesis-2026.pdf'}
+            download
+            class="text-stone-500 hover:text-stone-900 dark:hover:text-stone-100"
+          >
+            {lang === 'sv' ? 'Ladda ner PDF (originalversion)' : 'Download PDF (original version)'}
+          </a>
+        </div>
+      </div>
+    </article>
+  </section>
+
   <LibrarySection 
-    title={lang === 'sv' ? "Svensk Forskning" : "Swedish Research"}
-    subtitle={lang === 'sv' ? "Subsidiaritet & Komplexitet" : "Subsidiarity & Complexity"}
+    title={lang === 'sv' ? "Svensk forskning" : "Swedish Research"}
+    subtitle={lang === 'sv' ? "Subsidiaritet och komplexitet" : "Subsidiarity & Complexity"}
     count={swedishResearch.length}
     isOpen={true}
   >
@@ -181,7 +173,7 @@
   </LibrarySection>
 
   <LibrarySection 
-    title={lang === 'sv' ? "Akademiska Artiklar" : "Academic Papers"}
+    title={lang === 'sv' ? "Akademiska artiklar" : "Academic Papers"}
     count={papers.length}
     isOpen={false}
   >
