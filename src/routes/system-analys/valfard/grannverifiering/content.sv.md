@@ -2,128 +2,69 @@
 
 [← Tillbaka till huvudartikeln](..)
 
-**Sammanfattning**: För enkla bidragsansökningar (tillfälligt bostadsstöd, begravningskostnader, krisbidrag) räcker det att sökanden anger två grannar som verifierar behovet. Handläggningstid: 48 timmar istället för 6 veckor. Bedrägeririskerna är låga eftersom grannar har starka incitament att vara ärliga (socialt tryck, risk för uteslutning ur gemenskapen). Systemet bygger på tillit och lokal kunskap – och frigör handläggare till komplexa ärenden där professionell bedömning verkligen behövs.
+**Sammanfattning:** En förenklad och snabbare handläggning av små, akuta behov inom försörjningsstödet, till exempel en trasig kyl eller en oväntad kostnad. Den sökande lämnar en egen försäkran om behovet och kan, om hen själv vill, ange en granne eller annan person som kan bekräfta det. Ärendena följs upp med stickprov i efterhand.
 
-## Mekanismen
+*Det här är ett förslag att pröva i begränsade piloter med utvärdering. Siffrorna nedan är förslag och grova uppskattningar, inte resultat.*
 
-Idag kräver nästan alla bidragsansökningar (socialbidrag, bostadsbidrag, försörjningsstöd, olika krisbidrag) en omfattande handläggning: inkomstprövning, tillgångskontroll, bankutdrag, hyresavier, ibland hembesök. För enkla, lågrisksituationer – en ensamstående mamma vars kylskåp gått sönder och behöver 3 000 kr för ett nytt – är detta groteskt overkill. Sex veckors handläggning för ett akut behov.
+## Varför
 
-**Åtgärden**: Inför **grannverifiering** som ett alternativ till traditionell handläggning för bidrag under 10 000 kr där:
+Handläggningen av försörjningsstöd kräver ofta omfattande underlag: kontoutdrag, kvitton och intyg. Det är motiverat när stora belopp och långvarigt stöd prövas, men kan vara oproportionerligt när det gäller ett litet, tydligt och akut behov. Vid akut nöd kan socialtjänsten redan i dag fatta snabba beslut, men för behov som inte är akuta i strikt mening kan handläggningen ta längre tid.
 
-- Behovet är uppenbart och tidskritiskt (akut mat, trasig vitvara, begravning)
-- Sökanden saknar tidigare fällande domar för bidragsfusk
-- Sökanden kan ange två grannar (eller andra personer i samma bostadsområde/by) som kan bekräfta behovet
+## Hur det skulle fungera
 
-**Processen**:
+**Förenklat förfarande för små belopp (förslag: högst 5 000 kronor):**
 
-1. Sökanden fyller i en enkel digital ansökan (2 minuter): namn, personnummer, vad pengarna behövs till, två grannars namn och telefonnummer.
-2. Systemet skickar en automatisk SMS-länk till grannarna: ”Känner du [Namn]? Stämmer det att hen behöver [belopp] för [ändamål]? Svara JA/NEJ.”
-3. Om båda grannarna svarar JA inom 24 timmar – pengarna betalas ut direkt till Swish inom ytterligare 24 timmar.
-4. Om någon granne svarar NEJ, eller inte svarar, går ärendet vidare till vanlig handläggning (6 veckor).
-5. Stickprovskontroller: 5 % av alla grannverifierade ärenden granskas i efterhand av en handläggare. Vid misstanke om fusk – återbetalningskrav och avstängning från snabbverifiering i 2 år.
+1. Den sökande beskriver behovet i en enkel ansökan och lämnar en egen försäkran om att uppgifterna är riktiga.
+2. Socialtjänsten gör en snabb bedömning utifrån det den redan vet om den sökande.
+3. Den sökande kan, om hen vill, ange en person som kan bekräfta behovet, till exempel en granne, en vän eller någon i en förening. Det är frivilligt och får aldrig vara ett krav.
+4. Beslut fattas inom kort tid, förslagsvis några arbetsdagar.
+5. En del av ärendena granskas i efterhand. Felaktiga uppgifter leder till återkrav och i allvarliga fall polisanmälan, som i dag.
 
-**Varför grannar är pålitliga**:
+**Begränsningar:** Förfarandet används bara för begränsade belopp och ett begränsat antal gånger per år. Den som inte vill eller kan använda det får vanlig handläggning.
 
-- Socialt tryck: Att ljuga för att hjälpa någon fuska riskerar utfrysning ur gemenskapen.
-- Reciprocitet: De flesta vill inte sabotera för sina grannar, men inte heller vara med om organiserat fusk.
-- Låga vinster: Beloppen är små (max 10 000 kr). Att riskera sitt sociala anseende för en mindre summa är inte rationellt för de flesta.
-- Grannar har kontextuell kunskap som ingen handläggare kan matcha: De ser om någon verkligen har sönder sin tvättmaskin eller om den ”råkat” gå sönder varje månad.
+## Pilotförslag
 
-## Pilotdesign – tio kommuner först
+**Omfattning:** Fem till tio kommuner under två år.
 
-**Pilotfas 1 (år 1‑3)**: Tio kommuner med varierande geografi och befolkningssammansättning testar grannverifiering för utvalda bidragstyper.
+**Utvärdering:** handläggningstid, andel felaktiga utbetalningar i stickproven jämfört med vanlig handläggning, de sökandes upplevelse och hur mycket tid som frigörs för handläggarna.
 
-**Vilka bidrag ingår i piloten**:
+## Grov kostnadsuppskattning
 
-| Bidragstyp | Maxbelopp | Typiskt ärende |
-|------------|----------|----------------|
-| Akut matkonto (socialtjänsten) | 2 000 kr | Enskild eller familj utan mat för dagen |
-| Reparation av vitvara | 5 000 kr | Trasigt kylskåp, spis, tvättmaskin |
-| Begravningskostnader (efterskänkning) | 10 000 kr | Anhörig saknar täckning |
-| Tillfälligt bostadsstöd | 8 000 kr | Hyresskuld som hotar vräkning (max en gång per 12 mån) |
-| Krisbidrag (våld i hemmet, brand, översvämning) | 10 000 kr | Akut flytt, ersättning för förstörda kläder/möbler |
-
-**Organisationsmodell**:
-
-- Kommunens socialtjänst eller försörjningsstödskontor ansvarar för att implementera systemet.
-- Digital plattform (enkel webbapp eller SMS-baserad) kopplas till kommunens befintliga ärendehantering.
-- En handläggare (0,2 tjänst per kommun) ansvarar för stickprovskontroller och hantering av avvikelser (NEJ-svar, uteblivna svar).
-- Utbetalning sker via Swish eller plusgiro.
-
-**Exklusionskriterier** (får inte använda grannverifiering):
-
-- Sökanden har tidigare dömts för bidragsfusk (inom 5 år)
-- Sökanden har använt grannverifiering mer än 3 gånger under det senaste året (risk för upprepning)
-- Grannen är familjemedlem eller sambo (intressekonflikt)
-
-**Utvärdering**:
-
-- Handläggningstid (median, 90:e percentil)
-- Andel ansökningar som går via grannverifiering (mål: 30 % av alla enkla bidrag)
-- Andel NEJ-svar (förväntas låg – `<`5 %)
-- Andel fusk upptäckt i stickprov (förväntas mycket låg – `<`1 %)
-- Sökandens nöjdhet (enkät)
-- Personalens upplevelse av arbetsbelastning (frigjord tid för komplexa ärenden)
-
-## Budget och finansiering
-
-| Post | Årlig kostnad (10 pilotkommuner) |
+| Post | Kostnad per år (10 kommuner) |
 |------|----------------------------------|
-| Digital plattform (utveckling + drift) | 500 000 kr (engång) + 100 000 kr/år |
-| Handläggarresurs (0,2 tjänst × 10 × 500 000 kr) | 1 000 000 kr |
-| Stickprovskontroller (5 % av ärendena, 20 min per ärende) | 100 000 kr (uppskattning) |
-| Utbildning av personal (1 dag × 10 kommuner) | 50 000 kr (engång) |
-| Utvärdering | 200 000 kr |
-| **Totalt första året** | **1,85 Mkr** |
-| **Årlig drift efter uppskalning** | **1,1 Mkr** (exkl engångskostnader) |
+| Anpassning av e-tjänst och rutiner | cirka 1 Mkr första året |
+| Stickprovskontroller | cirka 1 Mkr |
+| Utvärdering | cirka 0,5 Mkr |
 
-**Finansiering**: Inom befintliga socialtjänstbudgetar. Genom att grannverifiering frigör handläggartid (6 veckor → 48 timmar) minskar kostnaderna per ärende dramatiskt. Även med stickprovskontroller är grannverifiering sannolikt billigare än traditionell handläggning.
+## Rättsliga frågor
 
-## Regeländringar som krävs
+1. **Sekretess:** Att någon söker försörjningsstöd omfattas av socialtjänstsekretess. Om socialtjänsten kontaktar en granne röjer den uppgifter om den sökande. Det kräver den sökandes uttryckliga samtycke, och kontakten bör begränsas till det allra nödvändigaste. Tidigare versioner av den här sidan påstod att det inte fanns något sekretessproblem. Det var fel.
+2. **Utredningsskyldighet:** Socialtjänsten ska utreda behovet i den omfattning som krävs. Hur långt ett förenklat förfarande kan gå inom lagen behöver utredas.
+3. **Dataskydd:** Uppgifter om den som bekräftar behovet är personuppgifter och ska hanteras därefter.
 
-1. **Ändring i socialtjänstförordningen (2001:937)** – lägg till en paragraf: *”För bidrag om högst 10 000 kronor får kommunen tillämpa en förenklad handläggning där behovet styrks av två närboende personer som inte är familjemedlemmar. Beslut ska fattas inom 48 timmar.”*
+## Invändningar
 
-2. **GDPR-anpassning** – Grannarnas personuppgifter (namn, telefonnummer) behandlas för att verifiera behov. Detta kräver ett rättsligt stöd (artikel 6.1 e – allmänt intresse). Finns redan i viss utsträckning, men tydliggörs i förordningen.
+**"Grannar ska inte veta om någon söker bidrag."** Det är den starkaste invändningen, och skälet till att möjligheten att ange en granne är frivillig. Många som söker försörjningsstöd vill av goda skäl inte att grannar vet om det. Om piloten visar att nästan ingen använder möjligheten, eller att den upplevs som påtryckning, bör den tas bort och bara den egna försäkran behållas.
 
-3. **Sekretesslagens undantag** – Normalt får socialtjänsten inte lämna ut uppgifter om enskilda till grannar. Här är det sökanden själv som anger grannarna – ingen uppgiftslämning från myndigheten. Inget sekretessproblem.
+**"Social press och beroende."** Den som är beroende av någon för att få stöd kan hamna i en utsatt situation, till exempel i relationer med kontroll eller våld. Därför får en bekräftelse från någon annan aldrig vara ett krav.
 
-## Förväntat motstånd och svar
+**"Det blir mer fusk."** Stickproven ska visa om andelen felaktiga utbetalningar ökar. Beloppen är begränsade.
 
-### ”Grannar kan ljuga – det här öppnar för massivt fusk.”
+**"Den som saknar nätverk missgynnas."** Den egna försäkran ska räcka, så att ingen missgynnas för att hen saknar någon som kan intyga.
 
-**Svar**: Risken finns, men är liten. Grannar som systematiskt ljuger riskerar uteslutning från gemenskapen, socialt stigma och i förlängningen polisanmälan om bedrägeri. Beloppen är små (max 10 000 kr). Incitamenten för fusk är låga. Och stickprovskontroller fångar upp de flesta försök. Erfarenheter från andra länder (t.ex. mikrolån med grannverifiering) visar mycket låga andel fusk.
+## Vad du kan göra
 
-### ”Grannar kan känna sig tvingade att säga ja – social press.”
+**Om du är enhetschef i socialtjänsten:** Se över vilka underlag som krävs för små engångsbelopp, och om några kan ersättas med egen försäkran och stickprov.
 
-**Svar**: Sökanden måste själv ange grannarna. Om relationen är sådan att grannen inte kan säga nej, då är det en olämplig granne att använda. Systemet uppmuntrar sökanden att välja personer som kan vara ärliga. Grannen kan alltid svara NEJ anonymt (SMS:et frågar bara JA/NEJ, inget namn syns för sökanden). Och NEJ-svar leder inte till någon sanktion mot sökanden – bara till vanlig handläggning.
-
-### ”Det här är en klassfråga – fattiga har inte grannar med resurser att verifiera.”
-
-**Svar**: Grannverifiering handlar inte om ekonomiska resurser utan om närhet och förtroende. En arbetslös granne kan lika gärna bekräfta att kylskåpet är trasigt som en rik. Tvärtom: i socioekonomiskt svaga områden är grannsamverkan ofta starkare eftersom man är mer beroende av varandra. Piloten ska just testa detta.
-
-### ”Handläggarna förlorar kontroll och status.”
-
-**Svar**: Tvärtom – de frigörs från triviala, lågriskärenden och kan fokusera på komplexa fall där deras kompetens verkligen behövs (missbruk, hedersvåld, psykiatri). Många handläggare upplever dagens kvantitetsmål som stressande. Grannverifiering minskar arbetsbördan.
-
-### ”Finns det några internationella exempel?”
-
-**Svar**: Ja. Mikrolånsorganisationer som Grameen Bank använder grannverifiering (”solidarity lending”) med mycket låga fallissemang. Inom socialt arbete finns ”community verification” i flera länder, t.ex. för katastrofbistånd. Sverige har bara inte testat. Piloten kan göra Sverige till pionjär.
-
-## Svenska exempel att bygga på
-
-- **Swish-utbetalningar från myndigheter** – flera kommuner använder redan Swish för snabba utbetalningar (t.ex. akuta matkassar). Tekniken finns.
-- **Grannsamverkan (polisen)** – visar att förtroendebaserad grannkontroll fungerar i svenska bostadsområden.
-- **Försäkringskassans digitala tjänster** – enkel ansökan för vissa bidrag (t.ex. tandvårdsbidrag). Grannverifiering är nästa steg.
-- **Norska ”naboverifisering”** – Norge testar liknande modeller i socialtjänsten, särskilt för unga vuxna. Sverige kan ta efter.
-
-## Vad du kan göra i morgon
-
-**Om du är socialsekreterare eller enhetschef**: Föreslå en intern pilot: Välj en bidragstyp (t.ex. akut matkonto) och testa med 10 ärenden där sökanden får ta med sig en granne som intygar behovet. Mät tiden. Utvärdera efter en månad.
-
-**Om du är kommunpolitiker**: Lägg ett förslag om att införa grannverifiering för bidrag under 10 000 kr i din kommun. Använd texten ovan som underlag. Be om en rapport efter sex månader.
-
-**Om du är systemutvecklare**: Bygg en enkel prototyp: ett SMS-gränssnitt där sökanden anger grannarnas nummer, grannarna får en förfrågan och svarar JA/NEJ, och vid två JA skickas en Swish-betalning automatiskt. Källkoden kan bli öppen för alla kommuner.
+**Om du är kommunpolitiker:** Föreslå en pilot med förenklad handläggning av små belopp, med utvärdering av både handläggningstid och felaktiga utbetalningar.
 
 ---
+
+## Källor
+
+- Socialtjänstlag (2025:400)
+- Offentlighets- och sekretesslag (2009:400), 26 kap. (sekretess inom socialtjänsten) och 12 kap. (den enskildes samtycke)
+
+*Sidan reviderades i september 2026 efter en faktagranskning.*
 
 [← Tillbaka till huvudartikeln](..)

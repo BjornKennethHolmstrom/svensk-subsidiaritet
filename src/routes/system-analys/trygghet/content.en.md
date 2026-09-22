@@ -1,140 +1,77 @@
-# Security and policing: the centralization paradox
+# Safety and policing: proximity, coordination and the right level
 
-## The intelligence collapse
+## Two lessons pulling in different directions
 
-Sweden's 2015 police reform centralized 21 authorities into seven regions and closed local stations. The result: shootings and bombings reached record levels, trust in the police in vulnerable areas dropped from 65% (2010) to 45% (2023), and the police solve only 20% of burglaries.
+The 2015 police reform merged the National Police Board and 21 county police authorities into a single cohesive police authority with seven regions. A stated goal was that the police should come closer to citizens. The reform has not achieved that goal: Statskontoret’s evaluations found that the focus had been on central steering and that local police work needed to be prioritised, and later reviews have pointed to the same shortcoming.
 
-**The paradox**: Sweden responded to increasing crime with more centralization, larger units, and professional distance. This optimizes for bureaucratic efficiency while destroying the local knowledge that actually creates security. After the station in Rosengård was closed, shootings within a kilometer increased by 40% in twelve months. Local police officers had known 200+ youths by name. New rotating units know no one.
+At the same time, serious violence has turned. The police recorded 391 shootings in 2022 and 158 in 2025, and the decline has continued in 2026. The police explain it partly by better cooperation between local, national and international units, and by many people in criminal networks having been arrested in Sweden and abroad. Bombings increased in 2025, however, and the police see an increase in violence aimed at intimidating and extorting people.
 
-**The cybernetic analysis**: Security has *high variance* – it arises from local relationships, informal social control, and community knowledge. A national police organization with standardized procedures is a control unit with *low variance*. Attempting to govern local security through centralized professionalization violates Ashby's law. The result: intelligence collapse and escalating violence.
+Confidence in the police has also increased. According to Brå’s Swedish Crime Survey (NTU), 62 percent had high confidence in the police in 2025, compared with 50 percent in 2015.
 
+The two lessons pull in different directions. Local presence was weakened, which supports the argument that knowledge and relationships on the ground have been lost. But the reduction in lethal violence appears to have come at the same time as stronger national and international coordination. A simple story that centralisation caused the violence therefore does not hold.
 
-<svg width="100%" viewBox="0 0 680 420" xmlns="http://www.w3.org/2000/svg" style="font-family: system-ui, -apple-system, sans-serif;">
-<defs><marker id="pa" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
-<rect x="220" y="20" width="240" height="56" rx="8" fill="#FCEBEB" stroke="#A32D2D" stroke-width="0.5"/>
-<text x="340" y="42" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="500" fill="#791F1F">Centralization</text>
-<text x="340" y="60" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#A32D2D">Police reform 2015</text>
-<line x1="340" y1="76" x2="340" y2="100" stroke="#888780" stroke-width="1.5" marker-end="url(#pa)"/>
-<text x="355" y="92" font-size="11" fill="#888780">stations closed</text>
-<rect x="220" y="105" width="240" height="56" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
-<text x="340" y="125" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="500" fill="#712B13">Distance from communities</text>
-<text x="340" y="143" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#993C1D">Rotating patrols, nobody knows anyone</text>
-<line x1="340" y1="161" x2="340" y2="185" stroke="#888780" stroke-width="1.5" marker-end="url(#pa)"/>
-<text x="355" y="177" font-size="11" fill="#888780">lost contact</text>
-<rect x="220" y="190" width="240" height="56" rx="8" fill="#FAEEDA" stroke="#854F0B" stroke-width="0.5"/>
-<text x="340" y="210" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="500" fill="#633806">Eroded trust</text>
-<text x="340" y="228" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#854F0B">65% → 45% confidence</text>
-<line x1="340" y1="246" x2="340" y2="270" stroke="#888780" stroke-width="1.5" marker-end="url(#pa)"/>
-<text x="355" y="262" font-size="11" fill="#888780">people refuse to tip off</text>
-<rect x="220" y="275" width="240" height="56" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
-<text x="340" y="295" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="500" fill="#3C3489">Worse intelligence</text>
-<text x="340" y="313" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#534AB7">Technology cannot replace social knowledge</text>
-<line x1="340" y1="331" x2="340" y2="355" stroke="#888780" stroke-width="1.5" marker-end="url(#pa)"/>
-<rect x="220" y="360" width="240" height="44" rx="8" fill="#FCEBEB" stroke="#A32D2D" stroke-width="0.5"/>
-<text x="340" y="386" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="500" fill="#791F1F">More violence (shootings +40%)</text>
-<path d="M220 382 L140 382 L140 48 L220 48" fill="none" stroke="#E24B4A" stroke-width="1.5" marker-end="url(#pa)"/>
-<text x="100" y="200" text-anchor="middle" font-size="12" fill="#E24B4A" transform="rotate(-90 100 200)">Political pressure: “do something!”</text>
-<text x="560" y="200" text-anchor="middle" font-size="12" fill="#888780" transform="rotate(90 560 200)">Reinforcing loop with no correction mechanism</text>
-</svg>
+## The cybernetic reading
 
-## Active system failures (in brief)
+Ashby’s law says that whoever is to control something needs to be able to handle as many different situations as the controlled thing can end up in. For safety, this means that variation exists at several levels at the same time:
 
-  - **National reorganization**: The merger severed relationships between police and communities, eliminated local stations, and created rotating duties that prevent relationship building.
-  - **The designation of vulnerable areas**: Official classification of 61 areas creates stigma and falling property values while resources are directed towards reactive policing, not preventive measures.
-  - **Intelligence centralization**: SEK 50 million on surveillance technology – but the police missed that a pizzeria was a front for gang recruitment. Technology cannot replace social knowledge.
-  - **Privatization of security**: Security guards with 80 hours of training patrol shopping centers and squares. Wealthy areas buy their safety while poor ones are abandoned.
-  - **Professionalization of crime prevention**: The Swedish National Council for Crime Prevention's (Brå) report on gang violence in 2022 contained zero interviews with former gang members or affected families. Professionals exclude lived experience.
-  - **Monopoly on violence without presence**: The police are absent or distrusted in areas with violence – power vacuums are filled by informal "protectors".
+- **Local:** everyday order, neighbourhood relationships, early signs that a young person is being drawn into crime. That knowledge exists among residents, schools, social services, associations and community police officers, and it is difficult to convey upwards.
+- **National and international:** criminal networks that recruit across municipal boundaries, are directed from abroad and move violence to where it is hardest to detect. A local actor cannot alone match an opponent operating at that scale.
 
+The point of subsidiarity is therefore not that everything should be done locally, but that each task should lie where the conditions exist to solve it. Swedish experience supports such a division. Sluta skjut in Malmö, which is based on the Group Violence Intervention method, is a collaboration between the police, the Swedish Prison and Probation Service, the City of Malmö and civil society. An evaluation from Malmö University commissioned by Brå found that shootings and bombings had decreased in Malmö since the initiative was introduced, and the government has tasked the authorities with spreading the strategy to more locations. How much of the decrease is due to the method is difficult to determine, but the setup shows how local knowledge and national capacity can be combined.
 
-<svg width="100%" viewBox="0 0 680 300" xmlns="http://www.w3.org/2000/svg" style="font-family: system-ui, -apple-system, sans-serif;">
-<defs><marker id="sa" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
-<text x="110" y="24" text-anchor="middle" font-size="14" font-weight="500" fill="#2C2C2A">Local security needs</text>
-<text x="110" y="42" text-anchor="middle" font-size="12" fill="#888780">High variance</text>
-<text x="370" y="24" text-anchor="middle" font-size="14" font-weight="500" fill="#2C2C2A">National police</text>
-<text x="370" y="42" text-anchor="middle" font-size="12" fill="#888780">Standardized procedures</text>
-<text x="580" y="24" text-anchor="middle" font-size="14" font-weight="500" fill="#2C2C2A">Outcome</text>
-<text x="580" y="42" text-anchor="middle" font-size="12" fill="#888780">Reactive, without context</text>
-<rect x="42" y="62" width="136" height="28" rx="4" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
-<text x="110" y="80" text-anchor="middle" font-size="11" fill="#3C3489">Gang conflicts</text>
-<rect x="42" y="98" width="136" height="28" rx="4" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
-<text x="110" y="116" text-anchor="middle" font-size="11" fill="#085041">Domestic violence</text>
-<rect x="42" y="134" width="136" height="28" rx="4" fill="#FAEEDA" stroke="#854F0B" stroke-width="0.5"/>
-<text x="110" y="152" text-anchor="middle" font-size="11" fill="#633806">Youth recruitment</text>
-<rect x="42" y="170" width="136" height="28" rx="4" fill="#FBEAF0" stroke="#993556" stroke-width="0.5"/>
-<text x="110" y="188" text-anchor="middle" font-size="11" fill="#72243E">Neighborhood insecurity</text>
-<rect x="42" y="206" width="136" height="28" rx="4" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
-<text x="110" y="224" text-anchor="middle" font-size="11" fill="#0C447C">Bombings / shootings</text>
+## Remaining problems
 
-<path d="M178 62 L295 100 L295 175 L178 220" fill="none" stroke="#888780" stroke-width="0.5" stroke-dasharray="4 4"/>
-<line x1="178" y1="145" x2="295" y2="145" stroke="#888780" stroke-width="1.5" marker-end="url(#sa)"/>
-<rect x="300" y="90" width="140" height="110" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
-<text x="370" y="118" text-anchor="middle" font-size="12" font-weight="500" fill="#712B13">Centralized</text>
-<text x="370" y="136" text-anchor="middle" font-size="12" font-weight="500" fill="#712B13">police organization</text>
-<text x="370" y="160" text-anchor="middle" font-size="11" fill="#993C1D">Rotating patrols</text>
-<text x="370" y="178" text-anchor="middle" font-size="11" fill="#993C1D">Solves 20% of burglaries</text>
-<line x1="440" y1="125" x2="510" y2="95" stroke="#888780" stroke-width="1.5" marker-end="url(#sa)"/>
-<line x1="440" y1="165" x2="510" y2="195" stroke="#888780" stroke-width="1.5" marker-end="url(#sa)"/>
-<rect x="515" y="75" width="130" height="40" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.5"/>
-<text x="580" y="100" text-anchor="middle" font-size="14" font-weight="500" fill="#5F5E5A">Surveillance</text>
-<rect x="515" y="175" width="130" height="40" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.5"/>
-<text x="580" y="200" text-anchor="middle" font-size="14" font-weight="500" fill="#5F5E5A">Intervention</text>
-<text x="580" y="238" text-anchor="middle" font-size="11" fill="#888780">SEK 50M on technology</text>
-<text x="580" y="254" text-anchor="middle" font-size="11" fill="#888780">Missed gang recruitment</text>
-<text x="340" y="272" text-anchor="middle" font-size="12" fill="#888780">Ashby’s law: centralized police cannot match the high variance of local security</text>
-<text x="340" y="290" text-anchor="middle" font-size="12" fill="#E24B4A">Result: intelligence collapse – technology cannot replace social knowledge</text>
-</svg>
+- **Local presence.** The goal of a police force close to citizens is still not achieved, despite large increases in resources. Community police officers who know their area are difficult to replace with rotating operations.
+- **Municipalities’ new responsibility.** Since July 2023, municipalities are required by law to produce a situational picture of crime, decide on an action plan and coordinate local crime prevention work. The capacity to do this well varies between municipalities.
+- **Vulnerable areas.** The police’s situational picture from 2025 covers 65 vulnerable areas, 19 of which are particularly vulnerable, and is produced in dialogue between local police areas, municipalities and the police’s National Operations Department. The classification controls resources, but there is a discussion about how it affects residents’ self-image and the areas’ reputation. The 2025 situational picture also describes improvements in several areas.
+- **Private and municipal security guarding.** Order guards and other actors have been given a larger role in public environments. This raises questions about accountability and whether safety is distributed according to ability to pay.
 
-## Subsidiarity-based measures
+## Subsidiarity-based proposals
 
-Below are five action areas. Each area has its own page with concrete pilots, budgets, rule changes, and analysis of resistance.
+The proposals below are ideas to test in limited pilots with evaluation, not finished solutions. Each proposal has its own page.
 
-| Measure | Short description |
+| Proposal | Brief description |
 |--------|------------------|
-| [→ Security rings](./trygghetsringar) | Groups of 50 households sharing concerns, coordinating safe activities, and providing early warning via a secure platform. 4 hours of training, "good samaritan" law. |
-| [→ Community mediators](./samhallsmedlare) | 100 respected local figures (coaches, religious leaders, grandmothers, former gang members) with 200 hours of training, salary SEK 25,000/month. Intervene in disputes before the police. |
-| [→ Municipal security budgets](./kommunala-trygghetsbudgetar) | SEK 100/resident for locally decided security initiatives via participatory budgeting – lighting, youth centers, mediators, de-escalation. |
-| [→ Restorative justice](./reparativ-rattvisa) | For minor offenses (theft under SEK 5,000, vandalism, fighting), mediation between victim and offender replaces prosecution. Courts can mandate restorative participation. |
-| [→ Security centers](./trygghetscenter) | Transform fortress-like police stations into integrated hubs: 70% community workers, 30% police. Contains mediation rooms, youth activities, legal help, mental health care. |
+| [Safety Rings](./trygghetsringar) | Neighbourhood groups that share information, coordinate activities and provide early warning, built on existing neighbourhood watch. |
+| [Community mediators](./samhallsmedlare) | Trained and paid people with roots in the area who can intervene in conflicts early, in cooperation with the police and social services. |
+| [Municipal safety budgets](./kommunala-trygghetsbudgetar) | Participatory budgeting for safety measures, linked to the municipality’s situational picture and action plan under the 2023 law. |
+| [Restorative justice](./reparativ-rattvisa) | Expanded use of mediation between crime victims and offenders in less serious crimes. Mediation already exists in law, mainly for young offenders. |
+| [Safety centres](./trygghetscenter) | Local hubs where the police, social services and other activities are under the same roof. |
 
-## Implementation: from theory to practice
+## Objections to take seriously
 
-**Phase 1 (1–3 years)** – 500 security rings in vulnerable areas. 100 community mediators trained and placed. Open house at 10 police stations with "fika with the police".
-
-**Phase 2 (3–7 years)** – Municipal security budgets with participatory budgeting. Restorative centers in Tensta, Rosengård, Bergsjön. Monthly police-municipal councils.
-
-**Phase 3 (7–15 years)** – Transformation of police stations into security centers. 10,000 security guides coordinating prevention. Trained peace teams for non-violent intervention.
-
-## Expected resistance and answers
-
-| Concern | Response |
+| Objection | How the proposals need to address it |
 |---------|------|
-| "Only the state should have authority over security" | Community efforts complement the police, they do not replace them. The police retain the monopoly on violence. |
-| "Community justice bypasses the rule of law" | Serious crimes always go to the formal system. Restorative processes have the right of appeal to court. |
-| "The Swedish Police Union will oppose it" | Police roles evolve towards coordination and mentorship – more meaningful work with less confrontation. |
-| "What if something goes wrong?" | Legal protection for pilots with rigorous evaluation. The risk is continuing with dysfunction, not testing alternatives. |
+| Rule of law | Mediation and local measures must never replace the legal process in serious crime. A person participating in mediation must be able to decline without consequences. |
+| The risk of criminals gaining influence | In areas where criminal actors affect everyday life, they may also try to influence associations, mediators and local networks. Selection, transparency and cooperation with the police are therefore central, not a formality. |
+| Neighbourhood groups may cross the line | Safety Rings must have clear frameworks for what they do and do not do, so that they do not become vigilante groups. |
+| The national perspective | Networks operating across municipal and national borders require national and international capacity. Local proposals complement it, they do not replace it. |
+| Uneven capacity | Small municipalities may lack resources. Cooperation between municipalities and support from Brå and the county administrative boards are needed. |
 
-## The Swedish advantage
+## Conclusion
 
-Sweden has **high social trust** (enables community-based methods), **progressive values** (openness to restorative justice), **digital infrastructure** (supports security rings), a **small population** (makes system change feasible), and **municipal self-government** (enables local pilots).
+The experiences since 2015 argue neither for centralising everything nor for moving everything locally. They argue for building what the reform promised but did not deliver: a police service and crime prevention work with genuine local roots, without weakening the national capacity that appears to have contributed to the decline in lethal violence. The question is how responsibility, knowledge and resources are distributed between levels, and how they interact.
 
-## Conclusion: choose between centralized dysfunction and local security
+### Three things you can do
 
-Today's police organization is not under-resourced – it is **architecturally flawed**. Centralization destroyed the local knowledge that is the foundation of all security. Police officers who knew communities, understood relationships, and recognized warning signs were replaced by rotating patrols with no connection.
+**If you are a municipal politician:** Ask how the municipality’s situational picture and action plan under the Act on Municipalities’ Responsibility for Crime Prevention Work were produced, which residents were allowed to have a say, and how the measures are followed up.
 
-**The choice is simple**:
+**If you work locally, as a police officer, field assistant or in an association:** Create regular meeting places where residents can meet those who work with safety in the area, and ensure that what emerges there reaches those who make the decisions.
 
-  - Continue as today: More surveillance cameras, more central investigation units, more private guards, continued eroded trust, escalating violence.
-  - Begin the transition: Security rings, community mediators, municipal security budgets, restorative justice, security centers.
+**If you are a resident:** Find out whether there is neighbourhood watch in your area, or contact the municipality or local police to start one.
 
-### Three things you can do tomorrow
+---
 
-**If you are a municipal politician**: Allocate SEK 200,000 for a pilot with security rings in a residential area with high insecurity. Use the model from this page.
+## Sources
 
-**If you are a police officer or local community actor**: Start a "fika with the police" evening every month in a local café or library. Get to know your neighbors – that is the best intelligence.
+- Swedish Police Authority, [Shootings 2025, by police region](https://polisen.se/contentassets/5fe3039dff9745e39999f5ff4e67e27f/skjutningar-per-polisregion-2025.pdf/download) and [Shootings 2022, by police region](https://polisen.se/contentassets/5fe3039dff9745e39999f5ff4e67e27f/skjutningar-per-polisregion-2022.pdf/download)
+- Swedish Police Authority, [Confidence in the police increases for the third year in a row](https://polisen.se/aktuellt/nyheter/nationell/2025/oktober/fortroendet-for-polisen-okar-for-tredje-aret-i-rad/) (NTU 2025)
+- Swedish Police Authority, [Situational picture of vulnerable areas 2025](https://polisen.se/siteassets/dokument/organiserad_brottslighet/utsatta-omraden/lagesbild-over-utsatta-omraden-2025.pdf)
+- Swedish Police Authority, [Sluta skjut](https://polisen.se/om-polisen/polisens-arbete/dodligt-vald/gvi-en-strategi-mot-grovt-vald-i-kriminella-miljoer/sluta-skjut/)
+- Statskontoret, *The Transformation into a Single Cohesive Police Authority*, final report 2018:18, and the interim reports from 2016 and 2017
+- The Riksdag, [Interpellation 2022/23:313 Police presence throughout the country](https://data.riksdagen.se/dokument/HA10313.html), with reference to the Riksdag’s Research Service
+- [Act (2023:196) on Municipalities’ Responsibility for Crime Prevention Work](https://data.riksdagen.se/dokument/sfs-2023-196.html)
+- Act (2002:445) on Mediation in Connection with Crime
+- The Government, [Assignment to spread the strategy behind Sluta skjut to more locations in Sweden](https://regeringen.se/contentassets/275ca174bbe442aa8569d3bd8e417bfb/uppdrag-att-sprida-strategin-bakom-sluta-skjut-till-fler-orter-i-sverige.pdf) (2021)
 
-**If you are a citizen**: Gather 10 neighbors and form a simple security ring – a group chat where you tip each other off about worrying events, coordinate evening walks, and keep an eye on the elderly and children. No police needed – just care.
-
------
-
-*This analysis applies cybernetic principles (Ashby's law of requisite variety) to the Swedish police system. For deeper measures, click on the links above.*
+*The page was revised in September 2026 after a fact check. Earlier versions contained information that could not be substantiated.*

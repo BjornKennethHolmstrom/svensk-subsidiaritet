@@ -1,131 +1,111 @@
-# Security rings
+# Safety Rings
 
 [← Back to the main article](..)
 
-**Summary**: Groups of 50 households in residential areas forming security rings—an informal network to share concerns, coordinate safe activities, and provide early warning of brewing conflicts or gang recruitment. The participants receive a 4-hour training in observation skills, de-escalation, and appropriate police contact. The rings are supported by a secure digital platform (encrypted chat and anonymous tip function). The goal: to recreate the informal social control and intelligence capacity that the centralization of the police destroyed—at a fraction of the cost of more police patrols.
+**Summary:** Neighbourhood groups of about 50 households that share information, coordinate activities that increase adult presence in the area and provide early warning when young people appear to be heading into crime. The proposal builds on the neighbourhood watch that already exists and complements it with training, a secure digital channel and a clear contact with the municipality and local police.
 
-## The mechanism
+*This is a proposal to test in limited pilots with evaluation. The figures below are proposals and rough estimates, not results.*
 
-Today, police intelligence gathering in vulnerable areas is almost non-existent. Local police do not know the residents, rotating patrols do not see the warning signs, and residents do not trust the police enough to provide tips. The result: gangs recruit openly, conflicts escalate into shootings, and no one sees it coming.
+## Why
 
-**The measure**: A **security ring** is a loose association of about 50 households in the same residential area or neighborhood that:
+Knowledge about what happens in a residential area lies primarily with those who live there. The police reform’s goal of a police force close to citizens has not been achieved, and since 2023 municipalities have a statutory responsibility to coordinate local crime prevention work. There is thus both a need and a new structure to connect the neighbourhood’s knowledge to.
 
-  - Shares information about worrying events (vandalism, suspicious persons, conflicts between youth) via an encrypted group chat or simple app.
-  - Coordinates safe activities—evening walks, "night walks" (nattvandringar), open meetings in the community hall—which increases natural surveillance and shows presence.
-  - Acts as an early warning mechanism: if the ring detects signs of gang recruitment (new expensive clothes, late nights, unknown older individuals), a community mediator or the police's local contact is notified.
-  - Offers social control without confrontation—neighbors talk to each other's children, ask "whose car is that?", call a parent if something feels wrong.
+At the same time, neighbourhood watch has long existed in Sweden, mainly focusing on burglary and vandalism. Safety Rings are a way to broaden it to concern about young people, conflicts and recruitment, with clearer frameworks for what participants do and do not do.
 
-**The training** (4 hours, one evening):
+## How it would work
 
-  - Observation skills: what is normal behavior in the area, what deviates?
-  - De-escalation: how do you talk to youth without escalating?
-  - When to contact the police, and how to do it in a way that does not put the tipster in danger?
-  - Legal protection: what are you allowed and not allowed to do? (No vigilante policing, only observation and reporting.)
+A Safety Ring is a voluntary network of households in the same block or residential area that:
 
-**The digital platform**:
+- shares information about worrying events in a common channel
+- coordinates activities that increase adult presence, such as evening walks and open meetings in association premises
+- contacts a community mediator, field assistant or community police officer when something suggests a young person is heading into crime
+- talks with each other’s children and young people and maintains contact with parents
 
-  - A simple, secure app (encrypted, two-factor authentication) where ring members can chat, send anonymous tips to a coordinator, and receive information from the police's local contact.
-  - The platform is owned and operated by an independent foundation, not by the police (to maintain trust). The police only have access to anonymized tips after approval from an independent reviewer.
-  - The source code is open, so that municipalities and associations can review and improve it.
+**Training (proposal: four hours):**
+- what is normal in the area and what deviates
+- talking with young people without escalating a situation
+- when and how to contact the police or social services, without exposing oneself to danger
+- what one may and may not do: the ring observes, supports and reports; it does not carry out interventions of its own
 
-**The difference compared to today's Neighborhood watch (Grannsamverkan)**:
+**Digital channel:** A simple, secure service for messages within the ring and for sending tips to a coordinator. The proposal is that the service is run by the municipality or an independent actor, not by the police, and that the source code is open. How personal data is handled must be designed in accordance with the GDPR from the start.
 
-| Aspect | Neighborhood watch (Police) | Security ring |
-|--------|--------------------------|---------------|
-| Focus | Residential burglary, theft | Social unrest, gang recruitment, conflicts |
-| Method | Information leaflets, locks, marking | Active chat, night walks, early warning |
-| Digital | Mailing list, simple website | Encrypted app, anonymous tips |
-| Training | None (voluntary info) | 4 hours mandatory (to get the tax deduction) |
-| Connection to police | Direct to 114 14 | Via community mediator or anonymous tip function |
+**Relation to today’s neighbourhood watch:**
 
-## Pilot design – 500 rings first
+| Aspect | Neighbourhood watch today | Safety Ring (proposal) |
+|--------|--------------------------|------------------------|
+| Focus | Mainly burglary and vandalism | Also concern about young people, conflicts and recruitment |
+| Working method | Information, vigilance, contact with the police | In addition joint activities and early warning |
+| Link | The police and Samverkan mot brott | In addition the municipality’s coordinator and community mediators |
 
-**Pilot phase 1 (years 1-3)**: 500 security rings in designated vulnerable areas (according to the Police list) and in areas with high insecurity according to local citizen dialogues.
+## Pilot proposal
 
-**Selection criteria for rings**:
+**Scope:** Up to 500 rings over three years, in areas included in the police’s situational picture of vulnerable areas or where the municipality’s own situational picture shows high insecurity.
 
-  - The area has at least 50 households that are interested (registration via municipality or housing company)
-  - The area has a community hall or similar where training and meetings can be held
-  - At least 10% of households participate actively (for the ring to reach critical mass)
+**Conditions for a ring:**
+- a sufficient number of interested households, registered via the municipality or the housing company
+- premises for training and meetings
+- a designated contact person
 
-**Organizational model**:
+**Support:**
+- a coordinator in the municipality who supports the rings and connects them to the local police and social services, preferably within the framework of the municipality’s coordination function under the Act on Municipalities’ Responsibility for Crime Prevention Work
+- a contact person at the local police who meets the ring regularly
+- a small start-up grant for room rent and materials
+- as a possible option: a small remuneration, for example in the form of a tax deduction, for active participants who have completed the training
 
-  - The ring organizes itself: chooses a contact person, determines meeting frequency, creates a chat group.
-  - The municipality or police provides training (4 hours) via approved trainers (e.g., local mediators, retired police officers, security ambassadors).
-  - Participants who have completed training and actively participate (reported attendance at at least 75% of meetings or activities) receive a **tax deduction of SEK 2,000/year** ("security deduction").
-  - Start-up grant per ring: SEK 5,000 to cover coffee, information material, possible venue rental.
+**Evaluation:** compare areas with and without rings over time with regard to perceived safety (surveys), reported crimes, how often the rings pass on contact to social services or the police, and how participants themselves experience the work.
 
-**State/municipal support**:
+## Rough cost estimate
 
-  - A **security coordinator** per municipality (0.5 FTE) is responsible for supporting the rings, connecting them to the police's local contacts, and evaluating the effect.
-  - The police appoint a **contact police officer** in each area who attends the ring's meetings at least once a quarter (to build trust and receive tips).
+| Item | Assumption | Cost per year |
+|------|-----------|---------------------------|
+| Coordinators in the municipalities | 100 municipalities × 0.5 FTE | approx. SEK 25 million |
+| Start-up grant | 500 rings × SEK 5,000, one-off | SEK 2.5 million |
+| Remuneration to participants (if included) | 500 rings × 15 active households × SEK 2,000 | approx. SEK 15 million |
+| Training, digital service, evaluation | | approx. SEK 6 million |
+| **Total first year** | | **approx. SEK 50 million** |
 
-**Evaluation** (compare areas with and without rings):
+The estimate is based on assumptions that need to be tested. Whether the rings contribute to safety can only be determined through evaluation.
 
-  - Number of reported crimes (vandalism, theft, assault) within the ring's geography
-  - Number of shootings and bombings (expected to decrease over time)
-  - Insecurity survey (questionnaire response: "do you feel safe outdoors after dark?")
-  - Police intelligence quality (number of useful tips, number of arrests based on tips)
+## Legal issues to investigate
 
-## Budget and financing
+1. **Personal data:** Information about neighbours and young people is personal data. A service run by the municipality is covered by the GDPR and the Public Access to Information and Secrecy Act. Private chat groups are also covered by data protection rules and by the rules on defamation. The frameworks need to be clear before a pilot starts.
+2. **Protection for those who intervene:** Swedish law already has rules on citizen’s arrest and self-defence. It should be investigated whether they are sufficient, or whether clarifications are needed for participants acting in good faith.
+3. **Remuneration:** If remuneration to participants is to be included, an amendment to the Income Tax Act is required, and a register of the rings.
 
-| Item | Annual cost (500 rings) |
-|------|---------------------------|
-| Tax deduction (500 rings × 50 households × SEK 2,000 × 0.3 activity rate?) | SEK 15 million |
-| Start-up grant (SEK 5,000 × 500 rings, one-time) | SEK 2.5 million |
-| Security coordinator (100 municipalities × 0.5 FTE × SEK 500,000) | SEK 25 million |
-| Training efforts (4 hrs × 500 participants per year × SEK 500/hr) | SEK 1 million |
-| Digital platform (operation + support) | SEK 2 million |
-| Evaluation | SEK 3 million |
-| **Total first year** | **SEK 48.5 million** |
-| **Annual operation after scaling up** | **SEK 46 million** (excl. start-up grant) |
+## Objections
 
-**Financing**: Compared to the police budget (SEK 35 billion/year), SEK 48.5 million is negligible. If the security rings reduce shootings by just 5% in the pilot areas, they have paid for themselves many times over (a single shooting costs society SEK 10–50 million in trials, healthcare, lost production).
+**“This is informing on people.”** The risk is real. The rings must be based on voluntariness, have clear rules about what is shared and with whom, and focus on care and early contact rather than surveillance. The evaluation should also ask those who do not participate how they experience the rings.
 
-## Regulatory changes required
+**“The groups may cross the line.”** Safety Rings must never become vigilante groups. The training, the coordinator and the link to the police exist to keep the frameworks.
 
-1.  **New provision in the Income Tax Act (1999:1229)** – introduce a "security deduction" of SEK 2,000 per year for natural persons who actively participate in a registered security ring. The deduction is tax-free and does not affect other benefits.
-2.  **Ordinance on the registration of security rings** – the Swedish Tax Agency is tasked with establishing a simple digital register. Requirements: contact person, address, participant list, completed training.
-3.  **"Good Samaritan" law** – expand the civil law protection for persons who act in good faith to report suspected crime or intervene to prevent crime (similar to the model in several US states). This reduces the fear of legal consequences.
-4.  **Exemption from the Secrecy Act** – so that rings can share information among themselves and with the police's contact officer without violating GDPR or secrecy, introduce an exception in the Public Access to Information and Secrecy Act (OSL 2009:400) for "information exchange within the framework of a security ring".
+**“Criminals may influence the rings.”** In areas where criminal actors have influence over everyday life, they may also try to influence local networks. Coordinators and the local police need insight.
 
-## Expected resistance and answers
+**“Remuneration attracts the wrong participants.”** That is a reason to test pilots both with and without remuneration.
 
-### "This is informing – neighbors snooping on each other."
+**“The police will be drowned in tips.”** Tips first go to a coordinator who assesses what needs to be passed on.
 
-**Answer**: The security ring is based on voluntary participation and clear rules. It is not about "snooping" but about caring. Seeing a youth being recruited to a gang and doing nothing is not integrity—it is indifference. The ring offers a structured way to act responsibly.
+## Swedish experience to build on
 
-### "The police will be flooded with tips – 99% will be garbage."
+- **Neighbourhood watch**, which exists in many areas through the police and Samverkan mot brott
+- **Night walks**, which are run on a voluntary basis in many places
+- **Municipalities’ situational pictures and action plans** under the 2023 law, which can identify where rings are needed
 
-**Answer**: That is why the tips first go to the ring's coordinator (a neighbor) who filters and assesses the severity. Only well-founded, acute tips are forwarded to the police's contact officer. Furthermore, the current volume of tips from the public in vulnerable areas is extremely low—anything is better than today's silence.
+## What you can do
 
-### "Integrity is threatened – neighbors see who is chatting."
+**If you are a municipal politician:** Propose a smaller pilot with a few rings in an area where the municipality’s situational picture shows high insecurity, with a plan for evaluation from the start.
 
-**Answer**: The platform is encrypted and anonymized. Participants can choose to be anonymous to other members (only the coordinator sees the identity). And no one is forced to participate. Most people in vulnerable areas prioritize safety over anonymity.
+**If you work locally:** Invite interested neighbours and the local police to an information meeting and investigate whether there is a neighbourhood watch to build on.
 
-### "The costs are too high."
+**If you are a resident:** Contact the municipality or the local police about neighbourhood watch in your area.
 
-**Answer**: SEK 48.5 million is less than 0.14% of the police budget. And the rings do not replace the police—they make the police more effective by adding intelligence that otherwise does not exist. Socio-economically, there is an extremely high return if just a few shootings are prevented.
+---
 
-### "Are there any international examples?"
+## Sources
 
-**Answer**: Yes. The UK's "Neighbourhood Watch" has similar models, but often without a digital platform. The US's "Crime Stoppers" uses anonymous tips successfully. Sweden's unique advantage is high digital competence and trust—we can build something better.
+- [Act (2023:196) on Municipalities’ Responsibility for Crime Prevention Work](https://data.riksdagen.se/dokument/sfs-2023-196.html)
+- Swedish Police Authority, [Situational Picture of Vulnerable Areas 2025](https://polisen.se/siteassets/dokument/organiserad_brottslighet/utsatta-omraden/lagesbild-over-utsatta-omraden-2025.pdf)
+- Code of Judicial Procedure, Chapter 24, Section 7 (citizen’s arrest) and Penal Code, Chapter 24, Section 1 (self-defence)
 
-## Swedish examples to build upon
-
-  - **Neighborhood watch (Grannsamverkan)** (the Police) – already exists in many areas, but is passive and lacks digital support. The security ring is an active, digital upgrade.
-  - **Night walks (Nattvandringar)** – many municipalities have volunteer night walkers. The security ring integrates them with a chat and tip function.
-  - **Support groups for vulnerable areas** (e.g., in Rinkeby, Rosengård) – exist informally, but not systematically. The security ring formalizes them.
-  - **Denmark's "Tryghedsgrupper"** – Denmark tests similar concepts with good results. Sweden can emulate this.
-
-## What you can do tomorrow
-
-**If you are a municipal politician**: Submit a budget request for SEK 100,000 to start a pilot with 10 security rings in a vulnerable area. Use the text above as a basis.
-
-**If you are a police officer or local community actor**: Gather interested neighbors in an area you know. Invite them to an information evening. Ask a retired police officer or security coordinator to lead the training (4 hours). Start a chat group.
-
-**If you are a citizen**: Talk to your neighbors. Suggest a simple version—no platform, just a group chat in Signal or WhatsApp. Start by taking evening walks together. See what happens.
-
------
+*The page was revised in September 2026 after a fact check.*
 
 [← Back to the main article](..)

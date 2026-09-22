@@ -2,132 +2,105 @@
 
 [← Tillbaka till huvudartikeln](..)
 
-**Sammanfattning**: 100 respekterade lokala figurer – tränare, religiösa ledare, mormödrar, tidigare gängmedlemmar – rekryteras och utbildas i konfliktmedling (200 timmar). De får en månadslön på 25 000 kr och arbetar med att ingripa i tvister och rekryteringsförsök långt innan polisen behöver kopplas in. Målet: skapa en trovärdig, icke‑statlig aktör som har legitimitet i samhället och kan lösa konflikter där polisens auktoritet inte räcker till.
+**Sammanfattning:** Personer med stark förankring i ett område, till exempel tränare, föreningsledare, föräldrar eller personer som själva lämnat kriminalitet, rekryteras, utbildas och avlönas för att fånga upp och medla i konflikter innan de leder till våld. Medlarna arbetar i samverkan med socialtjänst och polis, men är inte en del av polisen.
 
-## Mekanismen
+*Det här är ett förslag att pröva i begränsade piloter med utvärdering. Siffrorna nedan är förslag och grova uppskattningar, inte resultat.*
 
-Idag eskalerar många konflikter i utsatta områden till skjutningar och dödligt våld – inte för att polisen inte vill ingripa, utan för att polisens närvaro ofta saknar legitimitet. Invånare litar inte på polisen, ungdomar vägrar prata, och konflikter mellan grupper hanteras istället av gängledare eller informella ”domare”. Resultatet: en parallell rättsskipning som förstärker kriminella strukturer.
+## Varför
 
-**Åtgärden**: Inför **samhällsmedlare** – betrodda personer från samhället som:
+Konflikter mellan unga, mellan familjer eller mellan grupper kan trappas upp snabbt. De som först ser tecknen är sällan polisen, utan personer som finns i vardagen: tränare, fältassistenter, föräldrar, föreningsfolk. Vissa av dem fungerar redan i dag som informella medlare, men utan utbildning, stöd eller mandat.
 
-- Har hög legitimitet i området (känner människor, förstår kulturella koder, talar samma språk)
-- Utbildas i konfliktmedling, deeskalering, barn‑ och ungdomsrätt, och när man måste koppla in polis
-- Får en lön (25 000 kr/månad) för att arbeta halvtid eller heltid med att aktivt gå ut i området, lyssna på ungdomar, identifiera uppseglande konflikter, och medla mellan parter
-- Har en tydlig roll: **ingripa före våld** – inte ersätta polis vid allvarlig brottslighet, utan fånga upp konflikter på en nivå där de fortfarande kan lösas med samtal och förhandling
+Den nya socialtjänstlagen, som gäller sedan juli 2025, lägger större vikt vid förebyggande arbete och ger socialtjänsten möjlighet att erbjuda vissa insatser utan individuell behovsprövning. Det skapar ett utrymme för den här typen av uppsökande och förebyggande arbete inom befintlig lag.
 
-**Vad medlaren gör** (exempel på arbetsuppgifter):
+## Hur det skulle fungera
 
-- Träffar ungdomar på fritidsgårdar, caféer, moskéer, fotbollsplaner – lyssnar på oro, rycker i trådar.
-- Vid en konflikt mellan två familjer eller ungdomsgrupper: bjuder in båda parter till ett medlingssamtal (i trygg lokal, ofta i föreningslokal eller bibliotek).
-- Förhandlar fram en lösning – ursäkt, återbetalning av stöld, att en part byter skola – som accepteras av båda.
-- Dokumenterar överenskommelsen (skriftligt eller muntligt) och följer upp efter en vecka, en månad.
-- Om konflikten är för allvarlig (vapen inblandat, hot om dödligt våld) – kopplar in polisens medlare eller trygghetssamordnare.
+En samhällsmedlare:
 
-**Varför medlaren fungerar bättre än polis**:
+- har förtroende hos olika grupper i området och känner till dess nätverk och koder
+- utbildas i konfliktmedling, samtal med unga, deeskalering och de regler som gäller kring barn, sekretess och anmälningsskyldighet
+- arbetar deltid eller heltid med att röra sig i området, lyssna och fånga upp konflikter tidigt
+- bjuder in parter till samtal och hjälper dem fram till en överenskommelse som båda kan acceptera
+- lämnar över till polis och socialtjänst när det finns hot om allvarligt våld, vapen eller brott mot barn
 
-- **Legitimitet**: En mormor i området har auktoritet som polisen saknar. En före detta gängmedlem kan prata med ungdomar på ett sätt som en uniformerad polis aldrig kan.
-- **Tidig intervention**: Medlaren fångar upp konflikter när de fortfarande är små – innan någon har köpt vapen eller rekryterat kompisar.
-- **Långsiktighet**: Medlaren är kvar i området efter konflikten, bygger relationer och förtroende över tid. Poliser roteras ofta bort.
-- **Kostnad**: En medlare kostar 300 000 kr/år (lön + sociala avgifter). En polis kostar 1,2–1,5 Mkr/år. Medlaren kan hantera många fler konflikter per timme eftersom hen inte har samma byråkrati.
+Medlaren ersätter inte polisen och har inga befogenheter utöver andras. Auktoriteten kommer från personens förtroende i området.
 
-## Pilotdesign – 100 medlare först
-
-**Pilotfas 1 (år 1‑3)**: 100 samhällsmedlare anställs i 20–30 kommuner med störst behov (hög brottslighet, utsatta områden, upplevd otrygghet). Medlarna placeras i områden där de redan har rötter och förtroende.
-
-**Urvalsprocess**:
-
-- Kommunen eller en oberoende stiftelse (t.ex. Rädda Barnen, Sveriges Stadsmissioner) ansvarar för rekrytering.
-- Kriterier: bosatt i eller mycket nära området, respekterad av olika grupper (ungdomar, äldre, olika etniciteter), god förmåga att lyssna, inget pågående missbruk eller allvarlig brottslighet (men tidigare domar diskvalificerar inte – tvärtom, levd erfarenhet kan vara en tillgång).
-- Referenser från lokala föreningar, religiösa samfund, idrottsklubbar.
-
-**Utbildning** (200 timmar fördelat på 10 veckor eller motsvarande):
+**Utbildning (förslag: 200 timmar, inklusive handledd praktik):**
 
 | Modul | Innehåll | Timmar |
 |-------|----------|--------|
-| Konfliktteori | Förståelse för konflikters dynamik, trappan till våld | 20 |
-| Medlingsteknik | Aktivt lyssnande, omformulering, skapa överenskommelser | 40 |
-| Barn‑ och ungdomsrätt | Lagar kring barn, anmälningsplikt, sekretess | 20 |
-| Deeskalering | Hantera hotfulla situationer, undvika våld | 20 |
-| Kulturell kompetens | Olika normer, hedersrelaterad problematik, religiösa aspekter | 20 |
-| Juridik | Vad får man göra? När måste polis kontaktas? | 20 |
-| Praktik | 60 timmar fältarbete under handledning av erfaren medlare | 60 |
-| **Totalt** | | **200** |
+| Konflikters dynamik | Hur konflikter trappas upp och kan brytas | 20 |
+| Medlingsteknik | Aktivt lyssnande, omformulering, överenskommelser | 40 |
+| Barn och unga | Barnets rättigheter, anmälningsskyldighet, sekretess | 20 |
+| Deeskalering och egen säkerhet | Hotfulla situationer, när man ska dra sig ur | 20 |
+| Normer och sammanhang | Hedersrelaterade frågor, familjestrukturer, religiösa aspekter | 20 |
+| Gränser och samverkan | När polis och socialtjänst ska kopplas in | 20 |
+| Handledd praktik | Fältarbete tillsammans med erfaren medlare | 60 |
 
-**Organisationsmodell**:
+## Pilotförslag
 
-- Medlaren är anställd av kommunen, en ideell förening eller ett kooperativ – men ska vara oberoende från polisen för att upprätthålla förtroende.
-- Varje medlare har en **handledare** (erfaren medlare eller psykolog/socionom) för regelbunden reflektion och stöd.
-- Medlaren rapporterar till en **medlingscentral** (kommunal eller regional) som kvalitetssäkrar, förmedlar ärenden och hanterar svåra fall.
-- Medlaren bär **ingen uniform** och inget vapen. Auktoriteten kommer från personen, inte från staten.
+**Omfattning:** Cirka 100 medlare i 20–30 kommuner under tre år, i områden där kommunens lägesbild visar behov.
 
-**Utvärdering**:
+**Rekrytering:** Kommunen eller en ideell organisation rekryterar. Kandidaterna ska ha förankring i området och referenser från föreningar och andra lokala aktörer. Tidigare domar behöver inte diskvalificera, men varje rekrytering kräver noggrann bakgrundskontroll, provanställning och tät handledning.
 
-- Antal medlingar per medlare per månad (mål: 5–10 aktiva konflikter)
-- Andel medlingar som leder till överenskommelse (mål: >80 %)
-- Andel överenskommelser som håller efter 3 månader (uppföljning)
-- Förändring i antalet skjutningar, misshandelsfall, gruppvåld i området (jämfört med kontrollområde)
-- Enkäter till ungdomar, föräldrar och lokala aktörer om upplevd trygghet och tillit
+**Organisation:**
+- anställning hos kommunen, en ideell organisation eller ett kooperativ
+- en handledare, till exempel socionom eller psykolog, för regelbunden reflektion
+- en samordnande funktion i kommunen som tar emot ärenden, kvalitetssäkrar och hanterar svåra fall
+- tydliga rutiner för samverkan med socialtjänst och lokalpolis
 
-## Budget och finansiering
+**Utvärdering:** antal ärenden, andel överenskommelser som håller efter tre och sex månader, förändring i våld och upplevd trygghet jämfört med liknande områden utan medlare, samt hur unga, föräldrar och andra aktörer upplever insatsen. Förslaget är att en forskargrupp följer piloten från start.
 
-| Post | Årlig kostnad (100 medlare) |
-|------|----------------------------|
-| Löner (100 × 25 000 kr × 12 mån) | 30 Mkr |
-| Sociala avgifter (ca 32 %) | 9,6 Mkr |
-| Utbildning (200 tim × 500 kr/tim × 100) | 10 Mkr (engång första året) |
-| Handledning (20 handledare à 0,2 tjänst) | 2 Mkr |
-| Medlingscentral (administration, kvalitetssäkring) | 3 Mkr |
-| Utvärdering | 2 Mkr |
-| **Totalt första året** | **56,6 Mkr** |
-| **Årlig drift efter uppskalning** | **46,6 Mkr** (exkl utbildning) |
+## Grov kostnadsuppskattning
 
-**Finansiering**: Jämfört med polisens budget (35 miljarder) eller socialtjänstens kostnader för unga som begår brott (flera miljarder) är 56 Mkr en mycket liten investering. Om medlarna förhindrar bara 10 allvarliga skjutningar per år har de sparat samhället flera hundra miljoner kronor.
+| Post | Antagande | Kostnad per år |
+|------|-----------|----------------------------|
+| Löner inklusive sociala avgifter | 100 medlare × 25 000 kr/mån | cirka 40 Mkr |
+| Utbildning | 200 timmar × 100 medlare, första året | cirka 10 Mkr |
+| Handledning och samordning | | cirka 5 Mkr |
+| Utvärdering | | cirka 2 Mkr |
+| **Totalt första året** | | **cirka 57 Mkr** |
 
-## Regeländringar som krävs
+## Rättsliga frågor att utreda
 
-1. **Ändring i socialtjänstlagen (2001:453)** – lägg till en paragraf: *”Socialnämnden får anlita eller anställa samhällsmedlare för att förebygga och hantera konflikter i bostadsområden. Medlarens uppgift är att medla i tvister som inte kräver polisingripande.”*
+1. **Lagstöd:** Det bör utredas om den nya socialtjänstlagens bestämmelser om förebyggande arbete och insatser utan behovsprövning räcker för att kommunen ska kunna anställa eller anlita medlare, eller om ett förtydligande behövs.
+2. **Sekretess och tystnadsplikt:** En medlare anställd av kommunen inom socialtjänsten omfattas av socialtjänstsekretessen. För medlare hos ideella organisationer behöver frågan om tystnadsplikt lösas. Anmälningsskyldigheten när barn far illa måste gälla oavsett huvudman.
+3. **Överenskommelsernas status:** Medlade överenskommelser är frivilliga och inte rättsligt bindande. Det bör framgå tydligt för parterna.
 
-2. **Sekretesslagen** – medlaren måste kunna lova konfidentialitet för att parter ska våga prata. Inför ett undantag i OSL som skyddar medlarens tystnadsplikt, med samma undantag som för advokater och psykologer (anmälningsplikt vid misstanke om allvarliga brott mot barn kvarstår).
+## Invändningar
 
-3. **Lag om medlingsförfarande** – en enkel ramlag som definierar vad en medlingsöverenskommelse är, hur den dokumenteras, och att den inte är juridiskt bindande men kan åberopas i domstol som bevis på partsvilja.
+**"Tidigare kriminella kan fortsätta sin verksamhet."** Risken är verklig och är den svåraste frågan i förslaget. I områden där kriminella aktörer har inflytande kan de försöka påverka eller placera egna personer. Rekrytering, handledning, insyn och samverkan med polisen är därför centrala.
 
-## Förväntat motstånd och svar
+**"Polisen blir förbigången."** Medlarna hanterar konflikter som ännu inte är brott, eller som parterna kan lösa själva. Allvarliga brott ska alltid till polisen.
 
-### ”Det här är att släppa in kriminella i systemet – tidigare gängmedlemmar kan fortsätta sin verksamhet.”
+**"200 timmar räcker inte."** Medlarna ska inte utreda eller fatta beslut om insatser. Men utbildningen behöver prövas, och kraven kan behöva höjas.
 
-**Svar**: Rekryteringen måste vara noggrann. En tidigare dömd person som lämnat kriminaliteten bakom sig kan vara den mest trovärdiga medlaren för unga i riskzonen. Men det krävs bakgrundskontroll, provanställning och tät handledning. Risken för återfall är liten om personen har ett meningsfullt jobb och socialt stöd.
+**"Medlaren kan själv utsättas för våld."** Ja. Medlare bör inte arbeta ensamma i situationer med hög risk, ska ha larm och stöd, och måste kunna dra sig ur utan att det räknas som misslyckande.
 
-### ”Polisen kommer att känna sig förbigången – medlare tar deras jobb.”
+## Erfarenheter att bygga på
 
-**Svar**: Medlarens jobb är att göra polisens jobb möjligt. När konflikter löses tidigt minskar belastningen på polisen. Och vid allvarlig brottslighet är polisen fortfarande den enda som har våldsmonopol. Medlare och polis kan samverka: medlaren bygger förtroende, polisen utreder brott.
+- **Fältassistenter** finns i många kommuner och gör liknande uppsökande arbete, men ofta utan tydligt uppdrag att medla.
+- **Medling vid brott:** kommunerna ska erbjuda medling till unga lagöverträdare, och lagen om medling med anledning av brott reglerar hur det går till. Det är medling efter brott; samhällsmedlare skulle arbeta före.
+- **Sluta skjut i Malmö** bygger på Group Violence Intervention, där polis, kriminalvård, kommun och civilsamhälle tillsammans riktar ett budskap till grupper som driver våld och erbjuder stöd till dem som vill lämna. Det är inte en medlingsmodell, men visar hur civilsamhället kan ha en roll i ett samordnat arbete.
+- **Cure Violence** är en internationell modell där så kallade avbrytare, ofta med egen erfarenhet av kriminalitet, arbetar för att förhindra hämndvåld. Utvärderingarna visar blandade resultat, vilket talar för att pröva försiktigt och utvärdera noga.
+- **Konfliktrådet i Norge** är en statlig medlingstjänst med lokala kontor som bland annat hanterar medling vid brott och påföljder för unga.
 
-### ”200 timmars utbildning räcker inte – medling är en profession.”
+## Vad du kan göra
 
-**Svar**: 200 timmar är mer än vad de flesta frivilliga medlare har (ofta 40–80 timmar). Det är mindre än socionomutbildningen (3 år), men medlaren har inte samma ansvar – hen ska inte göra utredningar eller fatta beslut om tvångsvård. 200 timmar är tillräckligt för att lära sig grundläggande medlingsteknik och deeskalering, särskilt med praktik.
+**Om du arbetar i socialtjänsten eller är kommunpolitiker:** Ta reda på vilka personer i ett område som redan fungerar som informella medlare, och undersök om de vill ha utbildning och ett tydligare uppdrag i en liten pilot.
 
-### ”Finns det risk att medlaren själv utsätts för våld?”
+**Om du är föreningsledare:** Hjälp till att hitta kandidater och ge referenser.
 
-**Svar**: Ja, viss risk finns. Därför ska medlaren aldrig arbeta ensam i högriskområden, alltid ha en larmfunktion, och ha tillgång till handledning. Försäkring via arbetsgivaren täcker skador. Men risken är mindre än för poliser, eftersom medlaren inte bär uniform och uppträder som en neutral part – inte som en myndighetsperson.
-
-### ”Finns det internationella exempel?”
-
-**Svar**: Ja. Storbritanniens ”Violence Interrupters” (modell från Cure Violence, Chicago) använder tidigare gängmedlemmar för att medla i konflikter – har visat sig minska skjutningar med 40–70 % i pilotområden. Sverige har redan småskaliga exempel (t.ex. ”Sluta skjut” i Malmö). Vår modell skalar upp och professionaliserar.
-
-## Svenska exempel att bygga på
-
-- **Sluta skjut (Malmö)** – en gänginterventionsmetod som använder medlare från civilsamhället, men är begränsad till akuta konflikter. Vår modell är förebyggande och bredare.
-- **Fältassistenter** – många kommuner har fältare som rör sig bland unga, men deras medlingsuppdrag är ofta otydligt och underfinansierat. Samhällsmedlare är en specialiserad, bättre utbildad version.
-- **Medlingscentrum (Brottsoffer- och gärningspersonmedling)** – finns sedan 2008 för unga lagöverträdare, men är reaktiv (efter brott). Samhällsmedlare är proaktiv (före brott).
-- **Norska ”Konfliktråd”** – Norge har lokala konfliktråd med medlare. Sverige kan kopiera och anpassa.
-
-## Vad du kan göra i morgon
-
-**Om du är kommunpolitiker eller tjänsteperson i socialtjänsten**: Identifiera 2–3 personer i ditt område som redan fungerar som informella medlare (en imam, en fotbollstränare, en engagerad mormor). Fråga dem om de skulle vilja ha utbildning och en liten ersättning. Starta en minipilot.
-
-**Om du är föreningsledare eller religiös ledare**: Erbjud dig att vara testpilot för utbildningsmodulen. Hjälp till att rekrytera kandidater från ditt nätverk.
-
-**Om du är forskare eller utvärderare**: Kontakta en kommun som är intresserad och erbjud dig att följa en pilot med randomiserad kontrollgrupp. Bevis för effekt är avgörande för att skala upp.
+**Om du är forskare:** Erbjud dig att utvärdera en pilot från start, gärna med jämförelseområden.
 
 ---
+
+## Källor
+
+- Socialtjänstlag (2025:400), i kraft 1 juli 2025
+- Lag (2002:445) om medling med anledning av brott
+- [Lag (2023:196) om kommuners ansvar för brottsförebyggande arbete](https://data.riksdagen.se/dokument/sfs-2023-196.html)
+- Polismyndigheten, [Sluta skjut](https://polisen.se/om-polisen/polisens-arbete/dodligt-vald/gvi-en-strategi-mot-grovt-vald-i-kriminella-miljoer/sluta-skjut/)
+
+*Sidan reviderades i september 2026 efter en faktagranskning.*
 
 [← Tillbaka till huvudartikeln](..)

@@ -2,133 +2,110 @@
 
 [← Tillbaka till huvudartikeln](..)
 
-**Sammanfattning**: Grupper om 50 hushåll i bostadsområden som bildar trygghetsringar – ett informellt nätverk för att dela oro, samordna säkra aktiviteter och ge tidig varning om uppseglande konflikter eller gängrekrytering. Deltagarna får en 4-timmars utbildning i observationsförmåga, deeskalering och lämplig poliskontakt. Ringarna stöds av en säker digital plattform (krypterad chatt och anonym tipsfunktion). Målet: återskapa den informella sociala kontroll och underrättelsekapacitet som centraliseringen av polisen förstörde – till en bråkdel av kostnaden för fler polispatruller.
+**Sammanfattning:** Grannskapsgrupper om ungefär 50 hushåll som delar information, samordnar aktiviteter som ökar vuxennärvaron i området och ger tidig varning när ungdomar verkar vara på väg in i kriminalitet. Förslaget bygger vidare på den grannsamverkan som redan finns och kompletterar den med utbildning, en säker digital kanal och en tydlig kontakt till kommun och lokalpolis.
 
-## Mekanismen
+*Det här är ett förslag att pröva i begränsade piloter med utvärdering. Siffrorna nedan är förslag och grova uppskattningar, inte resultat.*
 
-Idag är polisens underrättelseinhämtning i utsatta områden närmast obefintlig. Lokala poliser känner inte invånarna, roterande patruller ser inte varningssignalerna, och invånarna litar inte på polisen nog för att tipsa. Resultatet: gäng rekryterar öppet, konflikter eskalerar till skjutningar, och ingen ser det komma.
+## Varför
 
-**Åtgärden**: En **trygghetsring** är en lös sammanslutning av cirka 50 hushåll i samma bostadsområde eller kvarter som:
+Kunskap om vad som händer i ett bostadsområde finns i första hand hos dem som bor där. Polisreformens mål om en polis nära medborgarna har inte uppnåtts, och kommunerna har sedan 2023 ett lagstadgat ansvar för att samordna det lokala brottsförebyggande arbetet. Det finns alltså både ett behov och en ny struktur att koppla in grannskapets kunskap i.
 
-- Delar information om oroande händelser (skadegörelse, misstänkta personer, konflikter mellan ungdomar) via en krypterad gruppchatt eller enkel app.
-- Samordnar säkra aktiviteter – kvällspromenader, ”nattvandringar”, öppna träffar i föreningslokal – som ökar naturlig övervakning och visar närvaro.
-- Fungerar som tidig varningsmekanism: om ringen upptäcker tecken på gängrekrytering (nya dyra kläder, sena kvällar, okända äldre personer) kontaktas en samhällsmedlare eller polisens lokala kontakt.
-- Erbjuder social kontroll utan konfrontation – grannar pratar med varandras barn, frågar ”vem är den där bilen?”, ringer en förälder om något känns fel.
+Samtidigt har grannsamverkan länge funnits i Sverige, främst med fokus på inbrott och skadegörelse. Trygghetsringar är ett sätt att bredda den till oro kring unga, konflikter och rekrytering, med tydligare ramar för vad deltagarna gör och inte gör.
 
-**Utbildningen** (4 timmar, en kväll):
+## Hur det skulle fungera
 
-- Observationsförmåga: vad är normalt beteende i området, vad avviker?
-- Deeskalering: hur pratar man med ungdomar utan att eskalera?
-- När kontaktar man polis, och hur gör man det på ett sätt som inte sätter tipsaren i fara?
-- Juridiskt skydd: vad får man och får man inte göra? (Ingen egen polisverksamhet, bara observation och rapportering.)
+En trygghetsring är ett frivilligt nätverk av hushåll i samma kvarter eller bostadsområde som:
 
-**Den digitala plattformen**:
+- delar information om oroande händelser i en gemensam kanal
+- samordnar aktiviteter som ökar vuxennärvaron, till exempel kvällsvandringar och öppna träffar i föreningslokaler
+- kontaktar en samhällsmedlare, fältassistent eller områdespolis när något tyder på att en ung person är på väg in i kriminalitet
+- pratar med varandras barn och ungdomar och håller kontakt med föräldrar
 
-- En enkel, säker app (krypterad, tvåfaktorsautentisering) där ringens medlemmar kan chatta, skicka anonyma tips till en samordnare, och få information från polisens lokala kontakt.
-- Plattformen ägs och drivs av en oberoende stiftelse, inte av polisen (för att upprätthålla förtroende). Polisen har endast tillgång till anonymiserade tips efter godkännande från en oberoende granskare.
-- Källkoden är öppen, så att kommuner och föreningar kan granska och förbättra.
+**Utbildning (förslag: fyra timmar):**
+- vad som är normalt i området och vad som avviker
+- att prata med ungdomar utan att trappa upp en situation
+- när och hur man kontaktar polis eller socialtjänst, utan att utsätta sig själv för fara
+- vad man får och inte får göra: ringen observerar, stöttar och rapporterar, den utför inga egna ingripanden
 
-**Skillnaden mot dagens grannsamverkan**:
+**Digital kanal:** En enkel, säker tjänst för meddelanden inom ringen och för att skicka tips till en samordnare. Förslaget är att tjänsten drivs av kommunen eller en oberoende aktör, inte av polisen, och att källkoden är öppen. Hur personuppgifter hanteras måste utformas i enlighet med dataskyddsförordningen från början.
 
-| Aspekt | Grannsamverkan (Polisen) | Trygghetsring |
+**Relation till dagens grannsamverkan:**
+
+| Aspekt | Grannsamverkan i dag | Trygghetsring (förslag) |
 |--------|--------------------------|---------------|
-| Fokus | Bostadsinbrott, stöld | Social oro, gängrekrytering, konflikter |
-| Metod | Informationsblad, lås, märkning | Aktiv chatt, nattvandringar, tidig varning |
-| Digitalt | Mejllista, enkel webbsida | Krypterad app, anonyma tips |
-| Utbildning | Ingen (frivillig info) | 4 timmar obligatorisk (för att få skatteavdrag) |
-| Koppling till polis | Direkt till 11414 | Via samhällsmedlare eller anonym tipsfunktion |
+| Fokus | Främst inbrott och skadegörelse | Även oro kring unga, konflikter och rekrytering |
+| Arbetssätt | Information, uppmärksamhet, kontakt med polisen | Därtill gemensamma aktiviteter och tidig varning |
+| Koppling | Polisen och Samverkan mot brott | Därtill kommunens samordnare och samhällsmedlare |
 
-## Pilotdesign – 500 ringar först
+## Pilotförslag
 
-**Pilotfas 1 (år 1‑3)**: 500 trygghetsringar i utpekade utsatta områden (enligt Polisens lista) och i områden med hög otrygghet enligt lokala medborgardialoger.
+**Omfattning:** Upp till 500 ringar under tre år, i områden som ingår i polisens lägesbild över utsatta områden eller där kommunens egen lägesbild visar hög otrygghet.
 
-**Urvalskriterier för ringar**:
+**Förutsättningar för en ring:**
+- ett tillräckligt antal intresserade hushåll, anmälda via kommunen eller bostadsbolaget
+- en lokal för utbildning och möten
+- en utsedd kontaktperson
 
-- Området har minst 50 hushåll som är intresserade (anmälan via kommun eller bostadsbolag)
-- Området har en föreningslokal eller liknande där utbildning och möten kan hållas
-- Minst 10 % av hushållen deltar aktivt (för att ringen ska vara kritisk massa)
+**Stöd:**
+- en samordnare i kommunen som stöttar ringarna och kopplar dem till lokalpolis och socialtjänst, gärna inom ramen för kommunens samordningsfunktion enligt lagen om kommuners ansvar för brottsförebyggande arbete
+- en kontaktperson hos lokalpolisen som träffar ringen regelbundet
+- ett mindre startbidrag för lokalhyra och material
+- som en möjlig option: en mindre ersättning, till exempel i form av ett skatteavdrag, för aktiva deltagare som gått utbildningen
 
-**Organisationsmodell**:
+**Utvärdering:** jämför områden med och utan ringar över tid när det gäller upplevd trygghet (enkäter), anmälda brott, hur ofta ringarna förmedlar kontakt till socialtjänst eller polis, och hur deltagarna själva upplever arbetet.
 
-- Ringen organiserar sig själv: väljer en kontaktperson, bestämmer mötesfrekvens, skapar chattgrupp.
-- Kommunen eller polisen tillhandahåller utbildning (4 timmar) via godkända utbildare (t.ex. lokala medlare, pensionerade poliser, trygghetsambassadörer).
-- Deltagare som genomfört utbildning och aktivt deltar (rapporterad närvaro på minst 75 % av mötena eller aktiviteter) får ett **skatteavdrag på 2 000 kr/år** (”trygghetsavdrag”).
-- Startbidrag per ring: 5 000 kr för att täcka fika, informationsmaterial, eventuell lokalhyra.
+## Grov kostnadsuppskattning
 
-**Statligt/kommunalt stöd**:
+| Post | Antagande | Kostnad per år |
+|------|-----------|---------------------------|
+| Samordnare i kommunerna | 100 kommuner × 0,5 tjänst | cirka 25 Mkr |
+| Startbidrag | 500 ringar × 5 000 kr, en gång | 2,5 Mkr |
+| Ersättning till deltagare (om den ingår) | 500 ringar × 15 aktiva hushåll × 2 000 kr | cirka 15 Mkr |
+| Utbildning, digital tjänst, utvärdering | | cirka 6 Mkr |
+| **Totalt första året** | | **cirka 50 Mkr** |
 
-- En **trygghetssamordnare** per kommun (0,5 tjänst) ansvarar för att stödja ringarna, koppla till polisens lokala kontakter och utvärdera effekten.
-- Polisen utser i varje område en **kontaktpolis** som deltar i ringens möten minst en gång per kvartal (för att bygga förtroende och ta emot tips).
+Uppskattningen bygger på antaganden som behöver prövas. Om ringarna bidrar till trygghet går bara att avgöra genom utvärdering.
 
-**Utvärdering** (jämför områden med och utan ringar):
+## Rättsliga frågor att utreda
 
-- Antal anmälda brott (skadegörelse, stöld, misshandel) inom ringens geografi
-- Antal skjutningar och sprängningar (förväntas minska över tid)
-- Trygghetsmätning (enkätsvar: ”känner du dig trygg utomhus efter mörkrets inbrott?”)
-- Polisens underrättelsekvalitet (antal användbara tips, antal gripanden baserade på tips)
+1. **Personuppgifter:** Information om grannar och ungdomar är personuppgifter. En tjänst som drivs av kommunen omfattas av dataskyddsförordningen och offentlighets- och sekretesslagen. Privata chattgrupper omfattas också av dataskyddsregler och av reglerna om förtal. Ramarna behöver vara tydliga innan en pilot startar.
+2. **Skydd för den som ingriper:** Svensk rätt har redan regler om envarsgripande och nödvärn. Det bör utredas om de räcker, eller om det behövs förtydliganden för deltagare som agerar i god tro.
+3. **Ersättning:** Om en ersättning till deltagare ska ingå krävs en ändring i inkomstskattelagen, och ett register över ringarna.
 
-## Budget och finansiering
+## Invändningar
 
-| Post | Årlig kostnad (500 ringar) |
-|------|---------------------------|
-| Skatteavdrag (500 ringar × 50 hushåll × 2 000 kr × 0,3 aktivitetsgrad?) | 15 Mkr |
-| Startbidrag (5 000 kr × 500 ringar, engång) | 2,5 Mkr |
-| Trygghetssamordnare (100 kommuner × 0,5 tjänst × 500 000 kr) | 25 Mkr |
-| Utbildningsinsatser (4 tim × 500 deltagare per år × 500 kr/tim) | 1 Mkr |
-| Digital plattform (drift + support) | 2 Mkr |
-| Utvärdering | 3 Mkr |
-| **Totalt första året** | **48,5 Mkr** |
-| **Årlig drift efter uppskalning** | **46 Mkr** (exkl startbidrag) |
+**"Det här är angiveri."** Risken är verklig. Ringarna måste bygga på frivillighet, ha tydliga regler om vad som delas och med vem, och inriktas på omtanke och tidig kontakt snarare än övervakning. Utvärderingen bör fråga även dem som inte deltar hur de upplever ringarna.
 
-**Finansiering**: Jämfört med polisens budget (35 miljarder kr/år) är 48,5 Mkr försumbart. Om trygghetsringarna minskar skjutningar med bara 5 % i pilotområdena har de betalat sig själva många gånger om (en enda skjutning kostar samhället 10–50 Mkr i rättegång, vård, förlorad produktion).
+**"Grupperna kan gå över gränsen."** Trygghetsringar får aldrig bli medborgargarden. Utbildningen, samordnaren och kopplingen till polisen finns för att hålla ramarna.
 
-## Regeländringar som krävs
+**"Kriminella kan påverka ringarna."** I områden där kriminella aktörer har inflytande över vardagen kan de också försöka påverka lokala nätverk. Samordnare och lokalpolis behöver ha insyn.
 
-1. **Ny bestämmelse i inkomstskattelagen (1999:1229)** – inför ett ”trygghetsavdrag” på 2 000 kr per år för fysiska personer som aktivt deltar i en registrerad trygghetsring. Avdraget är skattefritt och påverkar inte andra bidrag.
+**"Ersättning lockar fel deltagare."** Det är ett skäl att pröva piloter både med och utan ersättning.
 
-2. **Förordning om registrering av trygghetsringar** – Skatteverket får i uppdrag att upprätta ett enkelt digitalt register. Krav: kontaktperson, adress, deltagarlista, genomförd utbildning.
+**"Polisen dränks i tips."** Tips går först till en samordnare som bedömer vad som behöver gå vidare.
 
-3. **Lag om ”god samaritan”** – utvidga det civilrättsliga skyddet för personer som i god tro rapporterar misstänkt brottslighet eller ingriper för att förhindra brott (liknande modell som i flera amerikanska delstater). Detta minskar rädslan för juridiska konsekvenser.
+## Svenska erfarenheter att bygga på
 
-4. **Sekretesslagens undantag** – för att ringarna ska kunna dela information sinsemellan och med polisens kontaktpolis utan att bryta mot GDPR eller sekretess, inför ett undantag i OSL (2009:400) för ”informationsutbyte inom ramen för en trygghetsring”.
+- **Grannsamverkan**, som finns i många områden genom polisen och Samverkan mot brott
+- **Nattvandring**, som bedrivs ideellt på många orter
+- **Kommunernas lägesbilder och åtgärdsplaner** enligt lagen från 2023, som kan peka ut var ringar behövs
 
-## Förväntat motstånd och svar
+## Vad du kan göra
 
-### ”Det här är angiveri – grannar som snokar på varandra.”
+**Om du är kommunpolitiker:** Föreslå en mindre pilot med ett fåtal ringar i ett område där kommunens lägesbild visar hög otrygghet, med en plan för utvärdering från start.
 
-**Svar**: Trygghetsringen bygger på frivillig medverkan och tydliga regler. Den handlar inte om att ”snoka” utan om att bry sig. Att se en ungdom som rekryteras till ett gäng och inte göra något är inte integritet – det är likgiltighet. Ringen erbjuder en strukturerad väg att agera på ett ansvarsfullt sätt.
+**Om du arbetar lokalt:** Bjud in intresserade grannar och lokalpolisen till en informationsträff och undersök om det finns en grannsamverkan att bygga vidare på.
 
-### ”Polisen kommer att dränkas i tips – 99 % blir skräp.”
-
-**Svar**: Därför går tipsen först till ringens samordnare (en granne) som filtrerar och bedömer allvar. Endast väl underbyggda, akuta tips går vidare till polisens kontaktpolis. Dessutom är dagens tipsmängd från allmänheten extremt låg i utsatta områden – allt är bättre än dagens tystnad.
-
-### ”Integriteten hotas – grannar ser vem som chattar.”
-
-**Svar**: Plattformen är krypterad och anonymiserad. Deltagarna kan välja att vara anonyma för andra medlemmar (bara samordnaren ser identiteten). Och ingen tvingas att delta. De flesta i utsatta områden prioriterar trygghet framför anonymitet.
-
-### ”Kostnaderna är för höga.”
-
-**Svar**: 48,5 miljoner kronor är mindre än 0,14 % av polisbudgeten. Och ringarna ersätter inte polis – de gör polisen effektivare genom att tillföra underrättelse som annars inte finns. Samhällsekonomiskt är det en extremt hög avkastning om bara några skjutningar förhindras.
-
-### ”Finns det internationella exempel?”
-
-**Svar**: Ja. Storbritanniens ”Neighbourhood Watch” har liknande modeller, men ofta utan digital plattform. USA:s ”Crime Stoppers” använder anonyma tips framgångsrikt. Sveriges unika fördel är hög digital kompetens och tillit – vi kan bygga något bättre.
-
-## Svenska exempel att bygga på
-
-- **Grannsamverkan** (Polisen) – finns redan i många områden, men är passiv och saknar digitalt stöd. Trygghetsringen är en aktiv, digital uppgradering.
-- **Nattvandringar** – många kommuner har ideella nattvandrare. Trygghetsringen integrerar dem med chatt och tipsfunktion.
-- **Stödgrupper för utsatta områden** (t.ex. i Rinkeby, Rosengård) – finns informellt, men inte systematiskt. Trygghetsringen formaliserar.
-- **Danmarks ”Tryghedsgrupper”** – Danmark testar liknande koncept med gott resultat. Sverige kan ta efter.
-
-## Vad du kan göra i morgon
-
-**Om du är kommunpolitiker**: Lägg ett budgetyrkande på 100 000 kr för att starta en pilot med 10 trygghetsringar i ett utsatt område. Använd texten ovan som underlag.
-
-**Om du är polis eller lokal samhällsaktör**: Samla intresserade grannar i ett område du känner. Bjud in till en informationskväll. Be en pensionerad polis eller trygghetssamordnare att hålla i utbildningen (4 timmar). Starta en chattgrupp.
-
-**Om du är medborgare**: Prata med dina grannar. Föreslå en enkel variant – ingen plattform, bara en gruppchatt i Signal eller WhatsApp. Börja med att gå kvällspromenader tillsammans. Se vad som händer.
+**Om du är boende:** Ta kontakt med kommunen eller lokalpolisen om grannsamverkan i ditt område.
 
 ---
+
+## Källor
+
+- [Lag (2023:196) om kommuners ansvar för brottsförebyggande arbete](https://data.riksdagen.se/dokument/sfs-2023-196.html)
+- Polismyndigheten, [Lägesbild över utsatta områden 2025](https://polisen.se/siteassets/dokument/organiserad_brottslighet/utsatta-omraden/lagesbild-over-utsatta-omraden-2025.pdf)
+- Rättegångsbalken 24 kap. 7 § (envarsgripande) och brottsbalken 24 kap. 1 § (nödvärn)
+
+*Sidan reviderades i september 2026 efter en faktagranskning.*
 
 [← Tillbaka till huvudartikeln](..)

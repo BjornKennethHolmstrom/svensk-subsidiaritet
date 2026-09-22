@@ -1,205 +1,92 @@
-# Housing: The planning paradox
+# Housing: who decides over construction, and for whom?
 
-## The Queue Trap: Socialist Control Creating Capitalist Scarcity
+## Long queues, high costs and large differences
 
-Sweden maintains 700,000 people in rental housing queues—7% of the entire population waiting an average of nine years in Stockholm—despite vast land, innovative design tradition, and substantial wealth. Young people cannot form households. Cities segregate by class. Homelessness increases despite prosperity. This is not resource scarcity but architectural dysfunction: centralized planning creating exactly the opposite of its stated goals.
+In 2025, someone seeking a rental apartment in the Stockholm region had to wait an average of nine years. The differences within the region are large: just over twelve years in the City of Stockholm, over twenty years in the inner city and around six years in other municipalities in the county. The queue time says something about the shortage, but not everything. Many of those in the queue already have a home and want to move, and the queue measures how long those who actually received a contract had waited.
 
-The paradox: Sweden combines socialist land control (all building requires municipal permission) with capitalist development incentives (developers build only what maximizes profit), producing a system that delivers neither equity nor efficiency. The planning monopoly eliminates market price signals while the profit motive eliminates social purpose. The result is optimization for neither housing people nor generating returns—a system stuck between incompatible architectures.
+According to the Swedish Competition Authority, construction costs in Sweden are among the highest in the EU, although comparisons between countries are difficult to make. Housing construction also fluctuates sharply with the economic cycle. In Stockholm County, more homes were completed in 2023 than in any year since 1973, but construction then declined when interest rates rose.
 
-**The cybernetic analysis**: Housing need is High-Variety phenomenon varying by household size, income, location preference, cultural background, family structure, disability status, employment pattern. Municipal planning is Low-Variety controller: standardized zones, uniform building codes, centralized approval processes. By attempting to govern diverse housing needs through standardized planning, Sweden violates Ashby's Law. The predictable result: escalating dysfunction as the controller cannot match the complexity it attempts to manage.
+The National Board of Health and Welfare’s most recent mapping, from 2023, counted just over 27,000 people in homelessness, of whom around 4,400 were in acute homelessness. That was somewhat fewer than in the 2017 mapping, but the method had partly changed, so the comparison is uncertain.
 
-## Active System Failures
+## Why housing is a difficult case for subsidiarity
 
-### Municipal Land Monopoly: Planning as Bottleneck
+The planning of land and development is already one of the most local decisions in Sweden. Municipalities have a planning monopoly: they decide through detailed development plans where and how construction may take place. The problems on the housing market therefore cannot be explained as a consequence of decisions being made too far away.
 
-**The mechanism**: All Swedish land falls under kommunal "detaljplaner" (detailed plans). No building occurs without municipal permission. This concentrates control in 290 bureaucracies, each creating its own bottlenecks.
+On the contrary, several analyses indicate that the local level in this case may have weaknesses:
 
-**The evidence**: Stockholm approves only 50% of needed housing permits annually. Uppsala's rental wait time reaches 8-10 years. Municipalities optimize for political acceptability to current residents rather than housing provision for excluded populations.
+- **Those who vote are those who already live there.** A municipality’s voters are its current residents. Those who would like to move there have no vote in the municipality’s decisions. This can create a bias towards limiting construction, especially in attractive areas.
+- **The housing market is regional.** Someone who cannot get housing in one municipality looks in the neighbouring municipality. Decisions in one municipality thus affect others, which according to classical theory on multilevel governance argues for coordination at a higher level.
+- **Different rules in different municipalities raise costs.** The Construction Competition Inquiry (SOU 2015:105) argued that Sweden does not function as a national construction market, because conditions differ between municipalities. Since 2015, municipalities have in principle not been allowed to impose their own technical special requirements beyond the national building regulations.
 
-**The feedback loop**: Housing scarcity increases land values which increases municipal budget dependence on land sales which incentivizes selling to highest bidders rather than affordable housing provision. This is reinforcing loop making problem exponentially worse.
+At the same time, much of what determines the housing market is governed nationally: interest rates, credit rules, taxes, subsidies and the rent-setting system. An SNS report from 2021 found that rising land prices directly explain about one third of the price increase for housing, and also pointed to limited competition in certain parts of construction and to the design of rent setting giving weak incentives to keep costs down and causing the existing stock to be used inefficiently. The issue of rent setting is politically contested.
 
-**The rent-seeking**: Municipalities profit from land scarcity through taxation and sale proceeds. The institutional incentive is maintaining shortage rather than resolving it. The system rewards its own dysfunction.
+## The cybernetic reading
 
-### The Queue System: Rationing as Governance Failure
+Ashby’s law says that governance needs to be able to handle the variation it encounters. Housing shows that the variation exists in different places and requires different responses:
 
-**The mechanism**: 700,000 people waiting average nine years for rental apartments. The system treats housing as scarce commodity requiring rationing rather than as buildable resource requiring production.
+- **Households’ needs vary locally**, by size, finances, life stage and preferences. Here local knowledge is needed about what should be built and for whom, and more ways to build, for example for smaller developers, cooperatives and self-builders.
+- **Building regulations benefit from being common.** Reducing variation in technical requirements, so that the same house can be built in all municipalities, lowers costs. This is an example of standardisation sometimes being the right answer.
+- **The volume is determined regionally and nationally.** How much is built in total, and where, is affected by regional housing markets and national economic policy.
 
-**The intergenerational trap**: Parents register children at birth for future housing queue positions. The dysfunction has become normalized across generations, with waiting treated as natural rather than system failure.
+Subsidiarity here therefore does not mean that everything should be moved downwards. Some decisions may need to be moved upwards, others downwards, and some may need to be opened up to more actors.
 
-**The black market creation**: Legal scarcity creates illegal markets. Sublet bribes, contract trading, and informal arrangements flourish because formal system cannot function. Regulation creates exactly what it claims to prevent.
+## Remaining problems
 
-**The opportunity cost**: Time in queue represents years of delayed household formation, career mobility constraints, and relationship limitations. The economic loss from this enforced waiting exceeds the cost of building housing that would eliminate queues.
+- **Lock-in.** Long queues and a stock that is not fully used make it difficult for young people to move away from home and for others to move to where work is available.
+- **High costs.** Land and construction costs, few bids in certain procurements and limited competition in parts of the building materials market contribute.
+- **Few ways in.** Housing production is dominated by larger actors. Smaller developers, cooperatives and groups that want to build for their own account have difficulty gaining access to land and financing.
+- **Segregation.** During the Million Programme of 1965–1974, around one million homes were built. Many of those areas function well, but in some of them low incomes and high unemployment have become concentrated. The causes are several: the composition of the housing stock, migration patterns, the labour market and how new arrivals have settled.
 
-### Million Programme Legacy: Segregation Through Planning
+## Proposals
 
-**The mechanism**: One million housing units built 1965-1975 created monofunctional suburbs concentrating poverty and unemployment despite being minutes from city centers.
+The proposals are ideas to test, not evaluated solutions.
 
-**The evidence**: Areas like Rinkeby (Stockholm) or Rosengård (Malmö) maintain 60%+ unemployment. This is not natural geography but planning policy—the decision to create segregated zones rather than integrated communities.
+### Planning on the initiative of the neighbourhood
 
-**The path dependency**: Once established, these patterns resist change because they are embedded in physical infrastructure, property values, and institutional expectations. The system cannot self-correct.
+Today, someone who wants to build something requiring a new detailed development plan can request a so-called planning notification from the municipality. The proposal is that associations and groups of residents should also be able to request a planning notification for changes in their area, for example to supplement with more homes, premises or meeting places. The municipality retains decision-making power, but residents get a formal way to take initiative.
 
-**The resistance to adaptation**: Residents cannot incrementally modify, add businesses, or change layouts without navigating same permit complexity as new construction. The architecture of control prevents organic evolution that would address dysfunction.
+### Regional coordination of housing construction
 
-### BRF Bureaucratization: Cooperative Capture
+Since the housing market is regional, municipalities in a region can agree on common goals for housing construction and follow them up openly. Stronger regional planning would move part of the responsibility for how much is built upwards, while the question of how and what continues to be decided locally.
 
-**The mechanism**: Sweden's housing cooperative (bostadsrätt) model—once brilliant democratic innovation—has been captured by speculators and burdened with regulations that prevent its original purpose.
+### More who can build
 
-**The price explosion**: Stockholm BRF prices increased 300% in ten years. Monthly fees often exceed rental costs. This transforms cooperatives from affordable housing into investment vehicles.
+- **Leasehold for community projects.** Leasehold, where the municipality retains the land and leases it for an annual ground rent, already exists and is used in, among other places, Stockholm. The proposal is that municipalities reserve land with leasehold for cooperatives, building communities and non-profit housing projects, with conditions that the homes remain affordable.
+- **Support for building communities and self-builders.** It is already permitted to build yourself, but many projects require a quality manager and other expertise. Courses via folk high schools and municipal adult education, advice and joint insurance solutions can make it easier.
+- **Cohousing and shared living.** Cohousing has long existed in Sweden. Municipalities and housing companies can test allocating land and premises for such projects.
 
-**The governance paralysis**: Board meetings become legalistic nightmares requiring professional management. The participatory ideal gives way to specialized administration. The cooperative form survives while its democratic substance dies.
+### Small additions
 
-**The scale problem**: Large BRFs (50+ units) require professional administration, eliminating member control. But regulations make small cooperatives (3-10 households) legally complex and administratively burdensome.
+Since 2014, a so-called Attefall house may be built without a building permit, after notification to the municipality, and since 2020 it may be up to 30 square metres. The role that Attefall houses have played for housing supply should be evaluated, and whether the rules can be developed.
 
-### Construction Cartel: Oligopoly by Regulation
+### Reuse of building components
 
-**The mechanism**: Four companies (NCC, Skanska, PEAB, JM) dominate Swedish construction, maintaining costs 30-50% above European averages.
+Municipal or regional depots where doors, windows and other building components from demolitions are taken care of can lower costs for smaller projects and reduce waste.
 
-**The evidence**: Building a Swedish apartment costs €3,500-4,500/m² versus €2,500 in Germany. This is not labor cost difference but market structure—oligopoly enabled by regulatory barriers preventing entry.
+## Objections
 
-**The regulatory moat**: Building codes, certification requirements, and approval processes create barriers to entry that protect established players. The regulation justified by quality actually entrenches monopoly.
+**Safety and quality.** Self-building and smaller actors must not lead to poorer safety. Inspections and requirements for competence need to remain.
 
-**The innovation blockage**: High fixed costs and regulatory complexity prevent experimental approaches, alternative materials, or novel construction methods. The system optimizes for compliance, not effectiveness.
+**Municipal finances.** Municipalities that sell land receive revenue that decreases if the land is instead leased. On the other hand, leasehold provides ongoing revenue.
 
-## Subsidiarity-Based Interventions
+**Local resistance.** If residents gain more influence over planning, it can just as easily be used to stop construction as to promote it. That is the reason why the proposal on neighbourhood initiatives is combined with regional coordination of volumes.
 
-### Neighborhood Planning: Returning Zoning to Communities
+**Political choices.** Questions about rent setting, taxes and housing allowances are contested. This page does not take a position on them, but they affect the housing market more than most of the proposals above.
 
-**The intervention**: Enable 50%+ of residents within defined area to propose zoning changes directly, bypassing municipal bureaucracy. This shifts control from distant planners to affected communities.
+## Conclusion
 
-**The mechanism**: Communities possess local knowledge about appropriate housing types, density levels, and design standards that centralized planning cannot access. Enabling local control provides requisite variety matching local conditions.
-
-**The implementation**: Zürich's "Quartierplanung" adapted for Swedish context. Initial pilots in neighborhoods with strong community organizations and clear housing need.
-
-**The accountability**: Direct community control creates accountability to those affected rather than abstract planning principles or political considerations.
-
-### Collective Housing Legal Innovation
-
-**The intervention**: Create "hushållskollektiv" (household collective) legal category enabling five or more unrelated adults to form households with same rights as families.
-
-**The barrier removal**: Current regulations treat cohabiting unrelated adults as "institutions" requiring different permits. This prevents collective housing models that would address both affordability and community needs.
-
-**The conversion opportunity**: Vacant office buildings, underutilized commercial space, and aging institutional facilities could convert to collective housing if regulations permitted.
-
-**The cultural alignment**: Collective housing resonates with Swedish cooperative tradition while addressing contemporary needs for affordability and community.
-
-### Building Component Library: Distributed Materials Economy
-
-**The intervention**: Municipal repositories of reusable building components (doors, windows, kitchens) salvaged from demolitions, creating materials access for self-builders and small developers.
-
-**The waste reduction**: Construction demolition currently wastes valuable components. Systematic salvage and reuse reduces material costs while improving environmental performance.
-
-**The augmented reality integration**: AR applications enabling users to "try" components in their spaces before acquisition, reducing guesswork and waste.
-
-**The skill development**: Operating building libraries creates employment while reducing material costs, addressing both economic and environmental goals simultaneously.
-
-### Self-Builder Certification: Democratizing Construction
-
-**The intervention**: 200-hour training programs through Komvux creating "självbyggarkort" (self-builder card) enabling non-professionals to build small structures legally.
-
-**The barrier reduction**: Current regulations effectively require professional contractors for all construction. Certification pathway enables self-provision while maintaining appropriate safety standards.
-
-**The cost transformation**: Self-building can reduce costs 40-60% compared to contractor provision, making housing affordable that would otherwise be impossible.
-
-**The collective insurance**: Group policy for certified self-builders addresses liability concerns while enabling participation at scale.
-
-### Site Leasehold Revival: Community Land Access
-
-**The intervention**: Expand "tomträtt" (site leasehold) system enabling 99-year leases for community groups at minimal cost for social benefit projects.
-
-**The historical precedent**: Sweden's tomträtt tradition separated land ownership from building ownership, enabling affordable housing. Revival extends this to community-scale projects.
-
-**The municipal incentive**: Rather than selling land for one-time revenue, municipalities maintain ownership while enabling community development. Long-term tax revenue exceeds sale proceeds.
-
-**The community stability**: Leasehold creates permanent affordability rather than temporary subsidies that erode through market forces.
-
-## Implementation: From Theory to Practice
-
-### Phase 1: Regulatory Liberation (1-3 years)
-
-**Automatic permits**: Structures under 35m² receive automatic approval, eliminating permit delays for accessory dwelling units (frilägenhet) and backyard cottages.
-
-**Flexible conversion standards**: Office-to-residential conversions use "flexibyggnad" classification with appropriate but not new-construction-equivalent standards, enabling faster adaptation of existing stock.
-
-**Collective housing legalization**: Hushållskollektiv legal status enables cohabitation models without institutional classification, removing regulatory barrier.
-
-### Phase 2: Community Empowerment (3-7 years)
-
-**Neighborhood planning pilots**: Ten neighborhoods across Sweden test resident-led zoning processes, establishing proof that community control produces appropriate results.
-
-**Building library network**: Establish component repositories in twenty municipalities, creating infrastructure for self-building and small-scale development.
-
-**Certification programs**: Self-builder and micro-cooperative facilitator training through komvux and folk high schools creates capacity for distributed housing production.
-
-### Phase 3: System Transformation (7-15 years)
-
-**Open-source building systems**: Standardized, modular construction approaches with open specifications enabling anyone to manufacture compatible components, breaking construction cartel through design.
-
-**Community land trust establishment**: Legal frameworks and financing mechanisms for permanently affordable housing through community ownership rather than market mechanisms.
-
-**Incremental development normalization**: Million Programme areas transform through resident-led modifications, additions, and business integration rather than top-down regeneration programs.
-
-## The Swedish Context
-
-Sweden possesses characteristics enabling housing transformation:
-
-**Design culture**: World-renowned architectural tradition and functionalist heritage provide foundation for innovation.
-
-**Cooperative experience**: Strong history with BRF and economic associations creates cultural acceptance for collective ownership.
-
-**Municipal autonomy**: Constitutional arrangements already grant significant kommunal authority, enabling local experimentation.
-
-**Digital infrastructure**: High connectivity supports platform-based coordination for building libraries, component sharing, and collective organization.
-
-**Environmental values**: Cultural commitment to sustainability aligns with resource efficiency and compact living.
-
-## Anticipated Resistance and Responses
-
-### Safety and Quality Concerns
-
-**The concern**: Self-building and reduced standards appear to threaten construction quality and resident safety.
-
-**The reality**: Current system produces regular construction scandals despite extensive regulation. Professional provision provides compliance documentation, not necessarily better outcomes.
-
-**The mechanism**: Certification programs with peer review, inspections at critical stages, and collective insurance maintain appropriate safety while enabling distributed production.
-
-### Municipal Revenue Dependencies
-
-**The concern**: Municipalities depend on land sale proceeds and property taxation for budgets. Alternative approaches threaten fiscal viability.
-
-**The calculation**: Long-term tax revenue from occupied housing exceeds one-time land sale proceeds. Additionally, housing shortage costs (social services, policing segregated areas, lost productivity) exceed potential revenue from maintaining scarcity.
-
-**The transition**: Gradual shift from land sales to leasehold revenue, development fees, and increased tax base from housing completion addresses fiscal concerns while enabling transformation.
-
-### Construction Industry Opposition
-
-**The concern**: Established construction companies oppose changes threatening their market position and business models.
-
-**The opportunity**: Labor shortages and demographic demand exceed current industry capacity. Distributed production expands total market while addressing different segments, potentially increasing rather than decreasing overall construction sector employment.
-
-**The quality competition**: If distributed production demonstrates superior outcomes at lower costs, pressure builds for established players to adapt rather than resist.
-
-### Aesthetic and Cultural Resistance
-
-**The concern**: Swedish design tradition values professional architecture and uniform quality. Self-building appears to threaten these values.
-
-**The reframe**: Functionalism originally meant fitness to purpose, not professional monopoly. Enabling users to shape their own environments is return to authentic functionalist principles rather than deviation from them.
-
-## Conclusion: Requisite Variety for Housing
-
-Swedish housing demonstrates category error: attempting to govern diverse housing needs through standardized planning and large-scale development. This produces dysfunction as the centralized controller cannot match complexity of what it attempts to manage.
-
-The queue system is not temporary problem requiring patience but permanent feature of architecture that violates requisite variety. As long as planning concentrates control while needs remain diverse, queues will expand regardless of building volume. The system can increase production without reducing queues if the production process itself prevents matching supply to demand.
-
-The path forward recognizes that housing is fundamentally local phenomenon requiring local control. Household size, income, cultural preferences, family structure, employment patterns, community ties—these vary across neighborhoods and populations in ways that standardized planning cannot address.
-
-This is not abandoning Swedish commitments to housing quality or equity but recognizing that current approach achieves neither. Centralized planning creates scarcity while distributed production could create abundance. Professional monopoly increases costs while self-building could reduce them. Large-scale development produces segregation while incremental community-led evolution could create integration.
-
-The transformation requires acknowledging that Sweden does not have housing shortage but housing imagination shortage. The country possesses land, materials, labor, capital, and technical knowledge required for abundant housing. What it lacks is architectural framework enabling distributed, community-controlled production rather than centralized, professionally-monopolized provision.
-
-The economic argument is irrefutable: current costs per unit exceed what middle-income households can afford, creating structural impossibility. The social argument is compelling: decade-long queues and geographic segregation corrode social cohesion and economic dynamism. The systemic argument is definitive: only distributed intelligence embedded in communities can match requisite variety of housing needs.
-
-Sweden's housing crisis represents both failure and opportunity. The impossibility of continuing current approach may enable transformation that mere efficiency arguments could not. The question is whether Sweden will pioneer genuinely community-responsive housing or continue optimizing centralized planning until complete dysfunction.
+Housing is an example of subsidiarity not being the same thing as decentralisation. Planning is already local, and some of the problems may be connected precisely to that: that those who already live in a place decide, that municipalities’ different requirements raise costs, and that the housing market extends across municipal boundaries. At the same time, local knowledge is needed about what should be built and for whom, and more actors who can build. This argues for common building regulations, more regional coordination of volumes and more local ways into construction.
 
 ---
 
-*This analysis applies cybernetic principles (particularly Ashby's Law of Requisite Variety) and systems thinking to Swedish housing. Data sources include Boverket, SCB, and international research on housing affordability and community-led development.*
+## Sources
+
+- Stockholm Housing Agency, [Annual Report 2025](https://bostad.stockholm.se/globalassets/broschyrer/ab2025/bostadsformedlingens-arsberattelse_2025.pdf)
+- Stockholm Housing Agency, [Rental Market Report](https://via.tt.se/files/3235730/3841367/158929/sv) (on completed homes in Stockholm County 2023)
+- Swedish Competition Authority, [Housing Construction](https://www.konkurrensverket.se/contentassets/404dd00ef511415fafec80b3dffcb9a7/rapport_2018-7-bostadsbyggande.pdf), report 2018:7
+- SOU 2015:105, *Better Competition for Increased Housing Construction* (Construction Competition Inquiry)
+- SNS Analysis 81, [Competition and Price Formation in the Swedish Housing Market](https://cms-production.sns.se/app/uploads/2021/11/sns-analys-81-konkurrens-och-prisbildning-pa-den-svenska-bostadsmarknaden.pdf) (2021)
+- National Board of Health and Welfare, [Homelessness Remains at a High Level](https://www.socialstyrelsen.se/om-socialstyrelsen/pressrum/press/hemlosheten-fortsatt-kvar-pa-hog-niva/) (2023 mapping)
+- Planning and Building Act (2010:900), including Chapter 5 on planning notification and Chapter 9 on building-permit-exempt measures
+
+*The page was revised in September 2026 after a fact check. Earlier versions contained information that could not be substantiated.*

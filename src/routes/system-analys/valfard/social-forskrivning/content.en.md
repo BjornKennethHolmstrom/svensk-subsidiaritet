@@ -1,125 +1,79 @@
-Here is the English translation of your file:
-
 # Social prescribing
 
 [← Back to the main article](..)
 
-**Summary**: Doctors prescribe community activity instead of medication—"20 hours of communal gardening," "join a choir," "walking group twice a week". Social prescriptions match patients with local resources via a digital platform. The goal: to address the root causes of loneliness, mild depression, and stress—conditions that are currently medicated even though they are fundamentally social. Half a billion SEK annually could be reallocated from pharmaceuticals to social interventions, with better health outcomes at a lower cost.
+**Summary:** Primary care refers patients whose problems are largely connected to loneliness, inactivity or lack of context to activities in associations, study associations and other local activities, such as choirs, walking groups, gardening and language cafés. A coordinator at the health centre connects the patient with the activity and follows up. The proposal builds on physical activity on prescription and culture on prescription, which already exist in Sweden.
 
-## The mechanism
+*This is a proposal to test in limited pilots with evaluation. The figures below are proposals and rough estimates, not results.*
 
-Today, millions of prescriptions are written for antidepressants, anti-anxiety medications, and sleeping pills for conditions often caused by loneliness, meaninglessness, physical inactivity, or social isolation. The drugs relieve symptoms but do not address the root causes. At the same time, there is an abundance of cost-effective, non-medical interventions—allotment gardens, choirs, walking groups, cooking meetups, language cafes—that no patient gets access to through the healthcare system.
+## Why
 
-**The measure**: Introduce **social prescribing** as a legitimate form of treatment in primary care.
+Some of those who seek care for low mood, stress or long-term anxiety also live with loneliness or lack a sense of context. Medication and talking therapy help many, but do not always affect the social circumstances. At the same time, there is a large range of associations and activities that healthcare rarely has contact with.
 
-  * Doctors (or nurses, occupational therapists) assess that the patient's problems are largely due to social factors: loneliness, isolation, inactivity, meaninglessness.
-  * Instead of (or as a complement to) medication, the doctor writes a **social prescription**—a referral to a specific community activity for a set period (e.g., 8 weeks, 2 times/week).
-  * The patient receives a "social prescription card" that grants free entry or heavily subsidized participation (the municipality or region covers the cost).
-  * A **prescription reception** (physical or digital) connects the patient with local activities and follows up after the completed period.
-  * The activities are run by non-profit associations, educational associations, housing companies, or private actors—but are quality-assured according to a simple template (safe environment, trained leader, social interaction).
+## What already exists
 
-**What can be prescribed** (examples):
+- **Physical activity on prescription (FaR)** has long been used in Swedish healthcare, with a written prescription and follow-up.
+- **Culture on prescription** has been tested in several regions, where patients with mild mental ill-health participate in cultural activities in a group.
+- **Nature-based rehabilitation**, for example the rehabilitation garden in Alnarp, has been used for people with stress-related ill-health.
 
-| Activity | Expected effect | Cost per patient (8 weeks) |
-|-----------|------------------|-------------------------------|
-| Allotment gardens | Physical activity, social contact, meaningfulness | SEK 400 |
-| Choir singing (community choir) | Social belonging, breath control, joy | SEK 600 |
-| Walking group 2 times/week | Physical activity, nature contact, conversation | SEK 0 (volunteer leader) |
-| Cooking cafe (cooking together) | Social contact, nutrition, practical skill | SEK 300 |
-| Language cafe (for isolated newly arrived) | Social contact, language practice, belonging | SEK 200 |
-| Book club (library's) | Cognitive stimulation, social belonging | SEK 0 |
-| Writing circle (popular education) | Meaningfulness, self-expression, community | SEK 500 |
+The proposal is to broaden this to more types of activities and make it an ordinary part of primary care in more regions.
 
-**Follow-up**: After 8 weeks, the doctor (or prescription reception) evaluates the effect using surveys (e.g., UCLA Loneliness Scale, WHO-5 Well-Being Index). If no effect—consider traditional treatment. If effective—renew the prescription or transition to independent participation without a subsidy.
+## How it would work
 
-## Pilot design – 100 primary care centers first
+1. A doctor, nurse, counsellor or occupational therapist assesses that social factors play a major role in the patient’s problems.
+2. The patient receives, as a complement to or instead of other treatment, a referral to a coordinator.
+3. The coordinator meets the patient, goes through what might suit them and helps with the first contact.
+4. The patient participates for a period, for example eight weeks.
+5. The coordinator follows up, using simple rating scales for well-being and loneliness.
 
-**Pilot phase 1 (years 1-3)**: 100 primary care centers in different parts of the country (large cities, smaller cities, rural areas) introduce social prescribing as a tested method.
+Social prescribing does not replace treatment for moderate or severe mental ill-health. The assessment of what is suitable is made by healthcare.
 
-**Selection criteria for primary care centers**:
+## Pilot proposal
 
-  * At least 2,000 listed patients
-  * Doctors who are positive toward non-medical interventions (identified via interview)
-  * Access to local non-profit associations or educational associations
+**Scope:** Around thirty health centres in a few regions over three years, with a half-time coordinator per health centre.
 
-**Organizational model**:
+**Evaluation:** compare patients who received social prescribing with similar patients who did not, with regard to well-being, loneliness, healthcare visits, sick leave and medication use. The evaluation should also examine how the associations experience it.
 
-  * Each primary care center gets a **prescription coordinator** (0.5 FTE, often a nurse or medical social worker) who maps local activities, quality-assures them, and connects patients.
-  * The region or municipality finances the subsidies (free tickets) for the patients.
-  * A digital platform (`socialarecept.se`) lists all quality-assured activities by postal code. The doctor clicks, prints the prescription, and the patient scans a QR code on site.
-  * Follow-up data is collected anonymously for research and quality improvement.
+## Rough cost estimate
 
-**Goals for the first year**:
+| Item | Assumption | Cost per year |
+|------|-----------|--------------------------------------------------|
+| Coordinators | 30 health centres × 0.5 FTE | approx. SEK 8 million |
+| Remuneration to associations and fees for participants | | approx. SEK 3 million |
+| Training and evaluation | | approx. SEK 3 million |
+| **Total** | | **approx. SEK 14 million** |
 
-  * 50,000 social prescriptions
-  * 1,000 quality-assured activities
-  * 500 trained doctors/prescription writers
-  * Reduced prescription of antidepressants and anti-anxiety medications by 5% in the pilot regions
+## Legal and practical issues
 
-**Evaluation**:
+1. **Documentation and follow-up:** Social prescribing may need its own intervention code to be followed up, in the same way as FaR.
+2. **Responsibility:** Healthcare is responsible for the assessment and follow-up, the associations for the activity. The boundary needs to be clear.
+3. **Financing:** Primary care is the responsibility of the regions, while many activities are run by associations with municipal support. Cooperation between region and municipality is needed.
 
-  * Change in self-rated loneliness, quality of life, physical activity
-  * Change in pharmaceutical dispensing (compared to control primary care centers)
-  * Healthcare contacts (emergency visits, admissions)—expected to decrease
-  * Cost comparison: social prescriptions vs. medications + healthcare visits
+## Objections
 
-## Budget and financing
+**“The evidence is weak.”** Research on social prescribing, including from the United Kingdom where it has been expanded in primary care, shows promising but mixed results, and many studies have methodological problems. This is a reason to test in Sweden with a careful evaluation, not a reason to assume that it works.
 
-| Item | Annual cost (full rollout 100 primary care centers) |
-|------|--------------------------------------------------|
-| Prescription coordinators (0.5 FTE × 100 × SEK 500,000) | SEK 25 million |
-| Subsidies (50,000 prescriptions × average SEK 300) | SEK 15 million |
-| Digital platform (development + operation) | SEK 2 million |
-| Training of doctors (500 × SEK 5,000 one-time) | SEK 2.5 million (one-time) |
-| Evaluation (research) | SEK 3 million |
-| **Total first year** | **SEK 47.5 million** |
-| **Annual operation after scale-up** | **SEK 42 million** (excl. one-time costs) |
+**“The associations cannot manage.”** That is why the coordinator is needed, and a small remuneration to associations that receive participants.
 
-**Financing**: The regions' pharmaceutical budgets are approximately SEK 25 billion annually. A reallocation of 0.2% is enough to finance the entire pilot. Socio-economically: if social prescriptions reduce sick leave, healthcare visits, and drug use by just a few percent, the reform is self-financing.
+**“It medicalises everyday life.”** The criticism exists: referring to a choir via healthcare can make loneliness a medical problem. At the same time, healthcare may be the only contact an isolated person has with society.
 
-## Regulatory changes required
+**“Patients who need treatment do not receive it.”** Social prescribing is a complement. Those who need other treatment should receive it.
 
-1.  **Amendment to the National Board of Health and Welfare's regulations (HSLF-FS)** – add social prescribing as a legitimate intervention in primary care. Today there is no prohibition, but no clear guidance. The regulation provides the right to use and invoice for social prescriptions.
-2.  **New code in the healthcare database** – to be able to follow up and reimburse the intervention, a unique intervention code (KVÅ code) for "social prescribing" is needed.
-3.  **Exemption in the Act on Pharmaceutical Benefits (2002:160)** – to clarify that social prescriptions are not a pharmaceutical benefit but a care measure, and thus are not affected by the high-cost threshold (the patient may pay a small out-of-pocket fee, but the subsidy is the main rule).
+## What you can do
 
-## Expected resistance and answers
+**If you work in healthcare:** Find out which activities exist in the local area of the health centre and whether the region has FaR or culture on prescription.
 
-### "Doctors shouldn't be dealing with gardening—it's not their job."
+**If you are an operations manager:** Test letting a counsellor or nurse devote part of their time to coordinating referrals to associations, and follow up the result.
 
-**Answer**: Doctors should do what best helps the patient. If loneliness and inactivity are the root cause of the problems, then a referral to an allotment garden is better medicine than a bottle of sertraline. The doctor does not need to garden themselves—just know the local resources and prescribe them.
+**If you are a regional politician:** Propose a pilot with evaluation, in cooperation with the municipalities and associational life.
 
-### "The pharmaceutical industry will lobby against it—they make billions from antidepressants."
+---
 
-**Answer**: Yes, probably. But public health should not be governed by commercial interests. Politicians and regions can make decisions based on evidence and cost-effectiveness, not on pressure. And several pharmaceutical companies already have social interventions in other countries—they can adapt.
+## Sources
 
-### "There is no evidence that social prescribing works."
+- Public Health Agency of Sweden and National Board of Health and Welfare, materials on physical activity on prescription (FaR)
+- The regions’ information on culture on prescription
 
-**Answer**: Yes, the evidence is growing. The UK's "social prescribing" has been evaluated in several studies: reduced healthcare consumption (on average 28% fewer emergency visits), improved quality of life, cost savings of £1–2 per pound invested. Sweden is lagging behind, but we can learn from the NHS. The pilot creates Swedish evidence.
-
-### "Patients who need medication won't get less—this is an addition."
-
-**Answer**: Yes, social prescriptions are a complement, not a replacement for acute or serious conditions. But for mild to moderate depression and anxiety, where the evidence for medication is weak, social prescriptions can be the first choice. This frees up medication for those who truly need it.
-
-### "Non-profit associations can't handle streams of referrals."
-
-**Answer**: That is why the prescription coordinator is needed—a professional link between healthcare and civil society. The coordinator quality-assures, trains, and follows up, so that the associations only need to do what they are good at: welcoming people into community. The associations can also receive a small compensation per participant (e.g., SEK 50/visit) to cover extra work.
-
-## Swedish examples to build upon
-
-  * **"Green rehab"** (SLU, Alnarp)—nature-based rehabilitation for exhaustion syndrome. Works, but is small-scale and expensive. Social prescribing is simpler and cheaper.
-  * **Wellness grant (Friskvårdsbidrag)**—employers subsidize exercise. Why can't the healthcare system subsidize social community in the same way?
-  * **Norwegian "social prescriptions" (sosiale resepter)**—Norway is testing similar models, especially for young people with mental illness. Sweden can copy this.
-  * **NHS Social Prescribing (UK)**—2,500 "social prescribing link workers" in primary care, evaluated positively. Sweden has no equivalents—a gap to fill.
-
-## What you can do tomorrow
-
-**If you are a doctor or nurse**: Write a note to a patient: "Join a walking group—meets Wednesdays at 14:00 by the library." Follow up in a month. You do not need a new law.
-
-**If you are a manager at a primary care center**: Allocate SEK 100,000 to hire a prescription coordinator part-time for six months. Map local activities. Test with 50 patients.
-
-**If you are a municipal or regional politician**: Propose introducing social prescribing as a pilot in primary care. Use the text above as a basis. Ask for an evaluation after two years.
-
------
+*The page was revised in September 2026 after a fact check.*
 
 [← Back to the main article](..)

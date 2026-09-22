@@ -2,112 +2,82 @@
 
 [← Tillbaka till huvudartikeln](..)
 
-**Sammanfattning**: Grupper om 10–20 hushåll som bildar nätverk för ömsesidig hjälp – tidig upptäckt av behov (sjukdom, arbetslöshet, kris), lätt stödkoordinering (måltider, barnpassning, sällskap) och koppling till professionella tjänster när det verkligen behövs. Medlemmar får 500 kr/månad i skatteavdrag för deltagande. Målet: återskapa den informella solidaritet som professionaliseringen har urholkat, till en bråkdel av kostnaden för byråkratisk välfärd.
+**Sammanfattning:** Nätverk om 10–20 hushåll i samma område som hjälps åt med vardagliga saker, som skjuts, barnpassning, måltider och sällskap, och som håller kontakt med varandra så att den som börjar isoleras eller får det svårt uppmärksammas tidigt. Ringarna kopplas till en samordnare i kommunen som kan slussa vidare till socialtjänst eller vård när behoven blir större.
 
-## Mekanismen
+*Det här är ett förslag att pröva i begränsade piloter med utvärdering. Siffrorna nedan är förslag och grova uppskattningar, inte resultat.*
 
-Idag upptäcks de flesta välfärdsbehov först när individen kraschar och söker sig till professionella system – vårdcentral, socialtjänst, Försäkringskassan. Då är krisen redan ett faktum. Grannar, vänner och familj ser ofta varningssignalerna långt tidigare (isolering, viktnedgång, missade räkningar) men saknar strukturer för att agera.
+## Varför
 
-**Åtgärden**: En **välfärdsring** är en lös gruppering av 10–20 hushåll i samma bostadsområde eller by som:
+Många behov upptäcks först när de blivit stora: när någon inte längre klarar sin ekonomi, sin hälsa eller sin ensamhet och söker sig till vården eller socialtjänsten. Grannar och vänner ser ofta tecknen tidigare, men saknar ett naturligt sätt att agera. Den nya socialtjänstlagen betonar förebyggande och tidiga insatser, och det öppnar för att kommunen stöttar sådana nätverk.
 
-- Träffas fysiskt eller digitalt en gång i månaden (15–30 minuter)
-- Delar information om vem som har kapacitet att hjälpa till (”jag kan passa barn på tisdagar”) och vem som har behov (”jag skulle behöva skjuts till läkaren”)
-- Erbjuder lätt stöd utan byråkrati – måltider, barnpassning, sällskap, telefonsamtal, hjälp med enklare hushållssysslor
-- Fungerar som en tidig varningsmekanism – om någon i ringen inte hör av sig på två veckor, ringer en annan medlem och kollar läget
-- Kopplar vidare till professionella insatser när behovet överstiger ringens kapacitet (akut sjukdom, våld i hemmet, allvarlig psykisk ohälsa)
+## Hur det skulle fungera
 
-**Incitamentet**: Varje medlem får 500 kr/månad i skatteavdrag (”välfärdsavdrag”) för att delta aktivt – närvaro på möten, rapporterad insats minst en gång per månad. Detta erkänner att omsorgsarbete har värde, även när det inte utförs av professionella.
+En välfärdsring är ett frivilligt nätverk som:
 
-**Kostnadsjämförelsen**: En välfärdsring med 15 hushåll kostar staten 15 × 500 kr = 7 500 kr/månad = 90 000 kr/år. För samma summa får man knappt en halv socialsekreterare. Ringen kan leverera tidig upptäckt, sällskap, barnpassning, måltider och social sammanhållning – saker som professionella system är mycket dyra och ofta ineffektiva på.
+- träffas regelbundet, till exempel en gång i månaden
+- delar information om vem som kan hjälpa till med vad, och vem som behöver hjälp
+- erbjuder enkel hjälp i vardagen, utan krav på motprestation
+- håller kontakt, så att den som inte hörs av på ett tag får ett samtal
+- vet vart man vänder sig när behovet är större än ringen kan hantera, till exempel vid allvarlig sjukdom, våld i hemmet eller psykisk kris
 
-## Pilotdesign – 10 000 ringar först
+**Stöd från kommunen:**
+- en samordnare som hjälper ringarna att starta, svarar på frågor och har kontakt med socialtjänst och vård
+- ett mindre startbidrag för lokalhyra och material
+- som en möjlig option: en mindre ersättning till aktiva deltagare, till exempel i form av ett skatteavdrag
 
-**Pilotfas 1 (år 1‑3)**: 10 000 välfärdsringar i 100 kommuner, med fokus på:
+## Pilotförslag
 
-- **Utsatta områden** (enligt Polisens lista) där både behovet och den sociala kapaciteten är stor
-- **Landsbygd** där avstånden till professionella system är långa
-- **Seniorboenden** där ensamhet är utbredd
-- **Förortsområden med hög andel nyanlända** där informella nätverk ofta är svaga
+**Omfattning:** Ett hundratal ringar i fem till tio kommuner under tre år, i olika typer av områden: landsbygd, förorter och områden med många äldre som bor ensamma.
 
-**Organisationsmodell**:
+**Utvärdering:** jämför områden med och utan ringar när det gäller självskattad ensamhet, om man har någon att be om hjälp, tidiga kontakter med socialtjänsten och hur deltagarna och andra boende upplever ringarna. Utvärderingen bör också undersöka vilka som deltar och vilka som inte gör det.
 
-- Ringen organiserar sig själv – ingen ansökan till myndighet. Vem som helst kan bjuda in grannar.
-- För att få skatteavdraget måste ringen registrera sig hos Skatteverket med en kontaktperson och en lista över medlemmar (personnummer). Ingen krav på stadgar eller föreningsbildning.
-- Kontaktpersonen intygar varje månad digitalt vilka medlemmar som varit aktiva (närvaro på möte eller utfört insats). Skatteverket betalar ut avdraget automatiskt via lönebeskedet.
+## Grov kostnadsuppskattning
 
-**Statligt stöd**:
+| Post | Antagande | Kostnad per år |
+|------|-----------|----------------------------------------------|
+| Samordnare | 10 kommuner × 0,5 tjänst | cirka 3 Mkr |
+| Startbidrag | 100 ringar × 2 000 kr | 0,2 Mkr |
+| Ersättning till deltagare (om den ingår) | 100 ringar × 15 hushåll × 500 kr/mån | cirka 9 Mkr |
+| Utvärdering | | cirka 2 Mkr |
+| **Totalt** | | **cirka 14 Mkr** |
 
-- Ringen får 2 000 kr i startbidrag för fika, utskrifter, enkel hemsida eller hyra av lokal.
-- Kommunen tillhandahåller en ”ringsamordnare” (1 per 100 ringar) som kan svara på frågor, förmedla bästa praxis och koppla till professionella system.
+Om ringarna ska utvidgas efter piloten beror på vad utvärderingen visar. Ersättningen till deltagare är den största posten och den mest osäkra delen av förslaget.
 
-**Utvärdering efter 3 år** (jämfört med kontrollområden utan ringar):
+## Rättsliga frågor att utreda
 
-- Andel som uppger att de ”har någon att fråga om hjälp” (socialt kapital)
-- Antal akuta insatser från socialtjänst, ambulans, polis (förväntas minska)
-- Självrapporterad ensamhet och otrygghet
-- Förändring i kommunens kostnader för individ- och familjeomsorg
+1. **Ersättning:** Ett skatteavdrag eller annan ersättning till deltagare kräver lagändring och ett register över ringarna. Det bör prövas om ersättningen tillför något, eller om samordnare och startbidrag räcker.
+2. **Personuppgifter:** Information om grannars hälsa och situation är känslig. Offentlighets- och sekretesslagen gäller myndigheter, inte privata nätverk, men dataskyddsreglerna gäller även privatpersoner i organiserade sammanhang. Ringarna behöver enkla regler om vad som delas och med vem, och information om hälsa och ekonomi bör bara delas med den berördas samtycke.
 
-## Budget och finansiering
+## Invändningar
 
-| Post | Årlig kostnad (full utrullning 10 000 ringar) |
-|------|----------------------------------------------|
-| Skatteavdrag (15 hushåll × 500 kr × 12 mån × 10 000 ringar) | 900 Mkr |
-| Startbidrag (2 000 kr × 10 000 ringar, första året) | 20 Mkr (engång) |
-| Ringsamordnare (100 kommuner × 1 samordnare à 500 000 kr) | 50 Mkr |
-| Digital plattform (enkel webbapp för registrering, intyg) | 2 Mkr |
-| Utvärdering (forskning) | 5 Mkr |
-| **Totalt första året** | **977 Mkr** |
-| **Årlig drift efter uppskalning** | **950 Mkr** (exkl startbidrag) |
+**"Det här är att övervaka grannar."** Ringarna måste bygga på frivillighet och respekt för den som inte vill delta. Att någon inte deltar får aldrig i sig bli en signal om att något är fel.
 
-**Finansiering**: Jämfört med socialtjänstens kostnader (cirka 100 mdr kr/år) är 950 Mkr mindre än 1 %. Om ringarna minskar akuta insatser med bara 5 % har de betalat sig själva flera gånger om.
+**"Den som behöver mest hjälp har minst nätverk."** Det är en verklig risk. Informell hjälp tenderar att nå dem som redan har kontakter. Därför ska ringarna vara ett komplement till offentliga insatser, och rätten till stöd från socialtjänsten får inte bero på om man har en ring.
 
-## Regeländringar som krävs
+**"Fusk med ersättningen."** Om ersättning ingår behövs enkla kontroller. Det är också ett skäl att pröva piloter både med och utan ersättning.
 
-1. **Ny bestämmelse i inkomstskattelagen (1999:1229)** – inför ett ”välfärdsavdrag” på 500 kr per månad för fysiska personer som aktivt deltar i en registrerad välfärdsring. Avdraget är skattefritt och påverkar inte andra bidrag.
+**"Det ersätter professionella insatser."** Syftet är det motsatta: att fånga upp behov tidigt och slussa vidare, inte att ersätta vård eller socialtjänst.
 
-2. **Förordning om registrering av välfärdsringar** – Skatteverket får i uppdrag att upprätta ett enkelt digitalt register. Krav: kontaktperson, adress, medlemslista. Ingen byråkratisk kontroll av ”kvalitet” – ringarna får själva organisera sig.
+## Erfarenheter att bygga på
 
-3. **Sekretesslagens undantag** – För att ringarna ska kunna fungera som tidig varningsmekanism måste medlemmar kunna dela viss information om varandra (t.ex. ”Kalle har inte varit utanför dörren på en vecka”). Inför ett undantag i OSL (2009:400) som tillåter sådan delning inom ringen, så länge den inte sprids vidare.
+- **Grannsamverkan**, som visar att grannskapsnätverk kan organiseras i svenska bostadsområden.
+- **Frivilligorganisationer** som Röda Korset, Svenska kyrkan och andra driver redan besöksverksamhet och stöd till ensamma.
+- **Byalag och bygdegårdsföreningar** på landsbygden, med lång tradition av lokal samverkan.
 
-## Förväntat motstånd och svar
+## Vad du kan göra
 
-### ”Det här är att legalisera otrygghet – staten ska inte subventionera att grannar snokar.”
+**Om du är kommunpolitiker:** Föreslå en liten pilot med en samordnare som stöttar några ringar i ett område, och en plan för utvärdering.
 
-**Svar**: Välfärdsringen bygger på frivillighet och tillit. Ingen tvingas att delta. Och att ”snoka” är fel ord – det handlar om att bry sig. I ett samhälle där alla sitter bakom stängda dörrar är ensamheten ett massivt problem. Välfärdsringen erbjuder en strukturerad väg tillbaka till grannskapets naturliga omsorg.
+**Om du är bostadsbolag eller fastighetsägare:** Erbjud en lokal där grannar kan träffas regelbundet.
 
-### ”Fusk – folk kommer att ta emot 500 kr utan att göra något.”
-
-**Svar**: Risken finns, men ringen har incitament att själv polisa. Om en medlem aldrig deltar, varför skulle de andra vilja ha kvar hen? Kontaktpersonen intygar bara aktiva medlemmar. Och 500 kr är tillräckligt för att motivera de flesta, men för litet för att organiserat fusk ska löna sig. Stickprovskontroller kan göras.
-
-### ”Facken kommer att protestera – det här hotar välfärdsjobb.”
-
-**Svar**: Välfärdsringen ersätter inte professionella insatser – den kompletterar dem. Socialsekreterare ska inte laga middag åt ensamma äldre eller passa barn en tisdagskväll. Ringen gör det som professionella varken har tid eller rätt kompetens för. Tvärtom: ringen kan frigöra professionella till det de är utbildade för.
-
-### ”Jag vill inte vara beroende av mina grannar – jag vill ha rättigheter.”
-
-**Svar**: Rättighetstänkandet är en del av problemet. Ett samhälle där alla kräver professionella insatser för minsta lilla är ett samhälle som har tappat förmågan att bry sig. Välfärdsringen erbjuder inte ett juridiskt krav på hjälp – den erbjuder en gemenskap. Skillnaden är avgörande. De flesta föredrar en snäll granne framför en handläggare.
-
-### ”Det här fungerar bara i homogena områden med hög tillit.”
-
-**Svar**: Då är det bra att Sverige har hög tillit generellt. Men piloterna ska just testas i olika områden – inklusive socioekonomiskt svaga och etniskt blandade. Erfarenheter från t.ex. Botkyrka och Rosengård visar att grannskapsnätverk kan fungera även där, om de får enkel organisering och blygsamt stöd. Om det inte fungerar – då har vi lärt oss något.
-
-## Svenska exempel att bygga på
-
-- **Grannsamverkan** (polisen) – enkel modell där grannar håller koll på varandras hem. Välfärdsringen utvidgar till omsorg.
-- **Frivilliga resursgrupper** (Röda Korset) – finns i många kommuner, men är ofta centralt styrda. Välfärdsringen är helt självorganiserad.
-- **Bygdegårdsrörelsen** – historisk förebild för lokal samverkan. Idag mindre aktiv, men konceptet lever.
-- **”Stödgrupper för anhöriga”** – finns inom äldreomsorgen, men kräver ofta professionell ledning. Välfärdsringen är mer horisontell.
-
-Ingen svensk modell gör exakt detta – men fragment finns. Välfärdsringen samlar dem i en enkel, skalbar idé.
-
-## Vad du kan göra i morgon
-
-**Om du är kommunpolitiker**: Lägg ett budgetyrkande på 100 000 kr för att starta en pilot med 10 välfärdsringar i ett utsatt område. Använd texten ovan som underlag.
-
-**Om du är fastighetsägare eller bostadsbolag**: Sätt upp en anslagstavla i trapphuset: ”Starta en välfärdsring – anmäl intresse här.” Erbjud en lokal en gång i månaden gratis.
-
-**Om du är medborgare**: Bjud in dina grannar på en kopp kaffe. Säg: ”Jag tänkte att vi kunde hjälpas åt lite – passa barn, handla, ringa om någon är sjuk. Inga krav, bara om vi vill.” Du behöver inte vänta på politiker.
+**Om du är boende:** Bjud in grannarna och prata om hur ni kan hjälpas åt, utan krav på någon.
 
 ---
+
+## Källor
+
+- Socialtjänstlag (2025:400), i kraft 1 juli 2025
+
+*Sidan reviderades i september 2026 efter en faktagranskning.*
 
 [← Tillbaka till huvudartikeln](..)

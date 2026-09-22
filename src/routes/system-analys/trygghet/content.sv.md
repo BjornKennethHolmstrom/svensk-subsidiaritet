@@ -1,139 +1,77 @@
-# Trygghet och polisväsende: centraliseringsparadoxen
+# Trygghet och polisväsende: närhet, samordning och rätt nivå
 
-## Underrättelsekollapsen
+## Två lärdomar som drar åt olika håll
 
-Sveriges polisreform 2015 centraliserade 21 myndigheter till sju regioner och stängde lokala stationer. Resultatet: skjutningar och sprängningar nådde rekordnivåer, förtroendet för polisen i utsatta områden sjönk från 65 % (2010) till 45 % (2023), och polisen löser bara 20 % av inbrotten.
+Polisreformen 2015 slog ihop Rikspolisstyrelsen och 21 länspolismyndigheter till en sammanhållen polismyndighet med sju regioner. Ett uttalat mål var att polisen skulle komma närmare medborgarna. Det målet har reformen inte nått: Statskontorets utvärderingar konstaterade att tyngdpunkten hade legat på central styrning och att det lokala polisarbetet behövde prioriteras, och senare granskningar har pekat på samma brist.
 
-**Paradoxen**: Sverige svarade på ökande brottslighet med mer centralisering, större enheter och professionellt avstånd. Detta optimerar för byråkratisk effektivitet samtidigt som det förstör den lokala kunskap som faktiskt skapar trygghet. Efter att stationen i Rosengård stängdes ökade skjutningarna inom en kilometer med 40 % på tolv månader. Lokala poliser hade känt 200+ ungdomar vid namn. Nya roterande enheter känner ingen.
+Samtidigt har det grova våldet vänt. Polisen registrerade 391 skjutningar 2022 och 158 under 2025, och minskningen har fortsatt under 2026. Polisen förklarar den bland annat med ett bättre samarbete mellan lokala, nationella och internationella enheter, och med att många i de kriminella nätverken gripits i Sverige och utomlands. Sprängningarna ökade däremot under 2025, och polisen ser en ökning av våld som syftar till att skrämma och utpressa.
 
-**Den cybernetiska analysen**: Trygghet har *hög varians* – den uppstår ur lokala relationer, informell social kontroll och gemenskapskunskap. En nationell polisorganisation med standardiserade procedurer är en styrenhet med *låg varians*. Att försöka styra lokal trygghet genom centraliserad professionalisering bryter mot Ashbys lag. Resultatet: underrättelsekollaps och eskalerande våld.
+Förtroendet för polisen har också ökat. Enligt Brås nationella trygghetsundersökning (NTU) hade 62 procent stort förtroende för polisen 2025, jämfört med 50 procent 2015.
 
+De två lärdomarna drar åt olika håll. Den lokala närvaron försvagades, vilket stöder argumentet att kunskap och relationer på plats har gått förlorade. Men minskningen av det dödliga våldet tycks ha kommit samtidigt som en starkare nationell och internationell samordning. En enkel berättelse om att centraliseringen orsakade våldet håller därför inte.
 
-<svg width="100%" viewBox="0 0 680 420" xmlns="http://www.w3.org/2000/svg" style="font-family: system-ui, -apple-system, sans-serif;">
-<defs><marker id="pa" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
-<rect x="220" y="20" width="240" height="56" rx="8" fill="#FCEBEB" stroke="#A32D2D" stroke-width="0.5"/>
-<text x="340" y="42" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="500" fill="#791F1F">Centralisering</text>
-<text x="340" y="60" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#A32D2D">Polisreformen 2015</text>
-<line x1="340" y1="76" x2="340" y2="100" stroke="#888780" stroke-width="1.5" marker-end="url(#pa)"/>
-<text x="355" y="92" font-size="11" fill="#888780">stängda stationer</text>
-<rect x="220" y="105" width="240" height="56" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
-<text x="340" y="125" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="500" fill="#712B13">Avstånd till samhället</text>
-<text x="340" y="143" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#993C1D">Roterande patruller, ingen känner någon</text>
-<line x1="340" y1="161" x2="340" y2="185" stroke="#888780" stroke-width="1.5" marker-end="url(#pa)"/>
-<text x="355" y="177" font-size="11" fill="#888780">förlorad kontakt</text>
-<rect x="220" y="190" width="240" height="56" rx="8" fill="#FAEEDA" stroke="#854F0B" stroke-width="0.5"/>
-<text x="340" y="210" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="500" fill="#633806">Minskad tillit</text>
-<text x="340" y="228" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#854F0B">65 % → 45 % förtroende</text>
-<line x1="340" y1="246" x2="340" y2="270" stroke="#888780" stroke-width="1.5" marker-end="url(#pa)"/>
-<text x="355" y="262" font-size="11" fill="#888780">folk vägrar tipsa</text>
-<rect x="220" y="275" width="240" height="56" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
-<text x="340" y="295" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="500" fill="#3C3489">Sämre underrättelse</text>
-<text x="340" y="313" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#534AB7">Teknik kan inte ersätta social kunskap</text>
-<line x1="340" y1="331" x2="340" y2="355" stroke="#888780" stroke-width="1.5" marker-end="url(#pa)"/>
-<rect x="220" y="360" width="240" height="44" rx="8" fill="#FCEBEB" stroke="#A32D2D" stroke-width="0.5"/>
-<text x="340" y="386" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="500" fill="#791F1F">Mer våld (skjutningar +40 %)</text>
-<path d="M220 382 L140 382 L140 48 L220 48" fill="none" stroke="#E24B4A" stroke-width="1.5" marker-end="url(#pa)"/>
-<text x="100" y="200" text-anchor="middle" font-size="12" fill="#E24B4A" transform="rotate(-90 100 200)">Politisk press: “gör något!”</text>
-<text x="560" y="200" text-anchor="middle" font-size="12" fill="#888780" transform="rotate(90 560 200)">Förstärkande loop utan korrigeringsmekanism</text>
-</svg>
+## Den cybernetiska läsningen
 
-## Aktiva systemfel (i korthet)
+Ashbys lag säger att den som ska styra något behöver kunna hantera lika många olika situationer som det styrda kan hamna i. För trygghet innebär det att variationen finns på flera nivåer samtidigt:
 
-- **Nationell omorganisering**: Sammanslagningen kapade relationer mellan poliser och samhällen, eliminerade lokala stationer och skapade roterande tjänstgöring som förhindrar relationsbyggande.
-- **Utpekandet av utsatta områden**: Officiell klassificering av 61 områden skapar stigma och sjunkande fastighetsvärden samtidigt som resurser styrs mot reaktivt polisarbete, inte förebyggande insatser.
-- **Underrättelsecentralisering**: 50 miljoner kronor på övervakningsteknik – men polisen missade att en pizzeria var front för gängrekrytering. Teknik kan inte ersätta social kunskap.
-- **Privatisering av säkerhet**: Ordningsvakter med 80 timmars utbildning patrullerar köpcentrum och torg. Välbärgade områden köper sig säkra medan fattiga överges.
-- **Professionalisering av brottsprevention**: Brå:s rapport om gängvåld 2022 innehöll noll intervjuer med tidigare gängmedlemmar eller drabbade familjer. Professionella exkluderar levd erfarenhet.
-- **Våldsmonopol utan närvaro**: Polisen är frånvarande eller misstrodd i områden med våld – maktvakuum fylls av informella ”beskyddare”.
+- **Lokalt:** vardagens ordning, grannskapets relationer, tidiga tecken på att en ung person dras in i kriminalitet. Den kunskapen finns hos boende, skola, socialtjänst, föreningar och områdespoliser, och den är svår att förmedla uppåt.
+- **Nationellt och internationellt:** kriminella nätverk som rekryterar över kommungränser, styrs från utlandet och flyttar våldet dit det är svårast att upptäcka. En lokal aktör kan inte ensam matcha en motståndare som verkar på den skalan.
 
+Poängen med subsidiaritet är alltså inte att allt ska ske lokalt, utan att varje uppgift ska ligga där förutsättningarna finns att lösa den. Svensk erfarenhet stöder en sådan uppdelning. Sluta skjut i Malmö, som bygger på metoden Group Violence Intervention, är ett samarbete mellan polisen, Kriminalvården, Malmö stad och civilsamhället. En utvärdering från Malmö universitet på uppdrag av Brå konstaterade att skjutningar och sprängningar minskat i Malmö sedan satsningen infördes, och regeringen har gett myndigheterna i uppdrag att sprida strategin till fler orter. Hur stor del av minskningen som beror på metoden är svårt att fastställa, men upplägget visar hur lokal kännedom och nationell kapacitet kan kombineras.
 
-<svg width="100%" viewBox="0 0 680 300" xmlns="http://www.w3.org/2000/svg" style="font-family: system-ui, -apple-system, sans-serif;">
-<defs><marker id="sa" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
-<text x="110" y="24" text-anchor="middle" font-size="14" font-weight="500" fill="#2C2C2A">Lokala trygghetsbehov</text>
-<text x="110" y="42" text-anchor="middle" font-size="12" fill="#888780">Hög varians</text>
-<text x="370" y="24" text-anchor="middle" font-size="14" font-weight="500" fill="#2C2C2A">Nationell polis</text>
-<text x="370" y="42" text-anchor="middle" font-size="12" fill="#888780">Standardiserade procedurer</text>
-<text x="580" y="24" text-anchor="middle" font-size="14" font-weight="500" fill="#2C2C2A">Utfall</text>
-<text x="580" y="42" text-anchor="middle" font-size="12" fill="#888780">Reaktivt, utan kontext</text>
-<rect x="42" y="62" width="136" height="28" rx="4" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
-<text x="110" y="80" text-anchor="middle" font-size="11" fill="#3C3489">Gängkonflikter</text>
-<rect x="42" y="98" width="136" height="28" rx="4" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
-<text x="110" y="116" text-anchor="middle" font-size="11" fill="#085041">Familjevåld</text>
-<rect x="42" y="134" width="136" height="28" rx="4" fill="#FAEEDA" stroke="#854F0B" stroke-width="0.5"/>
-<text x="110" y="152" text-anchor="middle" font-size="11" fill="#633806">Ungdomsrekrytering</text>
-<rect x="42" y="170" width="136" height="28" rx="4" fill="#FBEAF0" stroke="#993556" stroke-width="0.5"/>
-<text x="110" y="188" text-anchor="middle" font-size="11" fill="#72243E">Otrygghet i områden</text>
-<rect x="42" y="206" width="136" height="28" rx="4" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
-<text x="110" y="224" text-anchor="middle" font-size="11" fill="#0C447C">Sprängningar / skjutningar</text>
+## Kvarstående problem
 
-<path d="M178 62 L295 100 L295 175 L178 220" fill="none" stroke="#888780" stroke-width="0.5" stroke-dasharray="4 4"/>
-<line x1="178" y1="145" x2="295" y2="145" stroke="#888780" stroke-width="1.5" marker-end="url(#sa)"/>
-<rect x="300" y="90" width="140" height="110" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
-<text x="370" y="118" text-anchor="middle" font-size="12" font-weight="500" fill="#712B13">Centraliserad</text>
-<text x="370" y="136" text-anchor="middle" font-size="12" font-weight="500" fill="#712B13">polisorganisation</text>
-<text x="370" y="160" text-anchor="middle" font-size="11" fill="#993C1D">Roterande patruller</text>
-<text x="370" y="178" text-anchor="middle" font-size="11" fill="#993C1D">Löser 20 % av inbrott</text>
-<line x1="440" y1="125" x2="510" y2="95" stroke="#888780" stroke-width="1.5" marker-end="url(#sa)"/>
-<line x1="440" y1="165" x2="510" y2="195" stroke="#888780" stroke-width="1.5" marker-end="url(#sa)"/>
-<rect x="515" y="75" width="130" height="40" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.5"/>
-<text x="580" y="100" text-anchor="middle" font-size="14" font-weight="500" fill="#5F5E5A">Övervakning</text>
-<rect x="515" y="175" width="130" height="40" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.5"/>
-<text x="580" y="200" text-anchor="middle" font-size="14" font-weight="500" fill="#5F5E5A">Ingripande</text>
-<text x="580" y="238" text-anchor="middle" font-size="11" fill="#888780">50 Mkr på teknik</text>
-<text x="580" y="254" text-anchor="middle" font-size="11" fill="#888780">Missade gängrekrytering</text>
-<text x="340" y="272" text-anchor="middle" font-size="12" fill="#888780">Ashbys lag: centraliserad polis kan inte matcha lokal trygghets höga varians</text>
-<text x="340" y="290" text-anchor="middle" font-size="12" fill="#E24B4A">Resultat: underrättelsekollaps – teknik kan inte ersätta social kunskap</text>
-</svg>
+- **Den lokala närvaron.** Målet om en polis nära medborgarna är fortfarande inte uppnått, trots stora resurstillskott. Områdespoliser som känner sitt område är svåra att ersätta med roterande insatser.
+- **Kommunernas nya ansvar.** Sedan juli 2023 är kommunerna enligt lag skyldiga att ta fram en lägesbild över brottsligheten, besluta om en åtgärdsplan och samordna det lokala brottsförebyggande arbetet. Kapaciteten att göra det väl varierar mellan kommuner.
+- **Utsatta områden.** Polisens lägesbild från 2025 omfattar 65 utsatta områden, varav 19 särskilt utsatta, och tas fram i dialog mellan lokalpolisområden, kommuner och polisens nationella operativa avdelning. Klassningen styr resurser, men det finns en diskussion om hur den påverkar boendes självbild och områdenas rykte. Lägesbilden 2025 beskriver samtidigt förbättringar i flera områden.
+- **Privat och kommunal bevakning.** Ordningsvakter och andra aktörer har fått större roll i offentliga miljöer. Det väcker frågor om ansvarsutkrävande och om tryggheten fördelas efter betalningsförmåga.
 
-## Subsidiaritetsbaserade åtgärder
+## Subsidiaritetsbaserade förslag
 
-Här följer fem åtgärdsområden. Varje område har en egen sida med konkreta piloter, budgetar, regeländringar och analys av motstånd.
+Förslagen nedan är idéer att pröva i begränsade piloter med utvärdering, inte färdiga lösningar. Varje förslag har en egen sida.
 
-| Åtgärd | Kort beskrivning |
+| Förslag | Kort beskrivning |
 |--------|------------------|
-| [→ Trygghetsringar](./trygghetsringar) | Grupper om 50 hushåll som delar oro, samordnar säkra aktiviteter och ger tidig varning via säker plattform. 4 timmars utbildning, ”god samaritan”-lag. |
-| [→ Samhällsmedlare](./samhallsmedlare) | 100 respekterade lokala figurer (tränare, religiösa ledare, mormödrar, tidigare gängmedlemmar) med 200 timmars utbildning, lön 25 000 kr/månad. Ingriper i tvister före polis. |
-| [→ Kommunala trygghetsbudgetar](./kommunala-trygghetsbudgetar) | 100 kr/invånare för lokalt beslutade trygghetsinitiativ via medborgarbudgetering – belysning, ungdomsgårdar, medlare, deeskalering. |
-| [→ Reparativ rättvisa](./reparativ-rattvisa) | För mindre brott (stöld under 5 000 kr, skadegörelse, slagsmål) ersätter medling mellan offer och förövare åtal. Domstol kan ordna reparativt deltagande. |
-| [→ Trygghetscenter](./trygghetscenter) | Omvandla fästningslika polisstationer till integrerade nav: 70 % samhällsarbetare, 30 % polis. Innehåller medlingsrum, ungdomsaktiviteter, juridisk hjälp, mentalvård. |
+| [Trygghetsringar](./trygghetsringar) | Grannskapsgrupper som delar information, samordnar aktiviteter och ger tidig varning, byggda på befintlig grannsamverkan. |
+| [Samhällsmedlare](./samhallsmedlare) | Utbildade och avlönade personer med förankring i området som kan ingripa i konflikter tidigt, i samarbete med polis och socialtjänst. |
+| [Kommunala trygghetsbudgetar](./kommunala-trygghetsbudgetar) | Medborgarbudgetering för trygghetsåtgärder, kopplad till kommunens lägesbild och åtgärdsplan enligt lagen från 2023. |
+| [Reparativ rättvisa](./reparativ-rattvisa) | Utökad användning av medling mellan brottsoffer och gärningsperson vid lindrigare brott. Medling finns redan i lag, främst för unga gärningspersoner. |
+| [Trygghetscenter](./trygghetscenter) | Lokala nav där polis, socialtjänst och andra verksamheter finns under samma tak. |
 
-## Implementering: från teori till praktik
+## Invändningar att ta på allvar
 
-**Fas 1 (1–3 år)** – 500 trygghetsringar i utsatta områden. 100 samhällsmedlare utbildas och placeras. Öppet hus på 10 polisstationer med ”fika med polisen”.
-
-**Fas 2 (3–7 år)** – Kommunala trygghetsbudgetar med medborgarbudgetering. Reparativa center i Tensta, Rosengård, Bergsjön. Månatliga polis-kommunala råd.
-
-**Fas 3 (7–15 år)** – Omvandling av polisstationer till trygghetscenter. 10 000 trygghetslotsar som samordnar prevention. Utbildade fredsteam för ickevåldsintervention.
-
-## Förväntat motstånd och svar
-
-| Farhåga | Svar |
+| Invändning | Hur förslagen behöver hantera den |
 |---------|------|
-| ”Bara staten ska ha auktoritet över trygghet” | Samhällsinsatser kompletterar polisen, ersätter inte. Polisen behåller våldsmonopolet. |
-| ”Samhällsrättvisa kringgår rättssäkerheten” | Allvarliga brott går alltid till formellt system. Reparativa processer har överklaganderätt till domstol. |
-| ”Polisförbundet kommer att motsätta sig” | Polisroller utvecklas mot samordning och mentorskap – mer meningsfullt arbete med mindre konfrontation. |
-| ”Tänk om något går fel?” | Juridiskt skydd för piloter med rigorös utvärdering. Risken är att fortsätta med dysfunktion, inte att testa alternativ. |
+| Rättssäkerheten | Medling och lokala insatser får aldrig ersätta rättsprocessen vid allvarlig brottslighet. Den som medverkar i medling ska kunna avstå utan konsekvenser. |
+| Risken att kriminella får inflytande | I områden där kriminella aktörer påverkar vardagen kan de också försöka påverka föreningar, medlare och lokala nätverk. Urval, insyn och samarbete med polisen är därför centrala, inte en formalitet. |
+| Grannskapsgrupper kan gå över gränsen | Trygghetsringar måste ha tydliga ramar för vad de gör och inte gör, så att de inte blir medborgargarden. |
+| Det nationella perspektivet | Nätverk som verkar över kommun- och landsgränser kräver nationell och internationell kapacitet. Lokala förslag kompletterar den, de ersätter den inte. |
+| Ojämn kapacitet | Små kommuner kan sakna resurser. Samverkan mellan kommuner och stöd från Brå och länsstyrelserna behövs. |
 
-## Den svenska fördelen
+## Slutsats
 
-Sverige har **hög social tillit** (möjliggör samhällsbaserade metoder), **progressiva värderingar** (öppenhet för reparativ rättvisa), **digital infrastruktur** (stödjer trygghetsringar), **liten befolkning** (gör systemförändring genomförbar) och **kommunalt självstyre** (möjliggör lokala piloter).
+Erfarenheterna sedan 2015 talar varken för att centralisera allt eller för att flytta allt lokalt. De talar för att bygga det som reformen lovade men inte levererade, en polis och ett förebyggande arbete med verklig lokal förankring, utan att försvaga den nationella förmåga som tycks ha bidragit till att det dödliga våldet minskat. Frågan är hur ansvar, kunskap och resurser fördelas mellan nivåerna, och hur de samverkar.
 
-## Slutsats: välj mellan centraliserad dysfunktion och lokal trygghet
+### Tre saker du kan göra
 
-Dagens polisorganisation är inte underresurserad – den är **arkitektoniskt felaktig**. Centraliseringen förstörde den lokala kunskap som är grunden för all trygghet. Poliser som kände samhällen, förstod relationer och kände igen varningssignaler ersattes av roterande patruller utan koppling.
+**Om du är kommunpolitiker:** Fråga hur kommunens lägesbild och åtgärdsplan enligt lagen om kommuners ansvar för brottsförebyggande arbete har tagits fram, vilka boende som har fått komma till tals, och hur åtgärderna följs upp.
 
-**Valet är enkelt**:
-- Fortsätt som idag: Fler övervakningskameror, fler centrala utredningsenheter, fler privata vakter, fortsatt urholkat förtroende, eskalerande våld.
-- Börja omställningen: Trygghetsringar, samhällsmedlare, kommunala trygghetsbudgetar, reparativ rättvisa, trygghetscenter.
+**Om du arbetar lokalt, som polis, fältassistent eller i en förening:** Skapa återkommande mötesplatser där boende kan träffa dem som arbetar med trygghet i området, och se till att det som kommer fram där når dem som fattar besluten.
 
-### Tre saker du kan göra i morgon
-
-**Om du är kommunpolitiker**: Avsätt 200 000 kr till en pilot med trygghetsringar i ett bostadsområde med hög otrygghet. Använd modellen från denna sida.
-
-**Om du är polis eller lokal samhällsaktör**: Starta en ”fika med polisen”-kväll varje månad i ett lokalt café eller bibliotek. Lär känna dina grannar – det är den bästa underrättelsen.
-
-**Om du är medborgare**: Samla 10 grannar och bilda en enkel trygghetsring – en gruppchatt där ni tipsar varandra om oroande händelser, samordnar kvällspromenader och håller koll på äldre och barn. Ingen polis behövs – bara omtanke.
+**Om du är boende:** Undersök om det finns grannsamverkan i ditt område, eller ta kontakt med kommunen eller lokalpolisen för att starta en.
 
 ---
 
-*Denna analys tillämpar cybernetiska principer (Ashbys lag om erforderlig variation) på svenskt polisväsende. För djupare åtgärder, klicka på länkarna ovan.*
+## Källor
+
+- Polismyndigheten, [Skjutningar 2025, per polisregion](https://polisen.se/contentassets/5fe3039dff9745e39999f5ff4e67e27f/skjutningar-per-polisregion-2025.pdf/download) och [Skjutningar 2022, per polisregion](https://polisen.se/contentassets/5fe3039dff9745e39999f5ff4e67e27f/skjutningar-per-polisregion-2022.pdf/download)
+- Polismyndigheten, [Förtroendet för polisen ökar för tredje året i rad](https://polisen.se/aktuellt/nyheter/nationell/2025/oktober/fortroendet-for-polisen-okar-for-tredje-aret-i-rad/) (NTU 2025)
+- Polismyndigheten, [Lägesbild över utsatta områden 2025](https://polisen.se/siteassets/dokument/organiserad_brottslighet/utsatta-omraden/lagesbild-over-utsatta-omraden-2025.pdf)
+- Polismyndigheten, [Sluta skjut](https://polisen.se/om-polisen/polisens-arbete/dodligt-vald/gvi-en-strategi-mot-grovt-vald-i-kriminella-miljoer/sluta-skjut/)
+- Statskontoret, *Ombildningen till en sammanhållen polismyndighet*, slutrapport 2018:18, samt delrapporterna 2016 och 2017
+- Riksdagen, [Interpellation 2022/23:313 Polisiär närvaro i hela landet](https://data.riksdagen.se/dokument/HA10313.html), med hänvisning till Riksdagens utredningstjänst
+- [Lag (2023:196) om kommuners ansvar för brottsförebyggande arbete](https://data.riksdagen.se/dokument/sfs-2023-196.html)
+- Lag (2002:445) om medling med anledning av brott
+- Regeringen, [Uppdrag att sprida strategin bakom Sluta skjut till fler orter i Sverige](https://regeringen.se/contentassets/275ca174bbe442aa8569d3bd8e417bfb/uppdrag-att-sprida-strategin-bakom-sluta-skjut-till-fler-orter-i-sverige.pdf) (2021)
+
+*Sidan reviderades i september 2026 efter en faktagranskning. Tidigare versioner innehöll uppgifter som inte kunde beläggas.*
