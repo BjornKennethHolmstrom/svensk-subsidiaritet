@@ -2,111 +2,65 @@
 
 [← Tillbaka till huvudartikeln](..)
 
-**Sammanfattning**: Omvandla 100 kommunala kulturhus från professionellt programmerade institutioner till samhällskontrollerade kooperativ (en medlem, en röst). 70 % av programmet bestäms av lokala grupper, 30 % professionellt kurerat. Resurser (utrustning, rum, expertis) tillgängliga för alla medlemmar. Målet: bryta professionella grindvakters monopol över kulturella uttryck och låta kulturhus bli verktygslådor för invånarnas eget skapande – inte scener för etablerade aktörer.
+**Sammanfattning:** Kulturhus och samlingslokaler där föreningar och boende får ett större inflytande över verksamheten: en del av programbudgeten fördelas efter förslag från användarna, lokaler kan bokas billigt eller gratis, och utrustning kan lånas. Driften kan ske i kommunens regi eller överlämnas till en förening, stiftelse eller ett kooperativ.
 
-## Mekanismen
+*Det här är ett förslag att pröva i begränsade piloter med utvärdering. Siffrorna nedan är förslag och grova uppskattningar, inte resultat.*
 
-Idag är de flesta kommunala kulturhus styrda av tjänstemän och politiska nämnder. Programmet bestäms av anställda kuratorer som bokar professionella artister, utställare och föreläsare. Invånarna är passiva konsumenter. Resultatet: samma typ av utbud som i alla andra kommuner – standardiserat, säkert, Stockholmsinspirerat.
+## Varför
 
-**Åtgärden**: Omvandla kulturhuset till en **kulturell allmänning** – en juridisk och organisatorisk form där:
+Många kommunala kulturhus och bibliotek har redan ett brett utbud och samarbetar med föreningar. Men programmet bestäms ofta av anställda, och det kan vara svårt för nya grupper att få tillgång till lokaler, scener och utrustning. Samtidigt finns i Sverige en lång tradition av lokaler som ägs och drivs av föreningar, som bygdegårdar, Folkets hus och Folkets park.
 
-- Huset förvaltas av ett **kooperativ** där alla som använder huset kan bli medlemmar (en medlem, en röst)
-- **70 % av programbudgeten** bestäms av medlemmarna genom medlemsmöten eller digital röstning
-- **30 %** reserveras för professionellt kurerat innehåll (för att behålla kvalitetshöjande spets och inbjudna gäster)
-- **Utrustning** (kamera, ljus, ljud, verkstadsmaskiner) finns tillgängligt för alla medlemmar att låna, ofta gratis eller till självkostnad
-- **Rum** kan bokas av medlemmar för egna evenemang utan kostnad (förutom städning)
+## Hur det skulle fungera
 
-**Vad det möjliggör**:
-- En grupp somaliska kvinnor kan boka stora scenen för en dansträff utan att gå via kuratorer
-- En tonåring med rap-intresse kan låna professionell inspelningsutrustning för en demo
-- En pensionärsförening kan visa sin egen film på biografen
-- Föreningar kan samarbeta om en temakväll utan att betala dyr hyra
+- **En del av programbudgeten fördelas efter förslag från användarna**, till exempel via ett öppet möte eller en digital omröstning. Resten planeras av personalen.
+- **Lokaler och utrustning tillgängliga för föreningar och boende**, till låg eller ingen kostnad, med enkla bokningsregler.
+- **Personalens roll förskjuts** mot att stötta andra att genomföra sina idéer, med teknik, marknadsföring och kontakter.
+- **Styrning:** kommunen behåller ansvaret, eller överlämnar driften till en förening, stiftelse eller ett kooperativ enligt avtal.
 
-## Pilotdesign – tio kulturhus först
+## Juridiska förutsättningar
 
-**Pilotfas 1 (år 1‑3)**: Tio kommunala kulturhus i olika delar av landet omvandlas till kulturella allmänningar. Urvalet baseras på kommunens vilja, husets storlek och befolkningens sammansättning.
+Kommuner kan redan i dag överlämna skötseln av en kommunal verksamhet till en förening, stiftelse eller annan privat utförare, så länge det inte innebär myndighetsutövning. Någon ändring i kommunallagen behövs därför inte, vilket tidigare versioner av den här sidan påstod. Däremot kan upphandlingsregler och regler om statsstöd behöva beaktas beroende på hur avtalet utformas. Staten ger också stöd till allmänna samlingslokaler via Boverket.
 
-### Pilot 1: Husby kulturhus (Stockholm)
+## Pilotförslag
 
-- **Nuvarande status**: Professionellt styrt, med hög andel inhyrd programverksamhet. Invånarna upplever ofta att huset inte speglar deras behov.
-- **Omvandling**: Bilda ett kooperativ där alla som bor i Järva (Husby, Akalla, Kista) kan bli medlemmar (gratis eller symbolisk avgift 50 kr/år). Första styrelsen väljs genom folkrörelse. Husets personal (kuratorer, tekniker) blir kvar men får nya roller – från ”programläggare” till ”facilitatorer” som hjälper medlemmar att genomföra egna idéer.
-- **Budget**: Kommunen fortsätter att betala drift (värme, el, personal) – ca 5 Mkr/år. Programbudgeten (1 Mkr/år) fördelas av medlemmarna.
+**Omfattning:** Fem till tio kulturhus eller samlingslokaler i olika typer av kommuner under tre år. Platserna väljs tillsammans med kommunerna och lokala föreningar.
 
-### Pilot 2: Blåsut kulturhus (Botkyrka)
+**Utvärdering:** hur många och vilka som använder huset, hur många arrangemang som genomförs av föreningar och boende, hur de boende upplever sitt inflytande och hur personalen upplever sin nya roll.
 
-- **Nuvarande status**: Blandad verksamhet, men lågt invånarinflytande.
-- **Omvandling**: Kooperativ med särskild plats för språkminoriteter. Varje språkgrupp (arabiska, kurdiska, spanska) kan ha en egen ”nod” inom allmänningen som får en del av budgeten proportionerligt.
-- **Budget**: 3 Mkr/år från kommunen + möjlighet att sälja medlemskap (50 kr/månad) för extra resurser.
+## Grov kostnadsuppskattning
 
-### Pilot 3: Fågelvikens samlingslokal (Värmlands landsbygd)
+Driften betalas som i dag av kommunen. Tillkommande kostnader gäller främst utrustning, utbildning av personal och utvärdering, förslagsvis några hundra tusen kronor per hus och år.
 
-- **Nuvarande status**: Litet kulturhus som mest används av pensionärer, med låg aktivitet bland yngre.
-- **Omvandling**: Kooperativ som inkluderar även bygdegården, skolans scen och biblioteket i en gemensam allmänning. Mobila resurser (ljudpaket, scenbelysning) som kan lånas mellan orter.
-- **Budget**: 0,5 Mkr/år från kommunen + EU:s landsbygdsmedel.
+## Invändningar
 
-**Utvärdering efter 3 år**:
-- Antal medlemmar i kooperativet (mål: >20 % av invånarna i upptagningsområdet)
-- Antal egenarrangerade evenemang per år (före: 5–10; efter: >100)
-- Andel av befolkningen som besökt eller använt huset minst en gång per år (mål: >50 %)
-- Upplevd tillhörighet och inflytande (enkät)
+**"Vissa grupper tar över."** Tydliga regler för bokning och fördelning, och en personal som aktivt bjuder in dem som inte själva hör av sig, behövs.
 
-## Regeländringar som krävs
+**"Kvaliteten sjunker."** En del av programmet planeras fortfarande av personalen.
 
-1. **Ändring i kommunallagen (2017:725)** – lägg till en ny paragraf: *”Kommuner får överlåta förvaltningen av kulturhus, bibliotek eller andra allmänna samlingslokaler till kooperativa föreningar eller stiftelser där medlemmarna utgörs av invånarna i upptagningsområdet. Kommunen kvarstår som ägare av fastigheten och ansvarar för grundläggande drift.”*
+**"Personalen förlorar sin roll."** Rollen förändras, och förändringen behöver ske i dialog med de anställda och deras fackliga organisationer.
 
-2. **Avtalstemplate** – ta fram en standardmodell för ”kulturallmänningsavtal” mellan kommun och kooperativ, med tydliga regler för ansvarsfördelning, budgetramar och återtaganderätt om kooperativet missköter sig.
+## Erfarenheter att bygga på
 
-3. **Undantag från hyresreglering** – eftersom medlemmar får använda rummen gratis eller till låg kostnad, undantas detta från lagen om uthyrning av egen bostad (privatuthyrningslagen). En liten justering för att undvika gränsdragningsproblem.
+- **Bygdegårdar, Folkets hus och Folkets park**, föreningsdrivna lokaler med lång tradition.
+- **Fryshuset i Stockholm**, som drivs som stiftelse med stort inflytande för unga.
+- **Bibliotekens makerspaces**, där utrustning kan lånas och användas.
+- **Studieförbunden**, som redan stöttar föreningars kulturverksamhet.
 
-## Budget och finansiering
+## Vad du kan göra
 
-| Post | Årlig kostnad (per pilot) |
-|------|---------------------------|
-| Drift (värme, el, städ, säkerhet) | 1–5 Mkr (beroende på storlek) – betalas av kommunen som idag |
-| Personal (2–5 facilitatorer) | 1,5–4 Mkr – kommunen eller kooperativet? |
-| Programbudget (medlemsstyrd) | 0,5–2 Mkr – kommunen |
-| Utbildning av facilitatorer (första året) | 100 000 kr per hus (engångskostnad) |
-| Digital plattform för medlemsdemokrati | 50 000 kr per hus (engångskostnad) |
+**Om du är kommunpolitiker:** Föreslå att en del av programbudgeten i ett kulturhus fördelas efter förslag från användarna, som ett försök.
 
-**Finansiering**: Huvudsakligen kommunala medel som redan går till kulturhus. Skillnaden är omfördelning – från professionella programinköp till medlemsstyrda aktiviteter. Netto kan kostnaderna minska eftersom medlemmarna bidrar med ideellt arbete.
+**Om du arbetar i ett kulturhus:** Se över hur lätt det är för föreningar och enskilda att boka lokaler och låna utrustning.
 
-## Förväntat motstånd och svar
-
-### ”Kuratorerna förlorar jobbet eller blir degradade.”
-
-**Svar**: Nej, deras roll förändras. Istället för att boka in artister från Stockholm blir de facilitatorer som hjälper medlemmar att genomföra sina idéer. Det är mer kvalificerat arbete – att handleda en somalisk grupp att använda ljudutrustning kräver pedagogik och teknisk kunskap, inte mindre kompetens. Lönerna kan till och med höjas eftersom arbetsuppgifterna breddas.
-
-### ”Medlemmarna kommer bara att boka in dålig amatörkultur.”
-
-**Svar**: Dålig i vems ögon? En grupp tonåringar som framför egna rap-låtar upplever det som meningsfullt. En pensionärsförening som visar diabilder från 1960-talet har högt nostalgivärde. Professionella kuratorers smak är inte universell. Dessutom: 30 % av budgeten är fortfarande professionellt kurerad – så det finns alltid en ”kvalitetsgaranti” för den som efterfrågar det.
-
-### ”Politiker vill inte ge upp kontrollen.”
-
-**Svar**: De ger inte upp kontrollen – de delegerar. Kommunfullmäktige beslutar om ramar (hur mycket pengar, vilka säkerhetskrav, att verksamheten följer lagar). Kooperativet beslutar om innehållet. Samma modell som för friskolor eller bostadsrättsföreningar – beprövad.
-
-### ”Det blir ojämlikt – vissa grupper tar över.”
-
-**Svar**: Risken finns, därför krävs tydliga demokratiregler: alla röster är lika mycket värda, inga permanenta styrelseposter, möjlighet till omval varje år. Facilitatorernas roll är att se till att tysta röster också hörs – genom särskilda utlysningar, riktade medel, och språkstöd. Om en grupp dominerar fullständigt kan kommunen återta förvaltningen efter varning.
-
-### ”Föreningar kommer att konkurrera ut enskilda individer.”
-
-**Svar**: Allmänningen är öppen för både föreningar och individer. En enskild person kan boka ett litet rum för att måla – en förening kan boka stora scenen. Prioriteringsregler kan utformas så att individer får företräde i vissa tider. Demokratin avgör.
-
-## Svenska exempel att bygga på
-
-- **Kulturhuset Blåsut (Botkyrka)** – redan idag experimenterar man med medborgardialog, men utan formellt kooperativ. Vår modell formaliserar.
-- **Fryshuset (Stockholm)** – drivs som stiftelse, inte kooperativ, men har en liknande idé om ”ungdomar styr själva”. Skulle kunna ombildas.
-- **Bygdegårdarna** – traditionella svenska allmänningar, ofta styrda av ideella föreningar. De är förebilder: självstyre, låga trösklar, lokal förankring. Varför kan inte kommunala kulturhus fungera likadant?
-- **Bibliotekens makerspaces** – redan idag finns utrustning för medlemmarna att låna (3D-skrivare, syskrmaskiner). Utvidga konceptet till hela kulturhuset.
-
-## Vad du kan göra i morgon
-
-**Om du är kommunpolitiker**: Lägg ett förslag om att omvandla ett av era kulturhus till en ”kulturell allmänning” i pilotform. Använd bygdegårdsmodellen som argument.
-
-**Om du är tjänsteperson i kulturförvaltningen**: Börja i liten skala – ge en lokal förening nycklarna till ett rum en gång i veckan utan kostnad. Utvärdera. Skala upp.
-
-**Om du är medborgare**: Samla 10 personer i ditt område och skicka en skrivelse till kommunstyrelsen: ”Vi vill ta över förvaltningen av vårt lokala kulturhus som ett kooperativ.” Erbjud er att vara försökskaniner.
+**Om du är föreningsaktiv:** Ta kontakt med kommunens kulturförvaltning eller en bygdegårds- eller Folkets hus-förening om lokaler.
 
 ---
+
+## Källor
+
+- Kommunallag (2017:725), 10 kap. (överlämnande av vården av kommunala angelägenheter)
+- Boverket, stöd till allmänna samlingslokaler
+
+*Sidan reviderades i september 2026 efter en faktagranskning.*
 
 [← Tillbaka till huvudartikeln](..)

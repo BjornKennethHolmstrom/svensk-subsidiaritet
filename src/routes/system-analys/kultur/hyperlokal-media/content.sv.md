@@ -1,114 +1,73 @@
-# Hyperlokal public service
+# Lokal public service
 
 [← Tillbaka till huvudartikeln](..)
 
-**Sammanfattning**: Bryt SVT/SR:s sändningsmonopol. Tre regioner får egna public service‑kanaler med lokala styrelser och garanterad finansiering per capita (motsvarande 5 % av nuvarande licensmedel). Målet: låta Kiruna spegla Kiruna, inte Stockholm. Idag går 9 miljarder kr/år till public service – varav 0 kr garanterat till lokal programmeringsautonomi.
+**Sammanfattning:** Stöd till lokala, redaktionellt oberoende medier i områden där den lokala journalistiken har försvunnit eller är svag. De kan drivas som föreningar, stiftelser eller kooperativ och ska komplettera Sveriges Radio och SVT, inte ersätta dem.
 
-## Mekanismen
+*Det här är ett förslag att pröva i begränsade piloter med utvärdering. Siffrorna nedan är förslag och grova uppskattningar, inte resultat.*
 
-Idag har SVT och SR lagstadgat uppdrag att spegla hela landet, men beslut om budget, programinköp, grönskning och sändningstider fattas i Stockholm. Lokala redaktioner finns – men de rapporterar till Stockholm och har ingen självständig budget eller sändningsrätt.
+## Varför
 
-**Åtgärden**: Skapa en ny kategori av public service‑aktörer: **hyperlokala mediekooperativ**. De får:
+Många lokaltidningar har lagts ner eller minskat sina redaktioner. I en del kommuner finns det i dag få journalister som bevakar kommunfullmäktige, skolor och lokala händelser. Det försvagar den lokala demokratin.
 
-- En garanterad andel av public service‑avgiften (5 % av totalen, dvs. ca 450 Mkr/år)
-- Rätt att sända digitalt (webb, appar, DAB+) inom en definierad region
-- Lokal styrelse vald av medlemmarna (en medlem, en röst – inget politisstyre)
-- Krav på att minst 70 % av innehållet produceras inom regionen
+Samtidigt finns det redan en hel del lokal och regional journalistik. Sveriges Radio har lokala kanaler i hela landet och SVT har ett tjugotal regionala nyhetsredaktioner. Sedan 2024 finns ett statligt mediestöd som bland annat ska stödja lokal journalistik i områden med svag bevakning. Tidigare versioner av den här sidan beskrev public service som ett sändningsmonopol utan lokal verksamhet. Det stämde inte.
 
-**Vad de får göra** (som SVT/SR inte tillåter idag):
-- Ta in lokala annonsörer (undantag från public service‑förbudet)
-- Sända på andra språk än svenska utan översättningskrav
-- Lägga hela budgeten på egenproducerat – inget tvång att köpa från Stockholm
+## Hur det skulle fungera
 
-## Pilotdesign – tre regioner först
+**Vem kan få stöd:** lokala medier som drivs utan vinstsyfte, har en ansvarig utgivare, följer pressetiska regler och bevakar ett avgränsat område där annan lokal bevakning är svag.
 
-**Pilotfas 1 (år 1‑3)**: Tre regioner med olika förutsättningar får status som hyperlokal public service‑kanal och garanterad finansiering per capita.
+**Vad stödet ska räcka till:** ett fåtal journalisttjänster, teknik och distribution, till exempel webb, podd, nyhetsbrev eller lokal radio.
 
-### Pilot 1: Kiruna (glesbygd, samisk befolkning, gränsnära)
+**Oberoende:** stödet fördelas av en myndighet eller nämnd på armlängds avstånd från politiken, efter tydliga kriterier. Kommunen som bevakas ska inte själv fördela pengarna.
 
-- Befolkning: 23 000
-- Årlig garanti: 23 000 × 450 kr = 10,4 Mkr (baserat på nuvarande public service‑kostnad per capita ca 900 kr – piloten får hälften)
-- Uppdrag: Samisk språksändning, gruvrelaterade nyheter, väder och fjällinformation
-- Organisationsform: Ekonomisk förening med medlemmar som bor i kommunen
+**Samarbete med public service:** Sveriges Radio och SVT kan samarbeta med lokala redaktioner, till exempel genom att dela material eller sända lokala inslag.
 
-### Pilot 2: Botkyrka (förort med hög mångfald)
+**Språk:** lokala medier bör kunna publicera på andra språk än svenska där det finns ett behov, till exempel på de nationella minoritetsspråken.
 
-- Befolkning: 95 000
-- Årlig garanti: 42,8 Mkr
-- Uppdrag: Sändningar på arabiska, somaliska, turkiska och spanska. Integration, lokala idrottsföreningar, ungdomskultur.
-- Organisationsform: Stiftelse med medlemsråd (för att undvika politiskt tillskansande)
+## Pilotförslag
 
-### Pilot 3: Västra Götaland (storregion, men med svaga lokala medier)
+**Omfattning:** Tre till fem piloter under tre år, i områden med olika förutsättningar, till exempel en glesbygdskommun, en förort till en storstad och en mindre stad.
 
-- Befolkning: 1,7 miljoner
-- Årlig garanti: 765 Mkr – en betydande summa, men liten jämfört med SVT:s totalbudget på 9 mdr
-- Uppdrag: Dela upp i 6 lokala noder (Göteborg, Skaraborg, Sjuhärad, Fyrbodal, Norra Älvsborg, Göta älv). Varje nod har egen budget och styrelse.
-- Organisationsform: Kooperativ federation – lokala noder samarbetar via gemensam plattform men styr sig själva.
+**Utvärdering:** hur mycket lokal journalistik som produceras, hur många som tar del av den, hur de boende bedömer dess trovärdighet och om bevakningen av den lokala politiken ökar.
 
-**Utvärderingskriterier efter 3 år**:
-- Andel av befolkningen som konsumerar hyperlokala medier minst en gång i veckan (mål: >40 %)
-- Andel innehåll som inte är översatt från riksmedier (mål: >70 %)
-- Språklig mångfald – antal sändningstimmar per vecka på andra språk än svenska
-- Förtroende – mätt med samma frågor som förtroendebarometern för SVT
+## Grov kostnadsuppskattning
 
-## Regeländringar som krävs
+| Post | Antagande | Kostnad per år |
+|------|-----------|--------------|
+| Stöd till lokala redaktioner | 5 piloter × 3–5 Mkr | 15–25 Mkr |
+| Utvärdering | | cirka 2 Mkr |
 
-1. **Ändring i radio- och tv‑lagen (2010:1042)** – lägg till en ny paragraf: *”Hyperlokal public service‑verksamhet får bedrivas av kooperativ eller stiftelse som uteslutande verkar inom en kommun eller region. Sådan verksamhet undantas från kravet att vara reklamfri i enlighet med 7 kap. 4 §, dock endast för lokal reklam riktad till området.”*
+Finansieringen kan komma från mediestödet, från public service-avgiften eller från en kombination.
 
-2. **Förordning om public service‑finansiering** – reservera 5 % av public service‑avgiften till hyperlokala aktörer. Fördelning per capita baserat på folkmängd (justerad för glesbygd – Kiruna får högre per capita).
+## Rättsliga frågor
 
-3. **Ändring i sändningstillståndet för SVT/SR** – inför kravet att SVT/SR måste samproducera med hyperlokala kanaler för att själva få sända lokala program i regionen (för att undvika konkurrens genom överbud).
+1. **Mediestödet:** Det bör utredas om det nuvarande mediestödet kan användas för den här typen av piloter, eller om villkoren behöver ändras.
+2. **Radio och tv:** Sändningar i radio och tv regleras i radio- och tv-lagen. Webb och poddar kräver inget sändningstillstånd men omfattas av de grundlagsskyddade reglerna om ansvarig utgivare om verksamheten har utgivningsbevis.
+3. **Reklam:** Om lokala medier med offentligt stöd ska få sälja reklam behöver det prövas mot reglerna om statsstöd och konkurrens.
 
-## Budget och finansiering
+## Invändningar
 
-| Post | Årlig kostnad |
-|------|--------------|
-| 5 % av public service‑avgiften (9,0 mdr × 0,05) | 450 Mkr |
-| Pilot 1 (Kiruna) | 10 Mkr |
-| Pilot 2 (Botkyrka) | 43 Mkr |
-| Pilot 3 (Västra Götaland) | 765 Mkr (varav 450 Mkr redan avsatt – resten från regionen?) |
+**"Lokala medier kan bli megafoner för lokala makthavare."** Därför krävs redaktionellt oberoende, ansvarig utgivare och att stödet fördelas av någon annan än kommunen.
 
-**Finansiering**: Public service‑avgiften är redan beslutad. Omfördelning inom systemet – inga nya skatter. För pilot 3 krävs eventuellt ett extra regionalt påslag eller en lägre garantinivå (t.ex. 250 kr per capita).
+**"Det konkurrerar med kommersiella lokaltidningar."** Stödet bör bara gå till områden där det saknas lokal bevakning, och utformas så att det inte slår ut befintliga medier.
 
-Alternativt: **Öronmärk 0,5 % av SVT/SR:s nuvarande budget** (45 Mkr) till tre piloter – tillräckligt för att testa modellen. Skala upp först efter utvärdering.
+**"Det är bättre att stärka Sveriges Radio och SVT lokalt."** Det är ett rimligt alternativ, och piloterna kan jämföras med den vägen.
 
-## Förväntat motstånd och svar
+## Erfarenheter att bygga på
 
-### ”Hyperlokala kanaler blir rena skvalkanaler – ingen kvalitet.”
+- **Sveriges Radios lokala kanaler** och **SVT:s regionala nyheter**.
+- **Mediestödet**, som sedan 2024 bland annat stöder lokal journalistik.
+- **Närradion**, som funnits sedan 1979 och ger föreningar möjlighet att sända lokalt.
+- **Öppna kanalen**, lokala tv-kanaler där föreningar och enskilda kan sända.
 
-**Svar**: SVT i dag har monopol på definitionen av kvalitet. En grannsamverkan i Kiruna som rapporterar om renskiljning och gruvolyckor kan ha högre relevans för tittaren än en dokumentär om Stockholmsmode. Kvalitet mätt som *nyttighet för målgruppen* – inte som produktionsvärde.
+## Vad du kan göra
 
-### ”Reklam i public service förstör förtroendet.”
+**Om du är journalist:** Undersök om det finns stöd att söka för lokal journalistik i ett område med svag bevakning.
 
-**Svar**: Hyperlokala kanaler får bara sälja annonsplats till lokala företag (pizzerian, bilhandlaren, byggfirman). Det är en annan sak än nationella reklamkanaler. Och valfritt – kanalen kan välja att avstå reklam om den vill. Poängen är att ge en extra inkomstkälla som inte finns i dagens system.
-
-### ”SVT/SR kommer att överklaga och lobba emot.”
-
-**Svar**: Ja, sannolikt. Men deras uppdrag är att tjäna hela landet. Om de vägrar dela på finansieringen kan politiker ställa krav: ”Antingen börjar ni sända minst 30 % lokalt innehåll per region – eller så öppnar vi för hyperlokala alternativ.” SVT har haft 50 år på sig att lösa lokalsändningar. Det har inte fungerat. Dags för nya lösningar.
-
-### ”Men vem ska granska att de inte blir politiska megafoner?”
-
-**Svar**: Samma regelverk som för SVT gäller – sändningstillstånd med krav på opartiskhet, rättelser och ansvarig utgivare. Skillnaden: istället för en politiskt tillsatt styrelse (som idag) har hyperlokala kanaler medlemsstyrda styrelser. Demokratiskt, inte partipolitiskt.
-
-### ”Ingen kommer att orka starta en kanal – för krångligt.”
-
-**Svar**: Därför piloter – vi finansierar startkostnaderna. Modellen är medvetet enkel: en förening med 10 personer kan ansöka om status. Plattformstekniken (streaming, webb, appar) finns färdig som öppen källkod från t.ex. Owncast eller PeerTube. Kommunen kan bistå med teknisk support.
-
-## Svenska exempel att bygga på
-
-- **Närradion** – finns sedan 1979, men med extremt begränsade resurser (många sänder ideellt med dålig räckvidd). Vårt förslag ger garanterad finansiering.
-- **UR Sami** – en del av public service, men styrs från Stockholm. Exemplet visar att det går att sända på minoritetsspråk – men skalas inte upp.
-- **Öppna Kanalen** (i Malmö, Göteborg, Stockholm) – medborgartv som sänder allt möjligt, men utan garanterad finansiering och med otydligt uppdrag. Vårt förslag ger tydlighet och pengar.
-- **Danmarks Radio** har ”Lokalradio- og tv-udvalget” som fördelar licensmedel till lokala stationer. Sverige har ingen motsvarighet. Kopiera danska modellen.
-
-## Vad du kan göra i morgon
-
-**Om du är riksdagsledamot**: Lägg en motion om ändring i radio- och tv‑lagen för att möjliggöra hyperlokala public service‑kanaler. Använd texten ovan som underlag.
-
-**Om du är journalist eller medieproducent**: Starta en ideell förening i din kommun. Samla 10 personer. Skicka en skrivelse till Kulturutskottet med krav på pilotmedel.
-
-**Om du är kommunpolitiker**: Avsätt 100 000 kr för en förstudie om hur en hyperlokal kanal skulle kunna se ut i just din kommun. Koppla till högskolor, bibliotek, föreningsliv.
+**Om du är kommunpolitiker:** Ta reda på hur den lokala politiken bevakas i dag, och vilka medier som finns i kommunen.
 
 ---
+
+*Sidan reviderades i september 2026 efter en faktagranskning.*
 
 [← Tillbaka till huvudartikeln](..)

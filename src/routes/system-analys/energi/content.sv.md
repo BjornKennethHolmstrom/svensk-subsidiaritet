@@ -1,71 +1,81 @@
-# Energi: centraliseringsparadoxen
+# Energi: lokal acceptans, nationella behov och rätt nivå
 
-## Intern energikolonialism
+## Ett elsystem som redan är nästan fossilfritt
 
-Sverige har fyra elprisområden (SE1–SE4) med dramatiska prisskillnader – från 20 öre/kWh i norr till över 300 öre/kWh i söder under vintern 2022. Samtidigt exporterar norra Sverige ren vattenkraft till kontinenten medan södra Sverige importerar smutsig kolkraft från Tyskland och Polen. Den norrländska basindustrin hotas av energibrist samtidigt som vindkraftverk stoppas av lokala protester och överklaganden.
+Den svenska elproduktionen är i det närmaste helt fossilfri, med vattenkraft, kärnkraft och vindkraft som de största kraftslagen. Sverige är dessutom en nettoexportör av el till grannländerna. Sedan 2011 är landet indelat i fyra elområden, och priserna kan skilja sig mycket mellan norr och söder, särskilt när överföringskapaciteten inte räcker, som under vintern 2022.
 
-**Paradoxen**: Sveriges elsystem är tekniskt sammanlänkat men politiskt och ekonomiskt fragmenterat. Beslut om ny produktion fattas centralt (staten genom Vattenfall, Svenska kraftnät) medan konsekvenserna bärs lokalt (nedlagda renbetesland, störda vyer, pressade elpriser). Resultatet är ”intern energikolonialism” – norr producerar, söder konsumerar, och lokalsamhällen har nästan inget inflytande.
+År 2023 ändrade riksdagen målet för elproduktionen 2040 från 100 procent förnybar till 100 procent fossilfri elproduktion, vilket innebär att även kärnkraft räknas in. Socialdemokraterna, Vänsterpartiet, Centerpartiet och Miljöpartiet reserverade sig mot förändringen. Regeringen har också presenterat en färdplan för ny kärnkraft. Tidigare versioner av den här sidan utgick från målet om 100 procent förnybart. Det gäller inte längre.
 
-**Den cybernetiska analysen**: Energisystemet kräver både teknisk synkronisering (låg variation, central samordning) och lokal acceptans (hög variation, lokala preferenser). Dagens modell centraliserar beslut om produktion och nät, vilket skapar en styrenhet med låg variation som inte kan matcha den lokala variationen i landskap, miljöintressen och näringsliv. Resultatet: konflikter, överklaganden och förlorad potential.
+## Ansvaret är fördelat på flera nivåer
 
-## Aktiva systemfel (i korthet)
+- **Staten** sätter mål, reglerar elnäten genom Energimarknadsinspektionen och ansvarar för stamnätet genom Svenska kraftnät. Staten äger Vattenfall, som är Sveriges största elproducent men konkurrerar på en gemensam nordisk elmarknad och inte har något monopol på produktion.
+- **Kommunerna** har planmonopol och är skyldiga att ha en energiplan. De har också ett särskilt inflytande över vindkraft: sedan 2009 får tillstånd till en vindkraftsanläggning bara ges om kommunen har tillstyrkt den, det så kallade kommunala vetot. Många kommuner äger också energibolag och elnät.
+- **Hushåll, föreningar och företag** producerar egen el, framför allt med solceller, och kan sedan 2022 dela el mellan närliggande byggnader i vissa typer av lokala nät.
 
-- **Elprisområdena**: SE1–SE4 skapar enorma prisskillnader utan kompensationsmekanismer. Norrlands hushåll subventionerar söder via nätavgifter, samtidigt som söder lider av underkapacitet.
-- **Vattenfalls monopolställning**: Staten äger Sveriges största kraftproducent. Inga incitament för decentraliserad produktion eller lokal ägarmodell. Vattenfall bygger storskaligt, inte småskaligt.
-- **Vindkraftens tillståndselände**: En vindkraftspark kräver tillstånd från länsstyrelse, mark- och miljödomstol, Försvarsmakten, Transportstyrelsen, och ofta kommunalt veto. Processen tar 5–10 år.
-- **Solkraftens byråkratiska labyrint**: Småskalig solkraft (privatpersoner, bostadsrättsföreningar) hindras av komplicerade regler för nätanslutning, skatt på egenproducerad el, och ointresserade nätägare.
-- **Nätavgifternas orättvisa**: Lokala elnätsbolag har monopol och kan ta ut höga avgifter. Kunden kan inte välja – ett lagstadgat monopol som saknar lokalt inflytande.
-- **Brist på energilager och flexibilitet**: Centraliserad planering har underskattat behovet av batterier, vätgas och efterfrågeflexibilitet. Sverige ligger 5–10 år efter andra länder.
+## Den stora spänningen: vindkraften och det kommunala vetot
 
-## Subsidiaritetsbaserade åtgärder
+Vindkraften visar hur svårt det är att hitta rätt nivå. Nyttan av ny elproduktion kommer hela elsystemet och ofta andra regioner till del, medan påverkan på landskap, boende och renskötsel är lokal. En kartläggning som vindkraftsbranschen låtit göra visar att 83 av 130 vindkraftsprojekt, eller 64 procent, stoppades av det kommunala vetot under perioden 2020–2024.
 
-Här följer fem åtgärdsområden. Varje område har en egen sida med konkreta piloter, budgetar, regeländringar och analys av motstånd.
+Här säger subsidiaritetsprincipen inte bara "låt de lokala bestämma". Den säger också att den som bär kostnaderna ska få del av nyttan, och att beslut som påverkar andra behöver samordnas på en högre nivå. Från den 1 juli 2026 gäller en ny lag om intäktsdelning, där närboende till nya vindkraftsanläggningar ska få en ersättning som motsvarar en andel av anläggningens årliga intäkter. Frågan om hur det kommunala vetot ska utformas, med tidigare och mer förutsägbara besked, har utretts men inte lösts.
 
-| Åtgärd | Kort beskrivning |
+Tidigare versioner av den här sidan föreslog att kommunala energiråd skulle få vetorätt mot stora energiprojekt. Kommunerna har redan ett veto mot vindkraft, och det används ofta. Det förslaget har därför ersatts.
+
+## Småskalig produktion och delning
+
+- **Skattereduktionen för mikroproduktion**, 60 öre per kilowattimme som matas in på nätet, slopades från den 1 januari 2026. Hushåll med solceller betalar i regel ingen energiskatt på el de själva producerar och använder.
+- **Energidelning:** Regeringen har lagt fram förslag till nya regler om energidelning, som ska göra det möjligt för hushåll och andra att använda el från en anläggning de äger eller hyr på annan plats, till följd av EU:s ändrade elmarknadsdirektiv (prop. 2025/26:240).
+- **Energigemenskaper:** Det finns ingen officiell statistik, men Energimyndigheten uppskattar att det finns omkring ett hundratal energigemenskaper i bred bemärkelse i Sverige.
+
+## Den cybernetiska läsningen
+
+Elsystemet måste hållas i balans varje sekund, och frekvensen måste vara densamma i hela det sammankopplade nätet. Den typen av samordning kräver en gemensam nivå: här är det rätt att dämpa variationen genom gemensamma regler och ett systemansvar. Samtidigt varierar de lokala förutsättningarna mycket: tillgång till sol, vind och vatten, lokala nät med olika kapacitet, och olika inställning till ny produktion. Den variationen kan hanteras närmare:
+
+- **Nationellt:** systemansvar, stamnät, marknadsregler, reglering av nätbolagen, mål.
+- **Regionalt och lokalt:** planering, lokala elnät, flexibilitet i näten, fjärrvärme, lokalt ägande av produktion.
+- **Hos hushåll och föreningar:** egen produktion, lagring och flexibel användning.
+
+## Subsidiaritetsbaserade förslag
+
+Förslagen är idéer att pröva i begränsade piloter med utvärdering. Varje förslag har en egen sida.
+
+| Förslag | Kort beskrivning |
 |--------|------------------|
-| [→ Energikooperativ](./energikooperativ) | Lokala energikooperativ som äger och driver vindkraft, solparker eller vattenkraft. Medlemmarna får del av överskottet och förtur till grön el. Modell från Danmark (Samsø) och Tyskland. |
-| [→ Grannhandel med el](./grannhandel) | Möjliggör direkt handel av solel mellan grannar (peer-to-peer) via digital plattform. Befintliga nät används, men kunden kan välja säljare. Kräver ändring i ellagen. |
-| [→ Energibanker](./energibanker) | Kommunala ”energibanker” där hushåll och företag kan låna ut överskottseffekt (batterier, elbilar, uppvärmda vattentankar) till nätet vid topplast. Förebygger effektbrist. |
-| [→ Kommunala energiråd](./kommunala-energirad) | Varje kommun inrättar ett energiråd med invånare, näringsliv och lokala nätägare. Rådet har vetorätt mot nya storskaliga projekt (vindkraft, elledningar) som saknar lokal acceptans. |
-| [→ Lokala nätavgifter](./lokala-natavgifter) | Elnätsavgiften bestäms lokalt av en brukarkooperativ styrelse (inte av nätmonopolisten). Modell från ”municipal utility districts” i USA. |
+| [Energikooperativ](./energikooperativ) | Lokalt ägd produktion, där boende och företag i närheten äger andelar i vindkraft, solparker eller annan produktion. |
+| [Energidelning mellan grannar](./grannhandel) | Pilotprojekt som bygger på de nya reglerna om energidelning, för hushåll, föreningar och små företag. |
+| [Lokal flexibilitet](./energibanker) | Tjänster som samlar hushållens flexibilitet, till exempel laddning av elbilar och värmepumpar, och erbjuder den till nätbolagen vid höga belastningar. |
+| [Tidiga lokala besked](./kommunala-energirad) | Kommunal energiplanering som ger tidiga och motiverade besked om var ny produktion kan byggas, kombinerat med lokal nytta. |
+| [Lokalt ägda elnät](./lokala-natavgifter) | Erfarenheter från kommunalt och kooperativt ägda elnät, och om fler sådana kan främjas. |
 
-## Implementering: från teori till praktik
+## Invändningar
 
-**Fas 1 (1–3 år)** – Fem kommuner (t.ex. Piteå, Öland, Varberg, Borås, Åre) testar energikooperativ med statligt startlån. Digital plattform för grannhandel pilotas i en stadsdel (t.ex. Hammarby Sjöstad, Stockholm). Energibanker installeras i tre lokala elnät.
-
-**Fas 2 (3–7 år)** – Kommunala energiråd får formell vetorätt via ändring i miljöbalken. Lagändring möjliggör grannhandel och differentierade nätavgifter. Fem nätbolag ombildas till kooperativ.
-
-**Fas 3 (7–15 år)** – Sverige når 100 % förnybart genom en kombination av central baslast (vattenkraft) och distribuerad flexibilitet (sol, vind, batterier, grannhandel). Lokala energisystem är sammankopplade men självständiga.
-
-## Förväntat motstånd och svar
-
-| Farhåga | Svar |
+| Invändning | Hur förslagen behöver hantera den |
 |---------|------|
-| ”Vattenfall är statligt – vi kan inte konkurrera med oss själva” | Vattenfall ska vara teknikneutralt och marknadsmässigt. Kooperativ konkurrens tvingar Vattenfall att bli effektivare. |
-| ”Nätägarna förlorar monopol – de kommer att sabba” | Nätmonopolet är redan ineffektivt. Kooperativa nät i Tyskland och USA har lägre avgifter och högre kundnöjdhet. |
-| ”Grannhandel underminerar nätstabiliteten” | Tekniken finns (blockchain, smarta mätare). Nätägarens roll kvarstår – grannhandeln använder samma fysiska nät. |
-| ”Kommunalt veto stoppar all vindkraft” | Kommunerna har redan vetorätt enligt plan- och bygglagen, men använder den sällan. Formell vetorätt med tydliga kriterier ökar förutsägbarheten. |
+| Lokalt inflytande kan stoppa nödvändig utbyggnad | Därför kombineras lokalt inflytande med tidiga besked och delad nytta, i stället för ett starkare veto. |
+| Småskalig produktion är dyrare per kilowattimme | Förslagen ersätter inte storskalig produktion, men kan öka acceptansen och flexibiliteten. |
+| Elnät är naturliga monopol | Nätbolagens intäkter regleras av Energimarknadsinspektionen oavsett ägare. Ägarformen påverkar främst vem som får del av överskottet och inflytandet. |
 
-## Den svenska fördelen
+## Slutsats
 
-Sverige har **hög tillit** (möjliggör kooperativ), **digital infrastruktur** (smarta elmätare i alla hem, BankID), **ren vattenkraft** (baslast), **kommunalt självstyre** (möjliggör lokala energiråd), och **tekniskt kunnig befolkning**.
+Energi är, liksom bostäder, ett område där den mest lokala nivån redan har stort inflytande, och där det inflytandet ibland krockar med behov som sträcker sig långt utanför kommunen. Subsidiaritet handlar här om att fördela nytta och beslut så att de som påverkas lokalt har skäl att säga ja, samtidigt som systemet som helhet kan samordnas nationellt. Förslagen fokuserar på lokalt ägande, delad nytta, flexibilitet och tidiga besked.
 
-## Slutsats: välj mellan centraliserade konflikter och distribuerad samverkan
+### Tre saker du kan göra
 
-Dagens energisystem är inte tekniskt omoget – det är **arkitektoniskt felaktigt**. Beslut fattas på fel nivå: produktion centralt, konsekvenser lokalt. Resultatet är konflikter, överklaganden, och förlorad acceptans för grön omställning.
+**Om du är kommunpolitiker:** Ta reda på hur kommunen har använt det kommunala vetot, och om kommunens energiplan pekar ut var ny produktion kan byggas.
 
-**Valet är enkelt**:
-- Fortsätt som idag: Fler storskaliga projekt utan lokal acceptans, längre ledtider, och kvarstående prisskillnader mellan norr och söder.
-- Börja omställningen: Energikooperativ, grannhandel, energibanker, kommunala energiråd, lokala nätavgifter.
+**Om du bor i en bostadsrättsförening eller ett flerbostadshus:** Undersök möjligheten att dela solel inom fastigheten eller med närliggande byggnader.
 
-### Tre saker du kan göra i morgon
-
-**Om du är kommunpolitiker**: Starta ett energiråd – bjud in lokala företag, nätägare och medborgare. Kartlägg lokala resurser (sol, vind, vatten, spillvärme). Ta fram en energiplan som prioriterar lokalt ägande.
-
-**Om du är villaägare**: Gå med i ett solcellsnätverk (t.ex. på Facebook eller lokalt energikooperativ). Köp solceller tillsammans med grannar – lägre pris per enhet. Börja prata med din nätägare om att sälja överskott direkt till grannar.
-
-**Om du är hyresgäst eller bostadsrättsinnehavare**: Motionera till din förening om att installera solceller på taket, batterilager i källaren, och att teckna avtal om grannhandel med närliggande fastigheter.
+**Om du är villaägare:** Ta reda på om ditt elnätsbolag eller elhandelsbolag erbjuder avtal om flexibel användning, till exempel styrd laddning av elbilen.
 
 ---
 
-*Denna analys tillämpar cybernetiska principer (Ashbys lag om erforderlig variation) på svenska energisystem. För djupare åtgärder, klicka på länkarna ovan.*
+## Källor
+
+- Riksdagen, [Finansutskottets betänkande 2022/23:FiU21](https://data.riksdagen.se/dokument/HA01FiU21.html) (nytt mål för elproduktionen)
+- Riksdagen, [Prop. 2023/24:105 Energipolitikens långsiktiga inriktning](https://data.riksdagen.se/dokument/HB03105.html)
+- Riksdagen, [Näringsutskottets betänkande 2025/26:NU20, Vindkraft i kommuner](https://data.riksdagen.se/dokument/HD01NU20)
+- Westander Klimat och Energi för Svensk Vindenergi, [Kommunala vetot landbaserad vindkraft 2020–2024](https://mb.cision.com/Public/155/4133892/876829f6f1b49359.pdf) (2025)
+- Skatteverket, [Mikroproduktion av förnybar el – privatbostad](https://www.skatteverket.se/privat/fastigheterbostad/mikroproduktionavfornybarel.4.12815e4f14a62bc048f41a7.html)
+- Energimyndigheten, [Energidelning, presentation maj 2026](https://www.energimyndigheten.se/499cb2/globalassets/energisystem-och-analys/energigemenskaper/presentation-energidelning-6-maj-2026.pdf) och [Energigemenskaper, presentation januari 2026](https://www.energimyndigheten.se/490ff4/globalassets/energisystem-och-analys/energigemenskaper/energigemenskaper---presentation-29-januari-2026.pdf)
+- Miljöbalken 16 kap. 4 §
+
+*Sidan reviderades i september 2026 efter en faktagranskning. Tidigare versioner innehöll uppgifter som inte kunde beläggas.*

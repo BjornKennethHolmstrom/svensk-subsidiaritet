@@ -1,78 +1,74 @@
-# Health: the medicalization paradox
+# Health: care, preventive work and the right level
 
-## The treatment trap – why costs scale but health does not
+## A healthcare system with good quality and known shortcomings
 
-Sweden spends approximately 11% of its GDP on healthcare, a figure expected to rise to 20% by 2040. At the same time, the prescription of antidepressants is increasing, over 100,000 patients wait longer than the healthcare guarantee allows, and 40% of healthcare staff are considering leaving the profession. This is not a lack of resources – it is an **architectural category mistake**.
+According to the state Health Care Responsibility Committee, Swedish health and medical care has good medical quality and compares well in international comparisons. At the same time, there are known shortcomings: accessibility, long waiting times and geographical differences in what care is offered.
 
-**The paradox**: We have cutting-edge medical expertise for acute conditions, but chronic diseases, mental illness, and loneliness are spreading. The system is optimized to treat late-detected disease, while the factors that create health – relationships, purpose, movement, diet, and community – are systematically eroded.
+Responsibility is divided across several levels. The regions are responsible for the largest part of health and medical care, the municipalities for care in special housing and in many cases home healthcare, and the state for legislation, supervision and parts of the financing. Since 2019, a transformation towards so-called good and close care has been under way, in which primary care is to be the hub and more care is to be provided close to the patient.
 
-**The cybernetic analysis**: Health arises from millions of everyday interactions. Healthcare is a tool for managing disease, not for creating health. When 97% of resources go to treatment and only 3% to the fundamental determinants of health, we violate **Ashby's law of requisite variety**: the control instrument (medical intervention) lacks the breadth and flexibility required to manage the system (public health). The result is escalating costs without a corresponding improvement in public health.
+## The question of state responsibility
 
-## Active system failures (in brief)
+In 2023, the government appointed a parliamentary committee to produce a basis for full or partial state responsibility for healthcare. The committee submitted its report in June 2025 (SOU 2025:62). It did not propose that the state should take over healthcare. A majority of the members judged that there was insufficient basis for state responsibility to lead to improvements, and that the risks and costs were large. Instead, the committee proposed that the state take greater responsibility for certain selected areas: skills supply, medicines, vaccinations, screening, forensic psychiatric care and air ambulance services.
 
-  - **Medicalization of life**: Normal grief, aging, and life transitions are turned into medical problems. Over 25% of Swedish women take antidepressants – a signal that social needs are being pharmacologized.
-  - **Cost increases without results**: Administrative overhead swallows resources, while prevention remains underfunded. Preventing type 2 diabetes costs a fraction of treating it, but the system is locked into the more expensive track.
-  - **Professional gatekeeping**: Licensing monopolies block community-based solutions like peer support, despite proven effectiveness.
-  - **Geographical inequality**: Specialist care is concentrated in cities, creating healthcare deserts in rural areas.
-  - **Data lock-in**: Systems like Cosmic and 1177 centralize information and prevent individuals from benefiting from their own health data.
+This is a clear example of subsidiarity moving in both directions: everyday care remains regional and local, while tasks where scale, equivalence or specialist expertise weigh most heavily are proposed to be moved upwards.
 
-## Subsidiarity-based measures
+## The cybernetic reading
 
-Below are five action areas that move power and resources closer to the individual. Each area has its own page with concrete pilots, budget proposals, and an analysis of expected resistance.
+Health is affected by much more than healthcare: lifestyle habits, work, housing, relationships and finances. That variation cannot be handled by a healthcare organisation alone. At the same time, advanced care, medicine approvals and screening programmes require large scale and common rules.
 
-| Measure | Short description |
+- **Locally and in everyday life:** preventive work, support with lifestyle habits, continuity in primary care and cooperation with the municipality and civil society.
+- **Regionally:** hospital care, the organisation of primary care and coordination with the municipalities.
+- **Nationally:** medicines, vaccinations, screening, highly specialised care, skills supply and knowledge governance.
+
+## Remaining problems
+
+- **Accessibility and waiting times.** Many wait longer than the care guarantee states, and the differences between regions are large.
+- **Continuity in primary care.** Since 2022, those who want a regular doctor contact in primary care should be able to have one, but many still lack continuity.
+- **Mental ill-health.** Psychiatric diagnoses are the most common cause of sick leave. Around 15 percent of women in Sweden collected antidepressant medications in 2024. Earlier versions of this page stated over 25 percent, which was wrong. Prescribing may reflect both increased ill-health and more people seeking and receiving treatment; it does not in itself show that medications are used incorrectly.
+- **Preventive work.** Preventive interventions have difficulty competing with acute needs for resources, because the benefits come later and often for other actors.
+- **Cooperation between region and municipality.** Patients who need both healthcare and social care sometimes fall between the responsible authorities.
+
+## Subsidiarity-based proposals
+
+The proposals are ideas to test in limited pilots with evaluation. They complement healthcare and do not replace medical assessment or treatment. Each proposal has its own page.
+
+| Proposal | Brief description |
 |--------|------------------|
-| [→ Community health rings](./halsoringar) | Networks for peer support in mental health, diabetes, loneliness, and parenting. Participants can use wellness grants for membership. |
-| [→ Health guides via popular education](./halsoguider) | Certification training for health coaches who work preventively in municipalities, libraries, and residential areas – at a tenth of the cost of a doctor. |
-| [→ Health capital accounts](./halsokapitalkonton) | A personal pot (e.g., SEK 3,000–5,000/year) for approved preventive measures. Unused funds are saved for the next year. |
-| [→ Social prescribing](./social-forskrivning) | Healthcare professionals are given the opportunity to prescribe community activities, nature visits, and culture – alongside or instead of medication. |
-| [→ Distributed healthcare infrastructure](./distribuerad-infrastruktur) | Transform primary care centers into health centers with teams of health guides, nurses, dietitians, and doctors. Place them in libraries and community centers. |
+| [Health Rings](./halsoringar) | Peer support groups, for example for people with long-term illness, isolated older people or new parents, via study associations and patient associations. |
+| [Health guides](./halsoguider) | A shorter training course via popular education for people who work preventively with lifestyle habits and guide people to healthcare and associational life. |
+| [Health accounts](./halsokapitalkonton) | A limited trial with a personal pot for preventive interventions, with clear evaluation of who uses it. |
+| [Social prescribing](./social-forskrivning) | Primary care refers patients to activities in associational life, with the support of a coordinator. |
+| [Health centres close to everyday life](./distribuerad-infrastruktur) | Primary care and preventive work co-located with libraries, family centres or citizen offices. |
 
-## Implementation: from architecture to action
+## Objections
 
-**Phase 1 (1–3 years)**
-
-  - Three pilot municipalities (urban, suburban, rural) test health rings and social prescribing.
-  - The first cohort of health guides is trained via folk high schools and study associations.
-  - A digital platform for finding health rings and booking health guides is developed.
-
-**Phase 2 (3–7 years)**
-
-  - Municipal health outcome measures are introduced, shifting financing from care volume to public health.
-  - Regulatory frameworks for health guides and social prescribing are in place.
-  - Requirements for health-promoting design in new residential areas (communal kitchens, walking paths, green spaces).
-
-**Phase 3 (7–15 years)**
-
-  - At least 30% of healthcare resources are reallocated from treatment to prevention.
-  - Individuals gain full data sovereignty over their health data.
-  - Health literacy is integrated into schools and community life.
-
-## Expected resistance and answers
-
-| Concern | Response |
+| Objection | How the proposals need to address it |
 |---------|------|
-| "The professions will oppose de-skilling." | Health guides complement, rather than replace, doctors and nurses. They relieve the burden so professionals can focus on what they do best. |
-| "Swedes trust expertise – peer support feels unsafe." | Peer support is already used successfully in addiction care and psychiatry. Certification and integration with healthcare guarantee quality. |
-| "Prevention only pays off in the long term." | The current system is financially unsustainable. Transition costs are a fraction of the cost of continued expansion. |
-| "The regions will stop this." | Pilot operations can start under municipal management, without the regions' permission. Successful pilots create political pressure from below. |
+| The proposals may lead to worse care | The proposals must never replace medical assessment or treatment. Those who need care should receive it. |
+| Laypeople may give incorrect advice | Clear boundaries with respect to medical advice, training and links to healthcare. |
+| The evidence is limited | That is why pilots with evaluation are proposed, not broad reforms. |
+| Municipalities cannot run healthcare on their own | Correct. Health and medical care is primarily the responsibility of the regions. Municipalities can work with public health and preventive interventions, but medical parts require cooperation with the region. |
 
-## The Swedish advantage
+## Conclusion
 
-Sweden has unique prerequisites for a subsidiarity-based health system:
+Swedish healthcare is not a failed system that needs to be replaced, but a system with good medical quality and known shortcomings in accessibility, continuity and preventive work. The conclusions of the Health Care Responsibility Committee show that the question of the right level does not have a simple answer: certain tasks should be handled nationally, while everyday care works best close to the patient. The proposals here concern the latter: strengthening preventive work and the link between healthcare, the municipality and civil society.
 
-  - **Digital infrastructure** – BankID, 1177, and smart devices facilitate distributed care.
-  - **Universal coverage** – no insurance bureaucracy blocking innovation.
-  - **Public health tradition** – a historical awareness of the social determinants of health.
-  - **Strong civil society** – a perfect breeding ground for health rings and peer support.
-  - **Municipal self-government** – enables local experiments without national approval.
+### Three things you can do
 
-## Conclusion: from healthcare consumption to health creation
+**If you are a regional politician:** Find out how the transformation towards good and close care is progressing in your region, and how primary care cooperates with the municipalities and associational life.
 
-Swedish healthcare suffers from a category mistake: it tries to create health using tools designed to treat disease. The way forward is not more centralization, but returning responsibility and resources to the level where health actually arises – in everyday life, in the community, and in the local context.
+**If you work in healthcare:** Investigate which patient associations, study associations and activities exist in the local area, as a complement to treatment.
 
-This is not about dismantling the advanced healthcare we have, but about building a complementary system that addresses the 80% of health determinants that lie outside the clinic walls. The goal is not just universal healthcare – but **universal health**.
+**If you are a resident:** Find out which patient associations and study associations exist where you live, if you or someone close to you lives with a long-term illness.
 
------
+---
 
-*This analysis applies cybernetic principles (especially Ashby's law of requisite variety) to Swedish healthcare. For detailed action plans, see the respective subpages.*
+## Sources
+
+- SOU 2025:62, *The Responsibility for Health and Medical Care* (Health Care Responsibility Committee), [presentation at the handover](https://regeringen.se/contentassets/58b8519cea404ab48e13a497502a30e2/presentationsbilder-fran-presstraff-den-2-juni-2025-om-vardansvarskommittens-slutbetankande.pdf)
+- Swedish Agency for Government Employers, [consultation response to SOU 2025:62](https://www.regeringen.se/contentassets/4dc086282eef4ed98ad2aee7862a9c20/arbetsgivarverket.pdf) (summary of the committee’s proposals)
+- Swedish Social Insurance Agency, [Social insurance in figures 2025](https://via.tt.se/files/277952/3952542/185068/sv)
+- National Board of Health and Welfare, statistics on medication prescribing 2024
+- Health and Medical Services Act (2017:30)
+
+*The page was revised in September 2026 after a fact check. Earlier versions contained information that could not be substantiated.*

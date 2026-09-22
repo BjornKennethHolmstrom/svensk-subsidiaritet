@@ -1,126 +1,73 @@
-# Kommunal läroplansautonomi
+# Lokala profiler i undervisningen
 
 [← Tillbaka till huvudartikeln](..)
 
-**Sammanfattning**: Möjliggör för kommuner att anpassa upp till 50 % av undervisningstiden till lokala behov, samtidigt som nationella standarder för grundläggande kompetenser (läsa, skriva, räkna) bibehålls. Varje kommun utvecklar en **lokal läroplansprofil** som speglar det lokala näringslivet, kulturella särdrag, geografiska förutsättningar och elevsammansättning. Exempel: Kiruna kan fokusera på gruvteknik och samisk kultur, Gotland på hållbar turism och medeltidshistoria, Helsingborg på sjöfartslogistik och internationell handel. Målet: ersätta dagens enhetslösning med en flexibel struktur som följer Ashbys lag – lokal variation kräver lokal anpassning.
+**Sammanfattning:** Ett försök där ett antal skolor eller kommuner får större utrymme att koppla delar av undervisningen till lokala förhållanden, till exempel lokalt näringsliv, natur, kulturarv eller språk, medan de nationella kunskapskraven och betygen gäller som vanligt.
 
-## Mekanismen
+*Det här är ett förslag att pröva i begränsade piloter med utvärdering. Siffrorna nedan är förslag och grova uppskattningar, inte resultat.*
 
-Idag är den svenska läroplanen (Lgr22, Gy11) nationellt enhetlig. En skola i Kiruna och en skola i Malmö förväntas täcka samma innehåll, i samma ordning, med samma timplan. Undantag finns (t.ex. modersmålsundervisning, lokala tillägg), men de är marginella (max 10–15 % av tiden). Detta trots att elevernas framtida arbetsmarknad, kulturella referensramar och samhällsutmaningar ser helt olika ut.
+## Varför
 
-**Åtgärden**: Inför **kommunala läroplansprofiler** där:
+Elever i olika delar av landet växer upp under olika förhållanden. Undervisning som kopplar till elevernas närmiljö kan öka motivationen och göra kunskaperna mer användbara. Samtidigt är det viktigt att alla elever får samma grundläggande kunskaper och att betygen betyder samma sak över hela landet.
 
-- Riksdagen fastställer en **nationell kärna** (50 % av undervisningstiden) som omfattar grundläggande kompetenser: svenska, matematik, engelska, samhällskunskap, naturorientering på basnivå.
-- Kommunerna utformar en **lokal profil** (30 % av tiden) som speglar lokala behov. Exempel på innehåll: lokalt näringsliv, kulturarv, språk, entreprenörskap, miljö, teknik.
-- Skolorna (eller enskilda lärare) får ytterligare **individuell flexibilitet** (20 % av tiden) för att anpassa till elevernas intressen och behov (t.ex. fördjupning, projektarbete, praktik).
+## Vad som redan finns
 
-**Vad den lokala profilen kan innehålla** (konkreta exempel):
+Svensk skola har redan ett visst lokalt utrymme:
 
-| Kommun | Näringslivsprofil | Kulturprofil | Geografisk profil |
-|--------|------------------|--------------|-------------------|
-| Kiruna | Gruvteknik, fjällsäkerhet, fjärrstyrning av maskiner | Samisk duodji, jojk, renskötsel, tornedalska | Arktisk ekologi, permafrost, rymdforskning (Esrange) |
-| Gotland | Hållbar turism, evenemangsplanering, besöksnäring | Medeltidsveckan, gotländska kyrkor, kalkstenshantverk | Östersjöekologi, kustnära odling, vindkraft |
-| Helsingborg | Sjöfartslogistik, internationell handel, hamnverksamhet | Öresundsregionen, gränsöverskridande samarbete | Marin biologi, stadsutveckling i Öresund |
-| Värmland | Skogsbruk, pappersmassa, förnybar energi | Berättartradition (Selma Lagerlöf), värmländsk dialekt | Skogsekologi, vattenkraft, vildrenar |
-| Botkyrka | Socialt entreprenörskap, mångfaldsföretagande | Språkbad (arabiska, somaliska, spanska), förortskultur | Urbant jordbruk, återbruk, miljöteknik |
+- **Läroplanerna** anger mål och centralt innehåll men inte arbetssätt, ordning eller läromedel. Det bestämmer lärarna och skolan.
+- **Skolans val och elevens val** i grundskolan ger utrymme för lokala prioriteringar och fördjupning.
+- **Programfördjupningar och individuella val** i gymnasieskolan kan anpassas efter lokala förutsättningar.
+- **Samiska och andra nationella minoritetsspråk**, samt modersmålsundervisning, anpassas efter elevernas behov.
 
-**Hur det fungerar i praktiken**:
+Tidigare versioner av den här sidan påstod att läroplanen styr innehåll och ordning i detalj och att Sverige är ovanligt centraliserat jämfört med grannländerna. Det stämmer inte i den formen. I Finland finns dock en tydligare modell med nationella läroplansgrunder som varje kommun kompletterar med en egen läroplan, vilket kan vara en förebild.
 
-1. Kommunfullmäktige tillsätter en **läroplansberedning** med lärare, rektorer, näringslivsföreträdare, kulturskapare, elever och föräldrar.
-2. Beredningen tar fram ett förslag till lokal profil (mål, innehåll, timfördelning) inom ramen för den nationella kärnan.
-3. Skolverket kvalitetssäkrar att profilen inte bryter mot nationella minimikrav (t.ex. att man inte tar bort svenska eller matematik).
-4. Skolinspektionen följer upp att profilen implementeras och att eleverna når kunskapsmålen.
-5. Efter 4 år utvärderas profilen nationellt – framgångsrika profiler kan spridas, misslyckade avvecklas.
+## Hur det skulle fungera
 
-**Den cybernetiska poängen**: Dagens enhetliga läroplan bryter mot Ashbys lag – den har för låg variation för att matcha Sveriges olika kommuner. Kommunal profilering ökar variationen (högre ”variety”) och därmed systemets förmåga att anpassa sig till lokal kontext.
+1. **Nationella kunskapskrav och betyg** gäller som vanligt i alla ämnen.
+2. **En lokal profil** tas fram av kommunen eller skolan tillsammans med lärare, elever, vårdnadshavare och lokala aktörer. Profilen beskriver hur undervisningen kopplas till lokala förhållanden, till exempel genom återkommande projekt, studiebesök eller ämnesövergripande teman.
+3. **Utökat utrymme** för skolans val eller motsvarande i försöket, förslagsvis upp till tio procent av undervisningstiden, för undervisning kopplad till profilen.
+4. **Skolinspektionen** följer upp att eleverna når kunskapskraven.
 
-## Pilotdesign – 5 kommuner först
+## Pilotförslag
 
-**Pilotfas 1 (år 1‑5)**: Fem kommuner som representerar olika Sverige får undantag från 50 % av läroplanskraven för att utveckla och testa lokala profiler.
+**Omfattning:** Fem till tio kommuner eller skolor av olika typ under fyra till fem år.
 
-**Föreslagna pilotkommuner** (enligt exempel ovan):
+**Utvärdering:** resultat i ämnena jämfört med liknande skolor, elevernas motivation och närvaro, övergång till vidare studier och arbete, samt lärarnas upplevelse.
 
-1. **Kiruna** – glesbygd, samisk kultur, gruvnäring, rymdteknik
-2. **Gotland** – ö-samhälle, turism, medeltidshistoria, kustekologi
-3. **Helsingborg** – storstad, logistik, internationell handel, Öresund
-4. **Värmland** – skogsbygd, pappersindustri, berättartradition
-5. **Botkyrka** – mångfald, förort, socialt entreprenörskap, urbant jordbruk
+## Grov kostnadsuppskattning
 
-**Process för varje pilotkommun**:
+| Post | Per pilot |
+|------|-----------|
+| Framtagning av profil | cirka 0,3 Mkr |
+| Fortbildning av lärare | cirka 0,5–1 Mkr |
+| Utvärdering | cirka 0,5 Mkr |
 
-- År 1: Kommunen bildar läroplansberedning och tar fram förslag till lokal profil.
-- År 2: Skolverket godkänner profilen (justeringar kan krävas). Förberedelser i skolorna (lärarutbildning, material).
-- År 3–4: Genomförande i alla skolor i kommunen (eller ett urval skolor). Datainsamling (elevresultat, motivation, lärarupplevelse).
-- År 5: Utvärdering och rapport. Beslut om fortsättning eller nationell uppskalning.
+## Rättsliga frågor
 
-**Utvärderingskriterier**:
+1. **Timplan och undervisningstid:** Ett utökat lokalt utrymme kräver sannolikt ändringar i skolförordningen eller ett särskilt beslut om försöksverksamhet.
+2. **Fristående skolor:** Försöket bör vara öppet för både kommunala och fristående skolor på samma villkor.
 
-- Nationella provresultat i kärnämnena (svenska, matematik, engelska) – får inte försämras jämfört med kontrollkommuner.
-- Elevernas motivation och närvaro (mäts med enkäter, färre ogiltiga frånvaro).
-- Övergång till arbete eller högre studier (andel som har jobb eller studier inom 6 månader efter gymnasiet).
-- Arbetsgivarnas nöjdhet (enkät till lokala företag om nyanställdas kompetens).
-- Lärarnas upplevelse av autonomi och arbetsglädje (skattningsskala).
+## Invändningar
 
-## Budget och finansiering
+**"Likvärdigheten hotas."** Det är den viktigaste invändningen, särskilt eftersom likvärdigheten redan har försämrats. Därför gäller nationella kunskapskrav fullt ut, och utrymmet är begränsat.
 
-| Post | Belopp (per pilotkommun) | Totalt 5 kommuner |
-|------|--------------------------|-------------------|
-| Läroplansberedning (20 personer × 10 möten × arvode 2 000 kr) | 400 000 kr | 2 000 000 kr |
-| Lärarutbildning (2 dagar × 500 lärare × 1 500 kr/dag) | 1 500 000 kr | 7 500 000 kr |
-| Framtagning av lokala läromedel (digitala, öppna) | 500 000 kr | 2 500 000 kr |
-| Utvärdering (forskare, datainsamling, rapport) | 800 000 kr | 4 000 000 kr |
-| Administration och samordning | 300 000 kr | 1 500 000 kr |
-| **Totalt per kommun** | **3 500 000 kr** | **17 500 000 kr** |
+**"Lokalt innehåll kan bli för snävt."** Elever ska kunna flytta, studera och arbeta var som helst. Profilen ska vara ett komplement, inte ett skäl att stänga dörrar.
 
-**Finansiering**: 17,5 miljoner kronor över 5 år = 3,5 miljoner per år. Detta är mindre än 0,01 % av skolbudgeten (ca 300 miljarder kr/år). Pengarna kan tas från Skolverkets utvecklingsmedel eller statsbidraget för likvärdig skola. Samhällsekonomiskt: om piloterna leder till bättre matchning mellan utbildning och arbetsmarknad (lägre arbetslöshet, högre produktivitet) är insatsen självfinansierad många gånger om.
+**"Lärarna har inte tid."** Framtagningen av profilen behöver få avsatt tid.
 
-## Regeländringar som krävs
+## Vad du kan göra
 
-1. **Ändring i skollagen (2010:800)** – lägg till en ny paragraf: *”Regeringen får efter ansökan medge en kommun undantag från föreskrifterna om läroplanens timplan för att pröva en lokal läroplansprofil. Undantaget får omfatta högst 50 % av undervisningstiden. Nationella kunskapskrav i svenska, matematik och engelska ska alltid uppfyllas.”*
+**Om du är lärare eller rektor:** Se över hur skolan använder skolans val och andra lokala utrymmen i dag.
 
-2. **Ändring i gymnasieförordningen (2010:2039)** – motsvarande undantag för gymnasieskolans programstruktur.
-
-3. **Förordning om nationell kärna** – regeringen fastställer vilka ämnen och kunskapskrav som alltid måste ingå (miniminivå). Resterande tid är flexibel.
-
-4. **Skolverkets föreskrifter** – anpassas så att kommunala profiler kan godkännas i en enkel, transparent process (max 6 månaders handläggning).
-
-## Förväntat motstånd och svar
-
-### ”Det här hotar likvärdigheten – elever i olika kommuner får olika kunskaper.”
-
-**Svar**: Likvärdighet handlar inte om identiskt innehåll, utan om lika möjligheter. En elev i Kiruna har idag sämre möjligheter att lära sig gruvteknik eller samisk kultur än en elev i Stockholm – trots att dessa kunskaper är högst relevanta för Kirunas arbetsmarknad. Nationella kärnan garanterar grundläggande kompetenser. Lokala profilen ger faktisk likvärdighet – möjlighet att lära sig det som är relevant i sin kontext.
-
-### ”Skolverket kommer att säga nej – de är konservativa.”
-
-**Svar**: Därför krävs politisk styrning. Regeringen kan ge Skolverket i uppdrag att utarbeta en process för kommunala profiler. Och piloterna är frivilliga – ingen tvingas. När Skolverket ser att resultaten inte försämras (tvärtom, motivationen ökar) kommer motståndet att minska. Erfarenheter från finska motsvarigheter (lokala läroplaner sedan 2004) visar att centrala myndigheter kan anpassa sig.
-
-### ”Lärarna har redan för mycket att göra – att utveckla lokala profiler blir en ny administrativ börda.”
-
-**Svar**: Läroplansprofilen tas fram av en beredning med avsatt tid (inte oavlönat kvällsarbete). Kommunen kan anställa en läroplansstrateg. Och när profilen väl är framtagen, minskar den administrativa bördan för lärare – de slipper anpassa en Stockholmscentrerad läroplan till lokala förhållanden. Det är merarbete initialt, men långsiktig avlastning.
-
-### ”Vad händer om en kommun gör en dålig profil – eleverna blir lidande?”
-
-**Svar**: Piloten har tydliga kvalitetskrav och utvärdering. Om en profil inte fungerar (försämrade resultat i kärnämnena, låg måluppfyllelse) återkallas undantaget. Risken är liten – kommunerna har incitament att göra ett bra jobb. Och dagens enhetslösning är redan dålig för många kommuner – status quo är inte riskfritt.
-
-### ”Finns det internationella exempel?”
-
-**Svar**: Ja, flera. **Finland** har nationella läroplansgrunder (som vår nationella kärna) och kommunala läroplaner som specificerar lokala prioriteringar – fungerat sedan 2004. **Norge** har liknande modell. **Kanada** (provinserna) har stor lokal variation. Sverige är ovanligt centraliserat jämfört med nordiska grannar. Vi ligger efter – dags att ta efter.
-
-## Svenska exempel att bygga på
-
-- **Lokala arbetsplaner** (fanns före 1994) – kommuner hade tidigare större frihet. Återinför i modern tappning.
-- **Modersmålsundervisning** – redan idag ett exempel på lokal anpassning (kommunen bestämmer vilka språk som erbjuds). Skalmodellen finns.
-- **Nationella minoritetsspråk** – skolor i samiska förvaltningsområden har redan utökat uppdrag. Kan utvidgas till andra lokala profiler.
-- **Finska kommunala läroplaner** – varje finsk kommun har sin egen läroplan inom ramen för nationella grunder. Sverige kan kopiera organisationen.
-
-## Vad du kan göra i morgon
-
-**Om du är kommunpolitiker**: Lägg ett förslag om att kommunen ska ansöka om pilotstatus för lokal läroplansprofil. Samla bred politisk uppslutning (alla partier vinner på lokal anpassning). Använd texten ovan som underlag.
-
-**Om du är lärare eller rektor**: Starta en diskussion på din skola: ”Vad skulle vi göra annorlunda om vi fick bestämma 50 % av tiden?” Samla idéer. Skicka dem till din kommunstyrelse.
-
-**Om du är näringslivs- eller kulturföreträdare**: Kontakta kommunen och erbjud dig att delta i en läroplansberedning. Berätta vilka kompetenser som efterfrågas i er bransch. Gör er röst hörd.
+**Om du är kommunpolitiker:** Ta reda på hur skolorna samarbetar med lokalt arbetsliv och föreningsliv.
 
 ---
+
+## Källor
+
+- Skollag (2010:800) och skolförordning (2011:185)
+- Skolverket, läroplaner och kursplaner
+
+*Sidan reviderades i september 2026 efter en faktagranskning.*
 
 [← Tillbaka till huvudartikeln](..)

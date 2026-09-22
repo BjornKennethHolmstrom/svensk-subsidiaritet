@@ -1,69 +1,59 @@
-# Workforce, Land, and Skills
+# Labour, land and skills
 
-[← Back to main article](..)
+[← Back to the main article](..)
 
-**Summary**: Only 1% of the workforce is in agriculture, but a distributed system requires a doubling. This section presents four concrete sources—new arrivals, lifestyle movers, automation as complement, and seasonal work—plus financing through redistribution of existing EU subsidies.
+**Summary:** Proposals to enable more people to start working in and running agriculture: leases that lower the thresholds, apprenticeship systems, education and simpler matching of seasonal work.
 
-## Land Access Through Leasehold Innovation
+*This is a proposal to test in limited pilots with evaluation. The figures below are proposals and rough estimates, not results.*
 
-**The intervention**: Reform agricultural leasehold arrangements to enable new farmer entry. Potential mechanisms include carbon credit systems that incentivize landowners (Church of Sweden, Sveaskog, municipal land banks) to lease to regenerative practitioners.
+## Why
 
-**The barrier removal**: Current land prices create entry barriers that favor established operations. Leasehold arrangements reduce capital requirements while enabling experimentation and adaptation.
+The number of agricultural businesses has declined sharply over a long period, and many farmers are approaching retirement age. For those who want to start, the thresholds are high: land and machinery require large capital, and profitability is often low. At the same time, many operations depend on seasonal workers from other countries.
 
-**The succession solution**: With average farmer age at 58 years and limited succession pathways, leasehold innovation addresses both entry barriers and demographic transition simultaneously.
+## Proposals
 
-## Where Are the People?
+### Leases for new farmers
 
-**The problem in numbers**: The average age of Swedish farmers is 58. Only 8% are under 40. The share of the workforce employed in agriculture has decreased from over 20% in 1950 to just over 1% today. At the same time, a distributed, regenerative food system requires *more* human attention per hectare, not less. Monoculture with large machines gets by with few working hours per calorie. Diverse farming with animals, vegetables, cover crops, and direct sales requires knowledge, presence, and labor.
+Public and large landowners, such as municipalities, Sveaskog and the Church of Sweden, can lease land to new farmers, with reasonable terms and sufficiently long agreements to make investment possible. Municipalities with their own agricultural land can test this directly.
 
-**The paradox**: The system has optimized away people—and then complains that there are no farmers left. The transition does not require everyone to become a farmer, but it does require a **doubling or tripling** of the workforce in primary production and local processing.
+### Apprenticeship systems
 
-## Four Realistic Sources
+Experienced farmers receive compensation for taking on apprentices over a longer period, as a complement to the natural resource programme in upper secondary school and to higher vocational education. The apprentice receives a salary, and after the training, support to start their own operation or take over a farm.
 
-### 1. New Arrivals and Integration
+### Adult education and folk high schools
 
-For several decades, Sweden has received people with agricultural experience from countries where small-scale, labor-intensive farming is the norm. Today, unemployment among the foreign-born is high—at the same time as Swedish agriculture is crying out for labor. The connection is broken.
+Shorter courses for adults who want to change profession, in cooperation with folk high schools, agricultural organisations and the Rural Economy and Agricultural Societies. Courses can be combined with Swedish for immigrants for people who have experience of agriculture from other countries.
 
-**Measure**: **Municipal "agriculture intro" programs** that combine SFI (Swedish for Immigrants) with internships on farms transitioning to regenerative methods. Model: Denmark's "landbrugsgrunduddannelse" (basic agricultural education) with a guaranteed internship. Financed through the Swedish Public Employment Service's establishment assignment and EU agricultural funds.
+### Seasonal work
 
-**Example**: Even today, there are examples like "Fair Work in Skåne" and "Grasp the Food" in Västra Götaland—but they are too small. Scale them up with municipal coordination.
+Simpler matching between farms and people who want to work for shorter periods, such as students and pensioners, with clear terms on pay, insurance and housing.
 
-### 2. Lifestyle Movers and "Returnees"
+### Shared machinery
 
-The pandemic showed that people can move from the city to the countryside if there are jobs, schools, and a sense of community. Many dream of working with food, but the threshold is high: land prices, capital requirements, solitary work, poor pay.
+Support for machinery rings and cooperatives, where several farms share machinery, including smaller and newer equipment.
 
-**Measure**: **Apprenticeship systems with shared risk** – Experienced regenerative farmers receive subsidies to take on apprentices. The apprentice receives a minimum wage the first year, then gradually more. The municipality provides supervisor training and venture capital (if the crop fails, the apprentice does not lose money).
+## Pilot proposal
 
-**Example**: "Greenhorns" in the US, "Arbeitsgemeinschaft bäuerliche Landwirtschaft" in Germany. Sweden has no equivalent—a gap to fill.
+**Scope:** A few municipalities and regions testing leases and apprenticeship places over three to five years, in cooperation with agricultural organisations and education providers.
 
-### 3. Automation as a Complement, Not a Replacement
+**Evaluation:** how many start or take over farms, how the operations are doing after a few years, and how the apprentices experience the training.
 
-Many believe that robots will solve the labor shortage. This is partly true—for weeding, milking, and harvesting certain crops. But diverse systems (different crops, animals, processing methods) are difficult to automate. The point is to **use automation for the dull, heavy, repetitive tasks**—and free up humans for the qualified work: pruning, animal health, fermentation, and customer relations.
+## Objections
 
-**Measure**: **Cooperative machinery pools** with light, smart implements (small electric tractors, row-weeding robots) shared by multiple farms. Financed through investment support for small-scale mechanization (today, such support goes almost exclusively to large machines).
+**“No one wants to work in agriculture.”** The terms and profitability are decisive. The proposals do not solve that problem alone.
 
-### 4. Seasonal Work and Circular Labor
+**“Small farms are not profitable.”** Often not, under current conditions. Direct sales and processing can improve profitability for some, but not for all.
 
-Swedish agriculture has always been seasonal. Today, seasonal workers come from Thailand, Ukraine, and other countries via complicated visa processes. At the same time, there are students, part-time retirees, and furloughed workers from other sectors who could work a few weeks a year—if there were an easy point of entry.
+**“Seasonal work involves a risk of exploitation.”** That is why clear terms and checks are needed, regardless of where the labour comes from.
 
-**Measure**: **A national platform for seasonal jobs** (built on the [digital infrastructure](../plattformar)) where farms post their needs ("3 weeks in August, berry picking") and workers book shifts with direct Swish payments. Simplified registration, no lengthy bureaucracy.
+## Swedish experience to build on
 
-## Skills – Not Just Hands
-
-Labor without knowledge is worthless. A distributed system requires people to be able to read the landscape and soil, plan crop rotations and intercropping, ferment, preserve and dry, handle animals with low stress, and repair and build simple structures.
-
-**Measure**: **High school programs in regenerative agriculture** (currently only a few exist, e.g., at Dalsland's Folk High School). Link this to the natural resource use program but with a focus on small-scale diversity, not large-scale monoculture. **Folk high school courses** for adults wanting to change careers—with guaranteed internships.
-
-## Where Is the Money?
-
-Investments in labor and skills can be financed through the **redistribution of existing EU subsidies** (CAP), which today go toward area-based grants for large-scale farms. Every billion shifted from large-scale to small-scale creates more jobs per *krona*—because small-scale farming is more labor-intensive. This is not a cost, but a **redistribution of employment** from machines to people.
-
-## Objections and Responses
-
-- *"No one wants to work in agriculture—it's poorly paid and grueling."* – That is why we must improve the conditions. Distributed systems can yield higher margins per hour (direct sales, processing) and a better working environment (less solitary work, shared machinery pools). This isn't the 1800s—it's the 2000s with technological support.
-- *"Swedes are too expensive to hire in agriculture."* – Today, we import cheap labor from low-wage countries. This is unsustainable and exploitative. The transition means paying a fair price for food—which leaves room for Swedish wages.
-- *"This is too slow—the crisis will hit before we have time to train people."* – That is why we combine the short term (seasonal platforms, apprenticeship systems) with the long term (high school programs). Preparedness is about parallel timescales.
+- **The natural resource programme** in upper secondary school and higher vocational education’s agricultural courses.
+- **Machinery rings**, where farmers share machinery and labour.
+- **The Rural Economy and Agricultural Societies**, which offer advice and training.
 
 ---
 
-[← Back to main article](..)
+*The page was revised in September 2026 after a fact check.*
+
+[← Back to the main article](..)

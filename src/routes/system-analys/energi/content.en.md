@@ -1,72 +1,81 @@
-# Energy: the centralization paradox
+# Energy: local acceptance, national needs and the right level
 
-## Internal energy colonialism
+## An electricity system that is already almost fossil-free
 
-Sweden has four electricity price areas (SE1–SE4) with dramatic price differences—from 20 öre/kWh in the north to over 300 öre/kWh in the south during the winter of 2022. At the same time, northern Sweden exports clean hydropower to the continent while southern Sweden imports dirty coal power from Germany and Poland. The base industry in Norrland is threatened by energy shortages at the same time as wind turbines are stopped by local protests and appeals.
+Swedish electricity production is almost entirely fossil-free, with hydropower, nuclear power and wind power as the largest power sources. Sweden is also a net exporter of electricity to neighbouring countries. Since 2011, the country has been divided into four electricity areas, and prices can differ greatly between north and south, especially when transmission capacity is insufficient, as during the winter of 2022.
 
-**The paradox**: Sweden's electricity system is technically interconnected but politically and economically fragmented. Decisions on new production are made centrally (the state through Vattenfall, Svenska kraftnät) while the consequences are borne locally (closed reindeer grazing lands, disturbed views, pressured electricity prices). The result is "internal energy colonialism"—the north produces, the south consumes, and local communities have almost no influence.
+In 2023, the Riksdag changed the target for electricity production by 2040 from 100 percent renewable to 100 percent fossil-free electricity production, which means that nuclear power is also included. The Social Democrats, the Left Party, the Centre Party and the Green Party reserved against the change. The government has also presented a roadmap for new nuclear power. Earlier versions of this page were based on the target of 100 percent renewable. That no longer applies.
 
-**The cybernetic analysis**: The energy system requires both technical synchronization (low variation, central coordination) and local acceptance (high variation, local preferences). Today's model centralizes decisions on production and the grid, which creates a control unit with low variation that cannot match the local variation in landscapes, environmental interests, and businesses. The result: conflicts, appeals, and lost potential.
+## Responsibility is divided across several levels
 
-## Active system failures (in brief)
+- **The state** sets targets, regulates the electricity grids through the Swedish Energy Markets Inspectorate and is responsible for the main grid through Svenska kraftnät. The state owns Vattenfall, which is Sweden’s largest electricity producer but competes in a common Nordic electricity market and does not have a monopoly on production.
+- **The municipalities** have a planning monopoly and are obliged to have an energy plan. They also have a particular influence over wind power: since 2009, a permit for a wind power installation may only be granted if the municipality has approved it, the so-called municipal veto. Many municipalities also own energy companies and electricity grids.
+- **Households, associations and companies** produce their own electricity, mainly with solar cells, and since 2022 can share electricity between nearby buildings in certain types of local grids.
 
-  - **The electricity price areas**: SE1–SE4 create enormous price differences without compensation mechanisms. Households in Norrland subsidize the south via grid fees, while the south suffers from undercapacity.
-  - **Vattenfall's monopoly position**: The state owns Sweden's largest power producer. No incentives for decentralized production or local ownership models. Vattenfall builds large-scale, not small-scale.
-  - **The permitting misery of wind power**: A wind farm requires permits from the county administrative board, the land and environment court, the Armed Forces, the Transport Agency, and often a municipal veto. The process takes 5–10 years.
-  - **The bureaucratic labyrinth of solar power**: Small-scale solar power (individuals, housing cooperatives) is hindered by complicated rules for grid connection, taxes on self-produced electricity, and disinterested grid owners.
-  - **The unfairness of grid fees**: Local electricity grid companies have monopolies and can charge high fees. The customer cannot choose—a statutory monopoly lacking local influence.
-  - **Lack of energy storage and flexibility**: Centralized planning has underestimated the need for batteries, hydrogen, and demand flexibility. Sweden is 5–10 years behind other countries.
+## The great tension: wind power and the municipal veto
 
-## Subsidiarity-based measures
+Wind power shows how difficult it is to find the right level. The benefit of new electricity production accrues to the entire electricity system and often to other regions, while the impact on landscape, residents and reindeer herding is local. A mapping commissioned by the wind power industry shows that 83 of 130 wind power projects, or 64 percent, were stopped by the municipal veto during the period 2020–2024.
 
-Here are five action areas. Each area has its own page with concrete pilots, budgets, rule changes, and analysis of resistance.
+Here the subsidiarity principle does not only say “let the local level decide”. It also says that those who bear the costs should share in the benefit, and that decisions affecting others need to be coordinated at a higher level. From 1 July 2026, a new law on revenue sharing applies, under which nearby residents of new wind power installations are to receive compensation corresponding to a share of the installation’s annual revenue. The question of how the municipal veto should be designed, with earlier and more predictable decisions, has been investigated but not resolved.
 
-| Measure | Short description |
+Earlier versions of this page proposed that municipal energy councils should have veto rights against large energy projects. Municipalities already have a veto against wind power, and it is often used. That proposal has therefore been replaced.
+
+## Small-scale production and sharing
+
+- **The tax reduction for micro-production**, 60 öre per kilowatt-hour fed into the grid, was abolished from 1 January 2026. Households with solar cells generally pay no energy tax on electricity they produce and use themselves.
+- **Energy sharing:** The government has presented proposals for new rules on energy sharing, which are to make it possible for households and others to use electricity from an installation they own or rent at another location, following the EU’s amended Electricity Market Directive (prop. 2025/26:240).
+- **Energy communities:** There is no official statistics, but the Swedish Energy Agency estimates that there are around one hundred energy communities in a broad sense in Sweden.
+
+## The cybernetic reading
+
+The electricity system must be kept in balance every second, and the frequency must be the same throughout the interconnected grid. That kind of coordination requires a common level: here it is right to dampen variation through common rules and system responsibility. At the same time, local conditions vary greatly: access to sun, wind and water, local grids with different capacity, and different attitudes to new production. That variation can be handled closer:
+
+- **Nationally:** system responsibility, the main grid, market rules, regulation of grid companies, targets.
+- **Regionally and locally:** planning, local electricity grids, flexibility in the grids, district heating, local ownership of production.
+- **At households and associations:** own production, storage and flexible use.
+
+## Subsidiarity-based proposals
+
+The proposals are ideas to test in limited pilots with evaluation. Each proposal has its own page.
+
+| Proposal | Brief description |
 |--------|------------------|
-| [→ Energy cooperatives](./energikooperativ) | Local energy cooperatives that own and operate wind power, solar parks, or hydropower. Members share the surplus and get priority for green electricity. Model from Denmark (Samsø) and Germany. |
-| [→ Peer-to-peer electricity trading](./grannhandel) | Enables direct trading of solar electricity between neighbors (peer-to-peer) via a digital platform. Existing grids are used, but the customer can choose the seller. Requires an amendment to the Electricity Act. |
-| [→ Energy banks](./energibanker) | Municipal "energy banks" where households and companies can lend surplus capacity (batteries, electric cars, heated water tanks) to the grid during peak loads. Prevents capacity shortages. |
-| [→ Municipal energy councils](./kommunala-energirad) | Each municipality establishes an energy council with residents, business, and local grid owners. The council has veto power over new large-scale projects (wind power, power lines) that lack local acceptance. |
-| [→ Local grid fees](./lokala-natavgifter) | The electricity grid fee is determined locally by a user-cooperative board (not by the grid monopolist). Model from "municipal utility districts" in the USA. |
+| [Energy cooperatives](./energikooperativ) | Locally owned production, where residents and nearby companies own shares in wind power, solar parks or other production. |
+| [Energy sharing between neighbours](./grannhandel) | Pilot projects based on the new rules on energy sharing, for households, associations and small companies. |
+| [Local flexibility](./energibanker) | Services that gather households’ flexibility, for example charging of electric cars and heat pumps, and offer it to grid companies at times of high load. |
+| [Early local decisions](./kommunala-energirad) | Municipal energy planning that provides early and reasoned decisions on where new production can be built, combined with local benefit. |
+| [Locally owned electricity grids](./lokala-natavgifter) | Experiences from municipally and cooperatively owned electricity grids, and whether more such grids can be promoted. |
 
-## Implementation: from theory to practice
+## Objections
 
-**Phase 1 (1–3 years)** – Five municipalities (e.g., Piteå, Öland, Varberg, Borås, Åre) test energy cooperatives with a state start-up loan. A digital platform for peer-to-peer trading is piloted in a city district (e.g., Hammarby Sjöstad, Stockholm). Energy banks are installed in three local electricity grids.
-
-**Phase 2 (3–7 years)** – Municipal energy councils gain formal veto power via an amendment to the Environmental Code. Legislative changes enable peer-to-peer trading and differentiated grid fees. Five grid companies are transformed into cooperatives.
-
-**Phase 3 (7–15 years)** – Sweden reaches 100% renewables through a combination of central baseload (hydropower) and distributed flexibility (solar, wind, batteries, peer-to-peer trading). Local energy systems are interconnected but independent.
-
-## Expected resistance and answers
-
-| Concern | Response |
+| Objection | How the proposals need to address it |
 |---------|------|
-| "Vattenfall is state-owned—we cannot compete with ourselves" | Vattenfall must be technology-neutral and market-oriented. Cooperative competition forces Vattenfall to become more efficient. |
-| "Grid owners lose their monopoly—they will sabotage" | The grid monopoly is already inefficient. Cooperative grids in Germany and the USA have lower fees and higher customer satisfaction. |
-| "Peer-to-peer trading undermines grid stability" | The technology exists (blockchain, smart meters). The grid owner's role remains—peer-to-peer trading uses the same physical grid. |
-| "Municipal veto stops all wind power" | Municipalities already have veto power under the Planning and Building Act, but rarely use it. Formal veto power with clear criteria increases predictability. |
+| Local influence can stop necessary expansion | That is why local influence is combined with early decisions and shared benefit, instead of a stronger veto. |
+| Small-scale production is more expensive per kilowatt-hour | The proposals do not replace large-scale production, but can increase acceptance and flexibility. |
+| Electricity grids are natural monopolies | The revenue of grid companies is regulated by the Swedish Energy Markets Inspectorate regardless of owner. The form of ownership mainly affects who shares in the surplus and the influence. |
 
-## The Swedish advantage
+## Conclusion
 
-Sweden has **high trust** (enables cooperatives), **digital infrastructure** (smart electricity meters in all homes, BankID), **clean hydropower** (baseload), **municipal self-government** (enables local energy councils), and a **technically competent population**.
+Energy is, like housing, an area where the most local level already has great influence, and where that influence sometimes clashes with needs that extend far beyond the municipality. Subsidiarity here is about distributing benefit and decisions so that those affected locally have reason to say yes, while the system as a whole can be coordinated nationally. The proposals focus on local ownership, shared benefit, flexibility and early decisions.
 
-## Conclusion: choose between centralized conflicts and distributed collaboration
+### Three things you can do
 
-Today's energy system is not technically immature—it is **architecturally flawed**. Decisions are made at the wrong level: production centrally, consequences locally. The result is conflicts, appeals, and lost acceptance for the green transition.
+**If you are a municipal politician:** Find out how the municipality has used the municipal veto, and whether the municipality’s energy plan identifies where new production can be built.
 
-**The choice is simple**:
+**If you live in a tenant-owner association or an apartment building:** Investigate the possibility of sharing solar electricity within the property or with nearby buildings.
 
-  - Continue as today: More large-scale projects without local acceptance, longer lead times, and remaining price differences between north and south.
-  - Begin the transition: Energy cooperatives, peer-to-peer trading, energy banks, municipal energy councils, local grid fees.
+**If you own a house:** Find out whether your grid company or electricity trading company offers agreements on flexible use, for example controlled charging of your electric car.
 
-### Three things you can do tomorrow
+---
 
-**If you are a municipal politician**: Start an energy council—invite local companies, grid owners, and citizens. Map local resources (solar, wind, water, waste heat). Develop an energy plan that prioritizes local ownership.
+## Sources
 
-**If you are a homeowner**: Join a solar cell network (e.g., on Facebook or a local energy cooperative). Buy solar cells together with neighbors—lower price per unit. Start talking to your grid owner about selling surplus directly to neighbors.
+- Riksdag, [Committee on Finance report 2022/23:FiU21](https://data.riksdagen.se/dokument/HA01FiU21.html) (new target for electricity production)
+- Riksdag, [Prop. 2023/24:105 Long-term direction of energy policy](https://data.riksdagen.se/dokument/HB03105.html)
+- Riksdag, [Committee on Industry and Trade report 2025/26:NU20, Wind power in municipalities](https://data.riksdagen.se/dokument/HD01NU20)
+- Westander Climate and Energy for Swedish Wind Energy, [The municipal veto for onshore wind power 2020–2024](https://mb.cision.com/Public/155/4133892/876829f6f1b49359.pdf) (2025)
+- Swedish Tax Agency, [Micro-production of renewable electricity – private residence](https://www.skatteverket.se/privat/fastigheterbostad/mikroproduktionavfornybarel.4.12815e4f14a62bc048f41a7.html)
+- Swedish Energy Agency, [Energy sharing, presentation May 2026](https://www.energimyndigheten.se/499cb2/globalassets/energisystem-och-analys/energigemenskaper/presentation-energidelning-6-maj-2026.pdf) and [Energy communities, presentation January 2026](https://www.energimyndigheten.se/490ff4/globalassets/energisystem-och-analys/energigemenskaper/energigemenskaper---presentation-29-januari-2026.pdf)
+- Environmental Code, Chapter 16, Section 4
 
-**If you are a tenant or condominium owner**: Submit a motion to your housing association to install solar cells on the roof, battery storage in the basement, and to sign agreements on peer-to-peer trading with neighboring properties.
-
------
-
-*This analysis applies cybernetic principles (Ashby's law of requisite variety) to Swedish energy systems. For deeper measures, click on the links above.*
+*The page was revised in September 2026 after a fact check. Earlier versions contained information that could not be substantiated.*
