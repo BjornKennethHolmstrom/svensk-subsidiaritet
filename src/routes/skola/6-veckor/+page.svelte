@@ -15,10 +15,10 @@
       <h1 class="text-3xl font-bold mb-1">Systemtänkande & Subsidiaritet</h1>
       <p class="text-stone-500 text-sm">6 veckor • Samhällskunskap 1b</p>
     </div>
-    <a href="/downloads/skola-6-veckor.pdf" download class="hidden sm:inline-flex items-center px-4 py-2 bg-stone-100 dark:bg-stone-800 rounded-lg text-sm font-semibold hover:bg-stone-200 dark:hover:bg-stone-700 transition-colors">
+    <!-- <a href="/downloads/skola-6-veckor.pdf" download class="hidden sm:inline-flex items-center px-4 py-2 bg-stone-100 dark:bg-stone-800 rounded-lg text-sm font-semibold hover:bg-stone-200 dark:hover:bg-stone-700 transition-colors">
       <svg class="w-4 h-4 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" /></svg>
       Ladda ner Modul (PDF)
-    </a>
+    </a> -->
   </div>
 
   <article class="prose prose-stone dark:prose-invert prose-lg max-w-none prose-headings:text-blue-900 dark:prose-headings:text-blue-100 prose-a:text-blue-600">
