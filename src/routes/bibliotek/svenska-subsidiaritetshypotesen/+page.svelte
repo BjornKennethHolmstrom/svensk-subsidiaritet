@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { locale, t } from '$lib/stores/i18n';
+  import { locale } from '$lib/stores/i18n';
   import { fade } from 'svelte/transition';
   import RevisionNotice from '$lib/components/RevisionNotice.svelte';
 
@@ -99,6 +99,10 @@
     : '/downloads/Swedish-Subsidiarity-Hypothesis-2026.pdf';
 </script>
 
+<svelte:head>
+  <meta name="robots" content="noindex" />
+</svelte:head>
+
 <svelte:window on:scroll={onScroll} />
 
 <div class="mx-auto max-w-7xl px-4 py-12 md:py-20 lg:flex lg:gap-12" in:fade>
@@ -108,7 +112,7 @@
       
       <div class="rounded-lg border border-stone-200 bg-stone-50 p-4">
         <div class="mb-4 text-xs font-bold uppercase tracking-widest text-stone-400">
-            {$locale === 'sv' ? 'Tidig positionstext' : 'Early position paper'}
+            {$locale === 'sv' ? 'Arkiverad positionstext' : 'Archived position paper'}
         </div>
         <a 
           href={pdfLink}
@@ -120,8 +124,8 @@
         </a>
         <p class="mt-3 text-xs leading-snug text-stone-500">
           {$locale === 'sv'
-            ? 'PDF:en är den ursprungliga versionen, utan den här reservationen.'
-            : 'The PDF is the original version, without this caveat.'}
+            ? 'PDF:en är den ursprungliga, oförändrade versionen.'
+            : 'The PDF is the original, unchanged version.'}
         </p>
       </div>
 
@@ -149,7 +153,7 @@
     
     <div class="lg:hidden mb-8">
       <div class="mb-2 text-xs font-bold uppercase tracking-widest text-stone-400">
-        {$locale === 'sv' ? 'Tidig positionstext' : 'Early position paper'}
+        {$locale === 'sv' ? 'Arkiverad positionstext' : 'Archived position paper'}
       </div>
       <h1 class="text-3xl font-bold font-sans text-manifesto-black leading-tight">
         {$locale === 'sv' ? 'Den svenska subsidiaritetshypotesen' : 'The Swedish Subsidiarity Hypothesis'}
@@ -175,31 +179,27 @@
     </header>
 
     {#if $locale === 'sv'}
-      <RevisionNotice heading="Den här texten revideras">
+      <RevisionNotice heading="Arkiverad text">
         <p>
-          Vitboken skrevs innan projektet hade sina nuvarande
-          <a href="/evidens/sa-vet-vi/evidensstandarder">evidensstandarder</a>, och den är mer tvärsäker än
-          vi står för i dag. Påståenden om att centraliserad styrning är ”matematiskt oförmögen” eller att
-          misslyckande är ”oundvikligt” går längre än vad Ashbys lag och det empiriska underlaget bär, och
-          flera siffror i introduktionen behöver kontrolleras.
+          Det här är projektets första positionstext. Den har ersatts av
+          <a href="/bibliotek/ratt-niva">Rätt nivå</a>, som bygger på en granskning av projektets analyser hösten 2026.
         </p>
         <p>
-          Läs den som en hypotes att pröva, inte som en slutsats. Det som talar emot den finns samlat under
-          <a href="/evidens/syntes/motevidens">motevidens</a>.
+          Granskningen visade att flera uppgifter i texten inte stämde, och att dess huvudtes, att Sveriges problem
+          i grunden beror på centraliserad styrning, inte håller i sin allmänna form. Texten finns kvar oförändrad
+          för att visa hur projektets tänkande har utvecklats. Läs den inte som projektets nuvarande hållning.
         </p>
       </RevisionNotice>
     {:else}
-      <RevisionNotice heading="This text is being revised">
+      <RevisionNotice heading="Archived text">
         <p>
-          This white paper was written before the project adopted its current
-          <a href="/evidens/sa-vet-vi/evidensstandarder">evidence standards</a>, and it is more certain than we
-          are today. Claims that centralised governance is "mathematically incapable" or that failure is
-          "inevitable" go further than Ashby's law and the empirical record support, and several figures in
-          the introduction need checking.
+          This is the project's first position paper. It has been replaced by
+          <a href="/bibliotek/ratt-niva">The Right Level</a>, which is based on a review of the project's analyses in autumn 2026.
         </p>
         <p>
-          Read it as a hypothesis to test, not a conclusion. What counts against it is collected under
-          <a href="/evidens/syntes/motevidens">counter-evidence</a>.
+          The review found that several claims in this text were incorrect, and that its main thesis, that Sweden's
+          problems stem fundamentally from centralized governance, does not hold in its general form. The text is kept
+          unchanged to show how the project's thinking has developed. Do not read it as the project's current position.
         </p>
       </RevisionNotice>
     {/if}
@@ -235,21 +235,16 @@
 
     <div class="mt-24 rounded-xl bg-stone-100 p-8 text-center">
       <h3 class="font-sans font-bold text-manifesto-black mb-2">
-        {$locale === 'sv' ? 'Håller du med?' : 'Do you agree?'}
+        {$locale === 'sv' ? 'Läs den nya texten' : 'Read the new text'}
       </h3>
       <p class="font-serif text-stone-600 mb-6">
-        {$locale === 'sv' 
-          ? 'Gå med i diskussionen eller starta en studiecirkel.' 
-          : 'Join the discussion or start a study circle.'}
+        {$locale === 'sv'
+          ? 'Rätt nivå ersätter den här texten, med fem prövbara hypoteser.'
+          : 'The Right Level replaces this text, with five testable hypotheses.'}
       </p>
-      <div class="flex justify-center gap-4">
-        <a href="/kontakt" class="rounded-md bg-manifesto-black px-6 py-3 text-sm font-bold text-white hover:bg-stone-800">
-            {$t.footer.contact}
-        </a>
-        <a href="/verktyg" class="rounded-md border border-stone-300 bg-white px-6 py-3 text-sm font-bold text-stone-700 hover:bg-stone-50">
-            {$locale === 'sv' ? 'Se verktyg' : 'View Tools'}
-        </a>
-      </div>
+      <a href="/bibliotek/ratt-niva" class="rounded-md bg-manifesto-black px-6 py-3 text-sm font-bold text-white hover:bg-stone-800">
+        {$locale === 'sv' ? 'Till Rätt nivå →' : 'To The Right Level →'}
+      </a>
     </div>
 
   </main>

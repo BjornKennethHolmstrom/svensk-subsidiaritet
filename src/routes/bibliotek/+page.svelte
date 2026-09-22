@@ -22,6 +22,36 @@
     </p>
   </header>
 
+  <!-- Current position paper -->
+  <section class="mb-16">
+    <article class="flex flex-col gap-4 rounded-xl border border-stone-300 bg-white p-6 md:flex-row md:gap-8">
+      <div class="flex-shrink-0 md:w-32">
+        <div class="mb-3 font-mono text-xs text-stone-400">2026</div>
+        <span class="inline-block rounded bg-stone-100 px-2 py-1 text-xs font-semibold text-stone-700">
+          {lang === 'sv' ? 'Positionstext' : 'Position paper'}
+        </span>
+      </div>
+      <div>
+        <h3 class="mb-1 text-2xl font-bold text-stone-900 hover:underline">
+          <a href="/bibliotek/ratt-niva">{lang === 'sv' ? 'Rätt nivå' : 'The Right Level'}</a>
+        </h3>
+        <p class="mb-3 font-serif text-lg text-stone-600">
+          {lang === 'sv'
+            ? 'En reviderad hypotes om subsidiaritet och styrning i Sverige'
+            : 'A revised hypothesis on subsidiarity and governance in Sweden'}
+        </p>
+        <p class="mb-5 font-serif leading-relaxed text-stone-600">
+          {lang === 'sv'
+            ? 'Projektets positionstext efter en granskning av tio svenska samhällssystem: subsidiaritet som att söka rätt nivå, fyra återkommande mönster och fem hypoteser som kan prövas.'
+            : 'The project’s position paper after a review of ten Swedish public systems: subsidiarity as finding the right level, four recurring patterns and five testable hypotheses.'}
+        </p>
+        <a href="/bibliotek/ratt-niva" class="text-sm font-bold text-stone-900 underline decoration-stone-300 underline-offset-4 hover:decoration-stone-900">
+          {lang === 'sv' ? 'Läs online' : 'Read online'}
+        </a>
+      </div>
+    </article>
+  </section>
+
   <!-- GSI cross-link (replaces the old LibrarySection) -->
   <section class="mb-16">
     <a 
@@ -46,46 +76,6 @@
       </div>
       <span class="text-stone-300 group-hover:text-black transition-colors text-lg">→</span>
     </a>
-  </section>
-
-  <!-- Hypothesis paper: kept but demoted while under revision -->
-  <section class="mb-16">
-    <article class="flex flex-col gap-4 rounded-xl border border-stone-200 bg-stone-50 p-6 md:flex-row md:gap-8">
-      <div class="flex-shrink-0 md:w-32">
-        <div class="mb-3 font-mono text-xs text-stone-400">2026</div>
-        <span class="inline-block rounded bg-amber-100 px-2 py-1 text-xs font-semibold text-amber-800">
-          {lang === 'sv' ? 'Under revidering' : 'Under revision'}
-        </span>
-      </div>
-
-      <div>
-        <div class="mb-1 text-sm text-stone-500">
-          {lang === 'sv' ? 'Tidig positionstext' : 'Early position paper'}
-        </div>
-        <h3 class="mb-3 text-2xl font-bold text-stone-800 hover:underline">
-          <a href="/bibliotek/svenska-subsidiaritetshypotesen">
-            {lang === 'sv' ? 'Den svenska subsidiaritetshypotesen' : 'The Swedish Subsidiarity Hypothesis'}
-          </a>
-        </h3>
-        <p class="mb-5 font-serif leading-relaxed text-stone-600">
-          {lang === 'sv'
-            ? 'Projektets första text om centraliseringens kostnader och ett mer distribuerat Sverige. Den skrevs innan våra nuvarande evidensstandarder och är mer tvärsäker än vi står för i dag. Den revideras.'
-            : 'The project\'s first text on the costs of centralization and a more distributed Sweden. It was written before our current evidence standards and is more certain than we are today. It is being revised.'}
-        </p>
-        <div class="flex flex-wrap items-center gap-6 text-sm">
-          <a href="/bibliotek/svenska-subsidiaritetshypotesen" class="font-bold text-stone-800 underline decoration-stone-300 underline-offset-4 hover:decoration-stone-800">
-            {lang === 'sv' ? 'Läs online' : 'Read online'}
-          </a>
-          <a
-            href={lang === 'sv' ? '/downloads/Svensk-Subsidiaritetshypotes-2026.pdf' : '/downloads/Swedish-Subsidiarity-Hypothesis-2026.pdf'}
-            download
-            class="text-stone-500 hover:text-stone-900"
-          >
-            {lang === 'sv' ? 'Ladda ner PDF (originalversion)' : 'Download PDF (original version)'}
-          </a>
-        </div>
-      </div>
-    </article>
   </section>
 
   <LibrarySection 
@@ -191,5 +181,30 @@
       </article>
     {/each}
   </LibrarySection>
+
+  <!-- Archive -->
+  <section class="mt-16 border-t border-stone-200 pt-10">
+    <h2 class="mb-6 font-sans text-xl font-bold text-stone-900">{lang === 'sv' ? 'Arkiv' : 'Archive'}</h2>
+    <article class="flex flex-col gap-4 rounded-xl border border-stone-200 bg-stone-50 p-6 md:flex-row md:gap-8">
+      <div class="flex-shrink-0 md:w-32">
+        <div class="mb-3 font-mono text-xs text-stone-400">2026</div>
+        <span class="inline-block rounded bg-stone-200 px-2 py-1 text-xs font-semibold text-stone-700">
+          {lang === 'sv' ? 'Arkiverad' : 'Archived'}
+        </span>
+      </div>
+      <div>
+        <h3 class="mb-3 text-xl font-bold text-stone-700 hover:underline">
+          <a href="/bibliotek/svenska-subsidiaritetshypotesen">
+            {lang === 'sv' ? 'Den svenska subsidiaritetshypotesen' : 'The Swedish Subsidiarity Hypothesis'}
+          </a>
+        </h3>
+        <p class="font-serif leading-relaxed text-stone-600">
+          {lang === 'sv'
+            ? 'Projektets första positionstext, ersatt av Rätt nivå. Den finns kvar oförändrad för att visa hur projektets tänkande har utvecklats, men flera av dess uppgifter och dess huvudtes höll inte vid granskningen.'
+            : 'The project’s first position paper, replaced by The Right Level. It is kept unchanged to show how the project’s thinking has developed, but several of its claims and its main thesis did not hold up under review.'}
+        </p>
+      </div>
+    </article>
+  </section>
 
 </div>

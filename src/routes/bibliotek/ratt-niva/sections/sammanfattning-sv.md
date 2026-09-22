@@ -1,0 +1,7 @@
+Den här texten ersätter projektets första positionstext, *Den svenska subsidiaritetshypotesen*. Den gamla texten hävdade att Sveriges problem i grunden beror på centraliserad styrning, som den beskrev som "matematiskt oförmögen" att hantera ett komplext samhälle. När vi granskade påståendena system för system höll den diagnosen inte. Sverige är redan ett av de mest decentraliserade länderna i flera avseenden: kommunerna har planmonopol, skolan är kommunaliserad, sjukvården är regional och mer än hälften av de offentliga kulturutgifterna beslutas lokalt och regionalt.
+
+De återkommande problemen vi fann ligger på andra ställen. De finns i gränssnitten mellan nivåer, där ansvaret för samma person eller fråga är delat. De finns där de som redan bor på en plats beslutar om sådant som påverkar många fler, som bostäder och vindkraft. De finns där handlingsutrymmet och kontinuiteten nära den enskilda människan är för svaga, som i hemtjänsten. Och de finns där lokal frihet saknar nationella golv, som i skolans ökande skillnader.
+
+Subsidiaritet betyder i den här texten inte decentralisering, utan att söka rätt nivå: så nära som möjligt, så högt som nödvändigt. Principen pekar åt båda hållen. Ashbys lag om nödvändig variation används som en lins för att ställa frågor, inte som ett bevis.
+
+Texten avslutas med fem prövbara hypoteser, var och en med en beskrivning av vad som skulle tala emot den. Syftet är att projektets arbete framöver ska kunna visa om vi har fel.
