@@ -8,9 +8,9 @@ Den här sidan samlar evidens som utmanar subsidiaritetsantaganden, decentralise
 
 ## Mot en generell decentraliseringspreferens
 
-**Utgiftsevidens.** En geokodad difference-in-differences-studie av Sveriges kommunsammanslagningar (Harjunen, Saarimaa & Tukiainen) fann **ingen total effekt på kommunala utgifter efter åtta år** — direkt mot idén att sammanslagning tillförlitligt sparar pengar. En separat studie (Hanes 2014) fann att 1952 års sammanslagningsreform hade en **negativ** effekt på utgifterna specifikt för kommuner som förblev under en kritisk storlek efteråt. Tillsammans motsäger dessa direkt "större är alltid billigare", men de stödjer lika lite "mindre är alltid billigare" — se **[Fall S1](/evidens/fall/sverige/kommunsammanslagningar/)**.
+**Utgiftsevidens.** Evidensen om kommunsammanslagningars kostnadseffekter är blandad. En svensk studie av 1952 års reform (Hanes 2015) fann tecken på stordriftsfördelar så länge de nya kommunerna inte översteg en viss storlek, men när hänsyn togs till faktorer som samtidigt påverkade vilka kommuner som slogs ihop var effekterna inte längre statistiskt säkerställda. En studie av finska kommunsammanslagningar (Harjunen, Saarimaa & Tukiainen 2021) fann ingen effekt på de totala kommunala utgifterna efter åtta år. Tillsammans ger de inget stöd för "större är alltid billigare", men lika lite för "mindre är alltid billigare" — se **[Fall S1](/evidens/fall/sverige/kommunsammanslagningar/)**.
 
-**Representationskostnader.** Samma sammanslagningsreformer gav upphov till mätbar, ojämlik geografisk representation inom sammanslagna kommuner, där mindre, sämre representerade tidigare kommuner förlorade offentliga jobb relativt bättre representerade områden. Det här är direkt evidens **mot** att behandla konsolidering som en gratis kapacitetsvinst.
+**Representationskostnader.** I den finska studien fick mindre tidigare kommuner ofta svag representation i den nya kommunens fullmäktige, och de förlorade kommunala arbetstillfällen inom administration samt vård och omsorg jämfört med bättre representerade delar av samma kommun. I Sverige minskade antalet kommunala förtroendevalda kraftigt i samband med sammanslagningarna, från ungefär 225 000 till cirka 42 000 mellan 1952 och 1974. Det talar emot att behandla konsolidering som en gratis kapacitetsvinst, även om den finska studien inte direkt kan överföras till svenska förhållanden.
 
 ## Mot en generell berättelse om kapacitetsuppbyggnad
 
@@ -44,3 +44,5 @@ Vi skulle behandla följande, om det påträffades, som betydande utmaningar mot
 ## En metodologisk anmärkning
 
 Vi undviker medvetet att klassificera fall som enkelt "för subsidiaritet" eller "mot subsidiaritet". Vi använder: **lokal fördel / central fördel / hybridfördel / oklart.** Det är mer informativt och mindre ideologiskt laddat — och det är därför **[Fall S1](/evidens/fall/sverige/kommunsammanslagningar/)** till exempel inte klassas som vare sig en subsidiaritetsframgång eller ett misslyckande, utan som ett fall med genuint blandad och flerdimensionell evidens.
+
+*Rättelse september 2026: Tidigare versioner av den här sidan beskrev studien av Harjunen, Saarimaa och Tukiainen som en studie av svenska kommunsammanslagningar. Den gäller finska sammanslagningar. Beskrivningen av Hanes studie har också preciserats.*

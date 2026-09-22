@@ -13,7 +13,7 @@
     <h1 class="mb-6 font-sans text-4xl font-bold text-manifesto-black">
       {$t.nav.library}
     </h1>
-    <p class="font-serif text-xl text-stone-600 dark:text-stone-400 leading-relaxed">
+    <p class="font-serif text-xl text-stone-600 leading-relaxed">
       {#if lang === 'sv'}
         Forskning och teori bakom svensk subsidiaritet. Från vårt eget arbete till internationell forskning och svensk akademisk grund.
       {:else}
@@ -33,15 +33,15 @@
       </div>
       <div class="flex-1">
         <div class="font-sans text-xs font-bold uppercase tracking-widest text-sky-600 mb-1">
-          {lang === 'sv' ? 'Ramverk · Beta v3.0' : 'Framework · Beta v3.0'}
+          {lang === 'sv' ? 'Ramverk · v4.0' : 'Framework · v4.0'}
         </div>
         <h3 class="font-sans text-xl font-bold text-manifesto-black group-hover:underline">
           Global Subsidiarity Index (GSI)
         </h3>
         <p class="text-sm text-stone-500 mt-1">
           {lang === 'sv'
-            ? 'Det universella ramverket för att mäta beslutsavstånd och resiliensarkitektur. Ramverk, dokumentation och nedladdningsbara PDF:er.'
-            : 'The universal framework for measuring decision distance and resilience architecture. Framework, documentation, and downloadable PDFs.'}
+            ? 'Ett ramverk för att mäta beslutsavstånd och resiliensarkitektur. Ramverk, dokumentation och nedladdningsbara PDF:er.'
+            : 'A framework for measuring decision distance and resilience architecture. Framework, documentation, and downloadable PDFs.'}
         </p>
       </div>
       <span class="text-stone-300 group-hover:text-black transition-colors text-lg">→</span>
@@ -50,36 +50,36 @@
 
   <!-- Hypothesis paper: kept but demoted while under revision -->
   <section class="mb-16">
-    <article class="flex flex-col gap-4 rounded-xl border border-stone-200 bg-stone-50 p-6 md:flex-row md:gap-8 dark:border-stone-700 dark:bg-stone-900/40">
+    <article class="flex flex-col gap-4 rounded-xl border border-stone-200 bg-stone-50 p-6 md:flex-row md:gap-8">
       <div class="flex-shrink-0 md:w-32">
         <div class="mb-3 font-mono text-xs text-stone-400">2026</div>
-        <span class="inline-block rounded bg-amber-100 px-2 py-1 text-xs font-semibold text-amber-800 dark:bg-amber-900/40 dark:text-amber-300">
+        <span class="inline-block rounded bg-amber-100 px-2 py-1 text-xs font-semibold text-amber-800">
           {lang === 'sv' ? 'Under revidering' : 'Under revision'}
         </span>
       </div>
 
       <div>
-        <div class="mb-1 text-sm text-stone-500 dark:text-stone-400">
+        <div class="mb-1 text-sm text-stone-500">
           {lang === 'sv' ? 'Tidig positionstext' : 'Early position paper'}
         </div>
-        <h3 class="mb-3 text-2xl font-bold text-stone-800 hover:underline dark:text-stone-100">
+        <h3 class="mb-3 text-2xl font-bold text-stone-800 hover:underline">
           <a href="/bibliotek/svenska-subsidiaritetshypotesen">
             {lang === 'sv' ? 'Den svenska subsidiaritetshypotesen' : 'The Swedish Subsidiarity Hypothesis'}
           </a>
         </h3>
-        <p class="mb-5 font-serif leading-relaxed text-stone-600 dark:text-stone-300">
+        <p class="mb-5 font-serif leading-relaxed text-stone-600">
           {lang === 'sv'
             ? 'Projektets första text om centraliseringens kostnader och ett mer distribuerat Sverige. Den skrevs innan våra nuvarande evidensstandarder och är mer tvärsäker än vi står för i dag. Den revideras.'
             : 'The project\'s first text on the costs of centralization and a more distributed Sweden. It was written before our current evidence standards and is more certain than we are today. It is being revised.'}
         </p>
         <div class="flex flex-wrap items-center gap-6 text-sm">
-          <a href="/bibliotek/svenska-subsidiaritetshypotesen" class="font-bold text-stone-800 underline decoration-stone-300 underline-offset-4 hover:decoration-stone-800 dark:text-stone-100">
+          <a href="/bibliotek/svenska-subsidiaritetshypotesen" class="font-bold text-stone-800 underline decoration-stone-300 underline-offset-4 hover:decoration-stone-800">
             {lang === 'sv' ? 'Läs online' : 'Read online'}
           </a>
           <a
             href={lang === 'sv' ? '/downloads/Svensk-Subsidiaritetshypotes-2026.pdf' : '/downloads/Swedish-Subsidiarity-Hypothesis-2026.pdf'}
             download
-            class="text-stone-500 hover:text-stone-900 dark:hover:text-stone-100"
+            class="text-stone-500 hover:text-stone-900"
           >
             {lang === 'sv' ? 'Ladda ner PDF (originalversion)' : 'Download PDF (original version)'}
           </a>
@@ -94,14 +94,14 @@
     count={swedishResearch.length}
     isOpen={true}
   >
-    <div class="col-span-full bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-lg p-6 mb-4">
-      <h3 class="font-bold text-sm uppercase tracking-wider text-blue-900 dark:text-blue-300 mb-2">
-        {lang === 'sv' ? '📚 Om akademiska referenser' : '📚 About Academic References'}
+    <div class="col-span-full mb-4 rounded-lg border border-stone-200 bg-stone-50 p-6">
+      <h3 class="mb-2 font-sans text-sm font-bold text-stone-900">
+        {lang === 'sv' ? '📚 Om akademiska referenser' : '📚 About academic references'}
       </h3>
-      <p class="text-sm text-blue-900 dark:text-blue-200 leading-relaxed">
+      <p class="text-sm leading-relaxed text-stone-700">
         {lang === 'sv'
-          ? 'Nedan listar vi svensk akademisk forskning som behandlar subsidiaritet, requisite variety och decentraliserad styrning. Vi citerar deras publicerade arbete i enlighet med akademisk praxis.'
-          : 'Below we list Swedish academic research on subsidiarity, requisite variety, and decentralized governance. We cite their published work in accordance with academic practice.'}
+          ? 'Nedan listar vi svensk akademisk forskning som behandlar subsidiaritet, nödvändig variation och decentraliserad styrning. Vi citerar forskarnas publicerade arbete i enlighet med akademisk praxis. Att vi hänvisar till en studie innebär inte att forskarna delar våra slutsatser.'
+          : 'Below we list Swedish academic research on subsidiarity, requisite variety and decentralized governance. We cite the researchers\' published work in accordance with academic practice. Citing a study does not mean its authors share our conclusions.'}
       </p>
     </div>
 

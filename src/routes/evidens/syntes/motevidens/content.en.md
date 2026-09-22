@@ -8,9 +8,9 @@ This page collects evidence that challenges subsidiarity assumptions, decentrali
 
 ## Against a general decentralization preference
 
-**Expenditure evidence.** A geocoded difference-in-differences study of Sweden's municipal mergers (Harjunen, Saarimaa & Tukiainen) found **no overall effect on municipal expenditure after eight years** — directly against the idea that consolidation reliably saves money. A separate study (Hanes 2014) found the 1952 merger reform had a **negative** effect on expenditure specifically for municipalities that remained below a critical size afterward. Together these directly contradict "larger is always cheaper," but they equally fail to support "smaller is always cheaper" — see [Case S1](/evidens/fall/sverige/kommunsammanslagningar/).
+**Expenditure evidence.** The evidence on the cost effects of municipal mergers is mixed. A Swedish study of the 1952 reform (Hanes 2015) found signs of economies of scale as long as the new municipalities did not exceed a certain size, but when account was taken of factors that simultaneously affected which municipalities merged, the effects were no longer statistically significant. A study of Finnish municipal mergers (Harjunen, Saarimaa & Tukiainen 2021) found no effect on total municipal expenditure after eight years. Together they provide no support for "larger is always cheaper," but equally little for "smaller is always cheaper" — see **[Case S1](/evidens/fall/sverige/kommunsammanslagningar/)**.
 
-**Representation costs.** The same merger reforms produced measurable, unequal geographic representation within merged municipalities, with smaller, less-represented former municipalities losing local public-sector jobs relative to better-represented areas. This is direct evidence *against* treating consolidation as a free capacity gain.
+**Representation costs.** In the Finnish study, smaller former municipalities often received weak representation on the new municipality's council, and they lost municipal jobs in administration and in care and social services compared with better-represented parts of the same municipality. In Sweden, the number of municipal elected officials decreased sharply in connection with the mergers, from approximately 225,000 to around 42,000 between 1952 and 1974. This argues against treating consolidation as a free capacity gain, although the Finnish study cannot be directly transferred to Swedish conditions.
 
 ## Against a general capacity-building narrative
 
@@ -44,3 +44,5 @@ We would treat the following, if found, as significant challenges to the project
 ## A methodological note
 
 We deliberately avoid classifying cases as simply "pro-subsidiarity" or "anti-subsidiarity." We use: **local advantage / central advantage / hybrid advantage / unclear.** That's more informative and less ideologically loaded — and it's why, for example, [Case S1](/evidens/fall/sverige/kommunsammanslagningar/) is not filed as either a subsidiarity success or failure, but as a case with genuinely mixed and multidimensional evidence.
+
+*Correction September 2026: Earlier versions of this page described the study by Harjunen, Saarimaa and Tukiainen as a study of Swedish municipal mergers. It concerns Finnish mergers. The description of Hanes's study has also been made more precise.*

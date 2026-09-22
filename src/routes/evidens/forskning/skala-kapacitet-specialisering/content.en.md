@@ -33,7 +33,7 @@
 
 ## What the evidence shows
 
-The clearest capacity evidence in the corpus comes from **[municipal mergers (S1)](/evidens/fall/sverige/kommunsammanslagningar/)**: average population per municipality rose from 1,583 to 4,004 after the 1952 reform, and municipalities under 1,000 inhabitants fell from 1,226 to just three — a genuine capacity increase by any administrative measure. But the same case's expenditure evidence directly contradicts a simple "bigger is cheaper" story: a geocoded difference-in-differences study found no overall effect on municipal expenditure after eight years, and a separate study found the reform had a *negative* effect on expenditure specifically for municipalities that remained below a critical size afterward.
+The clearest capacity evidence in the corpus comes from **[municipal mergers (S1)](/evidens/fall/sverige/kommunsammanslagningar/)**: average population per municipality rose from 1,583 to 4,004 after the 1952 reform, and municipalities under 1,000 inhabitants fell from 1,226 to just three — a genuine capacity increase by any administrative measure. But the expenditure evidence does not support a simple "bigger is cheaper" story: a study of the 1952 reform found signs of economies of scale up to a certain size, but the results were not statistically significant when account was taken of which municipalities merged (Hanes 2015), and a study of Finnish municipal mergers found no effect on total expenditure after eight years (Harjunen, Saarimaa & Tukiainen 2021).
 
 **[Intermunicipal cooperation (S5)](/evidens/fall/sverige/mellankommunal-samverkan/)** provides the sharpest evidence that capacity and specialization gains do not require merger at all: municipalities cooperate heavily in specialized, technical or regulatory functions (environmental enforcement, emergency services, procurement, IT, legal competence) while rarely cooperating in large, continuous, citizen-facing functions (primary school, elderly care). And where S5 does show cost effects, they run against the "scale saves money" intuition too: cooperation tends to improve capacity, specialization and resilience rather than reduce costs — the mechanism looks more like *slower future cost growth from better capacity* than *immediate savings*.
 
@@ -50,13 +50,13 @@ The clearest capacity evidence in the corpus comes from **[municipal mergers (S1
 ## Where findings diverge
 
 - Whether merger or cooperation is the better mechanism for achieving capacity gains depends heavily on the specific function — the corpus doesn't yet support a general ranking.
-- Cost effects of scale appear non-linear and size-dependent (per S1's Hanes 2014 finding) rather than uniformly positive or negative.
+- The evidence on the cost effects of scale is uncertain: Swedish results suggest economies of scale up to a certain size but are not robust, and Finnish evidence shows no total effect (see S1).
 
 ---
 
 ## Counterevidence
 
-- Direct evidence against "larger is cheaper": no aggregate expenditure effect from Sweden's largest-ever municipal consolidation (S1), and a documented negative effect for municipalities that remained small after merging.
+- No certain support for "larger is cheaper": the evidence from the 1952 reform is not statistically significant in the most robust analysis (Hanes 2015), and Finnish evidence shows no aggregate expenditure effect (see S1).
 - Cooperation (S5) achieving specialization gains without merger directly challenges the assumption that scale benefits require jurisdictional consolidation.
 
 ---

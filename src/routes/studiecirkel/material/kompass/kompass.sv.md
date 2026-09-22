@@ -4,7 +4,7 @@ titleEn: Proximity Compass
 session: 2
 ---
 
-## System vi analyserar
+## System vi undersöker
 
 **Skriv vilket system ni valt:**
 
@@ -12,45 +12,36 @@ _________________________________________________________________
 
 ---
 
-## De tre hörnen
+## Tre frågor
 
-### 1. MAKT (Var fattas beslut?)
+De tre frågorna besvaras var för sig. Ett system kan ha besluten långt bort men ändå vara robust, eller ha besluten nära men vara sårbart.
 
-**Skala:** Centralt (Stockholm/EU) ←→ Lokalt (här)
+### 1. Beslut – var fattas besluten?
 
 - Vem bestämmer budgeten?
 - Vem bestämmer reglerna?
-- På vilken nivå fattas beslut?
+- Fattas olika delar av besluten på olika nivåer?
 
-**Markering:** Centralt ☐☐☐☐☐☐☐☐☐☐ Lokalt
+**Markering:** Nationellt/EU ☐☐☐☐☐☐☐☐☐☐ Lokalt/nära
 
----
+### 2. Kunskap – vems kunskap används?
 
-### 2. KUNSKAP (Vems expertis räknas?)
+- Vilken kunskap lyssnar systemet på: formell expertis, personalens erfarenhet, brukarnas kunskap?
+- Finns det kunskap som går förlorad?
 
-**Skala:** Expert (certifikat) ←→ Lokal (erfarenhet)
+**Markering:** Formell expertis ☐☐☐☐☐☐☐☐☐☐ Erfarenhet och lokal kännedom
 
-- Vems kunskap lyssnar systemet på?
-- Vems röst räknas inte?
-- Vilken typ av kunskap krävs?
+### 3. Resiliens – hur klarar systemet störningar?
 
-**Markering:** Expert ☐☐☐☐☐☐☐☐☐☐ Lokal
-
----
-
-### 3. RESILIENS (Hur sårbart är systemet?)
-
-**Skala:** Sårbart (en lösning) ←→ Robust (många lösningar)
-
-- Om detta slutar fungera, vad händer?
-- Finns det alternativ?
-- Hur beroende är vi?
+- Vad händer om något slutar fungera?
+- Finns det reservvägar eller alternativ?
+- Vem har resurserna att klara en större kris?
 
 **Markering:** Sårbart ☐☐☐☐☐☐☐☐☐☐ Robust
 
 ---
 
-## Rita din kompass
+## Rita er kompass
 
 <div style="margin: 2rem auto; max-width: 500px;">
 
@@ -60,20 +51,20 @@ _________________________________________________________________
 
 ---
 
-## Vad säger formen?
+## Pröva er analys
 
-**Analysera din kompass:**
-
-- **Spetsig uppåt** = Centraliserad (makten sitter långt borta, expert-kunskap dominerar, systemet är sårbart)
-
-- **Bred nedåt** = Lokal/distribuerad (makten sitter nära, lokal kunskap räknas, många alternativ finns)
-
-**Era anteckningar:**
+**Vad gör systemet bra på den nivå där det ligger i dag?**
 
 _________________________________________________________________
 
-_________________________________________________________________
+**Vad skulle kunna bli bättre om beslutet flyttades närmare?**
 
 _________________________________________________________________
+
+**Vad skulle kunna gå förlorat, och vem skulle kunna missgynnas?**
+
+_________________________________________________________________
+
+**Finns det något som i stället borde skötas på en högre nivå?**
 
 _________________________________________________________________

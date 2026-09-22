@@ -1,149 +1,90 @@
 ---
-titleSv: Subsidiaritetsexempel
-titleEn: Subsidiarity examples
+titleSv: Exempelkort
+titleEn: Example cards
 session: 3
 ---
 
-# SUBSIDIARITY EXAMPLES - Discussion Cards
+# Example cards
+
+**Instructions for the study circle leader:** Hand out one card per group and make sure at least one group gets card 6. Allow 15 minutes for discussion and ask each group to report for 2–3 minutes.
+
+The cards describe types of activities that exist in Sweden. Feel free to find out if there is anything similar where you live.
 
 ---
 
-## CARD 1: FOOD GUILDS (Borlänge, Sweden)
+## Card 1: REKO rings
 
-### What it is:
+### What it is
+Local groups where consumers order directly from nearby producers, often via Facebook, and collect the goods at a set time and place. The model comes from Finland and now exists in many places in Sweden.
 
-50 households join together and buy food directly from local farmers. Every week "food bags" are delivered to a central point. The members share the cost.
-
-### How it works:
-
-* **Organization:** 3-5 people handle procurement and logistics.
-* **For the farmers:** Better pay (no middlemen).
-* **For the consumers:** Save 20-30% compared to the grocery store (ICA).
-* **Content:** Everything is seasonal and local.
-
-### Subsidiarity Principle:
-
-* **POWER:** With the members (they decide what is bought).
-* **KNOWLEDGE:** The farmer knows what is in season, the members know what they need.
-* **RESILIENCE:** If the grocery store closes, alternatives exist; several local farmers instead of a central warehouse.
-
-### Discussion Questions:
-
-1. Are there local farmers here you could contact?
-2. Does anyone of you know someone who grows or produces food?
-3. Would you be willing to eat more seasonally to get cheaper food?
+### Questions
+1. What do producers and buyers gain from it, compared with shopping in a store?
+2. Which goods are suitable, and which are not?
+3. What happens if the person who administers the group quits?
 
 ---
 
-## CARD 2: NEIGHBORHOOD HOUSE (Vivalla, Örebro)
+## Card 2: Fritidsbanken (Recreation Bank)
 
-### What it is:
+### What it is
+A "library" for sports and leisure equipment, where you can borrow skis, skates, life jackets and other things free of charge. Fritidsbanken exists in many places and is often run by associations or municipalities.
 
-A neighborhood has a common "storage" where everyone can borrow tools, lawnmowers, toys, skis, etc. Instead of 50 families owning 50 drills, they own 3 together.
-
-### How it works:
-
-* **Premises:** The association rents a basement space.
-* **Content:** Members contribute things they don't use often.
-* **Booking:** Digital calendar or a list on the door.
-* **Cost:** Annual fee approx. 500 SEK/family.
-
-### Subsidiarity Principle:
-
-* **POWER:** With the neighbors (they decide rules and what is allowed there).
-* **KNOWLEDGE:** Someone who can fix stuff becomes "storage host".
-* **RESILIENCE:** Less dependent on stores; can borrow from neighbors.
-
-### Discussion Questions:
-
-1. Is there an empty room or basement in your area?
-2. What would you like to share instead of everyone owning it?
-3. What things do you own that you use less than 10 times a year?
+### Questions
+1. What would you like to be able to borrow instead of buying?
+2. Who should run something like this: an association, the municipality, or both together?
+3. What is required for it to work over time?
 
 ---
 
-## CARD 3: SAFETY RINGS (Rinkeby, Stockholm)
+## Card 3: Night walks and neighbourhood watch
 
-### What it is:
+### What it is
+Adults who walk around the area on evenings and weekends to be there for young people, and neighbours who cooperate to prevent burglaries. Both exist in many places, often in cooperation with the police and the municipality.
 
-80 neighbors in a block have a WhatsApp group and a rotating "safety shift". Different people walk a round at 21:00 every evening, making sure everything is okay, greeting people.
-
-### How it works:
-
-* **No weapons:** No power to arrest—only *presence*.
-* **Reporting:** If something is wrong, they call the police.
-* **Effect:** People feel safer because they see familiar faces.
-* **Youths:** Feel seen (not chased).
-
-### Subsidiarity Principle:
-
-* **POWER:** With the neighborhood (they decide the schedule and rules).
-* **KNOWLEDGE:** They recognize who lives there and who doesn't.
-* **RESILIENCE:** If the police can't come, there are still neighbors who care.
-
-### Discussion Questions:
-
-1. Would you feel safer with more known faces out in the evening?
-2. Would you walk a round once a month yourselves?
-3. Are there places in your area where "more eyes" would help?
+### Questions
+1. Would more adult presence make a difference here?
+2. Where is the line between caring and surveilling?
+3. What should neighbours do themselves, and what is the task of the police and the municipality?
 
 ---
 
-## CARD 4: ENERGY COOPERATIVE (Klinte, Gotland)
+## Card 4: Energy and solar cell associations
 
-### What it is:
+### What it is
+Groups of households or tenant-owner associations that jointly own wind turbines or solar cell installations. Wind power cooperatives have existed in Sweden since the 1990s.
 
-25 households joined together and bought solar panels together. They produce more electricity than they need and sell the surplus back to the grid.
-
-### How it works:
-
-* **Group purchase:** 40% discount on the panels.
-* **Ownership:** The cooperative owns the facility jointly.
-* **Profit:** Distributed or reinvested.
-* **Backup:** With a battery, they can have electricity even if the grid goes down.
-
-### Subsidiarity Principle:
-
-* **POWER:** With the members (they decide how profit is used).
-* **KNOWLEDGE:** Local technician installs and maintains.
-* **RESILIENCE:** Not dependent on Vattenfall (major utility); own production.
-
-### Discussion Questions:
-
-1. Do you have roofs that could have solar panels?
-2. Do you know anyone who knows installation or maintenance?
-3. Would you be willing to invest 50,000 SEK together to save 20,000 SEK/year?
+### Questions
+1. What would it take to do something similar here?
+2. Who can afford to join, and who cannot?
+3. Why can it be easier to gain acceptance for new electricity production if those who live nearby also own part of it?
 
 ---
 
-## CARD 5: COHOUSING (Färdknäppen, Stockholm)
+## Card 5: The Färdknäppen cohousing
 
-### What it is:
+### What it is
+A cohousing project in Stockholm for people in the "second half of life", from age 40 and up, without children living at home. The residents have their own apartments but share a kitchen, dining room and other common spaces, and cook for each other according to a rotating schedule.
 
-50 apartments with a common dining room, laundry room, workshop, children's room. People eat together 3 times a week (voluntarily). Children play together. Elderly get company.
+### Questions
+1. What would be good about living like that, and what would be difficult?
+2. Can housing forms like this reduce loneliness?
+3. Should municipalities and housing companies make it easier to start cohousing?
 
-### How it works:
+---
 
-* **Private + Common:** Everyone has their own apartment but large common areas.
-* **Cooking:** Rotates (everyone cooks for 50 people 2-3 times/year instead of cooking for 3 people 365 times/year).
-* **Childcare:** Sharing responsibility—"it takes a village".
-* **Elderly:** Don't become lonely—always people to talk to.
+## Card 6: When the common works best
 
-### Subsidiarity Principle:
+### What it is
+Some things are best handled jointly for the whole country or in cooperation between countries. Two examples:
 
-* **POWER:** With the housing association (they decide rules).
-* **KNOWLEDGE:** Those who live there know what is needed.
-* **RESILIENCE:** Less vulnerable to loneliness, isolation, childcare crisis.
+- **The child vaccination programme:** which vaccines children are offered is decided nationally, so that all children receive the same protection regardless of where they live.
+- **Approval of medicines:** many new medicines are tested jointly within the EU, because it requires great expertise and large resources.
 
-### Discussion Questions:
-
-1. Would you like to eat dinner with neighbors a few times a week?
-2. What would be difficult about sharing spaces?
-3. Would it solve any of your everyday problems (loneliness, childcare, finances)?
+### Questions
+1. What would happen if each municipality decided for itself which vaccines children should receive?
+2. What other tasks do you think are best handled jointly? Why?
+3. How do these examples differ from the cards above?
 
 ---
 
 *Material from Study Circle on Subsidiarity | svensksubsidiaritet.se*
-
-**Instruction to facilitator:**
-Hand out one card per group. Give 15 minutes for discussion. Ask each group to present for 3 minutes.

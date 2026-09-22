@@ -2,96 +2,77 @@
   import { locale } from '$lib/stores/i18n';
   import { fade } from 'svelte/transition';
 
+  // Set to true when the complete PDF has been regenerated from the revised material
+  const fullPdfAvailable = false;
+
   const facilitatorGuides = [
-    { id: 'traff-1', number: 1 },
-    { id: 'traff-2', number: 2 },
-    { id: 'traff-3', number: 3 },
-    { id: 'traff-4', number: 4 }
+    { number: 1, sv: 'Hur möter vi systemen?', en: 'How do we experience the systems?' },
+    { number: 2, sv: 'Närhetskompassen – ett verktyg för att undersöka', en: 'The Proximity Compass – a tool for inquiry' },
+    { number: 3, sv: 'Subsidiaritet – en princip att pröva', en: 'Subsidiarity – a principle to test' },
+    { number: 4, sv: 'Från ord till handling', en: 'From words to action' }
   ];
 
   const printableMaterials = [
-    { id: 'systemkanslometer', icon: '📊', traff: 1 },
-    { id: 'kompass', icon: '🧭', traff: 2 },
-    { id: 'exempel', icon: '💡', traff: 3 },
-    { id: 'skattkarta', icon: '🗺️', traff: 4 },
-    { id: 'handlingsplan', icon: '📋', traff: 4 },
-    { id: 'kontrakt', icon: '✍️', traff: 4 }
+    { id: 'systemkanslometer', icon: '📊', traff: 1, sv: 'Systemkänslometer', en: 'System Feeling Meter' },
+    { id: 'kompass', icon: '🧭', traff: 2, sv: 'Närhetskompassen', en: 'Proximity Compass' },
+    { id: 'exempel', icon: '💡', traff: 3, sv: 'Exempelkort', en: 'Example cards' },
+    { id: 'skattkarta', icon: '🗺️', traff: 4, sv: 'Skattkarta', en: 'Treasure Map' },
+    { id: 'handlingsplan', icon: '📋', traff: 4, sv: 'Handlingsplan', en: 'Action Plan' },
+    { id: 'kontrakt', icon: '✍️', traff: 4, sv: '30-dagarslöfte', en: '30-Day Pledge' }
   ];
 
   const supportMaterials = [
-    { id: 'innan', icon: '📖' },
-    { id: 'leda', icon: '🎯' },
-    { id: 'efter', icon: '🌱' }
+    { id: 'innan', icon: '📖', sv: 'Innan du börjar', en: 'Before You Begin' },
+    { id: 'leda', icon: '🎯', sv: 'Att leda samtal', en: 'Leading Conversations' },
+    { id: 'efter', icon: '🌱', sv: 'Efter cirkeln', en: 'After the Circle' }
   ];
+
+  const card =
+    'block rounded-lg border border-stone-200 bg-white transition-colors hover:border-stone-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-stone-800 group';
 </script>
 
-<div class="max-w-6xl mx-auto px-6 py-12" in:fade={{ duration: 200 }}>
-  
-  <!-- Header -->
-  <header class="mb-16 border-b border-gray-200 dark:border-gray-700 pb-8">
-    <h1 class="text-4xl font-bold mb-4">
+<div class="mx-auto max-w-6xl px-6 py-12" in:fade={{ duration: 200 }}>
+
+  <header class="mb-16 border-b border-stone-200 pb-8">
+    <h1 class="mb-4 text-4xl font-bold text-manifesto-black">
       {$locale === 'sv' ? 'Studiecirkel om subsidiaritet' : 'Study Circle on Subsidiarity'}
     </h1>
-    <p class="text-xl text-gray-600 dark:text-gray-400 max-w-3xl">
-      {$locale === 'sv' 
-        ? 'Komplett material för att starta och leda en studiecirkel om systemförståelse och närstyre. Allt material kan skrivas ut direkt från webbläsaren.'
-        : 'Complete materials for starting and leading a study circle on systems understanding and subsidiarity. All materials can be printed directly from the browser.'}
+    <p class="max-w-3xl text-xl text-stone-600">
+      {$locale === 'sv'
+        ? 'Material för att starta och leda en studiecirkel i fyra träffar om hur samhällets system fungerar i vardagen, och om var besluten bör fattas. Cirkeln utgår från principen om subsidiaritet, och deltagarna får pröva den – inklusive argumenten emot.'
+        : 'Materials for starting and leading a four-session study circle on how public systems work in everyday life, and where decisions should be made. The circle starts from the principle of subsidiarity, and participants get to test it – including the arguments against.'}
     </p>
   </header>
 
-  <!-- Quick Start -->
-  <section class="mb-16 bg-blue-50 dark:bg-blue-900/20 rounded-lg p-8 border border-blue-200 dark:border-blue-800">
-    <h2 class="text-2xl font-semibold mb-4">
-      {$locale === 'sv' ? 'Snabbstart' : 'Quick Start'}
+  <section class="mb-16 rounded-lg border border-stone-200 bg-stone-50 p-8">
+    <h2 class="mb-4 text-2xl font-semibold text-stone-900">
+      {$locale === 'sv' ? 'Snabbstart' : 'Quick start'}
     </h2>
-    <div class="space-y-3 text-gray-700 dark:text-gray-300">
-      <p class="flex gap-3">
-        <span class="font-bold">1.</span>
-        <span>{$locale === 'sv' ? 'Läs ledarguiden "Innan du börjar"' : 'Read the facilitator guide "Before You Begin"'}</span>
-      </p>
-      <p class="flex gap-3">
-        <span class="font-bold">2.</span>
-        <span>{$locale === 'sv' ? 'Skriv ut material för Träff 1' : 'Print materials for Session 1'}</span>
-      </p>
-      <p class="flex gap-3">
-        <span class="font-bold">3.</span>
-        <span>{$locale === 'sv' ? 'Bjud in 6-12 personer, ordna fika, börja!' : 'Invite 6-12 people, organize coffee, begin!'}</span>
-      </p>
-    </div>
+    <ol class="space-y-3 text-stone-700">
+      <li class="flex gap-3"><span class="font-bold">1.</span><span>{$locale === 'sv' ? 'Läs ledarguiden "Innan du börjar".' : 'Read the facilitator guide "Before You Begin".'}</span></li>
+      <li class="flex gap-3"><span class="font-bold">2.</span><span>{$locale === 'sv' ? 'Skriv ut materialet för träff 1.' : 'Print the materials for session 1.'}</span></li>
+      <li class="flex gap-3"><span class="font-bold">3.</span><span>{$locale === 'sv' ? 'Bjud in 6–12 personer, ordna fika och börja.' : 'Invite 6–12 people, arrange coffee and begin.'}</span></li>
+    </ol>
   </section>
 
-  <!-- Facilitator Guides -->
   <section class="mb-16">
-    <h2 class="text-3xl font-bold mb-8">
-      {$locale === 'sv' ? 'Ledarguider för varje träff' : 'Facilitator Guides for Each Session'}
+    <h2 class="mb-8 text-3xl font-bold text-manifesto-black">
+      {$locale === 'sv' ? 'Ledarguider för varje träff' : 'Facilitator guides for each session'}
     </h2>
     <div class="grid gap-6 md:grid-cols-2">
       {#each facilitatorGuides as guide}
-        <a
-          href="/studiecirkel/traff-{guide.number}"
-          class="block p-6 bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 hover:border-blue-500 dark:hover:border-blue-400 transition-all hover:shadow-lg group"
-        >
+        <a href="/studiecirkel/traff-{guide.number}" class="{card} p-6">
           <div class="flex items-start gap-4">
-            <div class="w-12 h-12 rounded-full bg-blue-100 dark:bg-blue-900 flex items-center justify-center text-xl font-bold text-blue-600 dark:text-blue-400">
+            <div class="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full bg-stone-100 text-xl font-bold text-stone-800">
               {guide.number}
             </div>
             <div class="flex-1">
-              <h3 class="text-xl font-semibold mb-2 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
+              <h3 class="mb-2 text-xl font-semibold text-stone-900 decoration-stone-300 underline-offset-4 group-hover:underline">
                 {$locale === 'sv' ? `Träff ${guide.number}` : `Session ${guide.number}`}
               </h3>
-              <p class="text-gray-600 dark:text-gray-400 text-sm mb-3">
-                {#if guide.number === 1}
-                  {$locale === 'sv' ? 'Det svenska paradoxen - Diagnosen' : 'The Swedish Paradox - The Diagnosis'}
-                {:else if guide.number === 2}
-                  {$locale === 'sv' ? 'Närhetskompassen - Verktyget' : 'The Proximity Compass - The Tool'}
-                {:else if guide.number === 3}
-                  {$locale === 'sv' ? 'Subsidiaritet - Lösningen' : 'Subsidiarity - The Solution'}
-                {:else if guide.number === 4}
-                  {$locale === 'sv' ? 'Från ord till handling' : 'From Words to Action'}
-                {/if}
-              </p>
-              <span class="text-sm text-blue-600 dark:text-blue-400">
-                {$locale === 'sv' ? 'Läs guide & skriv ut material →' : 'Read guide & print materials →'}
+              <p class="mb-3 text-sm text-stone-600">{$locale === 'sv' ? guide.sv : guide.en}</p>
+              <span class="text-sm font-semibold text-stone-800">
+                {$locale === 'sv' ? 'Läs guiden och skriv ut material →' : 'Read the guide and print materials →'}
               </span>
             </div>
           </div>
@@ -100,90 +81,65 @@
     </div>
   </section>
 
-  <!-- Printable Materials -->
   <section class="mb-16">
-    <h2 class="text-3xl font-bold mb-8">
-      {$locale === 'sv' ? 'Material att skriva ut' : 'Printable Materials'}
+    <h2 class="mb-8 text-3xl font-bold text-manifesto-black">
+      {$locale === 'sv' ? 'Material att skriva ut' : 'Printable materials'}
     </h2>
     <div class="grid gap-4 md:grid-cols-3">
       {#each printableMaterials as material}
-        <a
-          href="/studiecirkel/material/{material.id}"
-          class="block p-5 bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 hover:border-blue-500 dark:hover:border-blue-400 transition-all hover:shadow group"
-        >
-          <div class="flex items-center gap-3 mb-2">
-            <span class="text-2xl">{material.icon}</span>
-            <span class="text-xs font-semibold text-gray-500 dark:text-gray-400">
+        <a href="/studiecirkel/material/{material.id}" class="{card} p-5">
+          <div class="mb-2 flex items-center gap-3">
+            <span class="text-2xl" aria-hidden="true">{material.icon}</span>
+            <span class="text-xs font-semibold text-stone-500">
               {$locale === 'sv' ? `Träff ${material.traff}` : `Session ${material.traff}`}
             </span>
           </div>
-          <h3 class="font-semibold group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
-            {#if material.id === 'systemkanslometer'}
-              {$locale === 'sv' ? 'Systemkänslometer' : 'System Feeling Meter'}
-            {:else if material.id === 'kompass'}
-              {$locale === 'sv' ? 'Närhetskompassen' : 'Proximity Compass'}
-            {:else if material.id === 'exempel'}
-              {$locale === 'sv' ? 'Exempel på subsidiaritet' : 'Subsidiarity Examples'}
-            {:else if material.id === 'skattkarta'}
-              {$locale === 'sv' ? 'Skattkarta' : 'Treasure Map'}
-            {:else if material.id === 'handlingsplan'}
-              {$locale === 'sv' ? 'Handlingsplan' : 'Action Plan'}
-            {:else if material.id === 'kontrakt'}
-              {$locale === 'sv' ? '30-dagarskontrakt' : '30-Day Contract'}
-            {/if}
+          <h3 class="font-semibold text-stone-900 decoration-stone-300 underline-offset-4 group-hover:underline">
+            {$locale === 'sv' ? material.sv : material.en}
           </h3>
         </a>
       {/each}
     </div>
   </section>
 
-  <!-- Support Materials -->
   <section class="mb-16">
-    <h2 class="text-3xl font-bold mb-8">
-      {$locale === 'sv' ? 'Stödmaterial för cirkelledare' : 'Support Materials for Facilitators'}
+    <h2 class="mb-8 text-3xl font-bold text-manifesto-black">
+      {$locale === 'sv' ? 'Stödmaterial för cirkelledare' : 'Support materials for facilitators'}
     </h2>
     <div class="grid gap-4 md:grid-cols-3">
       {#each supportMaterials as material}
-        <a
-          href="/studiecirkel/guide/{material.id}"
-          class="block p-5 bg-gray-50 dark:bg-gray-900 rounded-lg border border-gray-200 dark:border-gray-700 hover:border-blue-500 dark:hover:border-blue-400 transition-all hover:shadow group"
-        >
-          <div class="text-3xl mb-3">{material.icon}</div>
-          <h3 class="font-semibold group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
-            {#if material.id === 'innan'}
-              {$locale === 'sv' ? 'Innan du börjar' : 'Before You Begin'}
-            {:else if material.id === 'leda'}
-              {$locale === 'sv' ? 'Att leda samtal' : 'Leading Conversations'}
-            {:else if material.id === 'efter'}
-              {$locale === 'sv' ? 'Efter cirkeln' : 'After the Circle'}
-            {/if}
+        <a href="/studiecirkel/guide/{material.id}" class="{card} bg-stone-50 p-5">
+          <div class="mb-3 text-3xl" aria-hidden="true">{material.icon}</div>
+          <h3 class="font-semibold text-stone-900 decoration-stone-300 underline-offset-4 group-hover:underline">
+            {$locale === 'sv' ? material.sv : material.en}
           </h3>
         </a>
       {/each}
     </div>
   </section>
 
-  <!-- Print All Option -->
-  <section class="bg-gray-50 dark:bg-gray-900 rounded-lg p-8 border border-gray-200 dark:border-gray-700">
-    <div class="flex flex-col md:flex-row gap-6 items-center justify-between">
-      <div>
-        <h3 class="text-xl font-semibold mb-2">
-          {$locale === 'sv' ? 'Skriv ut allt på en gång' : 'Print Everything at Once'}
-        </h3>
-        <p class="text-gray-600 dark:text-gray-400">
-          {$locale === 'sv' 
-            ? 'Ladda ner komplett PDF med alla guider och material (ca 65 sidor)'
-            : 'Download complete PDF with all guides and materials (approx. 65 pages)'}
-        </p>
+  {#if fullPdfAvailable}
+    <section class="rounded-lg border border-stone-200 bg-stone-50 p-8">
+      <div class="flex flex-col items-center justify-between gap-6 md:flex-row">
+        <div>
+          <h3 class="mb-2 text-xl font-semibold text-stone-900">
+            {$locale === 'sv' ? 'Skriv ut allt på en gång' : 'Print everything at once'}
+          </h3>
+          <p class="text-stone-600">
+            {$locale === 'sv'
+              ? 'Ladda ner en PDF med alla guider och allt material.'
+              : 'Download a PDF with all guides and materials.'}
+          </p>
+        </div>
+        <a
+          href="/downloads/Studiecirkel-Komplett-{$locale === 'sv' ? 'SV' : 'EN'}.pdf"
+          download
+          class="whitespace-nowrap rounded-lg bg-manifesto-black px-6 py-3 font-semibold text-white transition-colors hover:bg-stone-800"
+        >
+          {$locale === 'sv' ? 'Ladda ner PDF ↓' : 'Download PDF ↓'}
+        </a>
       </div>
-      <a
-        href="/downloads/Studiecirkel-Komplett-{$locale === 'sv' ? 'SV' : 'EN'}.pdf"
-        download
-        class="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-semibold whitespace-nowrap"
-      >
-        {$locale === 'sv' ? 'Ladda ner PDF ↓' : 'Download PDF ↓'}
-      </a>
-    </div>
-  </section>
+    </section>
+  {/if}
 
 </div>

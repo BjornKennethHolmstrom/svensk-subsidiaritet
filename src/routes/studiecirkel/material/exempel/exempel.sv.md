@@ -1,129 +1,90 @@
 ---
-titleSv: Subsidiaritetsexempel
-titleEn: Subsidiarity examples 
+titleSv: Exempelkort
+titleEn: Example cards
 session: 3
 ---
 
-# SUBSIDIARITETSEXEMPEL - Diskussionskort
+# Exempelkort
+
+**Instruktion till cirkelledaren:** Dela ut ett kort per grupp och se till att minst en grupp får kort 6. Ge 15 minuter för diskussion och be varje grupp berätta i 2–3 minuter.
+
+Korten beskriver typer av verksamheter som finns i Sverige. Ta gärna reda på om det finns något liknande där ni bor.
 
 ---
 
-## KORT 1: MATGILLEN (Borlänge, Sverige)
+## Kort 1: REKO-ringar
 
-### Vad det är:
-50 hushåll går ihop och köper mat direkt från lokala bönder. Varje vecka levereras "matväskor" till en central punkt. Medlemmarna delar på kostnaden.
+### Vad det är
+Lokala grupper där konsumenter beställer direkt från producenter i närheten, ofta via Facebook, och hämtar varorna vid en bestämd tid och plats. Modellen kommer från Finland och finns i dag på många orter i Sverige.
 
-### Hur det fungerar:
-- **Organisation:** 3-5 personer hanterar upphandling och logistik
-- **För bönderna:** Bättre betalt (inga mellanhänder)
-- **För konsumenterna:** Sparar 20-30% jämfört med ICA
-- **Innehåll:** Allt är säsongsanpassat och lokalt
-
-### Subsidiaritetsprincip:
-- **MAKT:** Hos medlemmarna (de bestämmer vad som köps)
-- **KUNSKAP:** Bonden vet vad som är i säsong, medlemmarna vet vad de behöver
-- **RESILIENS:** Om ICA stänger finns alternativ; flera lokala bönder istället för centrallager
-
-### Diskussionsfrågor:
-1. Finns det lokala bönder här ni skulle kunna kontakta?
-2. Känner någon av er någon som odlar eller producerar mat?
-3. Skulle ni vara villiga att äta mer säsongsanpassat för att få billigare mat?
+### Frågor
+1. Vad får producenter och köpare ut av det, jämfört med att handla i butik?
+2. Vilka varor passar, och vilka passar inte?
+3. Vad händer om den som administrerar gruppen slutar?
 
 ---
 
-## KORT 2: GRANNSKAPSHUS (Vivalla, Örebro)
+## Kort 2: Fritidsbanken
 
-### Vad det är:
-Ett kvarter har ett gemensamt "förråd" där alla kan låna verktyg, gräsklippare, leksaker, skidor, etc. Istället för att 50 familjer äger 50 borrmaskiner, äger de 3 tillsammans.
+### Vad det är
+Ett "bibliotek" för sport- och fritidsutrustning, där man kan låna skidor, skridskor, flytvästar och annat gratis. Fritidsbanker finns på många orter och drivs ofta av föreningar eller kommuner.
 
-### Hur det fungerar:
-- **Lokal:** Föreningen hyr en källarlokal
-- **Innehåll:** Medlemmar bidrar med saker de inte använder ofta
-- **Bokning:** Digital kalender eller lista på dörren
-- **Kostnad:** Årlig avgift ca 500 kr/familj
-
-### Subsidiaritetsprincip:
-- **MAKT:** Hos granarna (de bestämmer regler och vad som får finnas)
-- **KUNSKAP:** Någon som kan laga grejer blir "förrådsvärd"
-- **RESILIENS:** Mindre beroende av butiker; kan låna av grannar
-
-### Diskussionsfrågor:
-1. Finns det en tom lokal eller källare i ert område?
-2. Vad skulle ni vilja dela istället för att alla äger det?
-3. Vilka saker äger du som du använder mindre än 10 gånger per år?
+### Frågor
+1. Vad skulle ni vilja kunna låna i stället för att köpa?
+2. Vem borde driva något sådant här: en förening, kommunen eller båda tillsammans?
+3. Vad krävs för att det ska fungera över tid?
 
 ---
 
-## KORT 3: TRYGGHETSRINGAR (Rinkeby, Stockholm)
+## Kort 3: Nattvandring och grannsamverkan
 
-### Vad det är:
-80 grannar i ett kvarter har en WhatsApp-grupp och ett roterande "trygghetspass". Olika personer går en runda kl 21:00 varje kväll, ser till att allt är okej, hälsar på folk.
+### Vad det är
+Vuxna som går runt i området på kvällar och helger för att finnas där för unga, och grannar som samarbetar för att förebygga inbrott. Båda finns på många håll, ofta i samarbete med polisen och kommunen.
 
-### Hur det fungerar:
-- **Inga vapen:** Ingen makt att gripa - bara *närvaro*
-- **Rapportering:** Om något är fel, ringer de polisen
-- **Effekt:** Folk känner sig tryggare för de ser bekanta ansikten
-- **Ungdomar:** Känner sig sedda (inte jagade)
-
-### Subsidiaritetsprincip:
-- **MAKT:** Hos grannskapet (de bestämmer schema och regler)
-- **KUNSKAP:** De känner igen vem som bor där och vem som inte gör det
-- **RESILIENS:** Om polisen inte kan komma finns ändå grannar som bryr sig
-
-### Diskussionsfrågor:
-1. Skulle ni känna er tryggare med fler kända ansikten ute på kvällen?
-2. Skulle ni själva gå en runda en gång i månaden?
-3. Finns det platser i ert område där "mer ögon" skulle hjälpa?
+### Frågor
+1. Skulle mer vuxennärvaro göra skillnad här?
+2. Var går gränsen mellan att bry sig och att övervaka?
+3. Vad ska grannar göra själva, och vad är polisens och kommunens uppgift?
 
 ---
 
-## KORT 4: ENERGIKOOPERATIV (Klinte, Gotland)
+## Kort 4: Energi- och solcellsföreningar
 
-### Vad det är:
-25 hushåll gick ihop och köpte solpaneler tillsammans. De producerar mer el än de behöver och säljer överskottet tillbaka till nätet.
+### Vad det är
+Grupper av hushåll eller bostadsrättsföreningar som tillsammans äger vindkraftverk eller solcellsanläggningar. Vindkraftskooperativ har funnits i Sverige sedan 1990-talet.
 
-### Hur det fungerar:
-- **Gruppköp:** 40% rabatt på panelerna
-- **Ägarskap:** Kooperativet äger anläggningen gemensamt
-- **Vinst:** Delas ut eller återinvesteras
-- **Backup:** Med batteri kan de ha el även om elnätet går ner
-
-### Subsidiaritetsprincip:
-- **MAKT:** Hos medlemmarna (de bestämmer hur vinst används)
-- **KUNSKAP:** Lokal tekniker installerar och underhåller
-- **RESILIENS:** Inte beroende av Vattenfall; egen produktion
-
-### Diskussionsfrågor:
-1. Har ni tak som skulle kunna ha solpaneler?
-2. Känner ni någon som kan installation eller underhåll?
-3. Skulle ni vara villiga att investera 50 000 kr tillsammans för att spara 20 000 kr/år?
+### Frågor
+1. Vad skulle det krävas för att göra något liknande här?
+2. Vem har råd att vara med, och vem har inte det?
+3. Varför kan det vara lättare att få acceptans för ny elproduktion om de som bor nära också äger en del av den?
 
 ---
 
-## KORT 5: KOLLEKTIVHUS (Färdknäppen, Stockholm)
+## Kort 5: Kollektivhuset Färdknäppen
 
-### Vad det är:
-50 lägenheter med gemensam matsal, tvättstuga, verkstad, barnrum. Folk äter tillsammans 3 gånger i veckan (frivilligt). Barn leker ihop. Äldre får sällskap.
+### Vad det är
+Ett kollektivhus i Stockholm för personer i "andra halvan av livet", från 40 år och uppåt, utan hemmavarande barn. De boende har egna lägenheter men delar kök, matsal och andra gemensamma utrymmen, och lagar mat åt varandra enligt ett rullande schema.
 
-### Hur det fungerar:
-- **Privat + Gemensamt:** Alla har egen lägenhet men stora gemensamma ytor
-- **Matlagning:** Roterar (alla lagar för 50 personer 2-3 gånger/år istället för att laga för 3 personer 365 gånger/år)
-- **Barnomsorg:** Delar ansvar - "det krävs en by"
-- **Äldre:** Blir inte ensamma - alltid folk att prata med
-
-### Subsidiaritetsprincip:
-- **MAKT:** Hos boendeföreningen (de bestämmer regler)
-- **KUNSKAP:** De som bor där vet vad som behövs
-- **RESILIENS:** Mindre sårbart för ensamhet, isolering, barnomsorgskris
-
-### Diskussionsfrågor:
-1. Skulle ni vilja äta middag med grannarna några gånger i veckan?
-2. Vad skulle vara svårt med att dela utrymmen?
-3. Skulle det lösa några av era vardagsproblem (ensamhet, barnomsorg, ekonomi)?
+### Frågor
+1. Vad skulle vara bra med att bo så, och vad skulle vara svårt?
+2. Kan boendeformer som den här minska ensamhet?
+3. Borde kommuner och bostadsbolag göra det lättare att starta kollektivhus?
 
 ---
 
-*Material från Studiecirkel om Subsidiaritet | svensksubsidiaritet.se*
+## Kort 6: När det gemensamma fungerar bäst
 
-**Instruktion till facilitator:**
-Dela ut ett kort per grupp. Ge 15 minuter diskussion. Be varje grupp presentera i 3 minuter.
+### Vad det är
+Vissa saker sköts bäst gemensamt för hela landet eller i samarbete mellan länder. Två exempel:
+
+- **Barnvaccinationsprogrammet:** vilka vacciner barn erbjuds bestäms nationellt, så att alla barn får samma skydd oavsett var de bor.
+- **Godkännande av läkemedel:** många nya läkemedel prövas gemensamt inom EU, eftersom det kräver stor expertis och stora resurser.
+
+### Frågor
+1. Vad skulle hända om varje kommun själv bestämde vilka vacciner barnen skulle få?
+2. Vilka andra uppgifter tror ni sköts bäst gemensamt? Varför?
+3. Hur skiljer sig de här exemplen från korten ovan?
+
+---
+
+*Material från Studiecirkel om subsidiaritet | svensksubsidiaritet.se*

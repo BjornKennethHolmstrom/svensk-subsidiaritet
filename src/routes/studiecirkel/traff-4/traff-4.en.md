@@ -1,98 +1,93 @@
-# Meeting 4: From Words to Action - What Do We Do Now?
+# Meeting 4: From words to action - What do we do now?
 
-**Goal:** The group shall decide on ONE concrete action to execute within 30 days and know exactly who does what.
+**Goal:** The group should decide on ONE concrete action to carry out within 30 days and know exactly who does what.
 
 **Materials you need:**
-
-* Fika (extra good, it's the last time!)
-* Large "Treasure Map" template (see below)
-* Action plan template to fill in
-* Post-it notes in three colors
-* 30-day contract to sign
-* Optional: Camera to take a photo of your group
-
----
-
-## 0-10 min: Final Check-in + Recap
-
-**What you say:**
-
-> "Welcome to our last joint meeting! We have met four times. That deserves a round of applause."
-
-[Applause for yourselves.]
-
-> "Let's remember the road here:
-> * Meeting 1: We saw the problem—centralization that created bureaucracy.
-> * Meeting 2: We learned the tool—The Proximity Compass.
-> * Meeting 3: We saw the solution—subsidiarity and working examples.
-> * Today: We choose something to actually DO.
-> 
-> 
-> Check-in: One round. Name and: Have you thought of something since last time? An example that stuck? An idea that nagged at you? I’ll start..."
-
-**Write down what people say—some things will return later.**
+- Refreshments (extra good, it's the last time!)
+- Large "Treasure Map" template (see below)
+- Action plan template to fill in
+- Post-it notes in three colours
+- 30-day contract to sign
+- Possibly: Camera to photograph your group
 
 ---
 
-## 10-40 min: Treasure Map - Our Local Assets
+## 0–10 min: Final check-in + Recap
 
 **What you say:**
 
-> "Before we decide *what* to do, we need to know *what we have*. We are going to map our local resources—treasures that the system doesn't see.
-> We are making a 'Treasure Map' of our area. I have divided it into three categories."
+> "Welcome to our final joint meeting! Four times we have met. That deserves a round of applause."
 
-**Hang up a large template on the wall (or flipchart) with three columns:**
+[Applaud yourselves.]
+
+> "Let's remember the way here:
+> - Meeting 1: We shared experiences of how society's systems work in everyday life
+> - Meeting 2: We examined systems with the Proximity Compass
+> - Meeting 3: We tested the principle of subsidiarity, with arguments for and against
+> - Today: We choose something to actually DO.
+>
+> Check-in: One round. Name and: Have you thought about anything since last time? Any example that stuck? Any idea that's been nagging? I'll start..."
+
+**Write down what people say - some things will come back later.**
+
+---
+
+## 10–40 min: Treasure Map - Our local assets
+
+**What you say:**
+
+> "Before we decide *what* we're going to do, we need to know *what we have*. We're going to map our local resources - things that exist here but that we might not think about.
+>
+> We're making a 'Treasure Map' of our area. I've divided it into three categories."
+
+**Hang up the large template on the wall (or flipchart) with three columns:**
 
 ```
-HANDS           |  PLACES          |  HEARTS
-(What can people| (What is here?)  | (What are we passionate about?)
- do?)           |                  |
-________________|__________________|__________________
-                |                  |
-                |                  |
-                |                  |
-
+HANDS            |  PLACES           |  HEARTS
+(What can people do?) | (What exists here?) | (What are we passionate about?)
+_________________|___________________|__________________
+                 |                   |
+                 |                   |
+                 |                   |
 ```
 
 ### Column 1: HANDS (15 min)
 
-> "First column: HANDS. What skills exist in this room? And not just 'I work as...' but also 'I can...'
+> "First column: HANDS. What skills are in this room? And not just 'I work as...' but also 'I can...'
+>
 > Examples:
-> * Someone who can carpenter, sew, fix things?
-> * Someone who can grow, bake, cook for many?
-> * Someone who knows law, economics, writing?
-> * Someone who can organize, coordinate, call people?
-> 
-> 
+> - Someone who can do carpentry, sew, fix things?
+> - Someone who can grow, bake, cook for many?
+> - Someone who knows law, economics, writing?
+> - Someone who can organise, coordinate, call people?
+>
 > Write on a post-it what YOU can do, and stick it up."
 
-**Hand out post-its (yellow color).**
+**Hand out post-its (yellow colour).**
 
 **Give 5 minutes.**
 
 **Then:**
-
 > "Okay, let's read through what we have. I'll read aloud, you listen."
 
-**Read aloud all post-its while putting them up.**
+**Read aloud all the post-its while putting them up.**
 
-**After review:**
-
+**After the review:**
 > "WOW. Look at all the skills we have in this room! And this is just [X] people. Imagine 50 people, 100 people..."
 
 ### Column 2: PLACES (10 min)
 
 > "Next column: PLACES. What physical resources do we have in our area?
+>
 > Examples:
-> * Empty premises (basements, shops that closed)?
-> * Garden land (allotments, yards, roof gardens)?
-> * Gathering places (association rooms, churches, schools after closing)?
-> * Common spaces (parking lots, parks, squares)?
-> 
-> 
-> Even if you don't *own* the place—if it *exists*, it counts. Write it down!"
+> - Empty premises (basements, shops that have closed)?
+> - Garden plots (allotments, farms, roof gardens)?
+> - Meeting places (association premises, churches, schools after closing)?
+> - Shared spaces (parking lots, parks, squares)?
+>
+> Even if you don't *own* the place - if it *exists*, it counts. Write it down!"
 
-**Hand out post-its (blue color).**
+**Hand out post-its (blue colour).**
 
 **Give 5 minutes, read aloud, put up.**
 
@@ -100,18 +95,18 @@ ________________|__________________|__________________
 
 ### Column 3: HEARTS (10 min)
 
-> "Last column: HEARTS. What are you passionate about together? What would make your daily life better?
+> "Last column: HEARTS. What are you passionate about together? What would make your everyday life better?
+>
 > Examples:
-> * Children's safety on the way to school?
-> * Better food, cheaper food?
-> * Less loneliness among the elderly?
-> * More greenery, nature?
-> * Own energy?
-> 
-> 
+> - Children's safety on the way to school?
+> - Better food, cheaper food?
+> - Less loneliness among older people?
+> - More greenery, nature?
+> - Own energy?
+>
 > Nothing is too small or too big. Write it down!"
 
-**Hand out post-its (pink color).**
+**Hand out post-its (pink colour).**
 
 **Give 5 minutes, read aloud, put up.**
 
@@ -119,26 +114,27 @@ ________________|__________________|__________________
 
 ---
 
-## 40-60 min: Decision Making - What do we do?
+## 40–60 min: Decision-making - What do we do?
 
 **What you say:**
 
-> "Now comes the hard part: choosing. We can't do everything at once. We must choose ONE thing we can do within 30 days.
-> Why 30 days? Because if it takes longer, there is a risk it never happens.
-> We use a method called 'dot-voting'. You get two votes each."
+> "Now comes the difficult part: choosing. We can't do everything at once. If we want to do something, we choose ONE thing we can do within 30 days. It's also completely okay if the group concludes that it doesn't want to do anything together.
+>
+> Why 30 days? Because if it takes longer, there's a risk it never happens.
+>
+> We're using a method called 'dot-voting'. You get two votes each."
 
-**Prepare flipchart with ideas from Meeting 3 + new ones from the hearts column.**
+**Prepare a flipchart with ideas from Meeting 3 + new ones from the hearts column.**
 
 **Write up as options (example):**
+1. Shop together from local producers, for example via a REKO ring
+2. Start a lending depot for tools or sports equipment
+3. Invite a local politician or civil servant to a conversation
+4. Find out more about an issue we've talked about, for example who decides about bus transport
+5. Organise a walking school bus for children
+6. [Something the participants themselves have proposed]
 
-1. Start food guild (directly from farmers)
-2. Create neighborhood house (share tools)
-3. Safety ring on WhatsApp
-4. Energy cooperative (solar panels)
-5. Walking bus for children to school
-6. [Something they suggested themselves]
-
-> "You get two stickers (or marks with a pen). Put them on what you think is most important. You can put both on the same thing if you really burn for it."
+> "You get two stickers (or marks with a pen). Put them on what you think is most important. You can put both on the same thing if you really care about it."
 
 **Hand out stickers/markers.**
 
@@ -146,28 +142,26 @@ ________________|__________________|__________________
 
 **Count the votes.**
 
-> "Okay! Most votes went to: [X]. Is everyone comfortable with us focusing on that? If anyone is *strongly* against, say so now."
+> "Okay! The most votes went to: [X]. Is everyone comfortable with us focusing on that? If anyone is *strongly* against it, say so now."
 
 **Give 30 seconds of silence for objections.**
 
 **If no objections:**
-
-> "Great! Then we go with [X]."
+> "Good! Then we'll go with [X]."
 
 **If objection:**
-
-> "Okay, [name], what is the problem with [X]?"
-> [Listen. Try to find a compromise or choose number two on the list.]
+> "Okay, [name], what's the problem with [X]?"
+[Listen. Try to find a compromise or choose number two on the list.]
 
 ---
 
-## 60-75 min: Action Plan - Who does what, when?
+## 60–75 min: Action plan - Who does what, when?
 
 **What you say:**
 
-> "Now we have decided *what*. Now we need to decide *how*, *who*, and *when*. We fill in an action plan together."
+> "Now we've decided *what*. Now we need to decide *how*, *who* and *when*. We'll fill in an action plan together."
 
-**Hang up action plan template:**
+**Hang up the action plan template:**
 
 ```
 OUR ACTION: [What we decided]
@@ -186,8 +180,7 @@ STEP 3: [Third step]
 
 NEXT MEETING: [Date in 30 days]
   WHERE: [Place]
-  PURPOSE: Share what we learned
-
+  PURPOSE: Share what we've learned
 ```
 
 **Facilitate by asking:**
@@ -195,57 +188,55 @@ NEXT MEETING: [Date in 30 days]
 ### For each step (15 min total):
 
 **Step 1:**
+> "Okay, if we're going to [REKO ring/lending depot/etc.], what's the VERY first thing we have to do? Not everything at once - just the first step."
 
-> "Okay, if we are going to [food guild/neighborhood house/etc], what is the VERY first thing we must do? Not everything at once—just the first step."
+[Example for REKO ring: "Find out if there's already a REKO ring nearby"]
 
-[Example for food guild: "Find local farmers"]
+> "Good. Who can do that? Who has time and inclination?"
 
-> "Good. Who can do that? Who has time and interest?"
-
-[Let someone volunteer. If no one: "Can we split it up? Maybe two people together?"]
+[Let someone volunteer. If no one: "Can we split it? Maybe two people together?"]
 
 > "When should it be done?"
 
-[Set date—not "soon" but actual date.]
+[Set a date - not "soon" but an actual date.]
 
 **Step 2 and 3: Same process.**
 
 **Important:**
-
-* Every step should have a NAME (not "someone" but actual person).
-* Every step should have a DATE (not "within a few weeks").
-* Steps should be CONCRETE (not "investigate possibilities" but "call three farmers").
+- Each step should have a NAME (not "someone" but an actual person)
+- Each step should have a DATE (not "within a few weeks")
+- The steps should be CONCRETE (not "explore possibilities" but "call three farmers")
 
 ---
 
-## 75-80 min: 30-Day Contract - The Pledge
+## 75–80 min: 30-day contract - The promise
 
 **What you say:**
 
-> "Good job! Now we have a plan. But plans can be forgotten. So we are going to do something a little solemn: we are going to write a contract with each other.
-> Not legally binding—just a promise to yourselves."
+> "Good work! Now we have a plan. But plans can be forgotten. So we're going to do something a little solemn: we're going to write a contract with each other.
+>
+> Not legally binding - just a promise to yourselves."
 
-**Hand out pre-filled contract template (or write on flipchart):**
+**Hand out the pre-filled contract template (or write on flipchart):**
 
 ```
 30-DAY CONTRACT
 
-We, the participants of [Group Name or Place],
-promise to execute the following before [Date in 30 days]:
+We, the participants in [Group name or place],
+promise to carry out the following before [Date in 30 days]:
 
 [Our decided action]
 
 We will return on [Date] at [Place]
-to share what we have learned.
+to share what we've learned.
 
 Signatures:
 _______________________
 _______________________
 _______________________
-
 ```
 
-> "I fill in what we decided. Then we go around and everyone who wants to can sign. If you don't want to sign, no pressure—but then you can't complain later!"
+> "I'll fill in what we decided. Then we'll go around and everyone who wants to can sign. If you don't want to sign, that's completely okay."
 
 [Small laugh.]
 
@@ -255,70 +246,69 @@ _______________________
 
 ---
 
-## 80-85 min: Next Steps + Continuation
+## 80–85 min: Next steps + Continuation
 
 **What you say:**
 
-> "So! We have done it. From talking about problems to actually deciding on an action. That is big.
+> "There! We've done it. From talking about problems to actually deciding on an action. That's big.
+>
 > What happens now? Three options:
 
-**Option 1:** We meet in 30 days to share lessons, then we stop.
+**Option 1:** We meet in 30 days to share lessons learned, then we stop.
 
 **Option 2:** We continue as a study circle and go deeper into [one of your systems].
 
-**Option 3:** We become an active group that actually runs the [food guild/neighborhood house/etc] forward.
+**Option 3:** We become an active group that actually drives [REKO ring/lending depot/etc.] forward.
 
-> You don't need to choose now. But think about it. And regardless of what: go to **svensksubsidiaritet.se** and share your experience. It helps other groups all over Sweden to learn from you.
+> You don't need to choose now. But think about it. And regardless of what you choose: go to **svensksubsidiaritet.se** and share your experience. It helps other groups across Sweden learn from you.
+>
 > You are not alone. Thousands of Swedes are making the same journey. Your thoughts and actions become patterns that others can copy."
 
 ---
 
-## 85-90 min: Closing Check-out + Celebration
+## 85–90 min: Closing check-out + Celebration
 
 **What you say:**
 
-> "Last check-out. But this time you shall say two words:
-> 1. How you feel now.
-> 2. A thank you to someone else in the group.
-> 
-> 
-> I’ll start: I feel... [hopeful]. And thank you to [name] for daring to share your skepticism—it made the conversation richer."
+> "The final check-out. But this time you'll say two things:
+> 1. How you feel now
+> 2. A thank you to someone else in the group
+>
+> I'll start: I feel... [hopeful]. And thanks to [name] for daring to share your scepticism - it made the conversation richer."
 
-**Go one round.**
+**Go around.**
 
 **After the last person:**
 
-> "Thank you. Thank you for coming, four times. Thank you for sharing thoughts, doubts, hope. Thank you for choosing action instead of just words.
-> The Swedish 'Folkhemmet' (People's Home) was not built in Stockholm. It was built in rooms exactly like this one. With coffee, silence, and stubborn people who said: *maybe there is another way*.
-> You are part of something bigger now. Good luck with your 30 days. See you soon!"
+> "Thank you. Thank you for coming, four times. Thank you for sharing thoughts, doubts, hopes. Thank you for taking the time to think together.
+>
+> Study circles have for over a hundred years been a way for people in Sweden to learn things together and organise themselves. Now you've done it too.
+>
+> Good luck with what you've decided to do. See you soon!"
 
-**Extra fika! Celebrate yourselves.**
+**Extra refreshments! Celebrate yourselves.**
 
 ---
 
-## Post-Meeting: Documentation
+## After the meeting: Documentation
 
-**Do this immediately after (5 min):**
+**Do this immediately afterwards (5 min):**
 
 1. Photograph:
-* The Treasure Map
-* The Action Plan
-* The Contract
-* The Group (if they want)
-
+   - The Treasure Map
+   - The action plan
+   - The contract
+   - The group (if they want)
 
 2. Write down:
-* What worked well?
-* What would you have done differently?
-* Surprises?
-
+   - What worked well?
+   - What would you have done differently?
+   - Surprises?
 
 3. Share back:
-* Go to svensksubsidiaritet.se
-* Click "Share your circle's experience"
-* Fill in form (5 min)
-
-
+   - Go to svensksubsidiaritet.se
+   - Click "Share your circle's experience"
+   - Fill in the form (5 min)
 
 **This helps the next circle do it better!**
 
@@ -326,12 +316,12 @@ _______________________
 
 ## Handout to distribute
 
-**Meeting 4 - Summary: Our Action**
+**Meeting 4 - Summary: Our action**
 
 **What we have done:**
 ✓ Mapped our local assets (hands, places, hearts)
 ✓ Decided on ONE action to do within 30 days
-✓ Split up responsibility (who does what, when)
+✓ Divided up responsibility (who does what, when)
 ✓ Signed a promise to each other
 
 **Our action:**
@@ -340,76 +330,67 @@ _______________________
 **Next meeting:**
 Date: [X]
 Place: [X]
-Purpose: Share lessons
+Purpose: Share lessons learned
 
-**Share forward:**
-Go to svensksubsidiaritet.se and tell about your circle!
+**Share onward:**
+Go to svensksubsidiaritet.se and tell them about your circle!
 
 **Resources:**
-
-* Pattern library (see how others did)
-* Deeper analyses of systems
-* Contact info for other circles
+- Pattern library (see how others have done it)
+- Deeper analyses of systems
+- Contact details for other circles
 
 ---
 
-## Facilitator Checklist
+## Facilitator checklist
 
 Before the meeting:
-
-* [ ] Coffee + extra good fika
-* [ ] Treasure Map template (large)
-* [ ] Action plan template
-* [ ] Post-its in three colors
-* [ ] 30-day contract pre-filled
-* [ ] Camera/phone for documentation
-* [ ] Optional: Flowers or small thank you to participants
+- [ ] Coffee + extra good refreshments
+- [ ] Treasure Map template (large)
+- [ ] Action plan template
+- [ ] Post-its in three colours
+- [ ] 30-day contract pre-filled
+- [ ] Camera/phone for documentation
+- [ ] Possibly: Flowers or a small thank-you to the participants
 
 During the meeting:
-
-* [ ] Check-in with recap
-* [ ] Treasure Map (hands, places, hearts)
-* [ ] Dot-voting decision
-* [ ] Action plan with names and dates
-* [ ] Contract signing
-* [ ] Future options
-* [ ] Closing check-out
-* [ ] Celebration!
+- [ ] Check-in with recap
+- [ ] Treasure Map (hands, places, hearts)
+- [ ] Dot-voting decision
+- [ ] Action plan with names and dates
+- [ ] Contract signing
+- [ ] Future options
+- [ ] Closing check-out
+- [ ] Celebration!
 
 After the meeting:
-
-* [ ] Photograph everything
-* [ ] Document lessons
-* [ ] Share on svensksubsidiaritet.se
-* [ ] Set reminder for 30-day follow-up
-* [ ] Send thank-you SMS to all participants
+- [ ] Photograph everything
+- [ ] Document lessons learned
+- [ ] Share on svensksubsidiaritet.se
+- [ ] Set a reminder for the 30-day follow-up
+- [ ] Send a thank-you text to all participants
 
 ---
 
 ## Troubleshooting Meeting 4
 
-**No one wants to take responsibility for steps:**
+**No one wants to take responsibility for a step:**
+- "Okay, we can split it up. Can two people do it together? Easier that way."
 
-* "Okay, we can split it up. Can two people do it together? Easier that way."
+**They choose something too big (like 'solve the housing crisis'):**
+- "Really important goal! But for 30 days - what's the SMALLEST step towards it? Maybe: map empty premises, or invite the municipal commissioner?"
 
-**They choose something too big (like 'solving the housing crisis'):**
-
-* "Very important goal! But for 30 days—what is the SMALLEST step towards that? Maybe: map empty premises, or invite the municipal councilor?"
-
-**Discussion becomes too long:**
-
-* "Good points! But we have 5 minutes left. Can we make the decision now and refine later?"
+**Discussion goes on too long:**
+- "Good points! But we have 5 minutes left. Can we make the decision now and refine later?"
 
 **Someone says 'this will never work':**
-
-* "Fair to be skeptical. But can we test for 30 days? If it doesn't work, we have learned something. If it works, we have something amazing."
+- "Fair to be sceptical. But can we test it for 30 days? If it doesn't work, we've learned something. If it works, we have something fantastic."
 
 **They want to keep talking instead of acting:**
-
-* "I hear you want to talk more. But talk rarely leads to change—action does. Can we decide ONE thing today?"
+- "I hear that you want to talk more. But talking rarely leads to change - action does. Can we decide on ONE thing today?"
 
 ---
 
 **Thank you for leading this circle. You have planted a seed.**
 
-**Don't forget:** Share your experiences on svensksubsidiaritet.se so others can learn!
+**Don't forget:** Share your experiences at svensksubsidiaritet.se so others can learn!

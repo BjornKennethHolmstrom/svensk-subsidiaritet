@@ -5,11 +5,11 @@ session: 4
 layout: StudiecirkelLayout
 ---
 
-# 30-DAGARSKONTRAKT
+# 30-dagarslöfte
 
 ---
 
-## VI LOVAR ATT GÖRA SKILLNAD
+## Vårt gemensamma löfte
 
 Vi, deltagarna i studiecirkeln:
 
@@ -21,7 +21,7 @@ lovar att genomföra följande handling innan:
 
 ---
 
-## VÅR HANDLING:
+## Vår handling
 
 _________________________________________________________________
 
@@ -33,9 +33,8 @@ _________________________________________________________________
 
 ---
 
-## VÅRT LÖFTE:
+## Vi förbinder oss att
 
-Vi förbinder oss att:
 - ☐ Göra vårt bästa för att genomföra handlingen
 - ☐ Stötta varandra på vägen
 - ☐ Dela vad vi lär oss med andra
@@ -43,7 +42,7 @@ Vi förbinder oss att:
 
 ---
 
-## UPPFÖLJNINGSMÖTE:
+## Uppföljningsmöte
 
 **Datum:** _______________________________________
 
@@ -55,7 +54,7 @@ Vi förbinder oss att:
 
 ---
 
-## UNDERSKRIFTER:
+## Underskrifter
 
 Detta är inte ett juridiskt bindande kontrakt, utan ett löfte till oss själva och varandra.
 
@@ -72,9 +71,7 @@ Detta är inte ett juridiskt bindande kontrakt, utan ett löfte till oss själva
 
 ---
 
-**"Det svenska folkhemmet byggdes inte i Stockholm.**
-**Det byggdes i rum som dessa, av människor som vågade säga:**
-**'Kanske finns det ett annat sätt.'"**
+*Detta är ett löfte, inte ett krav. Den som inte vill skriva under deltar ändå på lika villkor.*
 
 ---
 

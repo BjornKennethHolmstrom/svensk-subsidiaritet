@@ -6,34 +6,34 @@ session: 1
 
 ## Instructions
 
-Mark how you feel when you encounter these Swedish systems. There are no right or wrong answers - only your experience.
+Mark how you usually experience these systems. There is no right or wrong, only your experience. Skip the ones you have no experience of.
 
-| System | Feel Seen | Feel Like a Number |
-|--------|-----------|-------------------|
-| **Healthcare Center** | ☐ | ☐ |
-| **Social Insurance Agency** | ☐ | ☐ |
-| **School** | ☐ | ☐ |
-| **Grocery Store (ICA/Coop)** | ☐ | ☐ |
-| **Municipal Website** | ☐ | ☐ |
-| **Bank** | ☐ | ☐ |
-| **Police** | ☐ | ☐ |
-| **Public Transport** | ☐ | ☐ |
-| **Tax Agency** | ☐ | ☐ |
-| **Pharmacy** | ☐ | ☐ |
+**1 = like a number, 5 = seen as a person**
+
+| System | 1 | 2 | 3 | 4 | 5 | An example |
+|--------|---|---|---|---|---|-------------|
+| **Health centre** | ☐ | ☐ | ☐ | ☐ | ☐ | |
+| **Social Insurance Agency** | ☐ | ☐ | ☐ | ☐ | ☐ | |
+| **School** | ☐ | ☐ | ☐ | ☐ | ☐ | |
+| **Grocery store** | ☐ | ☐ | ☐ | ☐ | ☐ | |
+| **Municipality** | ☐ | ☐ | ☐ | ☐ | ☐ | |
+| **Bank** | ☐ | ☐ | ☐ | ☐ | ☐ | |
+| **Police** | ☐ | ☐ | ☐ | ☐ | ☐ | |
+| **Public transport** | ☐ | ☐ | ☐ | ☐ | ☐ | |
+| **Tax Agency** | ☐ | ☐ | ☐ | ☐ | ☐ | |
+| **Library** | ☐ | ☐ | ☐ | ☐ | ☐ | |
 
 ---
 
 ## Reflection
 
-Look at your answers. Is there a pattern? Which systems get more checks in "like a number"?
+- Which system do you experience best? What is it that makes it so?
+- Which do you experience worst? What do you think it depends on?
+- Does it matter whether the system is run locally, regionally, nationally or by a company?
 
 **Your notes:**
 
 <div style="margin-top: 1rem;">
-
-_______________________________________
-
-_______________________________________
 
 _______________________________________
 

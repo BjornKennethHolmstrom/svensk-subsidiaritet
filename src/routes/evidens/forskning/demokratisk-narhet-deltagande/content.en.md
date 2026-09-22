@@ -32,7 +32,7 @@ Proximity is often assumed to be good for democracy almost by definition — clo
 
 ## What the evidence shows
 
-**[Municipal mergers (S1)](/evidens/fall/sverige/kommunsammanslagningar/)** provides the clearest and most direct evidence in this corpus, and it cuts against a simple "closer is always better" story in only one direction: contemporary parliamentary material documents the number of elected municipal representatives falling from roughly 225,000 (1952) to about 42,000 (1974), explicitly linked at the time to increased distance between citizens and municipal government. A geocoded study of merger effects (Harjunen, Saarimaa & Tukiainen) found this distance was not evenly distributed: smaller, less-represented former municipalities lost local public-sector jobs relative to better-represented areas within the same merged unit — representation inequality *within* a jurisdiction, not just between jurisdictions.
+**[Municipal mergers (S1)](/evidens/fall/sverige/kommunsammanslagningar/)** provides the clearest and most direct evidence in this corpus, and it cuts against a simple "closer is always better" story in only one direction: contemporary parliamentary material documents the number of elected municipal representatives falling from roughly 225,000 (1952) to about 42,000 (1974), explicitly linked at the time to increased distance between citizens and municipal government. How that distance was distributed within the Swedish municipalities has not been studied with modern quantitative methods, but a study of Finnish municipal mergers (Harjunen, Saarimaa & Tukiainen 2021) found that it can be unevenly distributed: smaller, less-represented former municipalities lost local public-sector jobs relative to better-represented areas within the same merged unit — representation inequality *within* a jurisdiction, not just between jurisdictions.
 
 Notably, the same reform generated its own corrective response: the 1979 "local organs" legislation allowed municipal councils to devolve certain functions to district councils and similar sub-municipal bodies, precisely to bring decision-making and influence back closer to citizens after the mergers reduced proximity. This is a real institutional example of a system detecting a democratic-proximity deficit and building a (partial) mechanism to address it — though the council retained ultimate control over the local organs' remit, so this was recentralized proximity, not full re-decentralization.
 
@@ -43,7 +43,7 @@ Notably, the same reform generated its own corrective response: the 1979 "local 
 ## Where findings agree
 
 - Formal jurisdictional proximity (smaller unit, more local government) is not the same as effective democratic proximity (citizens' preferences actually shaping decisions).
-- Representation costs from consolidation can be geographically uneven within a merged unit, not just uniformly diffused.
+- Representation costs from consolidation can be geographically uneven within a merged unit, not just uniformly diffused (Finnish evidence, see S1).
 
 ## Where findings diverge
 

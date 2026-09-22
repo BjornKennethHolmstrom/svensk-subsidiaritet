@@ -5,46 +5,44 @@ session: 4
 layout: StudiecirkelLayout
 ---
 
-# 30-DAY CONTRACT
+# 30-Day Promise
 
 ---
 
-## WE PROMISE TO MAKE A DIFFERENCE
+## Our joint promise
 
-We, the participants of the study circle:
+We, the participants in the study circle:
 
 **[Group name or place]:** _______________________________________
 
-promise to execute the following action before:
+promise to carry out the following action before:
 
 **[Date in 30 days]:** _______________________________________
 
 ---
 
-## OUR ACTION:
+## Our action
+
+_________________________________________________________________
+
+_________________________________________________________________
+
+_________________________________________________________________
+
+_________________________________________________________________
 
 ---
 
----
+## We commit to
+
+- ☐ Doing our best to carry out the action
+- ☐ Supporting each other along the way
+- ☐ Sharing what we learn with others
+- ☐ Coming back for follow-up
 
 ---
 
----
-
----
-
-## OUR PLEDGE:
-
-We commit to:
-
-* ☐ Do our best to execute the action
-* ☐ Support each other along the way
-* ☐ Share what we learn with others
-* ☐ Come back for follow-up
-
----
-
-## FOLLOW-UP MEETING:
+## Follow-up meeting
 
 **Date:** _______________________________________
 
@@ -52,30 +50,28 @@ We commit to:
 
 **Place:** _______________________________________
 
-**Purpose:** Share what we learned - what worked, what didn't work, what do we do next?
+**Purpose:** Share what we've learned - what worked, what didn't, what do we do next?
 
 ---
 
-## SIGNATURES:
+## Signatures
 
 This is not a legally binding contract, but a promise to ourselves and each other.
 
 | Name | Signature | Date |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|------|-------------|-------|
+|      |             |       |
+|      |             |       |
+|      |             |       |
+|      |             |       |
+|      |             |       |
+|      |             |       |
+|      |             |       |
+|      |             |       |
 
 ---
 
-**"The Swedish 'Folkhemmet' (People's Home) was not built in Stockholm.**
-**It was built in rooms like these, by people who dared to say:**
-**'Maybe there is another way.'"**
+*This is a promise, not a requirement. Those who do not want to sign still participate on equal terms.*
 
 ---
 

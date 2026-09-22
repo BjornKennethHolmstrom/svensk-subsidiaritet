@@ -1,356 +1,136 @@
-# Meeting 2: The Proximity Compass - The Tool for Diagnosis
+# Meeting 2: The Proximity Compass – a tool for investigation
 
-**Goal:** Participants should be able to use the Proximity Compass to analyze WHERE power sits, WHOSE knowledge counts, and HOW vulnerable the system is.
+**Goal:** Participants learn to use the Proximity Compass to examine a system: where decisions are made, whose knowledge is used, and how well the system copes with disruptions. They also test what the system does well at its current level.
 
 **Materials you need:**
-
-* Fika
-* Printed compass templates (one per person + a large one on the flipchart)
-* Markers or pens in three colors
-* Notes from last time (local resources)
-* Optional: Post-it notes in three colors
+- Refreshments
+- Printouts of the Proximity Compass (one per group)
+- Flipchart and pens in different colours
 
 ---
 
-## 0-10 min: Welcome Back + Check-in
+## 0–10 min: Welcome back and check-in
 
-**What you say:**
-
-> "Welcome back! Great to see you again. For those of you who are new today: we are in meeting 2 of 4 where we learn to understand systems instead of just complaining about them.
-> Last time we talked about the *problem*—that Swedish systems feel bureaucratic and impersonal. Today we are going to learn a *tool* to understand why.
-> But first: check-in. One round around the circle. Say your name and: What local resource did you think of since last time? A person, a place, or knowledge that 'the system' misses. I’ll start: [your name], and I thought of [example - e.g., 'my neighbor who can fix anything' or 'that empty space by the square']."
-
-**Facilitation tips:**
-
-* Collect the physical notes in a pile in the middle of the circle—"Our treasure map is growing!"
-* If someone forgot: "No worries, you can add it later."
-* If someone new arrived: "Welcome! We start every time with a check-in so everyone gets warmed up."
+> "Welcome back! Last time we shared experiences of what it's like to encounter society's systems. Today we're going to test a tool for examining a system a little more closely.
+>
+> Check-in: your name, and if you found out who decides over some system – what did you learn?"
 
 ---
 
-## 10-30 min: Introduction to The Proximity Compass
+## 10–30 min: The Proximity Compass's three questions
 
-**What you say:**
+> "The Proximity Compass consists of three questions. They can be answered independently of one another. A system can, for example, have decisions far away but still be robust, or have decisions close by but be vulnerable."
 
-> "Thank you for your check-in. Now we are going to learn today's tool: **The Proximity Compass**. It is a triangle with three corners that helps us understand how power and knowledge are distributed in a system.
-> Why a triangle? Because these three things hang together. If you change one, you affect the others.
-> Let me show you."
-
-**Draw a large triangle on the flipchart with these three corners:**
+**Write on the flipchart:**
 
 ```
-                    POWER
-                   (Decision)
-                      △
-                     /  \
-                    /    \
-                   /      \
-                  /        \
-                 /          \
-        KNOWLEDGE ----------- RESILIENCE
-        (Who knows?)         (What happens 
-                             in a crisis?)
-
+DECISION:   National/EU   ←→  Local/close
+KNOWLEDGE:  Formal expertise ←→ Experience and local knowledge
+RESILIENCE: Vulnerable     ←→  Robust
 ```
 
-### Explain each corner (5 min per corner):
+### 1. Decision: where are decisions made?
 
-**1. POWER (Decision) - From where is the decision made?**
+> "Think about school meals. Who decides what is served? The Education Act says that meals must be nutritious and free of charge, but what is actually served is decided by the municipality or the school, often together with the kitchen. A system can thus have parts that are decided at different levels."
 
-> "This isn't about *who* is mean or kind. It is about: at what level are decisions made?
-> Example: School food in Kiruna.
-> * Is the decision made by the school kitchen? (Local = close to you)
-> * Is it made by the municipality? (Regional = fairly close)
-> * Is it made by the National Agency for Education in Stockholm? (National = far away)
-> * Or by EU directives? (Supranational = very far away)
-> 
-> 
-> The further away the decision is made, the less it can be adapted to YOUR school's specific needs."
+### 2. Knowledge: whose knowledge is used?
 
-**2. KNOWLEDGE (Who knows?) - Whose expertise counts?**
+> "Think about healthcare. There is the doctor's training, the nurse's experience, and the patient's knowledge of their own body. All are needed. The question is which knowledge the system listens to, and whether any important knowledge is lost."
 
-> "Every system has different types of knowledge. Sometimes they are valued differently.
-> Example: Healthcare.
-> * The doctor's medical education (Formal expertise)
-> * The nurse's experience from 20 years on the ward (Practical expertise)
-> * The patient's knowledge of their own body (Lived experience)
-> 
-> 
-> Often only the first one counts. But without the other two, you miss important things. Whose knowledge does the system listen to?"
+### 3. Resilience: how does the system cope with disruptions?
 
-**3. RESILIENCE (What happens in a crisis?) - How vulnerable is the system?**
-
-> "This is about: If something goes wrong, will we cope?
-> Example: Food supply.
-> * If Sweden imports 50% of food: What happens if borders close?
-> * If everything is controlled digitally: What happens if the internet goes down?
-> * If only ICA (major grocery chain) exists: What happens if they go bankrupt?
-> 
-> 
-> A robust system has *redundancy*—several ways to achieve the same thing. A vulnerable system has *one solution*. If that fails, everything fails."
-
-**Write on flipchart:**
-
-```
-POWER:      Central (Stockholm/EU) ←→ Local (Here)
-KNOWLEDGE:  Expert (Certificate)   ←→ Local (Experience)
-RESILIENCE: Vulnerable (One way)   ←→ Robust (Many ways)
-
-```
+> "If something goes wrong, are there backup routes? A system can be vulnerable because it has a single solution, but also because it is too small to cope with a major disruption. Sometimes it is a larger organisation that has the reserves."
 
 ---
 
-## 30-35 min: Demonstration Example (We do one together)
+## 30–40 min: Two examples together
 
-**What you say:**
+> "We'll try the compass on two examples that differ."
 
-> "Now we will test the compass on an example together before you do your own. We'll take something everyone knows: **Systembolaget** (The state alcohol monopoly). Or if you prefer: a bus line, a health center, school food—vote!"
+### Example A: School meals
 
-**Let the group choose. Use their choice. I will demonstrate with Systembolaget:**
+Fill in together with the group:
+- **Decision:** fairly close – municipality, school and kitchen.
+- **Knowledge:** cooks, pupils, dietitians.
+- **Resilience:** depends. A school's own kitchen copes with supply disruptions differently than a central kitchen.
 
-**Hand out empty compass templates to everyone.**
+### Example B: The child vaccination programme
 
-> "Okay, Systembolaget. Let's fill in the compass together.
-> **POWER:** Who decides on Systembolaget's opening hours, assortment, prices?
-> [Let the group answer. Correct answer: The Swedish state via monopoly, Parliament, Systembolaget AB]
-> * Local influence? Almost none. You cannot start your own shop.
-> * Mark furthest out towards 'Central' on the scale."
-> 
-> 
+- **Decision:** national – which vaccines are included is decided for the whole country.
+- **Knowledge:** primarily medical and epidemiological expertise.
+- **Resilience:** a common programme makes it possible to reach almost all children, regardless of where they live.
 
-> **KNOWLEDGE:** Whose knowledge is valued?
-> [Let the group answer]
-> * Sommeliers? Systembolaget's buyers? Yes.
-> * Your local vineyard that wants to sell directly? No, must go through the system.
-> * Mark: Expert knowledge counts, local does not."
-> 
-> 
+**Ask the group:**
 
-> **RESILIENCE:** If Systembolaget closes, can you get alcohol legally in Sweden another way?
-> [Let the group answer: No (except restaurants)]
-> * Very vulnerable—only ONE channel.
-> * Mark: Low resilience."
-> 
-> 
+> "Would the vaccination programme be better if each municipality decided for itself? Would school meals be better if the state decided the menu? Why, or why not?"
 
-**Show the finished compass:**
-
-```
-         POWER
-      (Central)
-          △
-         /  \
-        /    \
-       /      \
-KNOWLEDGE ----- RESILIENCE
-(Expert)       (Vulnerable)
-
-```
-
-> "See, a pointy triangle tilting upwards and right. That means: Power far away, only expert knowledge counts, vulnerable system. That is typical for centralized monopolies."
+**The point:** Different tasks suit different levels. The compass shows what a system looks like, but does not in itself say what is best.
 
 ---
 
-## 35-65 min: Group Exercise - Map a Local Problem
+## 40–65 min: Group exercise – examine a system
 
-**What you say:**
+> "Now each group chooses a system or a local problem, preferably something from last time, and fills in the compass. You work in groups of 2–4."
 
-> "Now it's your turn. You will choose a local problem and map it using the compass. Work in small groups of 2-4 people.
-> Choose one of these (or suggest your own):
-> * The school food in [your municipality]
-> * Bus line [X] that stopped running
-> * Wait times at the health center
-> * Elderly care home in your area
-> 
-> 
-> You have 30 minutes. Fill in the compass and be prepared to present."
+**Each group should answer:**
+1. Where are decisions made, whose knowledge is used, and how robust is the system?
+2. **What does the system do well at the level where it is today?**
+3. **What could be better if the decision were moved closer, and what could be lost?**
+4. Is there anything that should instead be handled at a higher level?
 
-**Divide into groups (if >6 people).**
-
-**Hand out:**
-
-* 1 large compass template per group
-* Colored markers
-* Paper for notes
-
-### Guidance while they work (5 min per group, rotate):
-
-**Walk around and help the groups:**
-
-If they get stuck on **POWER:**
-
-* "Start with a concrete question: Who decides the budget?"
-* "If you don't know, guess! We can check later."
-
-If they get stuck on **KNOWLEDGE:**
-
-* "What kind of knowledge is required to do the job?"
-* "Whose voice does the system *not* listen to?"
-
-If they get stuck on **RESILIENCE:**
-
-* "Think: If this system stops working tomorrow, what happens?"
-* "Are there alternatives?"
-
-**After 20 min, give a 10-minute warning.**
-
-**After 30 min:**
-
-> "Okay, pens down! Now every group gets 3 minutes to present their compass. Show your triangle and briefly explain why it looks the way it does."
-
-**Each group presents (3-4 min per group):**
-
-* Which problem did you choose?
-* What does your compass look like?
-* What surprised you?
-
-**After each presentation:**
-
-* "Thank you! Questions from anyone else? [Max 1 question]"
-* Hang their compass up on the wall.
+**While the groups work:** walk around and ask. If a group only sees problems, ask: "What would happen if this were handled entirely locally, in each municipality separately?" If a group only sees advantages, ask: "Who could be disadvantaged by a change?"
 
 ---
 
-## 65-80 min: Joint Reflection - Patterns We See
+## 65–80 min: Reporting back and conversation
 
-**What you say:**
+Each group reports for 3 minutes. Then:
 
-> "Thank you for your presentations. Now let's step back and look at all the compasses we created. Look at the wall. Do you see any patterns?"
+> "What patterns do we see? Are there systems where decisions should be closer? Are there systems where, on the contrary, more coordination is needed?"
 
-**Silent observation for 30 seconds.**
+**Summarise openly:**
 
-**Ask these questions, one at a time:**
-
-### Question 1 (5 min): Shape patterns
-
-> "What do most triangles look like? Pointy upwards (centralized) or wide downwards (local)?"
-
-[Let the group answer. Likely: Most are pointy.]
-
-> "Exactly. Most Swedish systems today are built with power centrally, expert knowledge dominant, and low resilience. It's not a coincidence—it is 20th-century architecture."
-
-### Question 2 (5 min): The Knowledge Gap
-
-> "Whose knowledge is ignored in these systems? Raise your hand if you see an example where local experience doesn't count."
-
-[Many hands, probably.]
-
-> "This is the core of the problem. The system thinks expert knowledge in Stockholm is enough. But expert-at-a-distance can never replace knowledge-in-context."
-
-### Question 3 (5 min): Resilience Vulnerability
-
-> "Which systems feel most vulnerable? If they break, do we have backup?"
-
-[Discussion.]
-
-> "I hear: [summarize]. The Swedish welfare society has *efficiency* but not *redundancy*. We put all our eggs in one basket because it was cheaper. Now we are vulnerable."
+> "What I hear is that [summarise]. There are examples where decisions seem to be too far away, and examples where more common solutions seem to be needed. That is exactly the trade-off subsidiarity is about, and we'll look at it more closely next time."
 
 ---
 
-## 80-85 min: Future Vision + Next Meeting
+## 80–85 min: Looking ahead to the next meeting
 
-**What you say:**
-
-> "Great work today! You can now diagnose systems. You see where power sits, whose knowledge counts, how vulnerable it is.
-> But diagnosis is only step one. Next time we will talk about: **What is the solution?**
-> Spoiler alert: It is called *subsidiarity*. In Swedish: *närstyre* (proximity rule). Or even simpler: moving power closer to the people affected.
-> Until next time: Take your compass and think of a system you yourself want to *change*. Not just understand—but actually do differently. We will start building solutions.
-> [Date and time for next meeting]."
+> "Next time we'll talk about the principle itself: subsidiarity. We'll look at examples where people have organised things close to one another, and at examples where the common works best. Feel free to bring your compass."
 
 ---
 
-## 85-90 min: Check-out
+## 85–90 min: Check-out
 
-**What you say:**
-
-> "Last round: One word for how you feel now, after learning the compass. I’ll start: [your word - e.g., 'clearer', 'angry', 'hopeful']."
-
-**Closing:**
-
-> "Thank you for coming and for thinking so sharply. Take your compass templates home if you want. See you next time!"
+> "One word for how you feel now."
 
 ---
 
-## Handout to distribute
+## If something goes wrong
 
-**Meeting 2 - Summary: The Proximity Compass**
+**The groups don't get started:** Suggest a simple system, for example bus transport, the library or the health centre.
 
-**The three corners:**
+**Everyone agrees that "everything should be local":** Ask about examples where that would be unfair or inefficient, for example medicines, vaccinations or defence.
 
-1. **POWER:** From where are decisions made?
-* Central (Stockholm/EU/Region) or Local (Here)?
-
-
-2. **KNOWLEDGE:** Whose expertise counts?
-* Formal (certificates, education) or Local (experience, context)?
-
-
-3. **RESILIENCE:** How vulnerable is the system?
-* One solution (vulnerable) or Multiple alternatives (robust)?
-
-
-
-**How to use the compass:**
-
-1. Choose a system (school food, bus, healthcare, etc.).
-2. Ask for each corner: Where are we on the scale?
-3. Draw the triangle.
-4. Interpret the shape:
-* Pointy upwards = Centralized.
-* Wide downwards = Local.
-
-
-
-**Next time:**
-We learn *subsidiarity*—how to move power closer to people.
-
-**Read more:**
-svensksubsidiaritet.se/systemanalys
+**Someone knows much more than the others:** Ask that person to help a group with facts, but let the group draw its own conclusions.
 
 ---
 
-## Facilitator Checklist
+## To hand out
 
-Before the meeting:
+**Meeting 2 – The Proximity Compass**
 
-* [ ] Coffee, fika
-* [ ] Printouts of compass templates (at least 10)
-* [ ] Large compass on flipchart
-* [ ] Colored pens/markers
-* [ ] Notes from the previous meeting
-* [ ] Tape to hang up group compasses
+- **Decision:** where are decisions made?
+- **Knowledge:** whose knowledge is used?
+- **Resilience:** how does the system cope with disruptions?
+- **And always:** what does the system do well today, and what could be lost in a change?
 
-During the meeting:
+---
 
-* [ ] Check-in with local resources
-* [ ] Explain the three corners
-* [ ] Demo with Systembolaget (or other)
-* [ ] Group exercise
-* [ ] Presentations
-* [ ] Joint reflection
-* [ ] Check-out
+## Checklist for the study circle leader
 
-After the meeting:
+**Before:** printouts of the Proximity Compass, flipchart, pens, refreshments.
 
-* [ ] Photograph all compasses (documentation)
-* [ ] Remind about next meeting
-* [ ] Prepare Meeting 3 material (subsidiarity)
+**During:** check-in, the compass's three questions, two examples, group exercise, reporting back, check-out.
 
-## Troubleshooting Meeting 2
-
-**Groups don't understand the compass:**
-
-* Go back to the Systembolaget example.
-* Draw clearer: "Central" at the very top, "Local" at the very bottom.
-
-**They want to talk politics instead of systems:**
-
-* "Good point, but let's keep focus on the structure, not the parties. Whose system wins the election matters less if the system itself is built wrong."
-
-**All compasses look the same:**
-
-* "Exactly! Most Swedish systems have the same shape. What does that say about our society?"
-
-**Someone says 'But centralization IS good!':**
-
-* "Absolutely, it can be—for certain things. The question is: for what? Defense? Yes. Your school food? Maybe not."
+**After:** note down which systems the groups chose and what they concluded.

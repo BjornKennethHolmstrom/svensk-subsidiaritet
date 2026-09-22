@@ -5,11 +5,11 @@
 **Det sista mötet:**
 1. **Gå igenom "Skattkartan"** – se vilka resurser ni faktiskt har
 2. **Välj EN sak** att göra inom 30 dagar (liten, konkret, möjlig)
-3. **Skriv ett "30-dagarskontrakt"** på ett papper som alla signerar
+3. **Skriv ett "30-dagarslöfte"** som de som vill kan skriva under
 4. **Bestäm ett datum för "Möte 5: Uppföljning"** (om ni vill)
 5. **Fira med extra fika** (kan vara semlor, punsch, något festligt)
 
-**30-dagarskontrakt-mall:**
+**Mall för 30-dagarslöfte:**
 > "Vi, deltagarna i [Gruppnamn], lovar att före [Datum] göra följande: [Konkret handling]. Vi återkommer den [Datum] för att dela vad vi lärt oss. Signerat: [Namnteckningar]"
 
 ## **Alternativ för fortsatt engagemang**
@@ -22,7 +22,7 @@
 ### **Alternativ 2: Starta ett praktiskt projekt**
 - **Mat:** Inköpsring, kolonilott-gemenskap, "äta tillsammans"-kvällar
 - **Energi:** Solcells-gruppköp, energisparklubb
-- **Trygghet:** Trygghetsring på WhatsApp, "gå-buss" för barn
+- **Trygghet:** nattvandring, grannsamverkan tillsammans med polisen, "gående skolbuss" för barn
 - **Stöd:** Mönsterbibliotek på svensksubsidiaritet.se
 
 ### **Alternativ 3: Bli ambassadörer**
@@ -46,9 +46,9 @@
 ## **När det känns för stort...**
 
 **Kom ihåg:**
-1. **Ingen förväntar sig att ni löser bostadskrisen.** En grannsamverkan kring potatis är en revolution i sin lilla skala.
+1. **Ingen förväntar sig att ni löser bostadskrisen.** Även ett litet gemensamt initiativ är värt något.
 2. **Tystnad är okej.** Gruppen kanske sover ett tag och vaknar till våren.
-3. **Du är inte ensam.** Tusentals andra svenskar har samma frågor. Era tankar matar en större rörelse.
+3. **Du är inte ensam.** Många andra funderar på samma frågor, och era erfarenheter kan hjälpa andra grupper.
 
 ## **Sista ordet (till dig som cirkelledare)**
 
@@ -56,7 +56,7 @@ Tack. Du har gjort något modigt – du har sagt "kanske finns det ett annat sä
 
 Oavsett vad som händer nu: Du har planterat ett frö. Det kanske gror direkt. Det kanske ligger i marken över vintern. Men du har brutit isen.
 
-**Det svenska folkhemmet byggdes inte i Stockholm. Det byggdes i precis sådana här rum, med kaffe, tystnad, och den envisa tron att gemensamt är bättre.**
+**Studiecirklar har i över hundra år varit ett sätt för människor i Sverige att lära sig tillsammans och organisera sig. Nu har ni gjort det också.**
 
 ---
 

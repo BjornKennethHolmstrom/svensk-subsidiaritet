@@ -33,7 +33,7 @@
 
 ## Vad evidensen visar
 
-Den tydligaste kapacitetsevidensen i korpuset kommer från **[kommunsammanslagningar (S1)](/evidens/fall/sverige/kommunsammanslagningar/)**: genomsnittsbefolkningen per kommun steg från 1 583 till 4 004 efter 1952 års reform, och kommuner under 1 000 invånare föll från 1 226 till bara tre — en genuin kapacitetsökning enligt varje administrativt mått. Men samma falls utgiftsevidens motsäger direkt en enkel "större är billigare"-berättelse: en geokodad difference-in-differences-studie fann ingen total effekt på kommunala utgifter efter åtta år, och en separat studie fann att reformen hade en **negativ** effekt på utgifterna specifikt för kommuner som förblev under en kritisk storlek efteråt.
+Den tydligaste kapacitetsevidensen i korpuset kommer från **[kommunsammanslagningar (S1)](/evidens/fall/sverige/kommunsammanslagningar/)**: genomsnittsbefolkningen per kommun steg från 1 583 till 4 004 efter 1952 års reform, och kommuner under 1 000 invånare föll från 1 226 till bara tre — en genuin kapacitetsökning enligt varje administrativt mått. Men utgiftsevidensen ger inget stöd för en enkel "större är billigare"-berättelse: en studie av 1952 års reform fann tecken på stordriftsfördelar upp till en viss storlek, men resultaten var inte statistiskt säkerställda när hänsyn togs till vilka kommuner som slogs ihop (Hanes 2015), och en studie av finska kommunsammanslagningar fann ingen effekt på de totala utgifterna efter åtta år (Harjunen, Saarimaa & Tukiainen 2021).
 
 **[Mellankommunal samverkan (S5)](/evidens/fall/sverige/mellankommunal-samverkan/)** ger den skarpaste evidensen för att kapacitets- och specialiseringsvinster inte kräver sammanslagning alls: kommuner samverkar i hög grad inom specialiserade, tekniska eller reglerande funktioner (miljötillsyn, räddningstjänst, upphandling, IT, juridisk kompetens) medan de sällan samverkar inom stora, kontinuerliga, medborgarnära funktioner (grundskola, äldreomsorg). Och där S5 faktiskt visar kostnadseffekter går de också emot intuitionen "skala sparar pengar": samverkan tenderar att förbättra kapacitet, specialisering och resiliens snarare än att minska kostnader — mekanismen ser mer ut som *långsammare framtida kostnadstillväxt genom bättre kapacitet* än *omedelbara besparingar*.
 
@@ -50,13 +50,13 @@ Den tydligaste kapacitetsevidensen i korpuset kommer från **[kommunsammanslagni
 ## Var fynden går isär
 
 - Om sammanslagning eller samverkan är den bättre mekanismen för att uppnå kapacitetsvinster beror starkt på den specifika funktionen — korpuset stödjer ännu inte en generell rangordning.
-- Kostnadseffekter av skala verkar vara icke-linjära och storleksberoende (enligt S1:s Hanes 2014-fynd) snarare än enhetligt positiva eller negativa.
+- Evidensen för kostnadseffekter av skala är osäker: svenska resultat tyder på stordriftsfördelar upp till en viss storlek men är inte robusta, och finsk evidens visar ingen total effekt (se S1).
 
 ---
 
 ## Motevidens
 
-- Direkt evidens mot "större är billigare": ingen aggregerad utgiftseffekt från Sveriges hittills största kommunkonsolidering (S1), och en dokumenterad negativ effekt för kommuner som förblev små efter sammanslagning.
+- Inget säkert stöd för "större är billigare": evidensen från 1952 års reform är inte statistiskt säkerställd i den mest robusta analysen (Hanes 2015), och finsk evidens visar ingen aggregerad utgiftseffekt (se S1).
 - Att samverkan (S5) uppnår specialiseringsvinster utan sammanslagning utmanar direkt antagandet att skalfördelar kräver jurisdiktionell konsolidering.
 
 ---

@@ -1,17 +1,17 @@
 # **Innan du börjar – Vägledning för värdskap**
 
 **Välkommen.**
-Du håller i verktygslådan för att starta en konversation som Sverige desperat behöver. Denna studiecirkel handlar inte om partipolitik. Den handlar om **systemförståelse**.
+Du håller i materialet för en studiecirkel om hur samhällets system fungerar i vardagen, och om var besluten bör fattas. Cirkeln handlar inte om partipolitik, men den har en utgångspunkt: principen om subsidiaritet, att beslut ska fattas så nära dem som berörs som möjligt, men högre upp när det behövs. Deltagarna ska få pröva den principen, inte bara ta den till sig.
 
 ## Din roll
 Du är inte lärare. Du är **trädgårdsmästare**.
-Din uppgift är inte att sitta på svaren, utan att se till att alla röster får växa.
+Din uppgift är inte att sitta på svaren, utan att se till att alla röster får växa, också de som är skeptiska till materialets utgångspunkt.
 
 ## Cirkelns Struktur (4 Träffar)
-1.  **Diagnosen:** Varför känns allt så trögt och byråkratiskt?
-2.  **Kompassen:** Att mäta makt, kunskap och sårbarhet.
-3.  **Lösningen:** Vad är egentligen subsidiaritet (närstyre)?
-4.  **Handlingen:** Vad kan vi göra just här, just nu?
+1.  **Erfarenheterna:** Hur möter vi samhällets system, och när fungerar de bra eller dåligt?
+2.  **Kompassen:** Att undersöka var besluten fattas, vems kunskap som används och hur robust ett system är.
+3.  **Principen:** Vad betyder subsidiaritet, och vilka är argumenten för och emot?
+4.  **Handlingen:** Vill vi göra något tillsammans, och i så fall vad?
 
 ## Gyllene Regler
 * **System, inte personer:** Om någon klagar på "politiker X", styr om till "vilka incitament styr politiker X?"
@@ -24,7 +24,7 @@ Din uppgift är inte att sitta på svaren, utan att se till att alla röster få
 > "Hej [Namn]! Jag håller på att samla några grannar/kollegor för att prata om hur vi kan göra vår vardag bättre – inte genom att klaga, utan genom att tänka nytt kring hur samhället fungerar. Det blir fika, gott sällskap och inga krav att 'tro på' något speciellt. Intresserad av ett försök? 📅 [Datum] kl [Tid] på [Plats]. Hör av dig om du vill vara med!"
 
 **Vad man svarar på vanliga frågor:**
-- *"Är det politik?"* – "Nej, det handlar om att förstå system, inte partier."
+- *"Är det politik?"* – "Det är inte partipolitik, men det handlar om hur samhället styrs. Materialet utgår från en idé om att beslut ska fattas nära, och vi prövar tillsammans när den stämmer och när den inte gör det."
 - *"Vad kostar det?"* – "Ingenting, förutom att du kanske tar med lite fika."
 - *"Jag vet inget om det här..."* – "Perfekt! Då har du inga förutfattade meningar."
 

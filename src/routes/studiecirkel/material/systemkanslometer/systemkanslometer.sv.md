@@ -6,34 +6,34 @@ session: 1
 
 ## Instruktion
 
-Markera hur du känner dig när du möter dessa svenska system. Det finns inget rätt eller fel - bara din upplevelse.
+Markera hur du brukar uppleva de här systemen. Det finns inget rätt eller fel, bara din upplevelse. Hoppa över dem du inte har erfarenhet av.
 
-| System | Känner mig sedd | Känner mig som nummer |
-|--------|----------------|----------------------|
-| **Vårdcentralen** | ☐ | ☐ |
-| **Försäkringskassan** | ☐ | ☐ |
-| **Skolan** | ☐ | ☐ |
-| **ICA/Coop** | ☐ | ☐ |
-| **Kommunens hemsida** | ☐ | ☐ |
-| **Banken** | ☐ | ☐ |
-| **Polisen** | ☐ | ☐ |
-| **SL/Västtrafik/kollektivtrafik** | ☐ | ☐ |
-| **Skatteverket** | ☐ | ☐ |
-| **Apoteket** | ☐ | ☐ |
+**1 = som ett nummer, 5 = sedd som person**
+
+| System | 1 | 2 | 3 | 4 | 5 | Ett exempel |
+|--------|---|---|---|---|---|-------------|
+| **Vårdcentralen** | ☐ | ☐ | ☐ | ☐ | ☐ | |
+| **Försäkringskassan** | ☐ | ☐ | ☐ | ☐ | ☐ | |
+| **Skolan** | ☐ | ☐ | ☐ | ☐ | ☐ | |
+| **Mataffären** | ☐ | ☐ | ☐ | ☐ | ☐ | |
+| **Kommunen** | ☐ | ☐ | ☐ | ☐ | ☐ | |
+| **Banken** | ☐ | ☐ | ☐ | ☐ | ☐ | |
+| **Polisen** | ☐ | ☐ | ☐ | ☐ | ☐ | |
+| **Kollektivtrafiken** | ☐ | ☐ | ☐ | ☐ | ☐ | |
+| **Skatteverket** | ☐ | ☐ | ☐ | ☐ | ☐ | |
+| **Biblioteket** | ☐ | ☐ | ☐ | ☐ | ☐ | |
 
 ---
 
 ## Reflektion
 
-Titta på dina svar. Finns det ett mönster? Vilka system får fler kryssar i "som nummer"?
+- Vilket system upplever du bäst? Vad är det som gör det?
+- Vilket upplever du sämst? Vad tror du att det beror på?
+- Spelar det någon roll om systemet sköts lokalt, regionalt, nationellt eller av ett företag?
 
 **Dina anteckningar:**
 
 <div style="margin-top: 1rem;">
-
-_______________________________________
-
-_______________________________________
 
 _______________________________________
 

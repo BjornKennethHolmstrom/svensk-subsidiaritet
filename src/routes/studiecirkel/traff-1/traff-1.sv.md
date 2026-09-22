@@ -1,256 +1,165 @@
-# Träff 1: Det svenska paradoxen - Diagnosen
+# Träff 1: Hur möter vi systemen?
 
-**Mål:** Deltagarna ska känna igen systemdysfunktion i sin egen vardag och förstå att problemet inte är "dumma politiker" utan själva systemarkitekturen.
+**Mål:** Deltagarna delar erfarenheter av hur det är att möta samhällets system i vardagen, både när det fungerar och när det inte gör det, och börjar fundera på vad det beror på.
 
 **Material du behöver:**
 - Fika (kaffe, te, något att äta)
-- Stora lappar (A5) och pennor till alla
+- Lappar (A5) och pennor till alla
 - Flipchart eller stort papper på väggen
-- Eventuellt: Utskrift av "Systemkänslometer" (se nedan)
+- Utskrift av "Systemkänslometern"
 
 ---
 
-## 0-10 min: Välkommen och check-in
+## 0–10 min: Välkommen och check-in
 
-**Vad du säger (exakt):**
+**Vad du kan säga:**
 
-> "Välkomna allihop. Tack för att ni kom. Jag är [ditt namn] och jag ska vara er värd under de här fyra träffarna.
+> "Välkomna allihop. Tack för att ni kom. Jag är [ditt namn] och jag håller i de här fyra träffarna.
 >
-> Jag har bjudit hit er för att jag tror vi behöver prata på ett nytt sätt om varför saker känns så jobbiga i vårt samhälle. Inte genom att klaga på politiker eller partier, utan genom att titta på själva systemen - hur beslut fattas, var kunskap finns, vem som har makt.
+> Vi ska prata om hur samhället fungerar i vardagen: när vi går till vårdcentralen, har kontakt med skolan eller behöver hjälp från en myndighet. Vad fungerar bra, vad fungerar dåligt, och varför?
 >
-> Jag har inga färdiga svar. Men jag har några bra frågor och några verktyg för att förstå bättre. Och jag har kaffe.
+> Materialet kommer från svensksubsidiaritet.se, ett projekt som utgår från en idé som heter subsidiaritet: att beslut ska fattas så nära dem som berörs som möjligt, men på en högre nivå när det behövs. Ni behöver inte hålla med om den idén. Tvärtom: en del av poängen är att vi tillsammans prövar när den stämmer och när den inte gör det.
 >
-> Vi träffas fyra gånger. Idag: diagnos - vad känns fel? Nästa gång: ett analysverktyg. Tredje gången: lösningar som faktiskt fungerar. Fjärde gången: något litet vi kan göra här och nu.
+> Vi träffas fyra gånger. Idag delar vi erfarenheter. Nästa gång prövar vi ett verktyg för att undersöka ett system. Tredje gången tittar vi på exempel och på för- och nackdelar med olika sätt att organisera saker. Fjärde gången bestämmer vi om vi vill göra något tillsammans.
 >
-> Det enda som krävs är att ni lyssnar och delar vad ni är bekväma med. Ingen press. Ingen får hemläxa. Vi börjar exakt på tiden och slutar exakt på tiden - det är respekt för era barnvakter och bussar.
+> Ingen press. Ni delar det ni vill dela. Vi börjar och slutar på tiden.
 >
-> Innan vi kör igång, låt oss gå ett varv runt cirkeln. Säg ditt namn och ett ord för hur det känns att vara här ikväll. Jag börjar: [ditt namn], och jag känner mig... nyfiken."
+> Låt oss gå ett varv: ditt namn och ett ord för hur det känns att vara här ikväll. Jag börjar: [ditt namn], och jag känner mig nyfiken."
 
-**Faciliteringstips:**
-- Efter varje person säger du "Tack, [namn]" - det bekräftar och skapar rytm
-- Om någon säger mer än ett ord, låt det flyta - första gången är nervös
-- Om tystnad: vänta 7 sekunder innan du går vidare till nästa person
+**Tips:**
+- Säg "tack, [namn]" efter varje person.
+- Om det blir tyst: vänta några sekunder innan du går vidare.
 
 ---
 
-## 10-25 min: Gemensam läsning + Konceptintroduktion
+## 10–25 min: Några begrepp att ha med sig
 
-**Vad du säger:**
+**Vad du kan säga:**
 
-> "Tack för er check-in. Nu ska vi läsa lite tillsammans. Jag kommer läsa högt ur ett kort manifest som förklarar varför centraliserade system - som fungerade bra på 1900-talet - har blivit vårt problem på 2000-talet. Medan jag läser, tänk på om något känns igen."
+> "Innan vi börjar dela erfarenheter vill jag ge oss några ord att tänka med. De är inte svar, utan verktyg."
 
-**Läs högt (5 minuter):**
+**Förklara kort och skriv på flipchart:**
 
-*Välj 2-3 stycken från din manifest-text eller använd denna förkortade version:*
+- **Beslutsnivå:** var ett beslut fattas, till exempel i skolan, kommunen, regionen, staten eller EU. Kommunen ansvarar till exempel för skolan och äldreomsorgen, regionen för sjukvården och kollektivtrafiken, och staten för bland annat socialförsäkringarna.
+- **Standardisering:** att göra lika för alla. Det ger likvärdighet och förutsägbarhet, men passar inte alltid den enskilda situationen.
+- **Anpassning:** att göra olika efter behov. Det kan passa bättre, men kan också leda till att lika fall behandlas olika.
 
-> "Sverige har byggt världens mest imponerande system. Sjukvård för alla. Skola för alla. Omsorg för alla. Men någonstans längs vägen hände något: systemen blev så stora och komplexa att de inte längre ser människorna.
->
-> Det kallas centralisering. Tanken var god: om vi samlar experter i Stockholm, får vi bättre beslut. Om vi standardiserar processer, blir det rättvist. Om vi gör allt lika överallt, blir det effektivt.
->
-> Men det fungerade bara så länge problemen var enkla och likadana. Idag är verkligheten mer komplicerad. Din vardag i Kiruna är inte samma som någons vardag i Malmö. Din familj är inte identisk med grannens. Din hälsa följer inte manualen.
->
-> Och ändå behandlar systemen oss som om vi vore identiska. Samma vårdköer. Samma skolplan. Samma bidragsregler. Vi har optimerat för effektivitet men glömt bort människan."
+**Vad du kan säga:**
 
-**Nyckelbegrepp att förklara:**
-
-1. **Centralisering:** "När beslut fattas på riksnivå eller regional nivå istället för lokalt. Exempel: Trafikverket i Borlänge bestämmer om din bybuss."
-
-2. **Monokultur:** "När man gör allt likadant överallt. Effektivt men sårbart - som när all potatis är samma sort och en sjukdom slår ut alltihop."
-
-3. **Systemarkitektur:** "Hur något är byggt från grunden. Inte *vem* som styr utan *hur* makt och kunskap är fördelade i själva uppbyggnaden."
-
-**Skriv upp på flipchart:**
-- CENTRALISERING = Beslut fattas långt borta
-- MONOKULTUR = Samma lösning överallt
-- SYSTEMARKITEKTUR = Hur makten är byggd
+> "Båda har sina poänger. Vi vill att alla ska ha samma rättigheter, oavsett var de bor. Samtidigt vill vi att den som hjälper oss ska se just vår situation. Mycket av det vi pratar om de här veckorna handlar om hur man balanserar de två."
 
 ---
 
-## 25-35 min: Systemkänslometer (individuell övning)
+## 25–35 min: Systemkänslometern (individuell övning)
 
-**Vad du säger:**
+**Vad du kan säga:**
 
-> "Nu ska vi göra en snabb övning. Ni får varsitt papper med en lista på svenska system ni förmodligen stött på nyligen. Jag vill att ni markerar hur det känns när ni möter dem. Det finns inget rätt eller fel - bara din upplevelse."
+> "Nu får ni en lista över system som många av oss möter. Markera hur du brukar uppleva dem. Det finns inget rätt eller fel."
 
-**Dela ut lappar med denna tabell (eller rita på flipchart om ni är få):**
-
-```
-System                    | Känner mig sedd | Känner mig som nummer
---------------------------|-----------------|---------------------
-Vårdcentralen            | ☐               | ☐
-Försäkringskassan        | ☐               | ☐
-Skolan                   | ☐               | ☐
-ICA/Coop                 | ☐               | ☐
-Kommunens hemsida        | ☐               | ☐
-Banken                   | ☐               | ☐
-Polisen                  | ☐               | ☐
-SL/Västtrafik            | ☐               | ☐
-```
+**Dela ut Systemkänslometern.** Den har en skala från "som ett nummer" till "sedd som person", och en rad för att skriva ett exempel.
 
 **Ge 5 minuter tyst tid.**
 
-**Efter 5 minuter, säg:**
+**Efter 5 minuter:**
 
-> "Okej, nu ska vi inte gå igenom alla era svar individuellt - det tar för lång tid. Men jag vill att ni tittar på era egna svar. Finns det ett mönster? Vilka system får fler kryssar i 'som nummer'?
->
-> Höj handen om minst hälften av era kryss hamnade i 'som nummer'-kolumnen."
+> "Titta på era svar. Vilka system upplever ni bäst? Vilka sämst? Finns det något som förvånar er?"
 
-**Räkna händer, säg:**
-
-> "Intressant. [X] av er känner er oftare som nummer än som person när ni möter svenska system. Det är inte för att folk som jobbar där är elaka. Det är för att systemen är byggda för att hantera 10 miljoner svenskar med samma process. Och då blir du matematik, inte människa."
+Låt några dela frivilligt. Fråga gärna: "Vad är det som gör att just det systemet fungerar bra för dig?"
 
 ---
 
-## 35-60 min: Gruppsamtal - Systemträsk i vardagen
+## 35–65 min: Samtal i cirkeln
 
-**Vad du säger:**
+**Vad du kan säga:**
 
-> "Nu ska vi prata tillsammans. Jag har tre frågor och vi tar dem i ordning. Vi går ett varv runt cirkeln för varje fråga. Ni får passa om ni vill, men försök dela något litet om ni kan. Kom ihåg: vi kritiserar *system*, inte *personer* som jobbar i dem."
+> "Nu pratar vi tillsammans. Vi tar tre frågor och går ett varv för varje. Man får alltid passa. Kom ihåg: vi pratar om hur system fungerar, inte om enskilda personer som arbetar i dem."
 
-### Fråga 1 (15 min): Var möter du "systemet"?
+### Fråga 1 (10 min): När har ett system fungerat bra för dig?
 
-**Facilitering:**
-- Börja själv med ett exempel: "Jag försökte byta adress förra månaden och det krävde fem olika myndigheter..."
-- Gå runt cirkeln
-- Om någon nämner en person: "Tack, och vilket system tror du satte den personen i den situationen?"
-- Om någon tar för lång tid (>2 min): "Tack [namn], det var ett bra exempel. Ska vi gå vidare så alla får utrymme?"
+- Börja gärna själv med ett exempel.
+- Lyssna efter vad som gjorde skillnad: en person som kände dig, tydliga regler, snabbt besked, att det gick att få tag i någon.
 
-**Skriv ner på flipchart:** Vilka system nämns mest? (Försäkringskassan, vården, skolan brukar toppa)
+### Fråga 2 (10 min): När har det inte fungerat?
 
-### Fråga 2 (10 min): Nära eller långt borta?
+- Om någon blir arg på en viss tjänsteman: "Jag förstår. Vad tror du gjorde att den personen inte kunde hjälpa dig? Var det regler, tid, resurser, något annat?"
 
-> "Nästa fråga: Tänk på det senaste beslutet som påverkade din vardag - kanske en skolförändring, en buss som slutar gå, en vårdregel. Känner du att det beslutet fattades nära dig eller långt borta? Varför tror du det?"
+### Fråga 3 (10 min): Var fattades beslutet?
 
-**Facilitering:**
-- Mindre formal runda - folk kan bygga på varandras svar
-- Lyssna efter: "Stockholm", "Regionen", "EU" vs. "Vår rektor", "Grannen"
-- Summera: "Jag hör många exempel på beslut som fattas långt från er vardag. Håller ni med om att det är ett mönster?"
+> "Tänk på ett beslut som har påverkat din vardag, till exempel en busslinje, en förändring i skolan eller en regel i vården. Vet du var beslutet fattades? Hade det blivit bättre eller sämre om det fattats någon annanstans?"
 
-### Fråga 3 (10 min): När standard inte fungerar
+**Tips:**
+- Det är vanligt att man inte vet var ett beslut fattades. Det är i sig en viktig iakttagelse.
+- Skriv upp de beslutsnivåer som nämns på flipchart.
 
-> "Sista frågan för idag: Har någon stött på en situation där 'standardlösningen' inte passade er unika situation? Kanske ett formulär som inte hade ett alternativ för er, eller en regel som inte såg er verklighet?"
+**Summera öppet:**
 
-**Facilitering:**
-- Detta blir ofta emotionellt - ha pauser, bekräfta känslor
-- Om någon blir arg på "byråkrater": "Jag hör din frustration. Vad tror du det är i *systemet* som gör att den byråkraten inte kunde hjälpa dig?"
-- Summera: "Mönstret jag hör är: reglerna är byggda för 'genomsnittssvensken' och när du avviker blir systemet blint."
+> "Vad jag hör är [sammanfatta]. Ibland verkar problemet vara att beslutet fattas långt bort. Ibland verkar det vara tvärtom, att det saknas gemensamma regler. Ibland handlar det om resurser. Vi tar med oss det till nästa gång."
 
 ---
 
-## 60-75 min: Intro till nästa träff + Hemuppgift
+## 65–75 min: Inför nästa träff
 
-**Vad du säger:**
+**Vad du kan säga:**
 
-> "Vi har pratat mycket om problem idag. Bra. Diagnos först. Men nästa gång ska vi lära oss att analysera *varför* systemen fungerar så här. Vi kommer att använda ett verktyg som heter 'Närhetskompassen' - det hjälper oss se var makten sitter, vems kunskap som räknas, och hur sårbart något är.
+> "Nästa gång prövar vi ett verktyg som heter Närhetskompassen. Det hjälper oss att undersöka var besluten fattas, vems kunskap som används och hur väl ett system klarar störningar.
 >
-> Fram till nästa gång har ni en liten uppgift, om ni vill: Ta med ett exempel på en *lokal resurs* som systemet missar. Det kan vara:
-> - En person med en skicklighet (någon som kan laga, odla, snickra, översätta)
-> - En plats (en tom lokal, en bit mark, ett förråd)
-> - En kunskap (något ni vet om ert område som experter i Stockholm inte vet)
->
-> Skriv ner det på en lapp och ta med nästa gång. Vi ska bygga en 'skattkarta' tillsammans."
-
-**Dela ut små lappar och pennor.**
+> Om ni vill kan ni till nästa gång ta reda på en sak om ett system ni pratade om idag: vem bestämmer egentligen över det? Kommunen, regionen, staten eller någon annan? Kommunens och regionens webbplatser brukar ha svaret."
 
 ---
 
-## 75-85 min: Sammanfattning + Nästa steg
+## 75–85 min: Sammanfattning
 
-**Vad du säger:**
+**Vad du kan säga:**
 
-> "Innan vi avslutar, låt mig summera vad vi lärt oss idag:
+> "Idag har vi delat erfarenheter av hur det är att möta samhällets system. Vi har sett exempel på när det fungerar och när det inte gör det, och vi har börjat fundera på om det har att göra med var besluten fattas, eller med något annat.
 >
-> 1. Svenska system är byggda för *standardisering* - bra för effektivitet, dåligt för unika människor.
-> 2. Många av er känner er som *nummer* oftare än som *person* när ni möter dessa system.
-> 3. Beslut som påverkar er fattas ofta *långt borta* av folk som inte känner er verklighet.
->
-> Det här är inte för att politiker eller tjänstemän är dumma. Det är för att *arkitekturen* - själva byggnadssättet - är fel för dagens komplexa verklighet.
->
-> Nästa gång, [datum och tid], tar vi nästa steg: vi lär oss att *diagnosticera* vart makten och kunskapen sitter. Ni får gärna bjuda in en granne eller kollega - ju fler perspektiv, desto bättre."
+> Nästa gång, [datum och tid], undersöker vi ett system mer noggrant. Ni får gärna ta med en granne eller kollega."
 
 **Praktiskt:**
-- "Kan alla komma nästa gång? [Kolla runt.]"
-- "Behöver någon skjuts eller hjälp med barnomsorg? [Lös praktiskt.]"
-- "Kontaktuppgifter - ska vi ha en WhatsApp-grupp? [Om gruppen vill.]"
+- Kan alla komma nästa gång?
+- Behöver någon skjuts eller hjälp med barnomsorg?
+- Vill gruppen ha en gemensam chatt?
 
 ---
 
-## 85-90 min: Check-out
+## 85–90 min: Check-out
 
-**Vad du säger:**
-
-> "Sista gången runt cirkeln för idag: ett ord för hur du känner dig *nu*, efter det här samtalet. Jag börjar: [ditt ord - t.ex. 'hoppfull', 'less', 'nyfiken']."
-
-**Gå ett varv.**
-
-**Avslutning:**
-
-> "Tack för att ni kom och för att ni vågade dela. Vi ses [datum]!"
+> "Sista varvet: ett ord för hur du känner dig nu."
 
 ---
 
-## Om något går fel - Troubleshooting
+## Om något går fel
 
-**Ingen pratar:**
-- "Låt oss ta 30 sekunder var för sig och skriva ner en tanke först, sen delar vi."
+**Ingen pratar:** "Låt oss ta 30 sekunder och skriva ner en tanke först, sen delar vi."
 
-**En person dominerar:**
-- "Tack [namn], det var värdefullt. Nu vill jag gärna höra från [någon annan]."
+**En person dominerar:** "Tack, det var värdefullt. Nu vill jag gärna höra från någon som inte sagt något än."
 
-**Politisk debatt börjar:**
-- "Jag hör att många har starka känslor om partipolitik. Men idag fokuserar vi på systemet *bakom* politiken. Nästa fråga..."
+**Partipolitisk debatt börjar:** "Jag hör att många har starka åsikter. Idag försöker vi förstå hur systemen fungerar, oavsett vilket parti som styr. Vad var det i själva systemet som gjorde att det blev så?"
 
-**Någon blir emotionell:**
-- "Det här är ett viktigt ämne som rör oss. Låt oss ta en kort paus. Kaffe?"
+**Någon blir ledsen eller arg:** "Det här berör. Ska vi ta en kort paus?"
 
-**Tiden tar slut:**
-- Hoppa över fråga 3, gå direkt till sammanfattning vid 75 min. Bättre att sluta i tid än stressa.
+**Tiden tar slut:** Hoppa över fråga 3 och gå till sammanfattningen.
 
 ---
 
-## Handout att dela ut (sammanfattning)
+## Att dela ut
 
-**Träff 1 - Sammanfattning**
+**Träff 1 – sammanfattning**
 
-**Vad vi lärde oss:**
-- Centralisering = beslut fattas långt borta från dig
-- Monokultur = samma lösning överallt (effektivt men sårbart)
-- Systemarkitektur = hur makten är *byggd*, inte vem som har den
+- **Beslutsnivå:** var ett beslut fattas (skola, kommun, region, stat, EU).
+- **Standardisering:** lika för alla – förutsägbart och likvärdigt, men inte alltid anpassat.
+- **Anpassning:** olika efter behov – bättre anpassat, men risk för olikbehandling.
 
-**Nästa gång:**
-Vi lär oss "Närhetskompassen" - ett verktyg för att diagnosticera var makt och kunskap sitter.
+**Till nästa gång (frivilligt):** Ta reda på vem som bestämmer över ett system vi pratade om.
 
-**Din hemuppgift (frivillig):**
-Skriv ner en lokal resurs som "systemet" inte ser:
-- En persons skicklighet
-- En plats
-- En kunskap
-
-**Läs mer:**
-svensksubsidiaritet.se/systemanalys
+**Läs mer:** svensksubsidiaritet.se/system-analys
 
 ---
 
-**Facilitator-checklista (för dig):**
+## Checklista för cirkelledaren
 
-Före mötet:
-- [ ] Kaffe, te, fika
-- [ ] Lappar och pennor
-- [ ] Flipchart eller stort papper
-- [ ] Utskrifter av "Systemkänslometer"
-- [ ] Stolar i cirkel
-- [ ] Bekräftat tid och plats till alla
+**Före:** fika, lappar och pennor, flipchart, utskrifter av Systemkänslometern, stolar i cirkel, tid och plats bekräftad.
 
-Under mötet:
-- [ ] Börja exakt på tiden
-- [ ] Check-in
-- [ ] Högläsning
-- [ ] Systemkänslometer
-- [ ] Tre frågor
-- [ ] Hemuppgift
-- [ ] Check-out
-- [ ] Sluta exakt på tiden
+**Under:** börja på tiden, check-in, begrepp, Systemkänslometern, tre frågor, inför nästa gång, check-out, sluta på tiden.
 
-Efter mötet:
-- [ ] Skriv ner insights (vad fungerade? Vad ändra?)
-- [ ] Påminn gruppen om nästa träff (sms/mail 2 dagar innan)
+**Efter:** anteckna vad som fungerade, påminn gruppen två dagar innan nästa träff.

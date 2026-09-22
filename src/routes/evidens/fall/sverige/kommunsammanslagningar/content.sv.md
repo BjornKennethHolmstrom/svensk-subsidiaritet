@@ -39,9 +39,9 @@ Kärnargumentet var funktionellt: större kommuner skulle ha administrativ och e
 
 Konsolideringen minskade tydligt antalet politiska enheter och förtroendevalda. Samtida parlamentariskt material rapporterar minskningen från ungefär 225 000 till cirka 42 000 kommunala förtroendevalda mellan 1952 och 1974, och kopplar detta direkt till ett ökat avstånd mellan medborgare och kommunal styrning.
 
-Konsekvenserna var dock inte enhetliga inom de sammanslagna kommunerna. En geokodad difference-in-differences-studie (Harjunen, Saarimaa & Tukiainen) fann **ingen total effekt på kommunala utgifter efter åtta år** — vilket direkt utmanar antagandet att "större kommuner automatiskt blir billigare" — men fann en **starkt ojämn geografisk representation** i kommunfullmäktige efter sammanslagning. Mindre, politiskt marginaliserade tidigare kommuner upplevde betydande minskningar av lokala offentliga jobb inom administration och hälso-/socialvård, och husprisdata pekade mot en försämring av det lokala tjänste-skattepaketet i just dessa områden.
+Hur konsekvenserna fördelades inom de sammanslagna kommunerna har, såvitt vi vet, inte studerats med moderna kvantitativa metoder för de svenska reformerna. En studie av finska kommunsammanslagningar (Harjunen, Saarimaa & Tukiainen 2021) ger en fingervisning: den fann **ingen effekt på de totala kommunala utgifterna efter åtta år**, men mindre tidigare kommuner som fick svag representation i det nya fullmäktige förlorade kommunala arbetstillfällen inom administration samt vård och omsorg, och huspriserna tydde på att det lokala utbudet av service i förhållande till skatten försämrades där. Studien gäller Finland och kan inte direkt överföras till de svenska reformerna.
 
-En separat studie (Hanes, 2014) fann att 1952 års reform hade en **negativ** effekt på utgifterna specifikt när kommuner förblev under en kritisk storlek efteråt — vilket ytterligare komplicerar varje enkel berättelse om att "större är billigare".
+För den svenska reformen 1952 fann Hanes (2015) tecken på att sammanslagningar kunde ge stordriftsfördelar så länge de nya kommunerna inte översteg en viss storlek. När hänsyn togs till faktorer som samtidigt påverkade vilka kommuner som slogs ihop var effekterna på utgiftsutvecklingen dock inte statistiskt säkerställda. Resultatet ger alltså inget säkert stöd för vare sig "större är billigare" eller motsatsen.
 
 ---
 
@@ -108,9 +108,9 @@ Den mer precisa formuleringen är därför: **territoriell konsolidering ökade 
 
 ## Observerade utfall
 
-**Administrativt/fiskalt:** ingen total utgiftseffekt efter åtta år (Harjunen, Saarimaa & Tukiainen); tidigare arbete (Hanes 2014) tyder på att skaleffekter är icke-linjära och storleksberoende, inte enhetligt positiva.
+**Administrativt/fiskalt:** för 1952 års reform tecken på stordriftsfördelar upp till en viss storlek, men inte statistiskt säkerställda när hänsyn tas till vilka kommuner som slogs ihop (Hanes 2015). Finsk evidens visar ingen total utgiftseffekt efter åtta år (Harjunen, Saarimaa & Tukiainen 2021).
 
-**Demokratiskt/representativt:** stark geografisk ojämlikhet i politisk representation efter sammanslagning; mindre, sämre representerade tidigare kommuner förlorade lokala offentliga jobb relativt bättre representerade områden; samtida politiskt material lyfte uttryckligen farhågor om ökat avstånd mellan medborgare och kommunal styrning.
+**Demokratiskt/representativt:** kraftig minskning av antalet kommunala förtroendevalda; samtida politiskt material lyfte uttryckligen farhågor om ökat avstånd mellan medborgare och kommunal styrning. Finsk evidens tyder på att representationen efter sammanslagningar kan bli geografiskt ojämn, med följder för var servicen hamnar.
 
 **Politisk process:** historisk forskning (Erlingsson, Wångmar & Ödalen) argumenterar att reformerna inte enbart var samförståndsbaserade, rationella anpassningar till förändrade förhållanden — fördelningskonflikt och skiftet 1969 från frivillighet till tvång spelade roll för hur reformen faktiskt utspelade sig.
 
@@ -178,9 +178,11 @@ Se fullständiga poster i **[Evidensmatrisen →](/evidens/syntes/matris/)**.
 - Statistiska centralbyrån (SCB), historiska kommunindelningar (REGINA) — [SRC-S1-005](https://regina.scb.se/indelningar)
 
 **Sekundära (forskning):**
-- Harjunen, Saarimaa & Tukiainen — Political Representation and Effects of Municipal Mergers — [SRC-S1-006](https://research.aalto.fi/en/publications/political-representation-and-effects-of-municipal-mergers-2/)
-- Hanes (2014) — Municipal mergers and expenditure effects in Sweden — [SRC-S1-007](https://doi.org/10.1080/03003930.2013.869496)
+- Harjunen, Saarimaa & Tukiainen (2021) — Political representation and effects of municipal mergers, *Political Science Research and Methods* 9(1). Studie av **finska** kommunsammanslagningar — [SRC-S1-006](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/political-representation-and-effects-of-municipal-mergers/1DC538037E1E3DC260EA276CD845318D)
+- Hanes (2015) — Amalgamation impacts on local public expenditures in Sweden, *Local Government Studies* 41(1) — [SRC-S1-007](https://doi.org/10.1080/03003930.2013.869496)
 - Erlingsson, Wångmar & Ödalen (2010) — [DOI](https://doi.org/10.58235/sjpa.v14i3/4.16282)
 - Erlingsson, Ödalen & Wångmar (2015) — [DOI](https://doi.org/10.1080/03468755.2015.1016551)
 
 *Käll-ID:n följer projektets källregister. Senast uppdaterad: korpus v0.1.*
+
+*Rättelse september 2026: Tidigare versioner av den här sidan beskrev studien av Harjunen, Saarimaa och Tukiainen som en studie av svenska kommunsammanslagningar. Den gäller finska sammanslagningar. Beskrivningen av Hanes studie har också preciserats, inklusive att resultaten inte var statistiskt säkerställda i den mest robusta analysen.*

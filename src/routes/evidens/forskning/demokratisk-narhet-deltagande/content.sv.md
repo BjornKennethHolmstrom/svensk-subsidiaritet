@@ -32,7 +32,7 @@ Närhet antas ofta vara bra för demokratin nästan per definition — närmare 
 
 ## Vad evidensen visar
 
-**[Kommunsammanslagningar (S1)](/evidens/fall/sverige/kommunsammanslagningar/)** ger den tydligaste och mest direkta evidensen i det här korpuset, och den går mot en enkel "närmare är alltid bättre"-berättelse i bara en riktning: samtida parlamentariskt material dokumenterar att antalet folkvalda kommunala representanter föll från ungefär 225 000 (1952) till cirka 42 000 (1974), uttryckligen kopplat vid tillfället till ökat avstånd mellan medborgare och kommunal styrning. En geokodad studie av sammanslagningseffekter (Harjunen, Saarimaa & Tukiainen) fann att det här avståndet inte var jämnt fördelat: mindre, sämre representerade tidigare kommuner förlorade lokala offentliga jobb relativt bättre representerade områden inom samma sammanslagna enhet — representationsojämlikhet **inom** en jurisdiktion, inte bara mellan jurisdiktioner.
+**[Kommunsammanslagningar (S1)](/evidens/fall/sverige/kommunsammanslagningar/)** ger den tydligaste och mest direkta evidensen i det här korpuset, och den går mot en enkel "närmare är alltid bättre"-berättelse i bara en riktning: samtida parlamentariskt material dokumenterar att antalet folkvalda kommunala representanter föll från ungefär 225 000 (1952) till cirka 42 000 (1974), uttryckligen kopplat vid tillfället till ökat avstånd mellan medborgare och kommunal styrning. Hur avståndet fördelades inom de svenska kommunerna är inte undersökt med moderna kvantitativa metoder, men en studie av finska kommunsammanslagningar (Harjunen, Saarimaa & Tukiainen 2021) fann att det kan bli ojämnt fördelat: mindre, sämre representerade tidigare kommuner förlorade kommunala arbetstillfällen relativt bättre representerade områden inom samma sammanslagna kommun — representationsojämlikhet **inom** en jurisdiktion, inte bara mellan jurisdiktioner.
 
 Anmärkningsvärt är att samma reform genererade sitt eget korrigerande svar: 1979 års lagstiftning om "lokala organ" tillät kommunfullmäktige att delegera vissa funktioner till kommundelsråd och liknande underkommunala organ, precis för att föra beslutsfattande och inflytande tillbaka närmare medborgarna efter att sammanslagningarna minskat närheten. Det är ett verkligt institutionellt exempel på ett system som upptäcker ett underskott i demokratisk närhet och bygger en (partiell) mekanism för att åtgärda det — även om fullmäktige behöll den yttersta kontrollen över de lokala organens uppgiftsområde, så det här var återcentraliserad närhet, inte fullständig återdecentralisering.
 
@@ -43,7 +43,7 @@ Anmärkningsvärt är att samma reform genererade sitt eget korrigerande svar: 1
 ## Var fynden är eniga
 
 - Formell jurisdiktionell närhet (mindre enhet, mer lokal förvaltning) är inte detsamma som effektiv demokratisk närhet (medborgarnas preferenser som faktiskt formar beslut).
-- Representationskostnader från konsolidering kan vara geografiskt ojämnt fördelade inom en sammanslagen enhet, inte bara enhetligt utspridda.
+- Representationskostnader från konsolidering kan vara geografiskt ojämnt fördelade inom en sammanslagen enhet, inte bara enhetligt utspridda (finsk evidens, se S1).
 
 ## Var fynden går isär
 

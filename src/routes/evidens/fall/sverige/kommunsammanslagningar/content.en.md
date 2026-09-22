@@ -39,9 +39,9 @@ The 1946 committee proposed roughly 3,000–4,000 inhabitants as a target size, 
 
 The consolidation clearly reduced the number of political units and elected officials. Contemporary parliamentary material reports the fall from roughly 225,000 to about 42,000 municipal elected representatives between 1952 and 1974, explicitly linking this to increased distance between citizens and municipal government.
 
-However, the consequences were not uniform within merged municipalities. A geocoded difference-in-differences study (Harjunen, Saarimaa & Tukiainen) found **no overall effect on municipal expenditure after eight years** — directly challenging the assumption that "larger municipalities are automatically cheaper" — but did find **highly unequal geographic representation** in post-merger councils. Smaller, politically marginalized former municipalities experienced substantial reductions in local public-sector employment in administration and health/social care, and house-price evidence suggested a deterioration in the local service-tax bundle in those specific areas.
+How the consequences were distributed within the merged municipalities has, as far as we know, not been studied with modern quantitative methods for the Swedish reforms. A study of Finnish municipal mergers (Harjunen, Saarimaa & Tukiainen 2021) gives an indication: it found **no effect on total municipal expenditure after eight years**, but smaller former municipalities that received weak representation on the new council lost municipal jobs in administration and in care and social services, and house prices suggested that the local service offering relative to tax deteriorated there. The study concerns Finland and cannot be directly transferred to the Swedish reforms.
 
-A separate study (Hanes, 2014) found that the 1952 reform had a **negative** effect on expenditure specifically when municipalities remained below a critical size afterward — again complicating any simple "bigger is cheaper" story.
+For the Swedish 1952 reform, Hanes (2015) found signs that mergers could yield economies of scale as long as the new municipalities did not exceed a certain size. When account was taken of factors that simultaneously affected which municipalities merged, however, the effects on expenditure development were not statistically significant. The result thus gives no certain support for either "larger is cheaper" or the opposite.
 
 ---
 
@@ -108,9 +108,9 @@ The more precise formulation is therefore: **territorial consolidation increased
 
 ## Observed outcomes
 
-**Administrative / fiscal:** no overall expenditure effect after eight years (Harjunen, Saarimaa & Tukiainen); earlier work (Hanes 2014) suggests scale effects are non-linear and size-dependent, not uniformly positive.
+**Administrative / fiscal:** for the 1952 reform, signs of economies of scale up to a certain size, but not statistically significant when account is taken of which municipalities merged (Hanes 2015). Finnish evidence shows no total expenditure effect after eight years (Harjunen, Saarimaa & Tukiainen 2021).
 
-**Democratic / representational:** strong geographic inequality in political representation after merger; smaller, less-represented former municipalities lost local public-sector jobs relative to better-represented areas; contemporary political material explicitly raised concerns about increased distance between citizens and local government.
+**Democratic / representational:** sharp reduction in the number of municipal elected officials; contemporary political material explicitly raised concerns about increased distance between citizens and municipal government. Finnish evidence suggests that representation after mergers can be geographically uneven, with consequences for where services end up.
 
 **Political process:** historical research (Erlingsson, Wångmar & Ödalen) argues the reforms were not simply consensual, rational adaptations to changing conditions — distributional conflict and the 1969 shift from voluntary to compulsory implementation mattered to how the reform actually played out.
 
@@ -178,9 +178,11 @@ See full entries in the **[Evidence Matrix →](/evidens/syntes/matris/)**.
 - Statistics Sweden (SCB), historical municipal divisions (REGINA) — [SRC-S1-005](https://regina.scb.se/indelningar)
 
 **Secondary (research):**
-- Harjunen, Saarimaa & Tukiainen — Political Representation and Effects of Municipal Mergers — [SRC-S1-006](https://research.aalto.fi/en/publications/political-representation-and-effects-of-municipal-mergers-2/)
-- Hanes (2014) — Municipal mergers and expenditure effects in Sweden — [SRC-S1-007](https://doi.org/10.1080/03003930.2013.869496)
+- Harjunen, Saarimaa & Tukiainen (2021) — Political representation and effects of municipal mergers, *Political Science Research and Methods* 9(1). Study of **Finnish** municipal mergers — [SRC-S1-006](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/political-representation-and-effects-of-municipal-mergers/1DC538037E1E3DC260EA276CD845318D)
+- Hanes (2015) — Amalgamation impacts on local public expenditures in Sweden, *Local Government Studies* 41(1) — [SRC-S1-007](https://doi.org/10.1080/03003930.2013.869496)
 - Erlingsson, Wångmar & Ödalen (2010) — [DOI](https://doi.org/10.58235/sjpa.v14i3/4.16282)
 - Erlingsson, Ödalen & Wångmar (2015) — [DOI](https://doi.org/10.1080/03468755.2015.1016551)
 
 *Source IDs follow the project's Source Registry. Last updated: corpus v0.1.*
+
+*Correction September 2026: Earlier versions of this page described the study by Harjunen, Saarimaa and Tukiainen as a study of Swedish municipal mergers. It concerns Finnish mergers. The description of Hanes's study has also been made more precise, including that the results were not statistically significant in the most robust analysis.*

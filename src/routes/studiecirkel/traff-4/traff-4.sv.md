@@ -21,9 +21,9 @@
 [Applådera er själva.]
 
 > "Låt oss minnas vägen hit:
-> - Träff 1: Vi såg problemet - centralisering som skapat byråkrati
-> - Träff 2: Vi lärde oss verktyget - Närhetskompassen
-> - Träff 3: Vi såg lösningen - subsidiaritet och fungerande exempel
+> - Träff 1: Vi delade erfarenheter av hur samhällets system fungerar i vardagen
+> - Träff 2: Vi undersökte system med Närhetskompassen
+> - Träff 3: Vi prövade principen om subsidiaritet, med argument för och emot
 > - Idag: Vi väljer något att faktiskt GÖRA.
 >
 > Check-in: Ett varv. Namn och: Har du tänkt på något sedan sist? Något exempel som fastnat? Någon idé som gnagt? Jag börjar..."
@@ -36,7 +36,7 @@
 
 **Vad du säger:**
 
-> "Innan vi bestämmer *vad* vi ska göra behöver vi veta *vad vi har*. Vi ska kartlägga våra lokala resurser - skatter som systemet inte ser.
+> "Innan vi bestämmer *vad* vi ska göra behöver vi veta *vad vi har*. Vi ska kartlägga våra lokala resurser - sådant som finns här men som vi kanske inte tänker på.
 >
 > Vi gör en 'Skattkarta' över vårt område. Jag har delat in den i tre kategorier."
 
@@ -118,7 +118,7 @@ ________________|__________________|__________________
 
 **Vad du säger:**
 
-> "Nu kommer det svåra: att välja. Vi kan inte göra allt på en gång. Vi måste välja EN sak vi kan göra inom 30 dagar.
+> "Nu kommer det svåra: att välja. Vi kan inte göra allt på en gång. Om vi vill göra något, väljer vi EN sak vi kan göra inom 30 dagar. Det är också helt okej att gruppen kommer fram till att den inte vill göra något gemensamt.
 >
 > Varför 30 dagar? För att om det tar längre finns risk att det aldrig händer.
 >
@@ -127,12 +127,12 @@ ________________|__________________|__________________
 **Förbered flipchart med idéer från Träff 3 + nya från hjärtan-kolumnen.**
 
 **Skriv upp som alternativ (example):**
-1. Starta matgille (direkt från bönder)
-2. Skapa grannskapshus (dela verktyg)
-3. Trygghetsring på WhatsApp
-4. Energikooperativ (solpaneler)
-5. Gå-buss för barn till skolan
-6. [Något de själva föreslagit]
+1. Handla gemensamt från lokala producenter, till exempel via en REKO-ring
+2. Starta ett utlåningsförråd för verktyg eller sportutrustning
+3. Bjuda in en lokalpolitiker eller tjänsteperson till ett samtal
+4. Ta reda på mer om en fråga vi pratat om, till exempel vem som beslutar om busstrafiken
+5. Organisera en gående skolbuss för barn
+6. [Något deltagarna själva föreslagit]
 
 > "Ni får två klistermärken (eller streck med penna). Sätt dem på det ni tycker är viktigast. Ni får lägga båda på samma sak om ni verkligen brinner för det."
 
@@ -188,9 +188,9 @@ NÄSTA MÖTE: [Datum om 30 dagar]
 ### För varje steg (15 min totalt):
 
 **Steg 1:**
-> "Okej, om vi ska [matgille/grannskapshus/etc], vad är det ALLRA första vi måste göra? Inte allt på en gång - bara första steget."
+> "Okej, om vi ska [REKO-ring/utlåningsförråd/etc], vad är det ALLRA första vi måste göra? Inte allt på en gång - bara första steget."
 
-[Exempel för matgille: "Hitta lokala bönder"]
+[Exempel för REKO-ring: "Ta reda på om det redan finns en REKO-ring i närheten"]
 
 > "Bra. Vem kan göra det? Vem har tid och lust?"
 
@@ -236,7 +236,7 @@ _______________________
 _______________________
 ```
 
-> "Jag fyller i det vi bestämt. Sen går vi ett varv och alla som vill kan skriva under. Om du inte vill skriva under, ingen press - men då får du inte klaga sen!"
+> "Jag fyller i det vi bestämt. Sen går vi ett varv och alla som vill kan skriva under. Om du inte vill skriva under är det helt okej."
 
 [Litet skratt.]
 
@@ -258,7 +258,7 @@ _______________________
 
 **Alternativ 2:** Vi fortsätter som studiecirkel och går djupare på [ett av era system].
 
-**Alternativ 3:** Vi blir en aktiv grupp som faktiskt driver [matgille/grannskapshus/etc] vidare.
+**Alternativ 3:** Vi blir en aktiv grupp som faktiskt driver [REKO-ring/utlåningsförråd/etc] vidare.
 
 > Ni behöver inte välja nu. Men tänk på det. Och oavsett vad: gå in på **svensksubsidiaritet.se** och dela er erfarenhet. Det hjälper andra grupper i hela Sverige att lära av er.
 >
@@ -280,11 +280,11 @@ _______________________
 
 **Efter sista personen:**
 
-> "Tack. Tack för att ni kom, fyra gånger. Tack för att ni delade tankar, tvivel, hopp. Tack för att ni valde handling istället för bara ord.
+> "Tack. Tack för att ni kom, fyra gånger. Tack för att ni delade tankar, tvivel, hopp. Tack för att ni tog er tid att tänka tillsammans.
 >
-> Det svenska folkhemmet byggdes inte i Stockholm. Det byggdes i precis sådana här rum. Med kaffe, tystnad, och envisa människor som sa: *kanske finns det ett annat sätt*.
+> Studiecirklar har i över hundra år varit ett sätt för människor i Sverige att lära sig saker tillsammans och organisera sig. Nu har ni gjort det också.
 >
-> Ni är en del av något större nu. Lycka till med era 30 dagar. Vi ses snart!"
+> Lycka till med det ni bestämt er för. Vi ses snart!"
 
 **Extra fika! Fira er själva.**
 
