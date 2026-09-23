@@ -2,10 +2,6 @@
   import Kunskapslage from '$lib/components/Kunskapslage.svelte';
 </script>
 
-<script>
-  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
-</script>
-
 # Transport: vem planerar vad, och för vem?
 
 ## Ansvaret är redan fördelat på flera nivåer
