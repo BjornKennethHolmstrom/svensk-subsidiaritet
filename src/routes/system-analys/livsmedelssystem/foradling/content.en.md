@@ -20,6 +20,14 @@ Earlier versions of this page claimed that Sweden has zero mobile slaughterhouse
 2. **Support for shared facilities**, where several producers share a mill, a slaughterhouse or a processing premises, for example through investment support in agricultural policy.
 3. **Coordinated inspection**, where the inspection authorities have expertise in small-scale processing and can provide decisions within a reasonable time.
 
+**What we know:** Farm slaughter has been possible since a change in EU rules, and mobile slaughterhouses are already used, among other things for reindeer slaughter.
+
+**Most important assumption:** That shared, smaller processing facilities make it possible for small-scale producers to process and sell profitably.
+
+- **Stop if:** food safety fails in the facilities despite inspections.
+- **Adjust if:** the facilities are used by few producers; then distances, fees or opening hours may need to be changed.
+- **Continue if:** several producers use the facilities regularly, food safety is maintained and the operation can cover its costs.
+
 ## Pilot proposal
 
 **Scope:** Three regional pilots, for example one with farm slaughter and mobile slaughter, one with a shared mill and one with shared processing premises for vegetables, over three years.

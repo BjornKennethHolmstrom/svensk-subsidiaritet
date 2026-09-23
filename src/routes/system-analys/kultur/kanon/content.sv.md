@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Kulturarv i skolan
 
 [← Tillbaka till huvudartikeln](..)
@@ -26,6 +30,18 @@ Läroplanerna innehåller redan skrivningar om kulturarv, och om de nationella m
 - **Presentation:** resultaten redovisas i en portfölj eller utställning, gärna på biblioteket.
 
 Arbetet gäller alla elever, oavsett bakgrund. En elev vars familj bott på samma ort i generationer har lika mycket att upptäcka som en elev vars föräldrar kommer från ett annat land.
+
+<Kunskapslage status="pilot">
+
+**Det här vet vi:** En statlig kommitté presenterade 2025 ett förslag till en svensk kulturkanon (SOU 2025:92). Förslaget har kritiserats, bland annat av företrädare för de nationella minoriteterna.
+
+**Viktigaste antagandet:** Att elever som utforskar både ett gemensamt kulturarv och traditioner i sin egen närmiljö lär sig mer och upplever att deras bakgrund tas på allvar.
+
+- **Avbryt om:** familjer i uppföljningen beskriver arbetet med intervjuer som påträngande, och det inte går att rätta till med andra källor.
+- **Justera om:** eleverna engagerar sig men kunskaperna i historia och svenska inte förändras.
+- **Fortsätt om:** elevernas engagemang och kunskaper är minst lika goda som i jämförbara klasser, och både elever med svensk och utländsk bakgrund beskriver arbetet som meningsfullt.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

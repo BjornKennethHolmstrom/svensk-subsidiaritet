@@ -28,6 +28,32 @@ Health is affected by much more than healthcare: lifestyle habits, work, housing
 - **Preventive work.** Preventive interventions have difficulty competing with acute needs for resources, because the benefits come later and often for other actors.
 - **Cooperation between region and municipality.** Patients who need both healthcare and social care sometimes fall between the responsible authorities.
 
+### What we know
+
+- The Health Care Responsibility Committee judged that Swedish health and medical care has good medical quality and compares well internationally, with shortcomings in accessibility and in geographical equality.
+- The committee did not propose that the state should take over healthcare. A majority judged that there was insufficient basis for it to lead to improvements. Instead, greater state responsibility was proposed for certain selected tasks (SOU 2025:62).
+- Psychiatric diagnoses are the most common cause of ongoing sickness cases, according to the Swedish Social Insurance Agency.
+- Around 15 percent of women collected antidepressant medications in 2024, according to the National Board of Health and Welfare.
+- Since 2022, those who want a regular doctor contact in primary care should be able to have one, according to the Health and Medical Services Act.
+
+### What we assume
+
+- That better continuity and more preventive work in primary care reduces the need for other care over time. The mechanism is reasonable, but it is not established for Swedish conditions to the extent that the transformation to close care presupposes.
+- That loneliness and lack of context account for a significant part of the burden on primary care. The proposals on this page are based on that assumption.
+- That the tasks the committee proposes the state should take over would become more equivalent. This has not been tested.
+
+### What we do not know
+
+- Whether the transformation towards good and close care has improved accessibility and continuity.
+- Why waiting times differ so much between regions: whether it is mainly due to resources, organisation or demand.
+- Whether the increased prescribing of antidepressants reflects more ill-health, that more people seek and receive treatment, or both.
+
+### What would change the picture
+
+- If follow-ups of close care show better continuity but no effect on the need for hospital care, the assumption of primary care as the hub is weakened.
+- If regions with similar resources have very different waiting times, that points to organisation, and argues for local learning. If the differences follow resources, that points to financing and equalisation, that is, upwards.
+- If greater state responsibility for the selected tasks is implemented and reduces the regional differences, that strengthens the argument for moving precisely those tasks upwards.
+
 ## Subsidiarity-based proposals
 
 The proposals are ideas to test in limited pilots with evaluation. They complement healthcare and do not replace medical assessment or treatment. Each proposal has its own page.

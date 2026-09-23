@@ -24,6 +24,14 @@ At the same time, there is already a good deal of local and regional journalism.
 
 **Language:** local media should be able to publish in languages other than Swedish where there is a need, for example in the national minority languages.
 
+**Most important assumption:** That local journalism in areas with weak coverage strengthens insight into local politics.
+
+**What we do not know:** Whether the existing media subsidy can already be used for this type of activity, and whether it is sufficient in that case.
+
+- **Stop if:** the newsrooms cannot maintain their editorial independence, for example if local power holders influence the content.
+- **Adjust if:** the newsrooms produce content but reach few readers or listeners.
+- **Continue if:** coverage of local politics increases and residents assess the content as credible.
+
 ## Pilot proposal
 
 **Scope:** Three to five pilots over three years, in areas with different conditions, for example a sparsely populated municipality, a suburb of a large city and a smaller town.

@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Kulturella allmänningar
 
 [← Tillbaka till huvudartikeln](..)
@@ -20,6 +24,18 @@ Många kommunala kulturhus och bibliotek har redan ett brett utbud och samarbeta
 ## Juridiska förutsättningar
 
 Kommuner kan redan i dag överlämna skötseln av en kommunal verksamhet till en förening, stiftelse eller annan privat utförare, så länge det inte innebär myndighetsutövning. Någon ändring i kommunallagen behövs därför inte, vilket tidigare versioner av den här sidan påstod. Däremot kan upphandlingsregler och regler om statsstöd behöva beaktas beroende på hur avtalet utformas. Staten ger också stöd till allmänna samlingslokaler via Boverket.
+
+<Kunskapslage status="pilot">
+
+**Det här vet vi:** Kommuner kan redan i dag överlämna skötseln av en kommunal verksamhet till en förening, stiftelse eller annan privat utförare, så länge det inte innebär myndighetsutövning.
+
+**Viktigaste antagandet:** Att ett större inflytande för användarna gör att fler och andra grupper använder kulturhusen.
+
+- **Avbryt om:** ett fåtal föreningar eller grupper tar över programmet och lokalerna, och det inte går att rätta till med bokningsreglerna.
+- **Justera om:** besökarna är desamma som tidigare; då behöver personalen arbeta mer uppsökande.
+- **Fortsätt om:** fler och andra grupper använder huset, och andelen arrangemang som genomförs av föreningar och boende ökar.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

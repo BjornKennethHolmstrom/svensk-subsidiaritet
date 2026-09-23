@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Samhällsmedlare
 
 [← Tillbaka till huvudartikeln](..)
@@ -36,6 +40,38 @@ Medlaren ersätter inte polisen och har inga befogenheter utöver andras. Auktor
 | Gränser och samverkan | När polis och socialtjänst ska kopplas in | 20 |
 | Handledd praktik | Fältarbete tillsammans med erfaren medlare | 60 |
 
+<Kunskapslage status="pilot">
+
+### Det här vet vi
+
+- Fältassistenter arbetar redan uppsökande i många kommuner, och kommunerna ska erbjuda medling till unga gärningspersoner efter brott.
+- Sluta skjut i Malmö, som bygger på Group Violence Intervention, är inte en medlingsmodell, men visar att samverkan mellan polis, kommun och civilsamhälle kan kombineras med minskat våld.
+- Internationella modeller med så kallade avbrytare, som Cure Violence, har utvärderats med blandade resultat.
+- Sedan juli 2025 ger socialtjänstlagen större utrymme för förebyggande insatser utan individuell behovsprövning.
+
+### Det här antar vi
+
+- Att personer med förankring i ett område kan fånga upp konflikter tidigare än polis och socialtjänst, för att de har förtroende och känner till nätverken.
+- Att en avlönad och utbildad roll tillför något utöver det fältassistenter redan gör.
+- Att de boende uppfattar medlarna som opartiska, och inte som en förlängning av polisen.
+
+### Det här vet vi inte
+
+- **Hur helheten beter sig.** Kombinationen av lokal förankring, lön, utbildning och koppling till socialtjänst och polis har inte prövats i Sverige. Den kan ge medlarna en legitimitet som ingen av delarna ger ensam.
+- **Nya sätt att misslyckas.** Samma kombination kan också misslyckas på sätt som ingen del förutsäger: medlare kan uppfattas som angivare och förlora sitt förtroende, eller påverkas av kriminella aktörer just för att de har förtroende i området. Verksamheten kan bli beroende av enskilda personer.
+- Om effekterna, om de finns, går att skilja från andra förändringar i områdena.
+
+### Så skulle vi pröva det
+
+- **Test:** tre kommuner under två år, med jämförelseområden, och en forskargrupp som följer piloten från start. Uppföljning efter 6, 12 och 24 månader.
+- **Avbryt om:** en medlare visar sig ha använt sin roll för att gynna kriminell verksamhet och urvalet inte kan förbättras; eller om medlarna upprepade gånger utsätts för allvarligt våld; eller om varken boende, socialtjänst eller polis efter 12 månader ser något värde i verksamheten.
+- **Justera om:** få ärenden kommer in efter 6 månader, vilket kan tyda på att medlarna inte är kända eller inte har förtroende; eller om färre än hälften av överenskommelserna håller efter tre månader, vilket kan tyda på brister i utbildning eller urval.
+- **Fortsätt om:** ärendena kommer in i stadig takt, en majoritet av överenskommelserna håller efter tre månader, inga allvarliga säkerhetsincidenter har inträffat, och boende och samverkanspartner bedömer verksamheten som värdefull.
+
+Tröskelvärdena är förslag. De ska bestämmas innan piloten startar och inte ändras i efterhand.
+
+</Kunskapslage>
+
 ## Pilotförslag
 
 **Omfattning:** Cirka 100 medlare i 20–30 kommuner under tre år, i områden där kommunens lägesbild visar behov.
@@ -48,7 +84,7 @@ Medlaren ersätter inte polisen och har inga befogenheter utöver andras. Auktor
 - en samordnande funktion i kommunen som tar emot ärenden, kvalitetssäkrar och hanterar svåra fall
 - tydliga rutiner för samverkan med socialtjänst och lokalpolis
 
-**Utvärdering:** antal ärenden, andel överenskommelser som håller efter tre och sex månader, förändring i våld och upplevd trygghet jämfört med liknande områden utan medlare, samt hur unga, föräldrar och andra aktörer upplever insatsen. Förslaget är att en forskargrupp följer piloten från start.
+**Utvärdering:** antal ärenden, andel överenskommelser som håller efter tre och sex månader, förändring i våld och upplevd trygghet jämfört med liknande områden utan medlare, samt hur unga, föräldrar och andra aktörer upplever insatsen. Kriterierna för att avbryta, justera eller fortsätta finns i rutan om kunskapsläget ovan.
 
 ## Grov kostnadsuppskattning
 

@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Energikooperativ
 
 [← Tillbaka till huvudartikeln](..)
@@ -23,6 +27,20 @@ När ny produktion byggs bär de som bor i närheten en stor del av påverkan, m
 - **Finansiering** genom medlemsinsatser och banklån, eventuellt med statliga lånegarantier.
 - **Försäljning av el** på elmarknaden, eller, när reglerna om energidelning är på plats, direkt till medlemmarna.
 - **Samarbete** med en erfaren projektör eller ett energibolag för teknik, drift och tillståndsprocess.
+
+<Kunskapslage status="pilot">
+
+**Det här vet vi:** Vindkraftskooperativ har funnits i Sverige sedan 1990-talet. Från juli 2026 har närboende rätt till en andel av intäkterna från nya vindkraftverk, men inte till ägande eller inflytande.
+
+**Viktigaste antagandet:** Att lokalt ägande ökar acceptansen för ny produktion, så att fler projekt tillstyrks av kommunen och får mindre motstånd bland närboende.
+
+**Det här vet vi inte:** Om lokalt ägande tillför något utöver den nya intäktsdelningen.
+
+- **Avbryt om:** kooperativa projekt inte får fler tillstyrkanden eller mindre motstånd än jämförbara projekt, samtidigt som de kostar klart mer att genomföra.
+- **Justera om:** medlemmarna främst är personer som inte bor nära anläggningen; då når ägandet inte dem som bär påverkan.
+- **Fortsätt om:** acceptansen bland närboende är högre än vid jämförbara projekt, och en betydande andel av medlemmarna bor i närområdet.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Kommunala trygghetsbudgetar
 
 [← Tillbaka till huvudartikeln](..)
@@ -35,6 +39,38 @@ Enligt regeringsformen utövas beslutanderätten i kommuner av valda församling
 - **Lagändring:** en uttrycklig möjlighet för kommuner att använda medborgarbudgetering, med tydliga regler. En ändring som ger boende formell beslutanderätt skulle sannolikt kräva mer än en ändring i kommunallagen.
 
 Förslaget utgår från den första vägen, som går att pröva i dag.
+
+<Kunskapslage status="pilot">
+
+### Det här vet vi
+
+- Kommunerna har sedan 2023 ett lagstadgat ansvar för att ta fram lägesbild och åtgärdsplan för det brottsförebyggande arbetet. Lagen säger inte hur de boende ska involveras.
+- Enligt regeringsformen utövas beslutanderätten i kommuner av valda församlingar. En omröstning bland de boende kan därför inte formellt binda kommunen.
+- Medborgarbudgetering har använts sedan slutet av 1980-talet, först i Porto Alegre i Brasilien och senare i bland annat Paris och New York.
+
+### Det här antar vi
+
+- Att de boendes kunskap om var otryggheten uppstår leder till bättre val av åtgärder.
+- Att delaktigheten i sig ökar förtroendet för att kommunen lyssnar.
+- Att fullmäktige håller sitt politiska åtagande att genomföra resultatet, trots att det inte är bindande.
+
+### Det här vet vi inte
+
+- **Hur helheten beter sig.** Egna pengar, omröstning och uppföljning av de boende kan tillsammans ge en känsla av ägarskap som ingen av delarna ger ensam. Men kombinationen kan också missgynna förebyggande insatser, som ger effekt först på sikt, till förmån för synliga åtgärder som belysning och kameror. Och om kommunen säger nej till ett förslag som fått flest röster kan förtroendet bli lägre än innan.
+- Vilka som deltar. Deltagandet i medborgarbudgetering kan bli skevt, och det är inte känt hur det skulle se ut i svenska områden med hög otrygghet.
+
+### Så skulle vi pröva det
+
+- **Test:** fem till tio kommuner under tre år, med ett till tre områden vardera.
+- **Avbryt om:** kommunen upprepade gånger inte genomför de förslag som fått flest röster; eller om deltagandet domineras av en snäv grupp trots riktat uppsökande arbete.
+- **Justera om:** deltagandet är lågt, eller om medlen inte används inom budgetåret.
+- **Fortsätt om:** deltagandet är brett jämfört med vanliga kommunala samråd, åtgärderna genomförs, och förtroendet för kommunen utvecklas bättre än i jämförelseområdena.
+
+En mer långtgående variant, där de boendes beslut är bindande, skulle kräva en ändring av regeringsformen. Den beskrivs inte här.
+
+Tröskelvärdena ska bestämmas innan piloten startar och inte ändras i efterhand.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

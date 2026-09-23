@@ -23,6 +23,14 @@ Electricity grids are dimensioned for the hours when the load is highest, often 
 - **The compensation** is distributed to the participants.
 - **Equipment that affects safety or health**, such as freezers or medical equipment, is never controlled.
 
+**Most important assumption:** That enough households are willing to let their equipment be controlled for it to make a difference to the grid’s load.
+
+**What we do not know:** How the grid companies’ revenue rules affect whether it pays for them to buy flexibility.
+
+- **Stop if:** participants to a significant extent cancel because of reduced comfort or privacy problems.
+- **Adjust if:** the flexibility exists but costs more per kilowatt than reinforcing the grid.
+- **Continue if:** the shifted power is sufficient to postpone grid reinforcements, at a lower cost than the reinforcement.
+
 ## Pilot proposal
 
 **Scope:** Three pilot areas with different conditions, for example a suburb, a smaller town and an area with capacity shortage in the grid, over three years.

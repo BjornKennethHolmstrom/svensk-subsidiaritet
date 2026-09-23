@@ -26,6 +26,31 @@ The point of subsidiarity is therefore not that everything should be done locall
 - **Vulnerable areas.** The police’s situational picture from 2025 covers 65 vulnerable areas, 19 of which are particularly vulnerable, and is produced in dialogue between local police areas, municipalities and the police’s National Operations Department. The classification controls resources, but there is a discussion about how it affects residents’ self-image and the areas’ reputation. The 2025 situational picture also describes improvements in several areas.
 - **Private and municipal security guarding.** Order guards and other actors have been given a larger role in public environments. This raises questions about accountability and whether safety is distributed according to ability to pay.
 
+### What we know
+
+- The 2015 police reform merged the police into a single authority. The goal of a police force closer to citizens has not been achieved according to Statskontoret’s evaluations.
+- The number of shootings fell from 391 in 2022 to 158 in 2025, according to the police’s statistics.
+- The proportion with high confidence in the police increased from 50 percent in 2015 to 62 percent in 2025, according to Brå’s NTU.
+- Since 2023, municipalities have a statutory responsibility to produce a situational picture, an action plan and coordination in crime prevention work.
+- An evaluation of Sluta skjut in Malmö found that shootings and bombings had decreased since the initiative was introduced.
+
+### What we assume
+
+- That the decline in shootings is partly due to stronger national and international coordination. That is the police’s own explanation, not an established causal relationship.
+- That the weakened local presence has meant lost knowledge and lost relationships in the areas. It is a reasonable mechanism, but it has not been measured.
+
+### What we do not know
+
+- How much of the decline in violence is due to the police’s work, to changes in the criminal networks or to other factors.
+- How well the municipalities have implemented their new crime prevention responsibility, and whether it makes a difference.
+- Whether stable local police presence reduces crime in Swedish conditions, or mainly affects confidence.
+
+### What would change the picture
+
+- If evaluations show that local police areas with stable community police officers do not differ from others in crime or confidence, the argument for more local presence is weakened.
+- If violence increases again despite continued strong national coordination, the explanation that coordination was decisive is weakened.
+- Follow-ups of the Act on Municipalities’ Responsibility for Crime Prevention Work can show whether local work has gained real capacity.
+
 ## Subsidiarity-based proposals
 
 The proposals below are ideas to test in limited pilots with evaluation, not finished solutions. Each proposal has its own page.
@@ -35,7 +60,7 @@ The proposals below are ideas to test in limited pilots with evaluation, not fin
 | [Safety Rings](./trygghetsringar) | Neighbourhood groups that share information, coordinate activities and provide early warning, built on existing neighbourhood watch. |
 | [Community mediators](./samhallsmedlare) | Trained and paid people with roots in the area who can intervene in conflicts early, in cooperation with the police and social services. |
 | [Municipal safety budgets](./kommunala-trygghetsbudgetar) | Participatory budgeting for safety measures, linked to the municipality’s situational picture and action plan under the 2023 law. |
-| [Restorative justice](./reparativ-rattvisa) | Expanded use of mediation between crime victims and offenders in less serious crimes. Mediation already exists in law, mainly for young offenders. |
+| [Restorative justice](./reparativ-rattvisa) | Expanded use of mediation between crime victims and offenders in less serious crimes. Mediation already exists in law, mainly for young offenders. The page also has an **exploratory variant**, in which a fulfilled mediation replaces prosecution, following a Norwegian model. |
 | [Safety centres](./trygghetscenter) | Local hubs where the police, social services and other activities are under the same roof. |
 
 ## Objections to take seriously

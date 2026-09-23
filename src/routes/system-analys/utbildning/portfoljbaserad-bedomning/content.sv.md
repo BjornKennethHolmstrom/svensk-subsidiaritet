@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Portföljer som bedömningsunderlag
 
 [← Tillbaka till huvudartikeln](..)
@@ -24,6 +28,18 @@ Skriftliga prov är ett effektivt sätt att bedöma vissa kunskaper, men fångar
 - **Sambedömning** mellan lärare i piloten ska göra bedömningen mer likvärdig.
 
 **Till högskolan:** Några högskolor prövar portföljer som urvalsgrund inom det alternativa urvalet till utvalda utbildningar, och följer upp hur de antagna klarar studierna.
+
+<Kunskapslage status="pilot">
+
+**Det här vet vi:** Enligt skollagen sätts betyg av legitimerade lärare, som redan i dag får använda all tillgänglig information om elevens kunskaper. Högskolor kan anta en del av studenterna genom alternativt urval.
+
+**Viktigaste antagandet:** Att portföljer ger läraren ett bättre underlag för att bedöma förmågor som prov fångar dåligt, utan att bedömningen blir mindre likvärdig.
+
+- **Avbryt om:** sambedömningen visar att lärare bedömer samma portföljer mycket olika och att det inte går att rätta till.
+- **Justera om:** bedömningen är likvärdig men tar orimligt mycket tid.
+- **Fortsätt om:** bedömningen är lika likvärdig som annan betygssättning, och eleverna visar förmågor som inte framgår av proven.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

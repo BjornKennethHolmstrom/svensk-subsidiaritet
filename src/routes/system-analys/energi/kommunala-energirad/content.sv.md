@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Tidiga lokala besked
 
 [← Tillbaka till huvudartikeln](..)
@@ -20,6 +24,18 @@ Tidigare versioner av den här sidan föreslog att kommunala energiråd skulle f
 2. **Dialog:** Boende, samebyar, näringsliv och miljöorganisationer bjuds in tidigt, innan enskilda projekt är planerade.
 3. **Tidiga besked:** När en projektör frågar ger kommunen ett tidigt och motiverat besked om platsen.
 4. **Lokal nytta:** Kommunen förhandlar om lokalt ägande, bygdemedel eller andra åtaganden, utöver den lagstadgade intäktsdelningen till närboende.
+
+<Kunskapslage status="pilot">
+
+**Det här vet vi:** En kartläggning beställd av Svensk Vindenergi visar att 64 procent av vindkraftsprojekten 2020–2024 stoppades av det kommunala vetot.
+
+**Viktigaste antagandet:** Att tidiga, motiverade besked och delad nytta ändrar hur kommunerna ställer sig till ny produktion.
+
+- **Avbryt om:** kommunerna i försöket säger nej lika ofta som andra kommuner, trots tidiga besked och lokal nytta; det talar för att beslutet behöver flyttas uppåt, till exempel genom att ändra det kommunala vetot.
+- **Justera om:** besked ges tidigt men motiveras knappt; då behövs tydligare krav på motivering.
+- **Fortsätt om:** andelen tillstyrkta projekt är högre än i jämförbara kommuner, och samebyar och andra berörda upplever processen som bättre.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

@@ -37,6 +37,31 @@ Subsidiarity here therefore does not mean that everything should be moved downwa
 - **Few ways in.** Housing production is dominated by larger actors. Smaller developers, cooperatives and groups that want to build for their own account have difficulty gaining access to land and financing.
 - **Segregation.** During the Million Programme of 1965–1974, around one million homes were built. Many of those areas function well, but in some of them low incomes and high unemployment have become concentrated. The causes are several: the composition of the housing stock, migration patterns, the labour market and how new arrivals have settled.
 
+### What we know
+
+- Those who received a rental apartment via the Stockholm Housing Agency in 2025 had on average queued for nine years, with large differences within the region.
+- Municipalities have a planning monopoly and decide through detailed development plans where and how construction may take place.
+- According to the Swedish Competition Authority, construction costs in Sweden are among the highest in the EU. The Construction Competition Inquiry (SOU 2015:105) argued that Sweden does not function as a national construction market.
+- In Stockholm County, more homes were completed in 2023 than in any year since 1973. Construction then declined when interest rates rose.
+- The National Board of Health and Welfare’s 2023 mapping counted just over 27,000 people in homelessness, somewhat fewer than in 2017, but the method had partly changed.
+- An SNS report from 2021 found that rising land prices directly explain about one third of the price increase for housing.
+
+### What we assume
+
+- That municipalities’ voters, who already live there, give municipalities a bias towards limiting construction. The mechanism is well known in research, but we have not established how much importance it has in Swedish municipalities.
+- That regional coordination of housing construction would increase construction where needs are greatest.
+- That more smaller developers, cooperatives and self-builders would lower costs or provide homes that suit more people.
+
+### What we do not know
+
+- How much of the shortage is due to planning, and how much is due to interest rates, financing, construction costs and the design of rent setting.
+- Whether municipalities with a large housing shortage systematically plan too little, or whether they plan enough but construction does not happen.
+
+### What would change the picture
+
+- If municipalities with a large housing shortage have plenty of detailed planned land that is not built on, that argues that it is construction costs and financing that limit, not planning, and weakens the argument about local bias.
+- If construction closely follows interest rates even in municipalities with active planning, the picture is strengthened that the volume is mainly determined nationally and by the market.
+
 ## Proposals
 
 The proposals are ideas to test, not evaluated solutions.
@@ -45,9 +70,23 @@ The proposals are ideas to test, not evaluated solutions.
 
 Today, someone who wants to build something requiring a new detailed development plan can request a so-called planning notification from the municipality. The proposal is that associations and groups of residents should also be able to request a planning notification for changes in their area, for example to supplement with more homes, premises or meeting places. The municipality retains decision-making power, but residents get a formal way to take initiative.
 
+**What we know:** Today, someone who intends to carry out a measure requiring a detailed development plan can request a planning notification. That associations of residents should also be able to do so requires an amendment to the Planning and Building Act, and the proposal is therefore exploratory.
+
+**Most important assumption:** That residents’ initiatives mainly lead to more development and more premises, rather than to existing property owners strengthening their position.
+
+- **Stop if:** the initiatives are mainly used to limit development or favour existing owners.
+- **Adjust if:** few associations use the possibility; then support may be needed to develop an initiative.
+- **Continue if:** the initiatives lead to detailed development plans with more homes or premises than would otherwise have been planned.
+
 ### Regional coordination of housing construction
 
 Since the housing market is regional, municipalities in a region can agree on common goals for housing construction and follow them up openly. Stronger regional planning would move part of the responsibility for how much is built upwards, while the question of how and what continues to be decided locally.
+
+**Most important assumption:** That voluntary, openly reported regional goals affect how much municipalities plan and build.
+
+- **Stop if:** the municipalities cannot agree on common goals.
+- **Adjust if:** the goals are adopted but not followed; that argues for testing binding regional goals, which is an exploratory variant.
+- **Continue if:** housing construction in the region comes closer to the common goals than in comparable regions.
 
 ### More who can build
 
@@ -55,13 +94,31 @@ Since the housing market is regional, municipalities in a region can agree on co
 - **Support for building communities and self-builders.** It is already permitted to build yourself, but many projects require a quality manager and other expertise. Courses via folk high schools and municipal adult education, advice and joint insurance solutions can make it easier.
 - **Cohousing and shared living.** Cohousing has long existed in Sweden. Municipalities and housing companies can test allocating land and premises for such projects.
 
+**Most important assumption:** That access to land is the biggest obstacle for building communities, cooperatives and other small developers.
+
+- **Stop if:** the projects become clearly more expensive per home without the homes becoming more affordable or better adapted.
+- **Adjust if:** the groups receive land but cannot manage the financing; then financing is the real obstacle.
+- **Continue if:** the projects are carried out at comparable cost and the homes remain affordable.
+
 ### Small additions
 
 Since 2014, a so-called Attefall house may be built without a building permit, after notification to the municipality, and since 2020 it may be up to 30 square metres. The role that Attefall houses have played for housing supply should be evaluated, and whether the rules can be developed.
 
+**Most important assumption:** That Attefall houses contribute to housing supply, and are not mainly used as guest cottages or storage.
+
+- **Stop if:** a mapping shows that almost no Attefall houses are used as permanent homes.
+- **Adjust if:** they are used as homes but have low standards or high rents.
+- **Continue if:** a significant proportion are used as homes, and may then be worth developing.
+
 ### Reuse of building components
 
 Municipal or regional depots where doors, windows and other building components from demolitions are taken care of can lower costs for smaller projects and reduce waste.
+
+**Most important assumption:** That reused building components lower costs for smaller building projects.
+
+- **Stop if:** the cost of taking care of, storing and checking the components exceeds their value.
+- **Adjust if:** the depots are used but by few; then information and accessibility may need to be improved.
+- **Continue if:** the depots are used regularly and those who build assess that costs decrease.
 
 ## Objections
 

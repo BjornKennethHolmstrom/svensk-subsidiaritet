@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Livsmedelssystem: effektivitet, beredskap och rätt nivå
 
 ## Hur mycket av maten kan Sverige producera själv?
@@ -38,6 +42,34 @@ Resiliens kräver båda. Frågan är var redundansen gör mest nytta per krona: 
 
 Tidigare versioner av den här sidan föreslog att kommuner skulle upphandla 25 procent lokalt producerad mat och att "lokal" skulle definieras i lag, till exempel som inom 50 kilometer. Det är inte förenligt med reglerna för offentlig upphandling, som bygger på EU-rätt och förbjuder att leverantörer gynnas på grund av var de finns. Kommuner kan däremot ställa krav på till exempel djurskydd, färskhet, säsong, miljö och leveransvillkor, och dela upp upphandlingar så att mindre producenter kan lämna anbud. Förslagen nedan utgår från det.
 
+<Kunskapslage status="nuvarande">
+
+### Det här vet vi
+
+- Jordbruksverket beräknar ingen total självförsörjningsgrad, utan försörjningsförmåga för olika produkter. För mejeriprodukter var den 75 procent och för morötter nära 100 procent, medan den för kött planar ut eller minskar.
+- Svensk livsmedelsproduktion är beroende av importerade insatsvaror som drivmedel, handelsgödsel och foder.
+- Målet är att livsmedelsförsörjningen ska kunna tryggas under minst tre månader vid en säkerhetspolitisk kris. Regeringen har konstaterat att uppbyggnaden utgår från en låg nivå.
+- Forskare vid AgriFood i Lund menar att beredskapslager är ett betydligt billigare sätt att stärka beredskapen än att sträva efter högre självförsörjning.
+- ICA har ungefär halva dagligvarumarknaden, och ICA, Axfood och Coop har tillsammans den största delen.
+- Upphandlingsreglerna förbjuder att leverantörer gynnas på grund av var de finns.
+
+### Det här antar vi
+
+- Att lokal förädling, direktförsäljning och fler små producenter gör livsmedelsförsörjningen mer motståndskraftig vid en kris.
+- Att koncentrationen i dagligvaruhandeln gör det svårare för små producenter att nå konsumenterna.
+
+### Det här vet vi inte
+
+- Vilken kombination av beredskapslager, inhemsk produktion och lokal kapacitet som ger mest motståndskraft per krona.
+- Hur hushåll och lokala producenter skulle agera vid en längre störning i importen.
+
+### Vad som skulle ändra bilden
+
+- Om beredskapsanalyser visar att lagerhållning av insatsvaror och livsmedel ger nästan hela nyttan, försvagas skälet att motivera lokala förslag med beredskap. De kan ändå ha andra skäl, som lönsamhet för små producenter.
+- Om små producenter som vill nå butikerna har lika goda möjligheter som stora, försvagas antagandet om att handelns koncentration är ett hinder.
+
+</Kunskapslage>
+
 ## Subsidiaritetsbaserade förslag
 
 Förslagen är idéer att pröva i begränsade piloter med utvärdering. Varje förslag har en egen sida.
@@ -48,7 +80,7 @@ Förslagen är idéer att pröva i begränsade piloter med utvärdering. Varje f
 | [Arbetskraft, mark och kompetens](./arbetskraft) | Arrenden, lärlingssystem och utbildning för nya lantbrukare. |
 | [Förädling nära produktionen](./foradling) | Gårdsslakt, mobila och kooperativa förädlingsenheter, och tydligare vägledning för små aktörer. |
 | [Hushållens roll](./hushall) | Matlagningskunskap, säsongsanpassning och hemberedskap. |
-| [Övergångsdynamik](./overgangsdynamik) | Hur förändringen kan prövas stegvis genom experiment och utvärdering. |
+| [Övergångsdynamik](./overgangsdynamik) | Ett resonemang, inte ett förslag: hur förändringar i livsmedelssystemet kan prövas stegvis genom experiment och utvärdering. |
 
 ## Invändningar
 

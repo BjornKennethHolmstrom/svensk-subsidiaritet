@@ -28,6 +28,29 @@ Swedish schools can be said to have tried both at the same time: great freedom f
 - **Teacher supply.** There is a shortage of qualified teachers in many subjects and parts of the country.
 - **Cooperation with the surrounding society.** Schools often have weak contacts with working life, associational life and cultural life, especially outside vocational programmes.
 
+### What we know
+
+- Schools were municipalised in 1991, and the independent school reform was introduced in 1992.
+- In PISA 2022, Swedish pupils performed above the OECD average in reading, mathematics and science, although results in mathematics and reading declined compared with 2018.
+- According to the Swedish National Agency for Education, equivalence has deteriorated and is worse than in the other Nordic countries.
+- The state inquiry *The State’s Responsibility for Schools* (SOU 2022:53) presented two alternatives: a nationalisation and a strengthened state responsibility without nationalisation.
+
+### What we assume
+
+- That the decentralised governance, with municipal and independent responsible authorities, has contributed to the deterioration in equivalence. This is a common argument in the debate, but how much of the deterioration is due to governance, and how much is due to, for example, residential segregation and migration, is disputed.
+- That teachers’ professional discretion improves teaching. The proposals on this page are based on that assumption.
+
+### What we do not know
+
+- What explains the deterioration in equivalence, and how much each factor matters.
+- Whether nationalisation would improve equivalence, or mainly move the problems to another level.
+- How large grade inflation is today, and how it differs between responsible authorities.
+
+### What would change the picture
+
+- If analyses show that the deterioration in equivalence is mainly explained by residential segregation and pupil composition, rather than by governance, both the arguments for nationalisation and for more local freedom are weakened.
+- If comparisons between responsible authorities show large differences in pupils’ knowledge development even when pupils’ backgrounds are accounted for, that argues for stronger national floors.
+
 ## Subsidiarity-based proposals
 
 The proposals are ideas to test in limited pilots with evaluation. Each proposal has its own page.

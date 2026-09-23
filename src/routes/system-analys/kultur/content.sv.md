@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Kultur och media: vem bestämmer över det gemensamma?
 
 ## Kulturen finansieras redan på flera nivåer
@@ -24,6 +28,34 @@ Kulturlivet rymmer en nästan obegränsad variation: av uttryck, språk, traditi
 - **Gemensamma ramar:** vissa saker, som stöd till nationella minoriteters språk eller bibliotekens uppdrag, regleras nationellt för att gälla överallt.
 
 Frågan är inte om kulturen är centralstyrd, för det är den i begränsad utsträckning, utan om de olika vägarna är tillräckligt öppna och om vissa grupper, platser eller uttryck systematiskt faller mellan stolarna.
+
+<Kunskapslage status="nuvarande">
+
+### Det här vet vi
+
+- De offentliga utgifterna för kultur, folkbildning och medier var 34,3 miljarder kronor 2023. Staten stod för 14,9 miljarder, kommunerna för 14,2 och regionerna för 5,2, enligt Myndigheten för kulturanalys.
+- Kulturutgifterna per invånare skiljer sig mycket mellan regioner, och statens kulturutgifter som andel av statens samlade utgifter var 2023 den lägsta sedan 2004.
+- En statlig kommitté presenterade 2025 betänkandet *En kulturkanon för Sverige* (SOU 2025:92). Förslaget har kritiserats bland annat av företrädare för de nationella minoriteterna.
+- Sverige har fem erkända nationella minoriteter och minoritetsspråk, med särskilt lagstöd. Folkbiblioteken ska enligt bibliotekslagen ägna särskild uppmärksamhet åt de nationella minoriteterna och åt personer med annat modersmål än svenska.
+
+### Det här antar vi
+
+- Att de befintliga stödformerna är svårare att nå för nya grupper och för icke-professionella kulturskapare. Det är rimligt, men inte mätt på den här sidan.
+- Att områden utan lokal journalistik får en svagare lokal demokrati.
+- Att stöd till kultur på andra språk än svenska, kombinerat med översättning, stärker kontakten mellan grupper snarare än försvagar den.
+
+### Det här vet vi inte
+
+- Vilka som söker och får kulturstöd, och vilka som inte gör det. Sådana uppgifter samlas i liten utsträckning in.
+- Hur stora delar av Sverige som saknar lokal journalistisk bevakning.
+- Vad som händer med förslaget om en kulturkanon, och hur det i så fall skulle användas.
+
+### Vad som skulle ändra bilden
+
+- Om uppföljningar visar att de minsta kulturbidragen redan når en bred grupp sökande, försvagas skälet för ett nytt bidrag till vardagskultur.
+- Om kommuner utan lokal journalistik inte skiljer sig från andra i till exempel valdeltagande eller insyn i den lokala politiken, försvagas skälet för lokal public service.
+
+</Kunskapslage>
 
 ## Subsidiaritetsbaserade förslag
 

@@ -26,6 +26,16 @@ It is thus already possible for teachers to run a school as a cooperative. The p
 - **Surplus:** reinvested in the activities.
 - **Collective agreements:** the cooperative can sign collective agreements, and the teachers can be members of a union, for example Sweden’s Teachers.
 
+**What we know:** Independent schools can already today be run as economic associations.
+
+**Most important assumption:** That teachers who run their own school get a better working environment and lower staff turnover, and that this benefits pupils.
+
+**What we do not know:** How more responsible authorities affect equivalence in a system where it has already deteriorated.
+
+- **Stop if:** the cooperatives more often than other schools receive serious criticism in the Swedish Schools Inspectorate’s supervision, or end up in financial difficulties that affect pupils.
+- **Adjust if:** teachers’ working environment improves but pupils’ results do not change.
+- **Continue if:** staff turnover is lower than in comparable schools and pupils’ results and well-being are at least as good.
+
 ## Pilot proposal
 
 **Scope:** Support for five to ten teacher groups that want to start or take over a school as a cooperative, over three years, with advice and the possibility of start-up loans.

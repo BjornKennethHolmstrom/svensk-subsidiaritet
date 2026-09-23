@@ -36,6 +36,34 @@ The mediator does not replace the police and has no powers beyond those of other
 | Boundaries and cooperation | When the police and social services should be brought in | 20 |
 | Supervised practice | Field work together with an experienced mediator | 60 |
 
+### What we know
+
+- Field assistants already work in an outreach capacity in many municipalities, and municipalities must offer mediation to young offenders after a crime.
+- Sluta skjut in Malmö, which is based on Group Violence Intervention, is not a mediation model, but shows that cooperation between the police, the municipality and civil society can be combined with reduced violence.
+- International models with so-called interrupters, such as Cure Violence, have been evaluated with mixed results.
+- Since July 2025, the Social Services Act gives greater scope for preventive interventions without an individual needs assessment.
+
+### What we assume
+
+- That people with roots in an area can catch conflicts earlier than the police and social services, because they have trust and know the networks.
+- That a paid and trained role adds something beyond what field assistants already do.
+- That residents perceive the mediators as impartial, and not as an extension of the police.
+
+### What we do not know
+
+- **How the whole behaves.** The combination of local roots, salary, training and a link to social services and the police has not been tested in Sweden. It can give the mediators a legitimacy that none of the parts provides alone.
+- **New ways of failing.** The same combination can also fail in ways that no single part predicts: mediators can be perceived as informers and lose their trust, or be influenced by criminal actors precisely because they have trust in the area. The activity can become dependent on individual people.
+- Whether the effects, if any exist, can be distinguished from other changes in the areas.
+
+### How we would test it
+
+- **Test:** three municipalities over two years, with comparison areas, and a research group following the pilot from the start. Follow-up after 6, 12 and 24 months.
+- **Stop if:** a mediator turns out to have used their role to benefit criminal activity and recruitment cannot be improved; or if mediators are repeatedly subjected to serious violence; or if neither residents, social services nor the police see any value in the activity after 12 months.
+- **Adjust if:** few cases come in after 6 months, which may indicate that the mediators are not known or do not have trust; or if fewer than half of the agreements hold after three months, which may indicate shortcomings in training or recruitment.
+- **Continue if:** cases come in at a steady rate, a majority of the agreements hold after three months, no serious security incidents have occurred, and residents and cooperation partners assess the activity as valuable.
+
+The threshold values are proposals. They are to be determined before the pilot starts and not changed afterwards.
+
 ## Pilot proposal
 
 **Scope:** Around 100 mediators in 20–30 municipalities over three years, in areas where the municipality’s situational picture shows a need.
@@ -48,7 +76,7 @@ The mediator does not replace the police and has no powers beyond those of other
 - a coordinating function in the municipality that receives cases, quality-assures them and handles difficult cases
 - clear routines for cooperation with social services and the local police
 
-**Evaluation:** number of cases, proportion of agreements that hold after three and six months, change in violence and perceived safety compared with similar areas without mediators, and how young people, parents and other actors experience the initiative. The proposal is that a research group follows the pilot from the start.
+**Evaluation:** number of cases, proportion of agreements that hold after three and six months, change in violence and perceived safety compared with similar areas without mediators, and how young people, parents and other actors experience the initiative. The criteria for stopping, adjusting or continuing are in the knowledge box above.
 
 ## Rough cost estimate
 

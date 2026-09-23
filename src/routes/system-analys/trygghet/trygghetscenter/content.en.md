@@ -28,6 +28,32 @@ A safety centre is a way to bring those activities together physically, so that 
 - a coordinator who knows the area’s resources and can guide people onward
 - a room that associations, neighbourhood watch groups and Safety Rings can book
 
+### What we know
+
+- The goal of the 2015 police reform of a police force closer to citizens has not been achieved, according to Statskontoret’s evaluations.
+- The proportion with high confidence in the police increased from 50 percent in 2015 to 62 percent in 2025, according to Brå’s NTU.
+- The police’s situational picture for 2025 covers 65 vulnerable areas, 19 of which are particularly vulnerable.
+
+### What we assume
+
+- That co-location lowers the threshold for residents to seek help and provide information.
+- That it becomes easier for the police, social services and leisure activities to cooperate if they are under the same roof.
+- That residents will use the centre even though the police are there.
+
+### What we do not know
+
+- **How the whole behaves.** Police, social services and youth activities in the same place can create a confidence that none of them gains on its own. But the combination can also harm social services: if residents perceive social services and the police as the same thing, they may avoid seeking support. A visible centre can also become a target for threats or vandalism.
+- Whether the confidentiality rules in practice make cooperation on site harder than expected.
+
+### How we would test it
+
+- **Test:** three to five centres over three years, with comparison areas.
+- **Stop if:** voluntary contacts with social services decrease in the pilot areas compared with the comparison areas, which may indicate that co-location harms confidence in social services; or if serious security incidents recur.
+- **Adjust if:** the centre is used almost only for police cases; or if staff in the follow-up describe cooperation as unchanged.
+- **Continue if:** the centre is used broadly by residents of different ages, confidence in the police and municipality develops better than in the comparison areas, and staff assess that cooperation has improved.
+
+The threshold values are to be determined before the pilot starts and not changed afterwards.
+
 ## Pilot proposal
 
 **Scope:** Around ten centres over three years, in areas where the municipality’s situational picture and the police’s situational picture of vulnerable areas show a need.
@@ -110,3 +136,4 @@ A large part of the staff cost relates to staff who are already in the area. The
 *The page was revised in September 2026 after a fact check.*
 
 [← Back to the main article](..)
+

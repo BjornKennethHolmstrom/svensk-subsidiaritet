@@ -23,6 +23,32 @@ Social investment funds or special resources for social investments have been es
 
 **Examples of interventions:** parenting support and early interventions for families, individual support to work for people with mental ill-health (so-called supported employment), debt counselling and coordinated interventions for young people who are neither working nor studying.
 
+### What we know
+
+- Social investment funds or special resources for social investments have been established in a large number of Swedish municipalities and regions since the early 2010s. The Municipality of Umeå allocated SEK 120 million for 2011–2014, and in Norrköping, activities that achieved lower costs returned funds to the fund.
+- The experiences have been reviewed in a report for SNS (Hultkrantz 2015), and the Expert Group on Public Economics has proposed a state outcome fund (ESO 2020:1).
+
+### What we assume
+
+- That preventive interventions that are followed up closely can reduce future costs for several actors.
+- That a joint fund for municipality and region solves the problem that no single actor has reason to pay for interventions whose benefit ends up with others.
+- That recycling savings to the fund is possible and works in practice.
+
+### What we do not know
+
+- **How the whole behaves.** A fund with several responsible authorities and recycling can create a shared interest in preventive work that no single budget provides. But it can also lead to new conflicts about who should pay back and how much, and make cooperation harder instead of easier.
+- How much of the estimated savings in Swedish funds has actually materialised, and where.
+- Whether interventions chosen because they can be measured crowd out interventions that are important but harder to measure.
+
+### How we would test it
+
+- **Test:** two or three regional funds where the region and municipalities join together, over five years, with agreements on recycling from the start.
+- **Stop if:** the parties after two years have not been able to agree on how recycling is to be calculated; or if the fund is mainly used to finance ordinary activities that have been cut back.
+- **Adjust if:** the interventions produce effects for the target groups but the savings cannot be substantiated, which may argue that the fund should instead be justified by the effects and financed without a requirement for recycling.
+- **Continue if:** the interventions show effects for the target groups, part of the savings can be substantiated and recycled, and the parties assess that cooperation has improved.
+
+The threshold values and calculation bases are to be determined before the funds start.
+
 ## Pilot proposal
 
 **Scope:** Two or three regional funds where the region and municipalities join together, over five years.

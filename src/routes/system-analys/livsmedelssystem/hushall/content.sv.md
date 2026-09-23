@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Hushållens roll
 
 [← Tillbaka till huvudartikeln](..)
@@ -29,6 +33,18 @@ Bibliotek och föreningar kan låna ut utrustning för att torka, sylta, safta o
 ### Hemberedskap med lokal koppling
 
 Kommunerna kan komplettera myndigheternas allmänna råd med information om vilka livsmedel som går att lagra och som produceras i närområdet.
+
+<Kunskapslage status="pilot">
+
+**Viktigaste antagandet:** Att säsongsplanering i offentliga kök och möjlighet att låna utrustning ökar hushållens kunskap och förmåga att klara sig en tid på egen hand.
+
+**Det här vet vi inte:** Om ökad kunskap i hushållen gör någon skillnad för beredskapen vid en verklig kris.
+
+- **Avbryt om:** säsongsplaneringen i de offentliga köken leder till klart högre kostnader eller sämre näringsinnehåll.
+- **Justera om:** utrustningen lånas ut men används av få; då behövs kurser eller mer information.
+- **Fortsätt om:** matsvinnet i köken minskar utan högre kostnader, och utlåningen och kurserna används regelbundet.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

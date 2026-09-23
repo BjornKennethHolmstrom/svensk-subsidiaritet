@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Välfärd: kontroll, tillit och rätt nivå
 
 ## Ett stort system med två uppdrag
@@ -31,18 +35,53 @@ Båda har kostnader. Mer utrymme för bedömning ger bättre anpassning, men ock
 - **Riktade statsbidrag.** Kommunerna får många tillfälliga statsbidrag med egna villkor och redovisningskrav, vilket gör det svårare att planera långsiktigt och anpassa insatserna lokalt.
 - **Förebyggande insatser som ingen äger.** En insats som minskar framtida kostnader hos flera aktörer, till exempel socialtjänst, sjukvård och polis, är svår att finansiera när varje aktör har sin egen budget.
 
+<Kunskapslage status="nuvarande">
+
+### Det här vet vi
+
+- Sverige lade 2024 knappt 28 procent av BNP på socialt skydd, drygt 1 770 miljarder kronor, enligt SCB. Frankrike och Finland ligger högre.
+- Socialförsäkringarna är nationella och administreras av Försäkringskassan. Socialtjänst och omsorg är kommunala och bygger i högre grad på individuell bedömning.
+- Regeringen har uppskattat att 15–20 miljarder kronor om året betalas ut felaktigt från välfärdssystemen, varav ungefär hälften misstänks vara avsiktligt.
+- Försäkringskassan tog en maskininlärningsbaserad riskprofil för kontroll av tillfällig föräldrapenning ur bruk efter att Integritetsskyddsmyndigheten inlett en tillsyn 2025.
+- Sedan juli 2025 ger socialtjänstlagen större utrymme för förebyggande arbete och för insatser utan individuell behovsprövning.
+- Psykiatriska diagnoser är den vanligaste orsaken till pågående sjukfall, enligt Försäkringskassan.
+
+### Det här antar vi
+
+- Att de många riktade statsbidragen gör det svårare för kommunerna att planera långsiktigt och anpassa insatserna lokalt. Det är en vanlig kritik, men den är inte mätt på den här sidan.
+- Att mer utrymme för bedömning ger bättre anpassning men också större skillnader mellan handläggare. Båda delarna är rimliga, men avvägningen mellan dem är inte belagd.
+- Att förebyggande insatser kan minska framtida kostnader hos flera aktörer. Förslaget om sociala investeringsfonder bygger på det.
+
+### Det här vet vi inte
+
+- Hur stora de felaktiga utbetalningarna faktiskt är. Siffran är en uppskattning.
+- Om de utbyggda kontrollerna minskar de felaktiga utbetalningarna i proportion till vad de kostar, och vilka som drabbas av dem.
+- Hur kommunerna använder möjligheten att erbjuda insatser utan behovsprövning, och om det når rätt personer.
+
+### Vad som skulle ändra bilden
+
+- Om utvärderingar visar att riskbaserade kontroller minskar felaktiga utbetalningar kraftigt, till låg kostnad och utan att vissa grupper drabbas orimligt, stärks argumentet för mer kontroll.
+- Om uppföljningar av den nya socialtjänstlagen visar att insatser utan behovsprövning når dem som behöver dem, stärks argumentet för mer tillit och lokalt utrymme.
+
+</Kunskapslage>
+
 ## Subsidiaritetsbaserade förslag
 
-Förslagen är idéer att pröva i begränsade piloter med utvärdering. Varje förslag har en egen sida.
+Förslagen är idéer att pröva i begränsade piloter med utvärdering. De flesta har en egen sida.
 
 | Förslag | Kort beskrivning |
 |--------|------------------|
 | [Välfärdsringar](./valfardsringar) | Grannskapsnätverk för ömsesidig hjälp i vardagen, med koppling till socialtjänsten när behoven blir större. |
-| [Social förskrivning](./social-forskrivning) | Vården hänvisar patienter med till exempel ensamhet eller lindrig psykisk ohälsa till föreningar och aktiviteter, med stöd av en samordnare. Bygger vidare på fysisk aktivitet på recept och kultur på recept. |
-| [Grannverifiering](./grannverifiering) | Snabbare handläggning av små, akuta behov, där den sökande själv kan välja att låta en närstående eller granne bekräfta behovet. |
+| [Social förskrivning](/system-analys/halsovard/social-forskrivning) | Vården hänvisar patienter med till exempel ensamhet eller lindrig psykisk ohälsa till föreningar och aktiviteter, med stöd av en samordnare. Förslaget beskrivs under Hälsa, eftersom primärvården är regionernas ansvar. |
 | [Personliga välfärdsbudgetar](./personliga-valfardsbudgetar) | För långvariga mottagare: samordnade utbetalningar, längre beslutsperioder och bättre möjligheter att arbeta utan att förlora hela stödet. |
 | [Kommunala välfärdsbudgetar](./kommunala-valfardsbudgetar) | Färre riktade statsbidrag och större lokalt handlingsutrymme i försöksverksamhet, med nationella miniminivåer och utvärdering. |
 | [Sociala investeringsfonder](./sociala-investeringsfonder) | Fonder för förebyggande insatser som följs upp noga. Flera kommuner och regioner har redan sådana. |
+
+### Förenklad handläggning av små belopp
+
+För små, akuta behov inom försörjningsstödet, till exempel en trasig kyl, kan kommuner pröva ett förenklat förfarande: den sökande lämnar en egen försäkran om behovet, beslut fattas inom några dagar och en del av ärendena granskas i efterhand med stickprov. Försöket bör jämföra handläggningstid och andelen felaktiga utbetalningar med vanlig handläggning.
+
+*Ett tidigare förslag på den här sidan, grannverifiering, har tagits bort. Det gick ut på att en granne kunde bekräfta den sökandes behov. Att någon söker försörjningsstöd omfattas av socialtjänstsekretess, och en kontakt med en granne skulle röja den uppgiften. Även med samtycke fanns en risk för påtryckningar och för att den som saknar nätverk missgynnas. Vi bedömde att de riskerna var inbyggda i förslaget, och inte gick att konstruera bort.*
 
 ## Invändningar
 

@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Social förskrivning
 
 [← Tillbaka till huvudartikeln](..)
@@ -27,6 +31,36 @@ En del av dem som söker primärvården för trötthet, nedstämdhet eller oro l
 
 Social förskrivning ersätter inte behandling vid måttlig eller svår psykisk ohälsa. Bedömningen av vad som är lämpligt görs av vården.
 
+<Kunskapslage status="pilot">
+
+### Det här vet vi
+
+- Fysisk aktivitet på recept används sedan länge i svensk hälso- och sjukvård, och kultur på recept har prövats i flera regioner.
+- En systematisk översikt av brittiska utvärderingar (Bickerdike m.fl. 2017) fann att social förskrivning förespråkas och införs i stor skala, men att underlaget inte räckte för att bedöma vare sig effekt eller kostnadseffektivitet. Av 15 utvärderingar var en enda randomiserad, och risken för snedvridning var hög.
+
+### Det här antar vi
+
+- Att en del av primärvårdens patienter har besvär som till stor del hänger ihop med ensamhet och brist på sammanhang, och att aktiviteter i föreningslivet kan påverka dem.
+- Att en länkarbetare behövs för att hänvisningen ska leda till verkligt deltagande, och att en skriftlig hänvisning inte räcker.
+- Att föreningslivet har kapacitet att ta emot deltagarna.
+
+### Det här vet vi inte
+
+- **Hur helheten beter sig.** Kombinationen av vårdens auktoritet, en länkarbetare och föreningslivets gemenskap kan ge ett deltagande som ingen av delarna ger ensam. Den kan också misslyckas på ett sätt som delarna inte förutsäger: om hänvisningen uppfattas som att vården avvisar patientens besvär som "bara sociala", kan förtroendet för vården minska.
+- Om effekterna, om de finns, kvarstår efter att perioden med länkarbetaren är slut.
+- Vilka patienter som har nytta av det, och vilka som inte har det.
+
+### Så skulle vi pröva det
+
+- **Test:** ett tiotal vårdcentraler under tre år, med jämförelse mot liknande vårdcentraler utan länkarbetare, och om möjligt med slumpmässig fördelning av vilka patienter som erbjuds länkarbetare.
+- **Avbryt om:** patienter i uppföljningen i betydande utsträckning upplever hänvisningen som att deras besvär inte tas på allvar; eller om patienter med behov av behandling i stället hänvisas till aktiviteter.
+- **Justera om:** få av dem som hänvisas börjar delta i en aktivitet; eller om föreningarna inte kan ta emot fler deltagare.
+- **Fortsätt om:** deltagarna rapporterar bättre välbefinnande och mindre ensamhet än jämförelsegruppen efter sex och tolv månader, och personalen bedömer att arbetssättet är värt tiden.
+
+Tröskelvärdena ska bestämmas innan piloten startar och inte ändras i efterhand.
+
+</Kunskapslage>
+
 ## Pilotförslag
 
 **Omfattning:** Ett tiotal vårdcentraler i olika typer av områden, under tre år, med en länkarbetare på halvtid till heltid per vårdcentral.
@@ -49,7 +83,7 @@ Social förskrivning ersätter inte behandling vid måttlig eller svår psykisk 
 
 ## Invändningar
 
-**"Evidensen är svag."** Forskningen, bland annat från Storbritannien, visar lovande men blandade resultat, och många studier har metodproblem. Det är ett skäl att pröva med noggrann utvärdering, inte att anta att det fungerar.
+**"Evidensen är svag."** Ja. En systematisk översikt av de brittiska utvärderingarna fann att underlaget inte räcker för att bedöma effekten. Det är ett skäl att pröva med noggrann utvärdering, inte att anta att det fungerar.
 
 **"Det medikaliserar vardagen."** Att hänvisa till en kör via vården kan göra ensamhet till ett medicinskt problem. Samtidigt kan vården vara den enda kontakt en isolerad person har.
 
@@ -64,6 +98,10 @@ Social förskrivning ersätter inte behandling vid måttlig eller svår psykisk 
 **Om du är aktiv i en förening:** Ta kontakt med den lokala vårdcentralen och erbjud er att ta emot deltagare.
 
 ---
+
+## Källor
+
+- Liz Bickerdike, Alison Booth, Paul M. Wilson, Kate Farley och Kath Wright, "Social prescribing: less rhetoric and more reality. A systematic review of the evidence", *BMJ Open* 7 (2017), [doi:10.1136/bmjopen-2016-013384](https://doi.org/10.1136/bmjopen-2016-013384)
 
 *Sidan reviderades i september 2026 efter en faktagranskning. Tidigare versioner innehöll uppgifter om forskningsresultat och svenska försök som inte kunde beläggas.*
 

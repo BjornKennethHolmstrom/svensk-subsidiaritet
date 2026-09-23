@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Lokal public service
 
 [← Tillbaka till huvudartikeln](..)
@@ -23,6 +27,18 @@ Samtidigt finns det redan en hel del lokal och regional journalistik. Sveriges R
 **Samarbete med public service:** Sveriges Radio och SVT kan samarbeta med lokala redaktioner, till exempel genom att dela material eller sända lokala inslag.
 
 **Språk:** lokala medier bör kunna publicera på andra språk än svenska där det finns ett behov, till exempel på de nationella minoritetsspråken.
+
+<Kunskapslage status="pilot">
+
+**Viktigaste antagandet:** Att lokal journalistik i områden med svag bevakning stärker insynen i den lokala politiken.
+
+**Det här vet vi inte:** Om det befintliga mediestödet redan kan användas för den här typen av verksamhet, och om det i så fall räcker.
+
+- **Avbryt om:** redaktionerna inte kan hålla sitt redaktionella oberoende, till exempel om lokala makthavare påverkar innehållet.
+- **Justera om:** redaktionerna producerar innehåll men når få läsare eller lyssnare.
+- **Fortsätt om:** bevakningen av den lokala politiken ökar och de boende bedömer innehållet som trovärdigt.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

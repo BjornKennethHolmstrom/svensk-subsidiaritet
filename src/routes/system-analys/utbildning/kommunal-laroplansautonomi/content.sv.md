@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Lokala profiler i undervisningen
 
 [← Tillbaka till huvudartikeln](..)
@@ -27,6 +31,20 @@ Tidigare versioner av den här sidan påstod att läroplanen styr innehåll och 
 2. **En lokal profil** tas fram av kommunen eller skolan tillsammans med lärare, elever, vårdnadshavare och lokala aktörer. Profilen beskriver hur undervisningen kopplas till lokala förhållanden, till exempel genom återkommande projekt, studiebesök eller ämnesövergripande teman.
 3. **Utökat utrymme** för skolans val eller motsvarande i försöket, förslagsvis upp till tio procent av undervisningstiden, för undervisning kopplad till profilen.
 4. **Skolinspektionen** följer upp att eleverna når kunskapskraven.
+
+<Kunskapslage status="utforskande">
+
+**Det här vet vi:** Läroplanerna anger mål och centralt innehåll men inte arbetssätt och ordning. Skolans val och elevens val ger redan visst lokalt utrymme. Ett utökat utrymme kräver sannolikt ändringar i skolförordningen, och förslaget är därför utforskande.
+
+**Viktigaste antagandet:** Att undervisning kopplad till lokala förhållanden ökar elevernas motivation och lärande, utan att försämra deras resultat mot de nationella kunskapskraven.
+
+**Det här vet vi inte:** Hur det påverkar likvärdigheten, som redan har försämrats. Utvärderingen bör särskilt följa elever med svagare förutsättningar.
+
+- **Avbryt om:** elevernas resultat i ämnena blir sämre än i jämförbara skolor.
+- **Justera om:** motivationen ökar men resultaten inte förändras; då kan utrymmet behöva användas annorlunda.
+- **Fortsätt om:** resultaten är minst lika goda som i jämförbara skolor, och elevernas motivation och närvaro är högre.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

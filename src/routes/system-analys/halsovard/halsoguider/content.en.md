@@ -32,6 +32,14 @@ Many people have questions about diet, exercise, sleep and stress that do not re
 
 **Employment:** in the municipality, in a housing company, at a health centre or in a non-profit organisation, with access to supervision from licensed staff.
 
+**What we know:** Health communicators exist in several places and inform newly arrived people about health and healthcare. The proposal should build on their experiences.
+
+**Most important assumption:** That a shorter trained role outside healthcare can help people with lifestyle habits and with finding their way, and that it complements healthcare staff instead of replacing them.
+
+- **Stop if:** the health guides in practice give medical advice; or if the role is used to reduce the number of healthcare staff.
+- **Adjust if:** the guides mainly reach people who already have good contact with healthcare.
+- **Continue if:** the guides reach groups that healthcare has difficulty reaching, and participants report changed lifestyle habits or better contact with healthcare.
+
 ## Pilot proposal
 
 **Scope:** Three municipalities of different types over three years, with four to six health guides per municipality, in cooperation with the region’s primary care.

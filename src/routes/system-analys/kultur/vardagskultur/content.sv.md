@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Bidrag till vardagskultur
 
 [← Tillbaka till huvudartikeln](..)
@@ -27,6 +31,18 @@ Mycket kulturskapande sker utanför institutionerna: i föreningar, hem, på nä
 - besked inom en månad
 
 **Redovisning:** en enkel redovisning i efterhand, till exempel en bild, en inspelning eller en kort text om vad som blev gjort.
+
+<Kunskapslage status="pilot">
+
+**Viktigaste antagandet:** Att små bidrag med enkel ansökan når personer som aldrig tidigare sökt kulturstöd.
+
+**Det här vet vi inte:** Vilka som i dag söker och får kulturstöd. Sådana uppgifter samlas i liten utsträckning in, och piloten bör därför samla in dem från början.
+
+- **Avbryt om:** bidragen i betydande utsträckning går till projekt som inte genomförs, trots redovisningskravet.
+- **Justera om:** de flesta sökande är personer som redan fått kulturstöd; då behövs mer uppsökande information.
+- **Fortsätt om:** en stor andel av mottagarna är nya för kulturstödet, och de flesta projekt genomförs.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

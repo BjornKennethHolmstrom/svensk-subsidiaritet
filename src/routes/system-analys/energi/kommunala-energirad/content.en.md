@@ -21,6 +21,14 @@ Earlier versions of this page proposed that municipal energy councils should hav
 3. **Early decisions:** When a developer asks, the municipality gives an early and reasoned decision on the location.
 4. **Local benefit:** The municipality negotiates local ownership, local community funds or other commitments, in addition to the statutory revenue sharing for nearby residents.
 
+**What we know:** A mapping commissioned by Swedish Wind Energy shows that 64 percent of wind power projects in 2020–2024 were stopped by the municipal veto.
+
+**Most important assumption:** That early, reasoned decisions and shared benefit change how municipalities view new production.
+
+- **Stop if:** the municipalities in the trial say no as often as other municipalities, despite early decisions and local benefit; that argues that the decision needs to be moved upwards, for example by changing the municipal veto.
+- **Adjust if:** decisions are given early but are barely justified; then clearer requirements for justification are needed.
+- **Continue if:** the proportion of approved projects is higher than in comparable municipalities, and Sami villages and other affected parties experience the process as better.
+
 ## Pilot proposal
 
 **Scope:** Five municipalities in different parts of the country over three years.

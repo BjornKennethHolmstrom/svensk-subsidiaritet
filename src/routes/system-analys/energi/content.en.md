@@ -34,6 +34,32 @@ The electricity system must be kept in balance every second, and the frequency m
 - **Regionally and locally:** planning, local electricity grids, flexibility in the grids, district heating, local ownership of production.
 - **At households and associations:** own production, storage and flexible use.
 
+### What we know
+
+- In 2023, the Riksdag changed the target for electricity production by 2040 from 100 percent renewable to 100 percent fossil-free electricity production.
+- Since 2009, a permit for wind power may only be granted if the municipality has approved it, the so-called municipal veto.
+- A mapping commissioned by Swedish Wind Energy shows that 83 of 130 wind power projects, 64 percent, were stopped by the municipal veto in 2020–2024. The mapping was commissioned by the industry.
+- From 1 July 2026, nearby residents of new wind power installations are to receive compensation corresponding to a share of the installation’s revenue.
+- The tax reduction for micro-production was abolished from 1 January 2026.
+- The government has presented proposals for rules on energy sharing (prop. 2025/26:240).
+
+### What we assume
+
+- That municipalities’ rejections of wind power are largely due to costs being local while the benefit is regional or national, and that shared benefit can change the calculation.
+- That local ownership increases acceptance of new production.
+- That households’ flexibility, for example controlled charging and heat pumps, can postpone expensive grid reinforcements at a larger scale.
+
+### What we do not know
+
+- Whether revenue sharing with nearby residents affects municipalities’ decisions.
+- How the rules on energy sharing are designed in detail, and how many will use them.
+- How much flexibility households can and want to offer.
+
+### What would change the picture
+
+- If the proportion of approved wind power projects does not increase after revenue sharing is introduced, the assumption about shared benefit is weakened. That then strengthens the argument for moving the decision upwards, for example by changing or removing the municipal veto.
+- If the municipalities that say no to wind power also say no despite local ownership and revenue sharing, that points to the resistance being about something other than the distribution of benefit, for example landscape and identity.
+
 ## Subsidiarity-based proposals
 
 The proposals are ideas to test in limited pilots with evaluation. Each proposal has its own page.

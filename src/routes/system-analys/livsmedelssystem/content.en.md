@@ -38,6 +38,30 @@ Resilience requires both. The question is where redundancy does the most good pe
 
 Earlier versions of this page proposed that municipalities should procure 25 percent locally produced food and that “local” should be defined in law, for example as within 50 kilometres. That is not compatible with the rules on public procurement, which are based on EU law and prohibit suppliers being favoured because of where they are located. Municipalities can, however, set requirements for, for example, animal welfare, freshness, season, environment and delivery terms, and split procurements so that smaller producers can submit bids. The proposals below are based on that.
 
+### What we know
+
+- The Swedish Board of Agriculture does not calculate any total degree of self-sufficiency, but supply capacity for different products. For dairy products it was 75 percent and for carrots close to 100 percent, while for meat it is flattening out or declining.
+- Swedish food production is dependent on imported inputs such as fuels, mineral fertiliser and feed.
+- The goal is that food supply should be secured for at least three months in a security policy crisis. The government has stated that the build-up starts from a low level.
+- Researchers at AgriFood in Lund argue that emergency stockpiles are a considerably cheaper way of strengthening preparedness than striving for higher self-sufficiency.
+- ICA has about half the grocery market, and ICA, Axfood and Coop together have the largest share.
+- The procurement rules prohibit suppliers being favoured because of where they are located.
+
+### What we assume
+
+- That local processing, direct sales and more small producers make food supply more resilient in a crisis.
+- That concentration in grocery retail makes it harder for small producers to reach consumers.
+
+### What we do not know
+
+- Which combination of emergency stockpiles, domestic production and local capacity gives the most resilience per krona.
+- How households and local producers would act in a longer disruption in imports.
+
+### What would change the picture
+
+- If preparedness analyses show that stockpiling of inputs and food provides almost all the benefit, the reason to justify local proposals with preparedness is weakened. They may still have other reasons, such as profitability for small producers.
+- If small producers who want to reach the stores have equally good opportunities as large ones, the assumption that retail concentration is an obstacle is weakened.
+
 ## Subsidiarity-based proposals
 
 The proposals are ideas to test in limited pilots with evaluation. Each proposal has its own page.

@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Hälsokonton
 
 [← Tillbaka till huvudartikeln](..)
@@ -20,6 +24,18 @@ Förebyggande insatser har svårt att få utrymme i vården. Samtidigt betalar m
 ## Ett viktigt problem att pröva
 
 Erfarenheter av liknande stöd tyder på att de som redan har goda vanor och god hälsa ofta använder sådana pengar mest, medan de med störst behov använder dem minst. Ett universellt konto kan därför öka skillnaderna i hälsa i stället för att minska dem. Försöket bör därför jämföra två varianter: en där alla får samma belopp, och en där beloppet är högre för grupper med sämre hälsa eller lägre inkomst, eller där stöd ges via hälsoguider som hjälper personer att använda pengarna.
+
+<Kunskapslage status="utforskande">
+
+**Det här vet vi:** Förslaget kräver ett särskilt beslut om försöksverksamhet och sannolikt ändrade skatteregler, och är därför utforskande.
+
+**Viktigaste antagandet:** Att en personlig pott för förebyggande insatser används av dem som har störst behov, och inte främst av dem som redan har goda vanor.
+
+- **Avbryt om:** pengarna i den universella varianten nästan bara används av grupper med redan god hälsa, och den riktade varianten inte når bättre.
+- **Justera om:** den riktade varianten eller varianten med stöd av hälsoguider når klart bättre; då bör den universella varianten överges.
+- **Fortsätt om:** användningen är bred även bland grupper med sämre hälsa, och levnadsvanor eller självskattad hälsa förbättras jämfört med jämförelsegruppen.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

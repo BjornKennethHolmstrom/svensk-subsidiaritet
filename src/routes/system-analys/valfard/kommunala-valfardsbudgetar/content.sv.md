@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Kommunala välfärdsbudgetar
 
 [← Tillbaka till huvudartikeln](..)
@@ -29,6 +33,20 @@ Socialförsäkringarna, som sjukpenning och föräldrapenning, ingår inte. De b
 | Glesbygd med många äldre | Samordnad hemtjänst, färdtjänst och matdistribution, med större valfrihet för den enskilde |
 | Område med hög arbetslöshet bland unga | Samlade insatser från socialtjänst, arbetsmarknadsenhet och föreningsliv |
 | Kommun med många som har långvarigt försörjningsstöd | Längre beslutsperioder och förstärkt jobbstimulans |
+
+<Kunskapslage status="utforskande">
+
+**Det här vet vi:** En försöksverksamhet med undantag från socialtjänstlagen kräver en särskild lag, och förslaget är därför utforskande. Sverige har en förebild i frikommunförsöket på 1980-talet.
+
+**Viktigaste antagandet:** Att färre riktade statsbidrag och möjlighet att avvika från vissa detaljregler gör att kommunerna anpassar insatserna bättre efter lokala behov, utan att de mest utsatta får det sämre.
+
+**Det här vet vi inte:** Hur frikommunförsöket utvärderades och vad det ledde till. Det bör gås igenom innan förslaget drivs vidare.
+
+- **Avbryt om:** utfallen för de mest utsatta grupperna, till exempel barn i familjer med försörjningsstöd, försämras i försökskommunerna jämfört med liknande kommuner.
+- **Justera om:** kommunerna knappt använder möjligheterna att avvika från reglerna; då är detaljregler kanske inte det största hindret.
+- **Fortsätt om:** utfallen är minst lika goda som i jämförelsekommunerna, och kommunerna kan visa exempel på insatser som inte hade varit möjliga annars.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

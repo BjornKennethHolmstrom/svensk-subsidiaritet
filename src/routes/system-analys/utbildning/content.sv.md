@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Utbildning: vem bestämmer över skolan?
 
 ## Ett skolsystem som redan är ovanligt decentraliserat
@@ -28,17 +32,43 @@ Svensk skola kan sägas ha försökt båda samtidigt: stor frihet för huvudmän
 - **Lärarförsörjning.** Det råder brist på behöriga lärare i många ämnen och delar av landet.
 - **Samverkan med det omgivande samhället.** Skolan har ofta svaga kontakter med arbetsliv, föreningsliv och kulturliv, särskilt utanför yrkesprogrammen.
 
+<Kunskapslage status="nuvarande">
+
+### Det här vet vi
+
+- Skolan kommunaliserades 1991, och friskolereformen infördes 1992.
+- I PISA 2022 presterade svenska elever över OECD-genomsnittet i läsförståelse, matematik och naturvetenskap, även om resultaten i matematik och läsförståelse försämrades jämfört med 2018.
+- Enligt Skolverket har likvärdigheten försämrats och är sämre än i övriga Norden.
+- Den statliga utredningen *Statens ansvar för skolan* (SOU 2022:53) presenterade två alternativ: ett förstatligande och ett förstärkt statligt ansvar utan förstatligande.
+
+### Det här antar vi
+
+- Att den decentraliserade styrningen, med kommunala och fristående huvudmän, har bidragit till att likvärdigheten försämrats. Det är ett vanligt argument i debatten, men hur stor del av försämringen som beror på styrningen, och hur stor del som beror på till exempel boendesegregation och migration, är omstritt.
+- Att lärarnas professionella handlingsutrymme förbättrar undervisningen. Förslagen på den här sidan bygger på det antagandet.
+
+### Det här vet vi inte
+
+- Vad som förklarar försämringen av likvärdigheten, och hur mycket varje faktor betyder.
+- Om ett förstatligande skulle förbättra likvärdigheten, eller främst flytta problemen till en annan nivå.
+- Hur stor betygsinflationen är i dag, och hur den skiljer sig mellan huvudmän.
+
+### Vad som skulle ändra bilden
+
+- Om analyser visar att försämringen av likvärdigheten främst förklaras av boendesegregation och elevsammansättning, snarare än av styrningen, försvagas både argumenten för förstatligande och för mer lokal frihet.
+- Om jämförelser mellan huvudmän visar stora skillnader i elevernas kunskapsutveckling även när elevernas bakgrund räknats bort, talar det för starkare nationella golv.
+
+</Kunskapslage>
+
 ## Subsidiaritetsbaserade förslag
 
 Förslagen är idéer att pröva i begränsade piloter med utvärdering. Varje förslag har en egen sida.
 
 | Förslag | Kort beskrivning |
 |--------|------------------|
-| [Läranderingar](./laranderingar) | Återkommande projekt där elever arbetar tillsammans med yrkespersoner och andra kunniga från lokalsamhället, under ledning av lärare. |
+| [Läranderingar](./laranderingar) | Återkommande projekt där elever arbetar tillsammans med yrkespersoner och andra kunniga från lokalsamhället, under ledning av lärare, och en lokal förmedling som hjälper skolor att hitta dem. |
 | [Lokala profiler i undervisningen](./kommunal-laroplansautonomi) | Ett försök där skolor och kommuner får större utrymme att koppla delar av undervisningen till lokala förhållanden, inom ramen för nationella kunskapskrav. |
 | [Portföljer som bedömningsunderlag](./portfoljbaserad-bedomning) | Elevportföljer som komplement till prov, som underlag för lärarens betygssättning och i det alternativa urvalet till högskolan. |
 | [Lärarkooperativ](./lararkooperativ) | Lärare som tillsammans driver en skola som ekonomisk förening, inom ramen för skollagens regler för fristående skolor. |
-| [Kompetensbanker](./kompetensbanker) | En lokal förmedling av gästinsatser från yrkespersoner och andra kunniga, som komplement till lärarnas undervisning. |
 
 ## Invändningar
 

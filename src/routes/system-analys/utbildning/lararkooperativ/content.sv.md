@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Lärarkooperativ
 
 [← Tillbaka till huvudartikeln](..)
@@ -25,6 +29,20 @@ Att lärare driver en skola som kooperativ är alltså redan möjligt. Förslage
 - **Finansiering:** skolpeng, som för andra fristående skolor.
 - **Överskott:** återinvesteras i verksamheten.
 - **Kollektivavtal:** kooperativet kan teckna kollektivavtal, och lärarna kan vara medlemmar i facket, till exempel Sveriges Lärare.
+
+<Kunskapslage status="pilot">
+
+**Det här vet vi:** Fristående skolor kan redan i dag drivas som ekonomiska föreningar.
+
+**Viktigaste antagandet:** Att lärare som själva driver sin skola får bättre arbetsmiljö och lägre personalomsättning, och att det gynnar eleverna.
+
+**Det här vet vi inte:** Hur fler huvudmän påverkar likvärdigheten i ett system där den redan har försämrats.
+
+- **Avbryt om:** kooperativen oftare än andra skolor får allvarlig kritik vid Skolinspektionens tillsyn, eller hamnar i ekonomiska problem som drabbar eleverna.
+- **Justera om:** lärarnas arbetsmiljö förbättras men elevernas resultat inte förändras.
+- **Fortsätt om:** personalomsättningen är lägre än i jämförbara skolor och elevernas resultat och trivsel är minst lika goda.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

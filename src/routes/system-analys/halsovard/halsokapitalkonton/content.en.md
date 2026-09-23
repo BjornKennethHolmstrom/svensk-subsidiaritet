@@ -21,6 +21,14 @@ Preventive interventions have difficulty finding space in healthcare. At the sam
 
 Experience from similar support suggests that those who already have good habits and good health often use such money most, while those with the greatest need use it least. A universal account can therefore increase health inequalities instead of reducing them. The trial should therefore compare two variants: one in which everyone receives the same amount, and one in which the amount is higher for groups with poorer health or lower income, or in which support is provided via health guides who help people use the money.
 
+**What we know:** The proposal requires a special decision on pilot activity and probably amended tax rules, and is therefore exploratory.
+
+**Most important assumption:** That a personal pot for preventive interventions is used by those with the greatest need, and not primarily by those who already have good habits.
+
+- **Stop if:** the money in the universal variant is used almost only by groups with already good health, and the targeted variant does not reach better.
+- **Adjust if:** the targeted variant or the variant with support from health guides reaches clearly better; then the universal variant should be abandoned.
+- **Continue if:** use is broad also among groups with poorer health, and lifestyle habits or self-rated health improve compared with the comparison group.
+
 ## Pilot proposal
 
 **Scope:** One or two defined areas with different conditions, for example a smaller municipality and a city district, over three to four years, with a comparison group.

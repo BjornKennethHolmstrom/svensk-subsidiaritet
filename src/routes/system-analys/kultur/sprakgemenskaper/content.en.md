@@ -37,6 +37,14 @@ An earlier proposal on this page was that each large language group should have 
 
 Therefore, advisory groups and a decision by an authority are proposed here, instead of independent councils.
 
+**What we know:** The national minority languages already have special support, and public libraries must pay particular attention to people with a mother tongue other than Swedish.
+
+**Most important assumption:** That cultural creators in languages other than Swedish today find it harder to obtain support, and that advisory groups with language knowledge make the assessment better.
+
+- **Stop if:** the advisory groups are dominated by certain groups within a language community in a way that the authority cannot counteract.
+- **Adjust if:** the support mainly goes to a few languages; then information to other language communities may need to be improved.
+- **Continue if:** the support reaches cultural creators in several languages, and the translation support leads to works reaching new readers and listeners.
+
 ## Pilot proposal
 
 **Scope:** Support of, for example, SEK 10–20 million per year for three years, for example at the Swedish Arts Council or in one or two regions.

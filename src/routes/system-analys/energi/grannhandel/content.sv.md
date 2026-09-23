@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Energidelning mellan grannar
 
 [← Tillbaka till huvudartikeln](..)
@@ -21,6 +25,18 @@ Tidigare versioner av den här sidan föreslog ett eget undantag i ellagen för 
 - **Delningsavtal** mellan dem som producerar och dem som använder elen, enligt de nya reglerna.
 - **Mätning och fakturering** via befintliga elmätare och nätbolagets system.
 - **Uppföljning** av hur mycket el som delas, vad det betyder ekonomiskt för deltagarna och hur det påverkar det lokala nätet.
+
+<Kunskapslage status="pilot">
+
+**Det här vet vi:** Skattereduktionen för mikroproduktion slopades från januari 2026, och regeringen har lagt fram förslag till regler om energidelning. Hur reglerna utformas i detalj avgör hur lönsam delning blir.
+
+**Viktigaste antagandet:** Att energidelning gör lokal produktion tillgänglig för fler, till exempel hyresgäster och andra utan eget tak, och inte bara för dem som redan har solceller.
+
+- **Avbryt om:** delningen i praktiken nästan bara sker mellan hushåll som redan har god ekonomi, samtidigt som nätkostnaderna förs över på andra kunder.
+- **Justera om:** få deltar på grund av administrationen kring mätning och avtal.
+- **Fortsätt om:** deltagandet är brett, även bland dem utan egen produktion, och effekterna på nätet är hanterbara.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

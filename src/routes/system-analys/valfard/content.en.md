@@ -31,6 +31,32 @@ Both have costs. More room for assessment gives better adaptation, but also a gr
 - **Targeted central government grants.** Municipalities receive many temporary central government grants with their own conditions and reporting requirements, which makes it harder to plan long-term and adapt interventions locally.
 - **Preventive interventions that no one owns.** An intervention that reduces future costs for several actors, for example social services, healthcare and the police, is difficult to finance when each actor has its own budget.
 
+### What we know
+
+- In 2024, Sweden spent just under 28 percent of GDP on social protection, just over SEK 1,770 billion, according to SCB. France and Finland are higher.
+- The social insurance schemes are national and administered by the Swedish Social Insurance Agency. Social services and care are municipal and are based to a greater extent on individual assessment.
+- The government has estimated that SEK 15–20 billion a year is paid out incorrectly from the welfare systems, of which about half is suspected to be intentional.
+- The Swedish Social Insurance Agency took a machine-learning-based risk profile for control of temporary parental benefit out of use after the Swedish Authority for Privacy Protection initiated supervision in 2025.
+- Since July 2025, the Social Services Act gives greater scope for preventive work and for interventions without an individual needs assessment.
+- Psychiatric diagnoses are the most common cause of ongoing sickness cases, according to the Swedish Social Insurance Agency.
+
+### What we assume
+
+- That the many targeted central government grants make it harder for municipalities to plan long-term and adapt interventions locally. This is a common criticism, but it has not been measured on this page.
+- That more room for assessment gives better adaptation but also greater differences between case officers. Both parts are reasonable, but the trade-off between them is not established.
+- That preventive interventions can reduce future costs for several actors. The proposal on social investment funds is based on that.
+
+### What we do not know
+
+- How large the incorrect payments actually are. The figure is an estimate.
+- Whether the expanded controls reduce incorrect payments in proportion to what they cost, and who is affected by them.
+- How municipalities use the possibility to offer interventions without a needs assessment, and whether it reaches the right people.
+
+### What would change the picture
+
+- If evaluations show that risk-based controls reduce incorrect payments substantially, at low cost and without certain groups being affected unreasonably, the argument for more control is strengthened.
+- If follow-ups of the new Social Services Act show that interventions without a needs assessment reach those who need them, the argument for more trust and local scope is strengthened.
+
 ## Subsidiarity-based proposals
 
 The proposals are ideas to test in limited pilots with evaluation. Each proposal has its own page.

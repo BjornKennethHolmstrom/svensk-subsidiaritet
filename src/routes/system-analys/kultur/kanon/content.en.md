@@ -27,6 +27,14 @@ The curricula already contain wording about cultural heritage, and about the cul
 
 The work applies to all pupils, regardless of background. A pupil whose family has lived in the same place for generations has just as much to discover as a pupil whose parents come from another country.
 
+**What we know:** A state committee presented in 2025 a proposal for a Swedish cultural canon (SOU 2025:92). The proposal has been criticised, among others by representatives of the national minorities.
+
+**Most important assumption:** That pupils who explore both a shared cultural heritage and traditions in their own local environment learn more and experience their background being taken seriously.
+
+- **Stop if:** families in the follow-up describe the work with interviews as intrusive, and this cannot be corrected with other sources.
+- **Adjust if:** pupils engage but their knowledge in history and Swedish does not change.
+- **Continue if:** pupils’ engagement and knowledge are at least as good as in comparable classes, and both pupils with Swedish and foreign backgrounds describe the work as meaningful.
+
 ## Pilot proposal
 
 **Scope:** Ten schools in different municipalities over three years, in cooperation with libraries, museums and local heritage associations.

@@ -28,6 +28,12 @@ Many people living with long-term illness or loneliness need more than healthcar
 
 **An important boundary:** Changes in medication, diet for diabetes or treatment of pain must always be made in consultation with healthcare. The groups complement treatment but do not replace it.
 
+**Most important assumption:** That peer support in groups improves well-being for people with long-term illness or loneliness, as a complement to healthcare.
+
+- **Stop if:** participants change medication or treatment based on advice in the group without contact with healthcare, and the routines cannot prevent it.
+- **Adjust if:** few of those referred by the health centre start participating.
+- **Continue if:** participants report better well-being and more social support than the comparison group, without more unplanned healthcare contacts.
+
 ## Pilot proposal
 
 **Scope:** Three municipalities of different types over three years, with groups in at least two areas per municipality, in cooperation with study associations, patient associations and health centres.

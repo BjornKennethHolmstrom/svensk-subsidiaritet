@@ -36,6 +36,34 @@ Under the Instrument of Government, decision-making power in municipalities is e
 
 The proposal is based on the first path, which can be tested today.
 
+### What we know
+
+- Since 2023, municipalities have a statutory responsibility to produce a situational picture and an action plan for crime prevention work. The law does not say how residents should be involved.
+- Under the Instrument of Government, decision-making power in municipalities is exercised by elected assemblies. A vote among residents therefore cannot formally bind the municipality.
+- Participatory budgeting has been used since the late 1980s, first in Porto Alegre, Brazil, and later in, among other places, Paris and New York.
+
+### What we assume
+
+- That residents’ knowledge of where insecurity arises leads to better choices of measures.
+- That participation in itself increases confidence that the municipality is listening.
+- That the municipal council keeps its political commitment to implement the result, even though it is not binding.
+
+### What we do not know
+
+- **How the whole behaves.** Dedicated money, a vote and follow-up by residents can together create a sense of ownership that none of the parts provides alone. But the combination can also disadvantage preventive interventions, which produce effects only in the long term, in favour of visible measures such as lighting and cameras. And if the municipality says no to a proposal that received the most votes, confidence can end up lower than before.
+- Who participates. Participation in participatory budgeting can be skewed, and it is not known how it would look in Swedish areas with high insecurity.
+
+### How we would test it
+
+- **Test:** five to ten municipalities over three years, with one to three areas each.
+- **Stop if:** the municipality repeatedly does not implement the proposals that received the most votes; or if participation is dominated by a narrow group despite targeted outreach work.
+- **Adjust if:** participation is low, or if the funds are not used within the budget year.
+- **Continue if:** participation is broad compared with ordinary municipal consultations, the measures are implemented, and confidence in the municipality develops better than in the comparison areas.
+
+A more far-reaching variant, in which residents’ decisions are binding, would require an amendment to the Instrument of Government. It is not described here.
+
+The threshold values are to be determined before the pilot starts and not changed afterwards.
+
 ## Pilot proposal
 
 **Scope:** 20 municipalities of different sizes, with one to three areas each, over three years.

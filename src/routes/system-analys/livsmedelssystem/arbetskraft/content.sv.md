@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Arbetskraft, mark och kompetens
 
 [← Tillbaka till huvudartikeln](..)
@@ -31,6 +35,16 @@ En enklare matchning mellan gårdar och personer som vill arbeta under kortare p
 ### Delade maskiner
 
 Stöd till maskinringar och kooperativ, där flera gårdar delar på maskiner, inklusive mindre och nyare redskap.
+
+<Kunskapslage status="pilot">
+
+**Viktigaste antagandet:** Att tillgång till mark och en längre lärlingsperiod är de viktigaste hindren för den som vill börja med jordbruk.
+
+- **Avbryt om:** de flesta som startar med stöd av arrenden och lärlingsplatser har lagt ned inom några år, oftare än andra nystartade jordbruk.
+- **Justera om:** få söker trots stödet; då ligger hindren sannolikt i lönsamheten snarare än i tillgången till mark och kunskap.
+- **Fortsätt om:** fler startar eller tar över jordbruk, och verksamheterna finns kvar efter några år i minst samma utsträckning som andra.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

@@ -25,6 +25,12 @@ The cooperative form is no guarantee that an operation remains small-scale or lo
 
 Earlier versions of this page proposed that municipalities should require suppliers to use the platform and that “local” should be defined in law for procurements. That is not compatible with the procurement rules, which prohibit suppliers being favoured because of where they are located. The platform should instead be built for direct sales to households and for coordination between producers.
 
+**Most important assumption:** That an open platform owned by producers and buyers can replace the dependence on commercial platforms without becoming too cumbersome to use.
+
+- **Stop if:** the REKO rings’ administrators and producers after one year prefer the platforms they used before.
+- **Adjust if:** the platform is used but cannot cover its own costs after the pilot.
+- **Continue if:** the administration for the rings decreases, use grows and the operation can be financed by the users.
+
 ## Pilot proposal
 
 **Scope:** Development of an open platform, and pilot operation together with some REKO rings and producer groups in different parts of the country over two years.

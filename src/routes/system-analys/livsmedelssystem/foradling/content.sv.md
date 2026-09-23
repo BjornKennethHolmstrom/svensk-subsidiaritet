@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Förädling nära produktionen
 
 [← Tillbaka till huvudartikeln](..)
@@ -19,6 +23,18 @@ Tidigare versioner av den här sidan påstod att Sverige har noll mobila slakter
 1. **Tydligare vägledning** från Livsmedelsverket om hur hygienreglerna kan tillämpas i små och mobila anläggningar, till exempel kvarnar, gårdsmejerier och syrningsanläggningar.
 2. **Stöd till gemensamma anläggningar**, där flera producenter delar på en kvarn, ett slakteri eller en förädlingslokal, till exempel genom investeringsstöd inom jordbrukspolitiken.
 3. **Samordnad kontroll**, där kontrollmyndigheterna har kompetens om småskalig förädling och kan ge besked inom rimlig tid.
+
+<Kunskapslage status="pilot">
+
+**Det här vet vi:** Gårdsslakt är möjlig sedan en ändring i EU:s regler, och mobila slakterier används redan, bland annat vid renslakt.
+
+**Viktigaste antagandet:** Att gemensamma, mindre förädlingsanläggningar gör det möjligt för småskaliga producenter att förädla och sälja lönsamt.
+
+- **Avbryt om:** livsmedelssäkerheten brister i anläggningarna trots kontroller.
+- **Justera om:** anläggningarna används av få producenter; då kan avstånd, avgifter eller öppettider behöva ändras.
+- **Fortsätt om:** flera producenter använder anläggningarna regelbundet, livsmedelssäkerheten upprätthålls och verksamheten kan bära sina kostnader.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

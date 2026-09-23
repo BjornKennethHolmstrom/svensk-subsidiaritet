@@ -32,6 +32,12 @@ Simpler matching between farms and people who want to work for shorter periods, 
 
 Support for machinery rings and cooperatives, where several farms share machinery, including smaller and newer equipment.
 
+**Most important assumption:** That access to land and a longer apprenticeship period are the most important obstacles for those who want to start farming.
+
+- **Stop if:** most of those who start with support from leases and apprenticeship places have closed down within a few years, more often than other newly started farms.
+- **Adjust if:** few apply despite the support; then the obstacles are probably in profitability rather than in access to land and knowledge.
+- **Continue if:** more people start or take over farms, and the operations remain after a few years to at least the same extent as others.
+
 ## Pilot proposal
 
 **Scope:** A few municipalities and regions testing leases and apprenticeship places over three to five years, in cooperation with agricultural organisations and education providers.

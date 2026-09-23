@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Språkgemenskaper
 
 [← Tillbaka till huvudartikeln](..)
@@ -36,6 +40,18 @@ Ett tidigare förslag på den här sidan var att varje stor språkgrupp skulle h
 - **Språkgemenskaper är inte enhetliga.** Samma språk talas av människor med olika ursprung, religion och politiska uppfattningar. Ett valt råd riskerar att domineras av vissa grupper.
 
 Därför föreslås här rådgivande grupper och ett beslut hos en myndighet, i stället för självständiga råd.
+
+<Kunskapslage status="pilot">
+
+**Det här vet vi:** De nationella minoritetsspråken har redan särskilt stöd, och folkbiblioteken ska ägna särskild uppmärksamhet åt personer med annat modersmål än svenska.
+
+**Viktigaste antagandet:** Att kulturskapare på andra språk än svenska i dag har svårare att få stöd, och att rådgivande grupper med språkkunskap gör bedömningen bättre.
+
+- **Avbryt om:** de rådgivande grupperna domineras av vissa grupper inom en språkgemenskap på ett sätt som myndigheten inte kan motverka.
+- **Justera om:** stödet främst går till ett fåtal språk; då kan informationen till andra språkgemenskaper behöva förbättras.
+- **Fortsätt om:** stödet når kulturskapare på flera språk, och översättningsstödet leder till att verk når nya läsare och lyssnare.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

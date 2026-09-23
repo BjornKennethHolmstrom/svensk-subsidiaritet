@@ -25,6 +25,14 @@ A Welfare Ring is a voluntary network that:
 - a small start-up grant for room rent and materials
 - as a possible option: a small remuneration to active participants, for example in the form of a tax deduction
 
+**Most important assumption:** That neighbourhood networks detect needs earlier than healthcare and social services, and that this leads to earlier contact with them.
+
+**What we do not know:** Whether remuneration to participants improves or worsens the rings. The pilot should therefore be tested both with and without remuneration.
+
+- **Stop if:** the municipality reduces needs-assessed interventions with reference to the rings; or if participants in the follow-up describe the rings as surveillance of neighbours.
+- **Adjust if:** the rings mainly reach households that already have strong networks.
+- **Continue if:** self-rated loneliness decreases and more people receive early contact with social services or healthcare than in the comparison areas.
+
 ## Pilot proposal
 
 **Scope:** Around one hundred rings in five to ten municipalities over three years, in different types of areas: rural areas, suburbs and areas with many older people living alone.

@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Hälsoringar
 
 [← Tillbaka till huvudartikeln](..)
@@ -27,6 +31,16 @@ Många som lever med långvarig sjukdom eller ensamhet behöver mer än det vår
 | Långvarig smärta | Personer med långvarig smärta | Erfarenhetsutbyte och anpassad rörelse, i samverkan med vårdens rehabilitering |
 
 **En viktig gräns:** Förändringar i läkemedel, kost vid diabetes eller behandling av smärta ska alltid ske i samråd med vården. Grupperna kompletterar behandlingen men ersätter den inte.
+
+<Kunskapslage status="pilot">
+
+**Viktigaste antagandet:** Att kamratstöd i grupp förbättrar välbefinnandet för personer med långvarig sjukdom eller ensamhet, som komplement till vården.
+
+- **Avbryt om:** deltagare ändrar läkemedel eller behandling utifrån råd i gruppen utan kontakt med vården, och rutinerna inte kan förhindra det.
+- **Justera om:** få av dem som vårdcentralen hänvisar börjar delta.
+- **Fortsätt om:** deltagarna rapporterar bättre välbefinnande och mer socialt stöd än jämförelsegruppen, utan fler oplanerade vårdkontakter.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

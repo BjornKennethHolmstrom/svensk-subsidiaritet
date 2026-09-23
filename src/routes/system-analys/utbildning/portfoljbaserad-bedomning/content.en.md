@@ -25,6 +25,14 @@ Written tests are an effective way to assess certain knowledge, but capture less
 
 **To higher education:** Some higher education institutions are testing portfolios as a selection basis within the alternative selection for selected programmes, and are following up how admitted students manage their studies.
 
+**What we know:** Under the Education Act, grades are set by certified teachers, who already today may use all available information about the pupil’s knowledge. Higher education institutions can admit some students through alternative selection.
+
+**Most important assumption:** That portfolios give the teacher a better basis for assessing abilities that tests capture poorly, without making assessment less equivalent.
+
+- **Stop if:** co-assessment shows that teachers assess the same portfolios very differently and that this cannot be corrected.
+- **Adjust if:** assessment is equivalent but takes an unreasonable amount of time.
+- **Continue if:** assessment is as equivalent as other grading, and pupils demonstrate abilities that do not emerge from the tests.
+
 ## Pilot proposal
 
 **Scope:** Ten schools and two or three higher education institutions over four years.

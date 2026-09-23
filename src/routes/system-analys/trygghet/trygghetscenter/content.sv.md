@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Trygghetscenter
 
 [← Tillbaka till huvudartikeln](..)
@@ -27,6 +31,36 @@ Ett trygghetscenter är ett sätt att samla de verksamheterna fysiskt, så att d
 - socialtjänst på plats vissa dagar
 - en samordnare som känner till områdets resurser och kan lotsa vidare
 - ett rum som föreningar, grannsamverkan och trygghetsringar kan boka
+
+<Kunskapslage status="pilot">
+
+### Det här vet vi
+
+- Målet med polisreformen 2015 om en polis närmare medborgarna har inte nåtts, enligt Statskontorets utvärderingar.
+- Andelen med stort förtroende för polisen ökade från 50 procent 2015 till 62 procent 2025, enligt Brås NTU.
+- Polisens lägesbild 2025 omfattar 65 utsatta områden, varav 19 särskilt utsatta.
+
+### Det här antar vi
+
+- Att samlokalisering sänker tröskeln för boende att söka hjälp och lämna information.
+- Att det blir lättare för polis, socialtjänst och fritidsverksamhet att samverka om de finns under samma tak.
+- Att boende kommer att använda centret trots att polisen finns där.
+
+### Det här vet vi inte
+
+- **Hur helheten beter sig.** Polis, socialtjänst och ungdomsverksamhet på samma plats kan skapa ett förtroende som ingen av dem får på egen hand. Men kombinationen kan också skada socialtjänsten: om boende uppfattar socialtjänsten och polisen som samma sak kan de undvika att söka stöd. Ett synligt center kan också bli ett mål för hot eller skadegörelse.
+- Om sekretessreglerna i praktiken gör samverkan på plats svårare än väntat.
+
+### Så skulle vi pröva det
+
+- **Test:** tre till fem center under tre år, med jämförelseområden.
+- **Avbryt om:** de frivilliga kontakterna med socialtjänsten minskar i försöksområdena jämfört med jämförelseområdena, vilket kan tyda på att samlokaliseringen skadar förtroendet för socialtjänsten; eller om allvarliga säkerhetsincidenter upprepas.
+- **Justera om:** centret nästan bara används för ärenden hos polisen; eller om personalen i uppföljningen beskriver samverkan som oförändrad.
+- **Fortsätt om:** centret används brett av boende i olika åldrar, förtroendet för polis och kommun utvecklas bättre än i jämförelseområdena, och personalen bedömer att samverkan har förbättrats.
+
+Tröskelvärdena ska bestämmas innan piloten startar och inte ändras i efterhand.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

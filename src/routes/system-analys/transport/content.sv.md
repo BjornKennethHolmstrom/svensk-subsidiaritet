@@ -1,3 +1,11 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Transport: vem planerar vad, och för vem?
 
 ## Ansvaret är redan fördelat på flera nivåer
@@ -36,6 +44,34 @@ Resbehoven varierar mycket: efter ålder, plats, inkomst, förmåga och tid på 
 
 Subsidiaritet handlar här inte om att ta ansvar från staten, utan om att se till att varje nivå har verktyg och resurser för sin del.
 
+<Kunskapslage status="nuvarande">
+
+### Det här vet vi
+
+- Regeringen beslutar om den nationella planen för transportinfrastrukturen, som Trafikverket tar fram. Regionerna beslutar om regionala planer och ansvarar för den regionala kollektivtrafiken. Kommunerna ansvarar för gator, parkering och fysisk planering.
+- Järnvägen står för ett större persontransportarbete än busstrafiken, enligt Trafikanalys.
+- Ostlänken mellan Järna och Linköping har en bedömd kostnad på 102,8 miljarder kronor i 2025 års prisnivå, med de första tågen beräknade till 2035.
+- Av Västsvenska paketets 34 miljarder kronor i 2009 års prisnivå skulle 14 miljarder komma från trängselskatten i Göteborg. Paketets största projekt är järnvägstunneln Västlänken.
+
+### Det här antar vi
+
+- Att bristande tillgänglighet på landsbygden delvis beror på hur den regionala kollektivtrafiken planeras, och att kommuner och boende med större inflytande skulle kunna hitta bättre lösningar.
+- Att delad mobilitet i bostadsområden minskar hushållens behov av egen bil.
+- Att lägre krav på parkeringsplatser vid nybyggnation minskar bilanvändningen.
+
+### Det här vet vi inte
+
+- Hur de samhällsekonomiska kalkylerna, som används för att prioritera investeringar, påverkar fördelningen mellan stad och landsbygd.
+- Hur mycket andelen barn som går eller cyklar till skolan har förändrats, och varför. Studierna ger olika svar.
+- Om anropsstyrd trafik är ett kostnadseffektivt alternativ på den svenska landsbygden.
+
+### Vad som skulle ändra bilden
+
+- Om utvärderingar av anropsstyrd trafik visar hög kostnad per resa och lågt resande, försvagas förslaget om flexibel kollektivtrafik på landsbygden.
+- Om bostadsområden med flexibla parkeringstal och delad mobilitet inte har lägre bilinnehav än jämförbara områden, försvagas antagandet om delad mobilitet.
+
+</Kunskapslage>
+
 ## Subsidiaritetsbaserade förslag
 
 Förslagen är idéer att pröva i begränsade piloter med utvärdering.
@@ -44,21 +80,78 @@ Förslagen är idéer att pröva i begränsade piloter med utvärdering.
 
 Bostadsbolag, bostadsrättsföreningar eller föreningar av boende får startstöd för delade elcyklar, lådcyklar och bilpooler. Kommunerna kan koppla det till lägre krav på parkeringsplatser vid nybyggnation, så kallade flexibla parkeringstal. Utvärdering: användning, bilinnehav och kostnader för hushållen.
 
+
+<Kunskapslage status="pilot">
+
+**Viktigaste antagandet:** Att tillgång till delade cyklar och bilpooler gör att hushåll avstår från att äga egen bil.
+
+- **Avbryt om:** lägre krav på parkeringsplatser främst leder till att bilar parkeras på gator i närområdet.
+- **Justera om:** tjänsterna används lite; då kan utbudet eller priset behöva ändras.
+- **Fortsätt om:** bilinnehavet är lägre än i jämförbara bostadsområden och tjänsterna används regelbundet.
+
+</Kunskapslage>
+
 ### Säkra skolvägar
 
 Kommuner kartlägger skolvägar tillsammans med elever och föräldrar och åtgärdar farliga passager. Föräldrar kan organisera så kallade gående skolbussar. Skolskjutsen påverkas inte: den är en rättighet för elever med långa avstånd, funktionsnedsättning eller trafikfarliga skolvägar, och ska inte förväxlas med att föräldrar skjutsar sina barn.
+
+
+<Kunskapslage status="pilot">
+
+**Viktigaste antagandet:** Att säkrare skolvägar gör att fler barn går eller cyklar till skolan.
+
+- **Avbryt om:** olyckorna med barn på väg till skolan ökar.
+- **Justera om:** skolvägarna blir säkrare men andelen som går och cyklar inte förändras; då beror valet av färdsätt på annat.
+- **Fortsätt om:** fler barn går eller cyklar, utan att olyckorna ökar.
+
+</Kunskapslage>
 
 ### Flexibel kollektivtrafik på landsbygden
 
 Regioner och kommuner prövar anropsstyrd trafik, samordning av skolskjuts, färdtjänst och linjetrafik, samt samåkning med stöd av digitala tjänster. Utvärdering: tillgänglighet för dem utan bil, kostnad per resa och nöjdhet.
 
+
+<Kunskapslage status="pilot">
+
+**Viktigaste antagandet:** Att samordning av skolskjuts, färdtjänst och linjetrafik ger bättre tillgänglighet till samma eller lägre kostnad.
+
+**Det här vet vi inte:** Hur samordningen påverkar dem som i dag har färdtjänst eller skolskjuts.
+
+- **Avbryt om:** de som reser med färdtjänst får klart sämre service, till exempel längre restider eller mindre flexibilitet.
+- **Justera om:** kostnaden per resa blir hög och resandet lågt.
+- **Fortsätt om:** tillgängligheten för dem utan bil förbättras till oförändrad eller lägre kostnad.
+
+</Kunskapslage>
+
 ### Större lokalt inflytande över regional kollektivtrafik
 
 Kommuner och boende får en tydligare roll i hur den regionala kollektivtrafiken planeras i deras område, till exempel genom lokala trafikråd som regionen samråder med inför trafikförändringar.
 
+
+<Kunskapslage status="pilot">
+
+**Viktigaste antagandet:** Att samråd med lokala trafikråd leder till bättre trafikförändringar, och inte bara till samråd för formens skull.
+
+- **Avbryt om:** regionen upprepade gånger genomför förändringar utan att ta hänsyn till rådens synpunkter.
+- **Justera om:** råden upplever att de inte har något inflytande.
+- **Fortsätt om:** trafikförändringarna blir bättre förankrade och synpunkterna efter genomförandet färre.
+
+</Kunskapslage>
+
 ### Mobilitetspunkter
 
 En del av parkeringsytorna i tätorter görs om till platser med laddning, bilpool, cykelparkering, uthyrning och paketskåp.
+
+
+<Kunskapslage status="pilot">
+
+**Viktigaste antagandet:** Att det minskar bilanvändningen att göra om parkeringsytor till platser för laddning, bilpool och cyklar.
+
+- **Avbryt om:** omvandlingen främst flyttar parkeringen till andra gator.
+- **Justera om:** platserna används lite.
+- **Fortsätt om:** platserna används regelbundet och bilanvändningen i området minskar.
+
+</Kunskapslage>
 
 ## Invändningar
 

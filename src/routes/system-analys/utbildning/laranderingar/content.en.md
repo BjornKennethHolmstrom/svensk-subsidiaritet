@@ -25,9 +25,23 @@ Many pupils rarely encounter the knowledge that exists in working life and assoc
 - **The teacher** plans, leads and links the project to the goals of the syllabus, and is responsible for assessment.
 - **The pupils document** their work, which can be used as a basis for the teacher’s assessment.
 
+## A local brokerage
+
+Schools already invite guest lecturers, but often through personal contacts. Schools in areas with weak networks may find it harder to find people to invite. A broker in the municipality or region can therefore gather expressions of interest from professionals, pensioners and other knowledgeable people, check references, ensure that a criminal record check is carried out and help schools find the right person, both for single guest contributions and for Learning Rings.
+
+Guest contributions from people without teacher certification are permitted as a complement to the teacher’s teaching. Grades, however, may only be set by certified teachers.
+
+**What we know:** Guest contributions from people without teacher certification are permitted as a complement to the teacher’s teaching, and Skapande skola already gives schools the opportunity to cooperate with cultural creators.
+
+**Most important assumption:** That recurring projects with knowledgeable people from the local community increase pupils’ motivation and make teaching more comprehensible, without taking time from the goals of the syllabus.
+
+- **Stop if:** pupils’ results in the subjects to which the projects are linked become worse than in the comparison group.
+- **Adjust if:** pupils are motivated but teachers’ workload increases sharply; then the broker needs to take a larger share of the planning.
+- **Continue if:** motivation and attendance increase, results are at least as good as in the comparison group, and schools without their own networks use the brokerage.
+
 ## Pilot proposal
 
-**Scope:** Around fifty Learning Rings in 10–20 municipalities of different types over three years.
+**Scope:** Around fifty Learning Rings in 10–20 municipalities of different types over three years, with a half-time broker in each participating municipality or region.
 
 **Evaluation:** pupils’ motivation and attendance, their knowledge in the subjects to which the projects are linked compared with a comparison group, teachers’ workload and how cooperation with the local community develops.
 
@@ -38,6 +52,8 @@ Many pupils rarely encounter the knowledge that exists in working life and assoc
 | Fee to knowledgeable people | approx. SEK 10,000 |
 | Materials | approx. SEK 3,000 |
 | Teacher’s planning time | approx. SEK 5,000 |
+
+The broker costs an additional approx. SEK 0.3 million per municipality or region and year.
 
 ## Legal and practical issues
 
@@ -66,7 +82,8 @@ Many pupils rarely encounter the knowledge that exists in working life and assoc
 
 - Act (2000:873) on register control (criminal record for school staff)
 - Swedish Arts Council, Skapande skola
+- Education Act (2010:800), Chapter 3 on grades
 
-*The page was revised in September 2026 after a fact check.*
+*The page was revised in September 2026 after a fact check. The proposal on competence banks, which previously had its own page, is now included here.*
 
 [← Back to the main article](..)

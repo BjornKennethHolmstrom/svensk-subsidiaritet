@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Lokal flexibilitet
 
 [← Tillbaka till huvudartikeln](..)
@@ -22,6 +26,18 @@ Elnäten dimensioneras för de timmar då belastningen är som högst, ofta kall
 - **Tjänsten** styr utrustningen när nätbolaget eller marknaden signalerar hög belastning.
 - **Ersättningen** fördelas till deltagarna.
 - **Utrustning som påverkar säkerhet eller hälsa**, till exempel frysar eller medicinsk utrustning, styrs aldrig.
+
+<Kunskapslage status="pilot">
+
+**Viktigaste antagandet:** Att tillräckligt många hushåll är villiga att låta sin utrustning styras för att det ska göra skillnad för nätets belastning.
+
+**Det här vet vi inte:** Hur nätbolagens regler för intäkter påverkar om det lönar sig för dem att köpa flexibilitet.
+
+- **Avbryt om:** deltagarna i betydande utsträckning avbryter på grund av försämrad komfort eller integritetsproblem.
+- **Justera om:** flexibiliteten finns men kostar mer per kilowatt än att förstärka nätet.
+- **Fortsätt om:** den flyttade effekten är tillräcklig för att skjuta upp nätförstärkningar, till en lägre kostnad än förstärkningen.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

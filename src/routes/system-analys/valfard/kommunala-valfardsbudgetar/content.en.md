@@ -30,6 +30,16 @@ The social insurance schemes, such as sickness benefit and parental benefit, are
 | Area with high unemployment among young people | Coordinated interventions from social services, the employment unit and associational life |
 | Municipality with many long-term social assistance recipients | Longer decision periods and strengthened employment incentives |
 
+**What we know:** A pilot activity with exemptions from the Social Services Act requires special legislation, and the proposal is therefore exploratory. Sweden has a precedent in the free municipality experiment in the 1980s.
+
+**Most important assumption:** That fewer targeted central government grants and the opportunity to deviate from certain detailed regulations mean that municipalities adapt interventions better to local needs, without the most vulnerable being worse off.
+
+**What we do not know:** How the free municipality experiment was evaluated and what it led to. This should be reviewed before the proposal is pursued further.
+
+- **Stop if:** the outcomes for the most vulnerable groups, for example children in families receiving social assistance, deteriorate in the pilot municipalities compared with similar municipalities.
+- **Adjust if:** the municipalities hardly use the opportunities to deviate from the rules; then detailed regulations may not be the biggest obstacle.
+- **Continue if:** the outcomes are at least as good as in the comparison municipalities, and the municipalities can show examples of interventions that would not have been possible otherwise.
+
 ## Pilot proposal
 
 **Scope:** 10–20 municipalities of different sizes and types over four to six years, following application.

@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Trygghetsringar
 
 [← Tillbaka till huvudartikeln](..)
@@ -36,6 +40,35 @@ En trygghetsring är ett frivilligt nätverk av hushåll i samma kvarter eller b
 | Fokus | Främst inbrott och skadegörelse | Även oro kring unga, konflikter och rekrytering |
 | Arbetssätt | Information, uppmärksamhet, kontakt med polisen | Därtill gemensamma aktiviteter och tidig varning |
 | Koppling | Polisen och Samverkan mot brott | Därtill kommunens samordnare och samhällsmedlare |
+
+<Kunskapslage status="pilot">
+
+### Det här vet vi
+
+- En systematisk översikt från Campbell Collaboration (Bennett, Holloway och Farrington 2008) fann att grannsamverkan i genomsnitt var kopplad till minskad brottslighet. Resultaten varierade dock: ungefär hälften av de utvärderade programmen visade effekt, medan nästan lika många inte gjorde det.
+- Grannsamverkan finns redan i många svenska bostadsområden.
+- Kommunerna har sedan 2023 ett lagstadgat ansvar för att samordna det lokala brottsförebyggande arbetet.
+
+### Det här antar vi
+
+- Att en modell som främst har utvärderats mot inbrott och skadegörelse kan breddas till oro kring unga, konflikter och rekrytering till kriminalitet.
+- Att en samordnare i kommunen gör att oro i grannskapet leder till tidiga kontakter med socialtjänsten, snarare än till ingenting eller till polisanmälningar.
+
+### Det här vet vi inte
+
+- **Hur helheten beter sig.** Grannsamverkan, fokus på unga, en digital kanal och en koppling till kommunen kan tillsammans ge en tidig varning som ingen av delarna ger ensam. Men samma kombination kan förskjuta ringarna från omtanke till övervakning av unga, särskilt i områden där vissa grupper av ungdomar redan misstänkliggörs. Då kan förtroendet mellan generationer och grupper försämras i stället för att stärkas.
+- Om en ersättning till deltagarna förändrar vilka som deltar och varför.
+
+### Så skulle vi pröva det
+
+- **Test:** 20–30 ringar i några kommuner under två år, med jämförelseområden.
+- **Avbryt om:** det förekommer trakasserier, uthängningar eller egna ingripanden från ringarna som samordnaren inte kan förhindra; eller om unga och föräldrar i området i uppföljningen beskriver ringarna som övervakning riktad mot dem.
+- **Justera om:** få ringar är aktiva efter sex månader; eller om samordnaren får fler tips än som kan hanteras.
+- **Fortsätt om:** upplevd trygghet ökar mer än i jämförelseområdena, samordnaren förmedlar tidiga kontakter till socialtjänsten, och unga och föräldrar inte upplever ringarna som riktade mot dem.
+
+Tröskelvärdena ska bestämmas innan piloten startar och inte ändras i efterhand.
+
+</Kunskapslage>
 
 ## Pilotförslag
 
@@ -105,6 +138,7 @@ Uppskattningen bygger på antaganden som behöver prövas. Om ringarna bidrar ti
 - [Lag (2023:196) om kommuners ansvar för brottsförebyggande arbete](https://data.riksdagen.se/dokument/sfs-2023-196.html)
 - Polismyndigheten, [Lägesbild över utsatta områden 2025](https://polisen.se/siteassets/dokument/organiserad_brottslighet/utsatta-omraden/lagesbild-over-utsatta-omraden-2025.pdf)
 - Rättegångsbalken 24 kap. 7 § (envarsgripande) och brottsbalken 24 kap. 1 § (nödvärn)
+- Trevor Bennett, Katy Holloway och David Farrington, "The Effectiveness of Neighborhood Watch", *Campbell Systematic Reviews* 2008:18, [doi:10.4073/csr.2008.18](https://doi.org/10.4073/csr.2008.18)
 
 *Sidan reviderades i september 2026 efter en faktagranskning.*
 

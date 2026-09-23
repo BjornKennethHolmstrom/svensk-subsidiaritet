@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Sociala investeringsfonder
 
 [← Tillbaka till huvudartikeln](..)
@@ -22,6 +26,36 @@ Sociala investeringsfonder eller särskilda medel för sociala investeringar har
 4. **Lärande:** Resultaten redovisas öppet, även när insatser inte fungerar.
 
 **Exempel på insatser:** föräldrastöd och tidiga insatser för familjer, individuellt stöd till arbete för personer med psykisk ohälsa (så kallad supported employment), skuldrådgivning och samordnade insatser för unga som varken arbetar eller studerar.
+
+<Kunskapslage status="pilot">
+
+### Det här vet vi
+
+- Sociala investeringsfonder eller särskilda medel för sociala investeringar har inrättats i ett stort antal svenska kommuner och regioner sedan början av 2010-talet. Umeå kommun avsatte 120 miljoner kronor för 2011–2014, och i Norrköping förde verksamheter som fått lägre kostnader tillbaka medel till fonden.
+- Erfarenheterna har granskats i en rapport för SNS (Hultkrantz 2015), och Expertgruppen för studier i offentlig ekonomi har föreslagit en statlig utfallsfond (ESO 2020:1).
+
+### Det här antar vi
+
+- Att förebyggande insatser som följs upp noga kan minska framtida kostnader hos flera aktörer.
+- Att en gemensam fond för kommun och region löser problemet att ingen enskild aktör har skäl att betala för insatser vars nytta hamnar hos andra.
+- Att återföring av besparingar till fonden är möjlig och fungerar i praktiken.
+
+### Det här vet vi inte
+
+- **Hur helheten beter sig.** En fond med flera huvudmän och återföring kan skapa ett gemensamt intresse av förebyggande arbete som ingen enskild budget ger. Men den kan också leda till nya konflikter om vem som ska betala tillbaka och hur mycket, och göra samverkan svårare i stället för lättare.
+- Hur stor del av de beräknade besparingarna i svenska fonder som faktiskt har uppstått, och var.
+- Om insatser som väljs för att de går att mäta konkurrerar ut insatser som är viktiga men svårare att mäta.
+
+### Så skulle vi pröva det
+
+- **Test:** två eller tre regionala fonder där region och kommuner går samman, under fem år, med avtal om återföring från start.
+- **Avbryt om:** parterna efter två år inte har kunnat enas om hur återföring ska beräknas; eller om fonden främst används för att finansiera ordinarie verksamhet som skurits ned.
+- **Justera om:** insatserna ger effekter för målgrupperna men besparingarna inte går att belägga, vilket kan tala för att fonden i stället bör motiveras med effekterna och finansieras utan krav på återföring.
+- **Fortsätt om:** insatserna visar effekter för målgrupperna, en del av besparingarna kan beläggas och återföras, och parterna bedömer att samverkan har förbättrats.
+
+Tröskelvärdena och beräkningsgrunderna ska bestämmas innan fonderna startar.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

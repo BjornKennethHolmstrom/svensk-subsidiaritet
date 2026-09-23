@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Välfärdsringar
 
 [← Tillbaka till huvudartikeln](..)
@@ -24,6 +28,18 @@ En välfärdsring är ett frivilligt nätverk som:
 - en samordnare som hjälper ringarna att starta, svarar på frågor och har kontakt med socialtjänst och vård
 - ett mindre startbidrag för lokalhyra och material
 - som en möjlig option: en mindre ersättning till aktiva deltagare, till exempel i form av ett skatteavdrag
+
+<Kunskapslage status="pilot">
+
+**Viktigaste antagandet:** Att grannskapsnätverk upptäcker behov tidigare än vården och socialtjänsten, och att det leder till tidigare kontakt med dem.
+
+**Det här vet vi inte:** Om en ersättning till deltagarna förbättrar eller försämrar ringarna. Piloten bör därför prövas både med och utan ersättning.
+
+- **Avbryt om:** kommunen minskar biståndsbedömda insatser med hänvisning till ringarna; eller om deltagare i uppföljningen beskriver ringarna som övervakning av grannar.
+- **Justera om:** ringarna främst når hushåll som redan har starka nätverk.
+- **Fortsätt om:** självskattad ensamhet minskar och fler får tidig kontakt med socialtjänst eller vård än i jämförelseområdena.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

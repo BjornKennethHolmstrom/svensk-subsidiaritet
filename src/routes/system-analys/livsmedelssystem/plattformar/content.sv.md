@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Digital infrastruktur för direktförsäljning
 
 [← Tillbaka till huvudartikeln](..)
@@ -24,6 +28,16 @@ Kooperativ form är ingen garanti för att en verksamhet förblir småskalig ell
 ## Om offentlig upphandling
 
 Tidigare versioner av den här sidan föreslog att kommuner skulle kräva att leverantörer använder plattformen och att "lokal" skulle definieras i lag för upphandlingar. Det är inte förenligt med upphandlingsreglerna, som förbjuder att leverantörer gynnas på grund av var de finns. Plattformen bör i stället byggas för direktförsäljning till hushåll och för samordning mellan producenter.
+
+<Kunskapslage status="pilot">
+
+**Viktigaste antagandet:** Att en öppen plattform som ägs av producenter och köpare kan ersätta beroendet av kommersiella plattformar utan att bli för krånglig att använda.
+
+- **Avbryt om:** REKO-ringarnas administratörer och producenter efter ett år föredrar de plattformar de använde tidigare.
+- **Justera om:** plattformen används men inte kan bära sina egna kostnader efter piloten.
+- **Fortsätt om:** administrationen för ringarna minskar, användningen växer och verksamheten kan finansieras av användarna.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

@@ -21,6 +21,14 @@ Many municipal cultural centres and libraries already have a broad offering and 
 
 Municipalities can already today hand over the management of a municipal activity to an association, foundation or other private operator, as long as it does not involve exercise of public authority. No amendment to the Local Government Act is therefore needed, which earlier versions of this page claimed. However, procurement rules and rules on state aid may need to be considered depending on how the agreement is designed. The state also provides support to public community venues via the National Board of Housing, Building and Planning.
 
+**What we know:** Municipalities can already today hand over the management of a municipal activity to an association, foundation or other private operator, as long as it does not involve exercise of public authority.
+
+**Most important assumption:** That greater influence for users means that more and different groups use the cultural centres.
+
+- **Stop if:** a few associations or groups take over the programme and the premises, and this cannot be corrected with the booking rules.
+- **Adjust if:** the visitors are the same as before; then the staff need to work more in an outreach capacity.
+- **Continue if:** more and different groups use the building, and the proportion of events carried out by associations and residents increases.
+
 ## Pilot proposal
 
 **Scope:** Five to ten cultural centres or community venues in different types of municipalities over three years. The locations are chosen together with the municipalities and local associations.

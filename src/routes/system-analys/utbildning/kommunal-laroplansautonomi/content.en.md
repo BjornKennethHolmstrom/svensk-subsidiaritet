@@ -28,6 +28,16 @@ Earlier versions of this page claimed that the curriculum controls content and o
 3. **Expanded scope** for the school’s choice or equivalent in the trial, proposed at up to ten percent of teaching time, for teaching linked to the profile.
 4. **The Swedish Schools Inspectorate** follows up that pupils meet the knowledge requirements.
 
+**What we know:** The curricula state goals and core content but not working methods and order. The school’s choice and the pupil’s choice already provide a certain local scope. Expanded scope likely requires amendments to the Education Ordinance, and the proposal is therefore exploratory.
+
+**Most important assumption:** That teaching linked to local conditions increases pupils’ motivation and learning, without worsening their results against the national knowledge requirements.
+
+**What we do not know:** How it affects equivalence, which has already deteriorated. The evaluation should particularly monitor pupils with weaker circumstances.
+
+- **Stop if:** pupils’ results in the subjects become worse than in comparable schools.
+- **Adjust if:** motivation increases but results do not change; then the scope may need to be used differently.
+- **Continue if:** results are at least as good as in comparable schools, and pupils’ motivation and attendance are higher.
+
 ## Pilot proposal
 
 **Scope:** Five to ten municipalities or schools of different types over four to five years.

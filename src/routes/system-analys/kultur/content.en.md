@@ -25,6 +25,30 @@ Cultural life contains an almost unlimited variation: of expressions, languages,
 
 The question is not whether culture is centrally controlled, because it is so to a limited extent, but whether the different routes are sufficiently open and whether certain groups, places or expressions systematically fall through the cracks.
 
+### What we know
+
+- Public expenditure on culture, popular education and media was SEK 34.3 billion in 2023. The state accounted for SEK 14.9 billion, municipalities for SEK 14.2 billion and regions for SEK 5.2 billion, according to the Swedish Agency for Cultural Policy Analysis.
+- Cultural expenditure per inhabitant differs greatly between regions, and the state’s cultural expenditure as a share of total state expenditure in 2023 was the lowest since 2004.
+- A state committee presented in 2025 the report *A Cultural Canon for Sweden* (SOU 2025:92). The proposal has been criticised, among others by representatives of the national minorities.
+- Sweden has five recognised national minorities and minority languages, with special legal support. Under the Libraries Act, public libraries must pay particular attention to the national minorities and to people with a mother tongue other than Swedish.
+
+### What we assume
+
+- That the existing forms of support are harder to reach for new groups and for non-professional cultural creators. This is reasonable, but it has not been measured on this page.
+- That areas without local journalism get a weaker local democracy.
+- That support for culture in languages other than Swedish, combined with translation, strengthens contact between groups rather than weakening it.
+
+### What we do not know
+
+- Who applies for and receives cultural funding, and who does not. Such data is collected to a limited extent.
+- How large a share of Sweden lacks local journalistic coverage.
+- What will happen to the proposal for a cultural canon, and how it would then be used.
+
+### What would change the picture
+
+- If follow-ups show that the smallest cultural grants already reach a broad group of applicants, the reason for a new grant for everyday culture is weakened.
+- If municipalities without local journalism do not differ from others in, for example, voter turnout or insight into local politics, the reason for local public service is weakened.
+
 ## Subsidiarity-based proposals
 
 The proposals are ideas to test in limited pilots with evaluation. Each proposal has its own page.

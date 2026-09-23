@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Äldreomsorg: kontinuitet, relationer och rätt nivå
 
 ## Ett system med stort ansvar och kända brister
@@ -36,6 +40,35 @@ Relationer utanför omsorgen spelar också roll. En ofta citerad metaanalys (Hol
 - **Samverkan mellan kommun och region.** Äldre med stora medicinska behov faller ibland mellan omsorgen och vården.
 - **Ensamhet.** Många äldre upplever ensamhet, särskilt de som bor ensamma eller har förlorat en partner.
 
+<Kunskapslage status="nuvarande">
+
+### Det här vet vi
+
+- Äldreomsorgen är kommunernas ansvar. Privata utförare finansieras i de flesta fall av kommunen och arbetar under samma regler och avgifter.
+- En äldre person med hemtjänst mötte 2022 i genomsnitt 16 olika personer ur personalen under en tvåveckorsperiod.
+- Antalet hemtjänsttagare per omsorgspersonal ökade från 9,16 på vardagar 2024 till 10,06 år 2025.
+- Sedan juli 2022 ska den som har hemtjänst erbjudas en fast omsorgskontakt, och sedan juli 2023 ska den vara undersköterska. Socialstyrelsens uppföljning visar att många har erbjudits en fast omsorgskontakt, men att fler borde få det.
+- Sveriges Kommuner och Regioner har slutat samla in statistik om personalkontinuitet, och Socialstyrelsen har fått i uppdrag att utveckla ett nytt mått.
+- Från juli 2026 gäller ett krav på att personalen ska ha de kunskaper i svenska som behövs för arbetet.
+
+### Det här antar vi
+
+- Att bättre kontinuitet leder till bättre kvalitet och trygghet. Att äldre *värderar* kontinuitet är väl belagt, men effekten på kvalitet och hälsa är mindre utredd.
+- Att ramtid och små fasta team ökar kontinuiteten och gör omsorgen bättre anpassad. Det prövas i flera kommuner, men vi känner inte till några utvärderingar av resultaten.
+
+### Det här vet vi inte
+
+- Hur kontinuiteten har utvecklats sedan reformen om fast omsorgskontakt, eftersom den nationella statistiken har upphört.
+- Hur språkkravet påverkar möjligheten att rekrytera personal och kvaliteten i omsorgen.
+- Om ramtid kostar mer, mindre eller lika mycket som detaljstyrda insatser.
+
+### Vad som skulle ändra bilden
+
+- Om Socialstyrelsens nya mått visar att kontinuiteten har förbättrats efter reformen om fast omsorgskontakt, talar det för att nuvarande reformer fungerar och minskar behovet av mer genomgripande förändringar.
+- Om utvärderingar av ramtid, till exempel i Stockholm, inte visar någon skillnad i kontinuitet eller nöjdhet, försvagas argumentet för mer handlingsutrymme nära den äldre.
+
+</Kunskapslage>
+
 ## Subsidiaritetsbaserade förslag
 
 Förslagen är idéer att pröva i begränsade piloter med utvärdering. De kompletterar den biståndsbedömda omsorgen och ersätter den inte.
@@ -44,25 +77,101 @@ Förslagen är idéer att pröva i begränsade piloter med utvärdering. De komp
 
 Hemtjänsten organiseras i små, fasta grupper som ansvarar för ett begränsat antal äldre i ett område, med ramtid och stort utrymme för gruppen att själv planera arbetet. Inspirationen kommer bland annat från den nederländska modellen Buurtzorg inom hemsjukvården, där små självstyrande team arbetar nära patienterna. Utvärdering: personalkontinuitet, de äldres upplevelse, personalens arbetsmiljö och kostnader.
 
+<Kunskapslage status="pilot">
+
+### Det här vet vi
+
+- En äldre person med hemtjänst mötte 2022 i genomsnitt 16 olika personer ur personalen under en tvåveckorsperiod.
+- Sedan 2022 ska den som har hemtjänst erbjudas en fast omsorgskontakt.
+- Flera kommuner, bland dem Stockholm, använder i ökande grad ramtid.
+- Buurtzorg i Nederländerna, där små självstyrande team ger hemsjukvård, har uppmärksammats internationellt.
+
+### Det här antar vi
+
+- Att små fasta team minskar antalet olika personer som den äldre möter.
+- Att personalens handlingsutrymme, tillsammans med ramtid, gör att hjälpen anpassas bättre efter den äldres behov och dagsform.
+- Att erfarenheterna från Buurtzorg, som gäller hemsjukvård i ett annat system, går att överföra till svensk hemtjänst.
+
+### Det här vet vi inte
+
+- **Hur helheten beter sig.** Små team, ramtid och eget planeringsansvar kan tillsammans ge en kontinuitet och ett engagemang som ingen av delarna ger ensam. Samma kombination kan också göra teamen sårbara: vid sjukdom eller personalbrist finns färre att ta hjälp av, och skillnader mellan team kan växa.
+- Om kostnaden blir högre, lägre eller densamma.
+- Hur arbetsmiljön påverkas när personalen får mer ansvar för planeringen.
+
+### Så skulle vi pröva det
+
+- **Test:** några hemtjänstområden i ett par kommuner under två år, med jämförelseområden som arbetar som vanligt.
+- **Avbryt om:** de äldre i försöket oftare än i jämförelseområdena drabbas av missade besök eller brister i omsorgen; eller om personalomsättningen i teamen blir klart högre.
+- **Justera om:** kontinuiteten förbättras men kostnaderna ökar kraftigt; eller om teamen inte klarar frånvaro utan att kontinuiteten bryts.
+- **Fortsätt om:** de äldre möter klart färre olika personer, nöjdheten är minst lika hög som i jämförelseområdena, kostnaden är ungefär densamma och personalen bedömer arbetsmiljön som minst lika god.
+
+Tröskelvärdena ska bestämmas innan försöket startar.
+
+</Kunskapslage>
+
 ### Grannskapsnätverk
 
-Frivilliga nätverk där grannar, föreningar och pensionärsorganisationer hjälper äldre med sällskap, promenader och enklare ärenden, med stöd av en samordnare i kommunen. Nätverken ersätter aldrig biståndsbedömda insatser, och ingen ska förlora hjälp för att hen har grannar som hjälper till.
+Frivilliga nätverk där grannar, föreningar och pensionärsorganisationer hjälper äldre med sällskap, promenader och enklare ärenden, med stöd av en samordnare i kommunen. Nätverken ersätter aldrig biståndsbedömda insatser, och ingen ska förlora hjälp för att hen har grannar som hjälper till. Nätverken kan också ge äldre möjlighet att bidra med sina kunskaper, till exempel som läxhjälpare eller mentorer, i samarbete med skolor, bibliotek och studieförbund.
+
+
+<Kunskapslage status="pilot">
+
+**Viktigaste antagandet:** Att frivilliga nätverk når äldre som är ensamma, och inte främst dem som redan har många kontakter.
+
+- **Avbryt om:** kommunen minskar biståndsbedömda insatser med hänvisning till nätverken.
+- **Justera om:** nätverken främst når äldre som redan är socialt aktiva; då behövs mer uppsökande arbete.
+- **Fortsätt om:** självskattad ensamhet minskar bland de äldre som nätverken når, jämfört med liknande äldre utan nätverk.
+
+</Kunskapslage>
 
 ### Kooperativ och idéburna utförare
 
 Personalkooperativ och idéburna organisationer kan redan i dag vara utförare av hemtjänst och särskilt boende, till exempel inom valfrihetssystem enligt lagen om valfrihetssystem (LOV) eller genom idéburet offentligt partnerskap. Förslaget är att kommuner underlättar för sådana utförare, till exempel genom enklare krav på små utförare och stöd vid uppstart.
 
+
+<Kunskapslage status="pilot">
+
+**Det här vet vi:** Personalkooperativ och idéburna organisationer kan redan i dag vara utförare, genom valfrihetssystem enligt LOV eller idéburet offentligt partnerskap.
+
+**Viktigaste antagandet:** Att små kooperativa och idéburna utförare ger bättre kontinuitet och större inflytande för personalen än andra utförare.
+
+- **Avbryt om:** utförarna oftare än andra får allvarlig kritik vid tillsyn.
+- **Justera om:** få nya utförare startar trots stödet; då ligger hindren sannolikt någon annanstans, till exempel i kapital eller upphandlingskrav.
+- **Fortsätt om:** kontinuiteten och de äldres nöjdhet är minst lika goda som hos andra utförare, och personalomsättningen är lägre.
+
+</Kunskapslage>
+
 ### Större inflytande över insatserna
 
 Den äldre och den fasta omsorgskontakten får större möjlighet att tillsammans bestämma hur den beviljade tiden används, inom ramen för biståndsbeslutet. Det kan kombineras med en förenklad biståndsbedömning för mindre insatser.
+
+
+<Kunskapslage status="pilot">
+
+**Viktigaste antagandet:** Att den äldre och den fasta omsorgskontakten tillsammans använder tiden bättre än ett detaljerat biståndsbeslut. Förslaget ligger nära ramtid och små hemtjänstgrupper och bör prövas tillsammans med dem.
+
+**Det här vet vi inte:** Hur de som har svårt att föra sin egen talan påverkas.
+
+- **Avbryt om:** äldre med kognitiv svikt, som har svårare att uttrycka sina önskemål, får sämre omsorg än tidigare.
+- **Justera om:** skillnaderna i hur tiden används inte har någon tydlig koppling till de äldres behov.
+- **Fortsätt om:** de äldres nöjdhet ökar utan att avvikelserna i omsorgen blir fler.
+
+</Kunskapslage>
 
 ### Generationsboende
 
 Boenden där äldre och yngre bor i samma hus, med gemensamma utrymmen och aktiviteter. Sådana boenden har prövats i Sverige, till exempel Sällbo i Helsingborg, där unga och äldre bor tillsammans. Förslaget är att fler kommunala bostadsbolag prövar liknande modeller och utvärderar dem.
 
-### Kunskapsutbyte mellan generationer
 
-Möjligheter för äldre att bidra med sina kunskaper, till exempel som läxhjälpare, mentorer eller i föreningar, i samarbete med skolor, bibliotek och studieförbund.
+<Kunskapslage status="pilot">
+
+**Viktigaste antagandet:** Att äldre och yngre som bor i samma hus med gemensamma utrymmen upplever mindre ensamhet, och att det inte bara blir grannar som bor bredvid varandra.
+
+- **Avbryt om:** omflyttningen blir mycket hög och de boende beskriver återkommande konflikter.
+- **Justera om:** de gemensamma aktiviteterna uteblir efter det första året.
+- **Fortsätt om:** de boende upplever mindre ensamhet än i jämförbara boenden och vill bo kvar.
+
+</Kunskapslage>
 
 ## Invändningar
 

@@ -25,6 +25,16 @@ Participation is voluntary, and those who do not want to participate receive ord
 
 **An option that should be tested cautiously:** paying the support onto a card where certain purchases are blocked, for example gambling. That would mean less freedom than today, since the support is currently paid out in money. It should therefore, in that case, only be used if the individual themselves wants it.
 
+**What we know:** Finland’s basic income experiment 2017–2018 had small effects on employment but improved well-being. A strengthened employment incentive in a pilot activity likely requires legal support, and the proposal is therefore exploratory.
+
+**Most important assumption:** That longer decision periods and a stronger employment incentive mean that more long-term recipients start working, without the costs of social assistance increasing in the long term.
+
+- **Stop if:** the proportion who start working does not differ from the comparison group while costs increase clearly.
+- **Adjust if:** more people start working but costs increase; then the design of the employment incentive may need to be changed.
+- **Continue if:** more people start working than in the comparison group, and the administrative burden decreases for both recipients and social services.
+
+Random allocation of who gets to participate, among those who want to, is the fairest way to find out whether the change works.
+
 ## Pilot proposal
 
 **Scope:** A few thousand participants in ten municipalities over three years, with random selection among those who want to participate and a comparison group that receives ordinary processing.

@@ -22,6 +22,14 @@ Earlier versions of this page proposed a separate exemption in the Electricity A
 - **Metering and billing** via existing electricity meters and the grid company’s systems.
 - **Follow-up** of how much electricity is shared, what it means economically for the participants and how it affects the local grid.
 
+**What we know:** The tax reduction for micro-production was abolished from January 2026, and the government has presented proposals for rules on energy sharing. How the rules are designed in detail determines how profitable sharing becomes.
+
+**Most important assumption:** That energy sharing makes local production available to more people, for example tenants and others without their own roof, and not only to those who already have solar cells.
+
+- **Stop if:** sharing in practice takes place almost only between households that already have good finances, while grid costs are shifted to other customers.
+- **Adjust if:** few participate because of the administration around metering and agreements.
+- **Continue if:** participation is broad, including among those without their own production, and the effects on the grid are manageable.
+
 ## Pilot proposal
 
 **Scope:** Three to five areas of different types over two to three years, in cooperation with grid companies, electricity trading companies and the Swedish Energy Agency.

@@ -36,6 +36,31 @@ Relationships outside care also matter. A frequently cited meta-analysis (Holt-L
 - **Cooperation between municipality and region.** Older people with major medical needs sometimes fall between care and healthcare.
 - **Loneliness.** Many older people experience loneliness, especially those who live alone or have lost a partner.
 
+### What we know
+
+- Elderly care is the responsibility of the municipalities. Private operators are in most cases funded by the municipality and work under the same rules and fees.
+- An older person with home care met an average of 16 different staff members over a two-week period in 2022.
+- The number of home care recipients per care worker increased from 9.16 on weekdays in 2024 to 10.06 in 2025.
+- Since July 2022, those who have home care must be offered a regular care contact, and since July 2023 it must be an assistant nurse. The National Board of Health and Welfare’s follow-up shows that many have been offered a regular care contact, but that more should receive one.
+- The Swedish Association of Local Authorities and Regions has stopped collecting statistics on staff continuity, and the National Board of Health and Welfare has been tasked with developing a new measure.
+- From July 2026, a requirement applies that staff must have the Swedish language skills needed for the work.
+
+### What we assume
+
+- That better continuity leads to better quality and security. That older people *value* continuity is well established, but the effect on quality and health is less investigated.
+- That framework time and small fixed teams increase continuity and make care better adapted. This is being tested in several municipalities, but we are not aware of any evaluations of the results.
+
+### What we do not know
+
+- How continuity has developed since the reform on regular care contact, because the national statistics have ceased.
+- How the language requirement affects the ability to recruit staff and the quality of care.
+- Whether framework time costs more, less or the same as in detail-steered interventions.
+
+### What would change the picture
+
+- If the National Board of Health and Welfare’s new measure shows that continuity has improved after the reform on regular care contact, that argues that current reforms are working and reduces the need for more thorough changes.
+- If evaluations of framework time, for example in Stockholm, do not show any difference in continuity or satisfaction, the argument for more discretion close to the older person is weakened.
+
 ## Subsidiarity-based proposals
 
 The proposals are ideas to test in limited pilots with evaluation. They complement needs-assessed care and do not replace it.
@@ -44,21 +69,77 @@ The proposals are ideas to test in limited pilots with evaluation. They compleme
 
 Home care is organised in small, fixed groups responsible for a limited number of older people in an area, with framework time and great scope for the group to plan the work itself. The inspiration comes, among other things, from the Dutch Buurtzorg model in home healthcare, where small self-governing teams work close to patients. Evaluation: staff continuity, older people’s experience, staff working environment and costs.
 
+### What we know
+
+- An older person with home care met an average of 16 different staff members over a two-week period in 2022.
+- Since 2022, those who have home care must be offered a regular care contact.
+- Several municipalities, including Stockholm, are increasingly using framework time.
+- Buurtzorg in the Netherlands, where small self-governing teams provide home healthcare, has attracted international attention.
+
+### What we assume
+
+- That small fixed teams reduce the number of different people the older person meets.
+- That staff discretion, together with framework time, means that help is better adapted to the older person’s needs and daily condition.
+- That the experiences from Buurtzorg, which concern home healthcare in a different system, can be transferred to Swedish home care.
+
+### What we do not know
+
+- **How the whole behaves.** Small teams, framework time and own planning responsibility can together provide a continuity and commitment that none of the parts provides alone. The same combination can also make the teams vulnerable: in case of illness or staff shortage, there are fewer to turn to, and differences between teams can grow.
+- Whether the cost becomes higher, lower or the same.
+- How the working environment is affected when staff gain more responsibility for planning.
+
+### How we would test it
+
+- **Test:** a few home care areas in a couple of municipalities over two years, with comparison areas working as usual.
+- **Stop if:** the older people in the trial more often than in the comparison areas experience missed visits or shortcomings in care; or if staff turnover in the teams becomes clearly higher.
+- **Adjust if:** continuity improves but costs increase sharply; or if the teams cannot manage absence without continuity being broken.
+- **Continue if:** the older people meet clearly fewer different people, satisfaction is at least as high as in the comparison areas, the cost is about the same and staff assess the working environment as at least as good.
+
+The threshold values are to be determined before the trial starts.
+
 ### Neighbourhood networks
 
-Voluntary networks where neighbours, associations and pensioners’ organisations help older people with company, walks and simpler errands, with the support of a coordinator in the municipality. The networks never replace needs-assessed interventions, and no one should lose help because they have neighbours who help.
+Voluntary networks where neighbours, associations and pensioners’ organisations help older people with company, walks and simpler errands, with the support of a coordinator in the municipality. The networks never replace needs-assessed interventions, and no one should lose help because they have neighbours who help. The networks can also give older people the opportunity to contribute their knowledge, for example as homework helpers or mentors, in cooperation with schools, libraries and study associations.
+
+**Most important assumption:** That voluntary networks reach older people who are lonely, and not primarily those who already have many contacts.
+
+- **Stop if:** the municipality reduces needs-assessed interventions with reference to the networks.
+- **Adjust if:** the networks mainly reach older people who are already socially active; then more outreach work is needed.
+- **Continue if:** self-rated loneliness decreases among the older people the networks reach, compared with similar older people without networks.
 
 ### Cooperatives and idea-driven providers
 
 Staff cooperatives and idea-driven organisations can already today be providers of home care and special housing, for example within freedom of choice systems under the Act on Freedom of Choice Systems (LOV) or through idea-driven public partnerships. The proposal is that municipalities facilitate such providers, for example through simpler requirements for small providers and support at start-up.
 
+**What we know:** Staff cooperatives and idea-driven organisations can already today be providers, through freedom of choice systems under LOV or idea-driven public partnerships.
+
+**Most important assumption:** That small cooperative and idea-driven providers give better continuity and greater influence for staff than other providers.
+
+- **Stop if:** the providers more often than others receive serious criticism in supervision.
+- **Adjust if:** few new providers start despite the support; then the obstacles are probably elsewhere, for example in capital or procurement requirements.
+- **Continue if:** continuity and older people’s satisfaction are at least as good as with other providers, and staff turnover is lower.
+
 ### Greater influence over interventions
 
 The older person and the regular care contact are given greater opportunity to decide together how the granted time is used, within the framework of the assistance decision. This can be combined with a simplified needs assessment for smaller interventions.
 
+**Most important assumption:** That the older person and the regular care contact together use the time better than a detailed assistance decision. The proposal is close to framework time and small home care groups and should be tested together with them.
+
+**What we do not know:** How those who have difficulty speaking for themselves are affected.
+
+- **Stop if:** older people with cognitive impairment, who have greater difficulty expressing their wishes, receive worse care than before.
+- **Adjust if:** the differences in how time is used have no clear connection to the older people’s needs.
+- **Continue if:** older people’s satisfaction increases without the number of care deviations increasing.
+
 ### Intergenerational housing
 
 Housing where older and younger people live in the same building, with shared spaces and activities. Such housing has been tested in Sweden, for example Sällbo in Helsingborg, where young and old live together. The proposal is that more municipal housing companies test similar models and evaluate them.
+
+**Most important assumption:** That older and younger people who live in the same building with shared spaces experience less loneliness, and that it does not just become neighbours living next to each other.
+
+- **Stop if:** turnover becomes very high and residents describe recurring conflicts.
+- **Adjust if:** the shared activities cease after the first year.
+- **Continue if:** residents experience less loneliness than in comparable housing and want to stay.
 
 ### Exchange of knowledge between generations
 

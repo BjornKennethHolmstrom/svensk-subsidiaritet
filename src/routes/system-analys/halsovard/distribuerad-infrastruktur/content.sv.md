@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Hälsocenter nära vardagen
 
 [← Tillbaka till huvudartikeln](..)
@@ -22,6 +26,18 @@ Omställningen till god och nära vård syftar till att primärvården ska bli n
 - **Teamarbete:** olika professioner delar på uppgifterna, och läkaren har det medicinska ansvaret.
 - **Öppna aktiviteter:** till exempel föreläsningar, promenadgrupper och föräldraträffar i samarbete med studieförbund och föreningar.
 - **Anpassning efter platsen:** i glesbygd kan ett hälsocenter vara en kombination av en mindre lokal, mobila team och digitala vårdmöten.
+
+<Kunskapslage status="pilot">
+
+**Det här vet vi:** Familjecentraler, där mödravård, barnavård, öppen förskola och socialtjänst finns under samma tak, är en etablerad svensk modell för samlokalisering.
+
+**Viktigaste antagandet:** Att primärvård som finns i lokaler som människor redan besöker, tillsammans med kommunal service, når fler och ger bättre kontinuitet.
+
+- **Avbryt om:** patientsäkerheten eller sekretessen brister på grund av lokalernas utformning; eller om samlokaliseringen leder till att färre söker sig till socialtjänsten.
+- **Justera om:** besökarna främst är samma personer som redan använder vårdcentralen.
+- **Fortsätt om:** tillgängligheten och kontinuiteten förbättras jämfört med jämförbara vårdcentraler, utan högre kostnad per patient på sikt.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

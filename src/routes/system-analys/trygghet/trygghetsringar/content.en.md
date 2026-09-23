@@ -37,6 +37,31 @@ A Safety Ring is a voluntary network of households in the same block or resident
 | Working method | Information, vigilance, contact with the police | In addition joint activities and early warning |
 | Link | The police and Samverkan mot brott | In addition the municipality’s coordinator and community mediators |
 
+### What we know
+
+- A systematic review from the Campbell Collaboration (Bennett, Holloway and Farrington 2008) found that neighbourhood watch was on average associated with reduced crime. However, the results varied: around half of the evaluated programmes showed an effect, while nearly as many did not.
+- Neighbourhood watch already exists in many Swedish residential areas.
+- Since 2023, municipalities have a statutory responsibility to coordinate local crime prevention work.
+
+### What we assume
+
+- That a model that has mainly been evaluated against burglary and vandalism can be broadened to concern about young people, conflicts and recruitment into crime.
+- That a coordinator in the municipality means that concern in the neighbourhood leads to early contacts with social services, rather than to nothing or to police reports.
+
+### What we do not know
+
+- **How the whole behaves.** Neighbourhood watch, a focus on young people, a digital channel and a link to the municipality can together provide an early warning that none of the parts provides alone. But the same combination can shift the rings from care to surveillance of young people, especially in areas where certain groups of young people are already viewed with suspicion. Then confidence between generations and groups can deteriorate instead of being strengthened.
+- Whether remuneration to participants changes who participates and why.
+
+### How we would test it
+
+- **Test:** 20–30 rings in a few municipalities over two years, with comparison areas.
+- **Stop if:** there is harassment, public shaming or interventions of their own by the rings that the coordinator cannot prevent; or if young people and parents in the area in the follow-up describe the rings as surveillance directed at them.
+- **Adjust if:** few rings are active after six months; or if the coordinator receives more tips than can be handled.
+- **Continue if:** perceived safety increases more than in the comparison areas, the coordinator passes on early contacts to social services, and young people and parents do not experience the rings as directed at them.
+
+The threshold values are to be determined before the pilot starts and not changed afterwards.
+
 ## Pilot proposal
 
 **Scope:** Up to 500 rings over three years, in areas included in the police’s situational picture of vulnerable areas or where the municipality’s own situational picture shows high insecurity.
@@ -105,6 +130,7 @@ The estimate is based on assumptions that need to be tested. Whether the rings c
 - [Act (2023:196) on Municipalities’ Responsibility for Crime Prevention Work](https://data.riksdagen.se/dokument/sfs-2023-196.html)
 - Swedish Police Authority, [Situational Picture of Vulnerable Areas 2025](https://polisen.se/siteassets/dokument/organiserad_brottslighet/utsatta-omraden/lagesbild-over-utsatta-omraden-2025.pdf)
 - Code of Judicial Procedure, Chapter 24, Section 7 (citizen’s arrest) and Penal Code, Chapter 24, Section 1 (self-defence)
+- Trevor Bennett, Katy Holloway and David Farrington, "The Effectiveness of Neighborhood Watch", *Campbell Systematic Reviews* 2008:18, [doi:10.4073/csr.2008.18](https://doi.org/10.4073/csr.2008.18)
 
 *The page was revised in September 2026 after a fact check.*
 

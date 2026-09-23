@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Trygghet och polisväsende: närhet, samordning och rätt nivå
 
 ## Två lärdomar som drar åt olika håll
@@ -26,6 +30,35 @@ Poängen med subsidiaritet är alltså inte att allt ska ske lokalt, utan att va
 - **Utsatta områden.** Polisens lägesbild från 2025 omfattar 65 utsatta områden, varav 19 särskilt utsatta, och tas fram i dialog mellan lokalpolisområden, kommuner och polisens nationella operativa avdelning. Klassningen styr resurser, men det finns en diskussion om hur den påverkar boendes självbild och områdenas rykte. Lägesbilden 2025 beskriver samtidigt förbättringar i flera områden.
 - **Privat och kommunal bevakning.** Ordningsvakter och andra aktörer har fått större roll i offentliga miljöer. Det väcker frågor om ansvarsutkrävande och om tryggheten fördelas efter betalningsförmåga.
 
+<Kunskapslage status="nuvarande">
+
+### Det här vet vi
+
+- Polisreformen 2015 slog ihop polisen till en myndighet. Målet om en polis närmare medborgarna har inte nåtts enligt Statskontorets utvärderingar.
+- Antalet skjutningar sjönk från 391 år 2022 till 158 år 2025, enligt Polisens statistik.
+- Andelen med stort förtroende för polisen ökade från 50 procent 2015 till 62 procent 2025, enligt Brås NTU.
+- Kommunerna har sedan 2023 ett lagstadgat ansvar för att ta fram lägesbild, åtgärdsplan och samordning i det brottsförebyggande arbetet.
+- En utvärdering av Sluta skjut i Malmö fann att skjutningar och sprängningar minskat sedan satsningen infördes.
+
+### Det här antar vi
+
+- Att minskningen av skjutningarna delvis beror på starkare nationell och internationell samordning. Det är Polisens egen förklaring, inte ett belagt orsakssamband.
+- Att den försvagade lokala närvaron har inneburit förlorad kunskap och förlorade relationer i områdena. Det är en rimlig mekanism, men den är inte mätt.
+
+### Det här vet vi inte
+
+- Hur mycket av minskningen i våldet som beror på polisens arbete, på förändringar i de kriminella nätverken eller på andra faktorer.
+- Hur väl kommunerna har genomfört sitt nya brottsförebyggande ansvar, och om det gör skillnad.
+- Om stabil lokal polisnärvaro minskar brottsligheten i svenska förhållanden, eller främst påverkar förtroendet.
+
+### Vad som skulle ändra bilden
+
+- Om utvärderingar visar att lokalpolisområden med stabila områdespoliser inte skiljer sig från andra i brottslighet eller förtroende, försvagas argumentet för mer lokal närvaro.
+- Om våldet ökar igen trots fortsatt stark nationell samordning, försvagas förklaringen att samordningen var avgörande.
+- Uppföljningar av lagen om kommunernas brottsförebyggande ansvar kan visa om det lokala arbetet har fått verklig kapacitet.
+
+</Kunskapslage>
+
 ## Subsidiaritetsbaserade förslag
 
 Förslagen nedan är idéer att pröva i begränsade piloter med utvärdering, inte färdiga lösningar. Varje förslag har en egen sida.
@@ -35,7 +68,7 @@ Förslagen nedan är idéer att pröva i begränsade piloter med utvärdering, i
 | [Trygghetsringar](./trygghetsringar) | Grannskapsgrupper som delar information, samordnar aktiviteter och ger tidig varning, byggda på befintlig grannsamverkan. |
 | [Samhällsmedlare](./samhallsmedlare) | Utbildade och avlönade personer med förankring i området som kan ingripa i konflikter tidigt, i samarbete med polis och socialtjänst. |
 | [Kommunala trygghetsbudgetar](./kommunala-trygghetsbudgetar) | Medborgarbudgetering för trygghetsåtgärder, kopplad till kommunens lägesbild och åtgärdsplan enligt lagen från 2023. |
-| [Reparativ rättvisa](./reparativ-rattvisa) | Utökad användning av medling mellan brottsoffer och gärningsperson vid lindrigare brott. Medling finns redan i lag, främst för unga gärningspersoner. |
+| [Reparativ rättvisa](./reparativ-rattvisa) | Utökad användning av medling mellan brottsoffer och gärningsperson vid lindrigare brott. Medling finns redan i lag, främst för unga gärningspersoner. Sidan har också en **utforskande variant**, där en fullföljd medling ersätter åtal, efter norsk förebild. |
 | [Trygghetscenter](./trygghetscenter) | Lokala nav där polis, socialtjänst och andra verksamheter finns under samma tak. |
 
 ## Invändningar att ta på allvar

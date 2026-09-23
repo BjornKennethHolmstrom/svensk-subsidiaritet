@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Personliga välfärdsbudgetar
 
 [← Tillbaka till huvudartikeln](..)
@@ -24,6 +28,20 @@ För deltagare som haft försörjningsstöd en längre tid, till exempel i minst
 Deltagandet är frivilligt, och den som inte vill delta får vanlig handläggning.
 
 **En option som bör prövas försiktigt:** att betala ut stödet på ett kort där vissa köp spärras, till exempel spel. Det skulle innebära mindre frihet än i dag, eftersom stödet i dag betalas ut i pengar. Det bör därför i så fall bara användas om den enskilde själv vill det.
+
+<Kunskapslage status="utforskande">
+
+**Det här vet vi:** Finlands basinkomstförsök 2017–2018 gav små effekter på sysselsättningen men förbättrat välbefinnande. En förstärkt jobbstimulans i försöksverksamhet kräver sannolikt lagstöd, och förslaget är därför utforskande.
+
+**Viktigaste antagandet:** Att längre beslutsperioder och en starkare jobbstimulans gör att fler långvariga mottagare börjar arbeta, utan att kostnaderna för försörjningsstödet ökar på sikt.
+
+- **Avbryt om:** andelen som börjar arbeta inte skiljer sig från jämförelsegruppen samtidigt som kostnaderna ökar klart.
+- **Justera om:** fler börjar arbeta men kostnaderna ökar; då kan jobbstimulansens utformning behöva ändras.
+- **Fortsätt om:** fler börjar arbeta än i jämförelsegruppen, och den administrativa bördan minskar för både mottagare och socialtjänst.
+
+Slumpmässig fördelning av vilka som får delta, bland dem som vill, är det mest rättvisa sättet att ta reda på om förändringen fungerar.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

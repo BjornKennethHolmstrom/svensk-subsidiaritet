@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Hälsoguider
 
 [← Tillbaka till huvudartikeln](..)
@@ -31,6 +35,18 @@ Många har frågor om kost, motion, sömn och stress som inte kräver en läkare
 - uppsökande information i bostadsområden, på bibliotek och i föreningar
 
 **Anställning:** i kommunen, i ett bostadsbolag, på en vårdcentral eller i en ideell organisation, med tillgång till handledning från legitimerad personal.
+
+<Kunskapslage status="pilot">
+
+**Det här vet vi:** Hälsokommunikatörer finns på flera håll och informerar nyanlända om hälsa och vård. Förslaget bör bygga på deras erfarenheter.
+
+**Viktigaste antagandet:** Att en kortare utbildad roll utanför vården kan hjälpa människor med levnadsvanor och med att hitta rätt, och att den kompletterar vårdpersonalen i stället för att ersätta den.
+
+- **Avbryt om:** hälsoguiderna i praktiken ger medicinska råd; eller om rollen används för att minska antalet vårdanställda.
+- **Justera om:** guiderna främst når personer som redan har god kontakt med vården.
+- **Fortsätt om:** guiderna når grupper som vården har svårt att nå, och deltagarna rapporterar förändrade levnadsvanor eller bättre kontakt med vården.
+
+</Kunskapslage>
 
 ## Pilotförslag
 

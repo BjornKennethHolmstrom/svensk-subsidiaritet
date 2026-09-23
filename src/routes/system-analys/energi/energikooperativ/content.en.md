@@ -24,6 +24,16 @@ When new production is built, those who live nearby bear a large part of the imp
 - **Sale of electricity** on the electricity market, or, once the rules on energy sharing are in place, directly to the members.
 - **Cooperation** with an experienced project developer or an energy company for technology, operation and the permit process.
 
+**What we know:** Wind power cooperatives have existed in Sweden since the 1990s. From July 2026, nearby residents have the right to a share of the revenue from new wind turbines, but not to ownership or influence.
+
+**Most important assumption:** That local ownership increases acceptance of new production, so that more projects are approved by the municipality and meet less resistance among nearby residents.
+
+**What we do not know:** Whether local ownership adds anything beyond the new revenue sharing.
+
+- **Stop if:** cooperative projects do not receive more approvals or less resistance than comparable projects, while costing clearly more to carry out.
+- **Adjust if:** the members are mainly people who do not live near the installation; then the ownership does not reach those who bear the impact.
+- **Continue if:** acceptance among nearby residents is higher than for comparable projects, and a significant proportion of the members live in the local area.
+
 ## Pilot proposal
 
 **Scope:** Support for five to ten cooperative projects in different parts of the country over three to five years, in the form of advice and loan guarantees for early stages.

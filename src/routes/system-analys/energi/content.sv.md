@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Energi: lokal acceptans, nationella behov och rätt nivå
 
 ## Ett elsystem som redan är nästan fossilfritt
@@ -34,6 +38,36 @@ Elsystemet måste hållas i balans varje sekund, och frekvensen måste vara dens
 - **Regionalt och lokalt:** planering, lokala elnät, flexibilitet i näten, fjärrvärme, lokalt ägande av produktion.
 - **Hos hushåll och föreningar:** egen produktion, lagring och flexibel användning.
 
+<Kunskapslage status="nuvarande">
+
+### Det här vet vi
+
+- År 2023 ändrade riksdagen målet för elproduktionen 2040 från 100 procent förnybar till 100 procent fossilfri elproduktion.
+- Sedan 2009 får tillstånd till vindkraft bara ges om kommunen har tillstyrkt, det så kallade kommunala vetot.
+- En kartläggning som Svensk Vindenergi låtit göra visar att 83 av 130 vindkraftsprojekt, 64 procent, stoppades av det kommunala vetot 2020–2024. Kartläggningen är beställd av branschen.
+- Från den 1 juli 2026 ska närboende till nya vindkraftsanläggningar få en ersättning som motsvarar en andel av anläggningens intäkter.
+- Skattereduktionen för mikroproduktion slopades från den 1 januari 2026.
+- Regeringen har lagt fram förslag till regler om energidelning (prop. 2025/26:240).
+
+### Det här antar vi
+
+- Att kommunernas nej till vindkraft i stor utsträckning beror på att kostnaderna är lokala medan nyttan är regional eller nationell, och att delad nytta kan ändra kalkylen.
+- Att lokalt ägande ökar acceptansen för ny produktion.
+- Att hushållens flexibilitet, till exempel styrd laddning och värmepumpar, i större skala kan skjuta upp dyra nätförstärkningar.
+
+### Det här vet vi inte
+
+- Om intäktsdelningen till närboende påverkar kommunernas beslut.
+- Hur reglerna om energidelning utformas i detalj, och hur många som kommer att använda dem.
+- Hur mycket flexibilitet hushållen faktiskt kan och vill erbjuda.
+
+### Vad som skulle ändra bilden
+
+- Om andelen tillstyrkta vindkraftsprojekt inte ökar efter att intäktsdelningen införts, försvagas antagandet om delad nytta. Det stärker då argumentet för att flytta beslutet uppåt, till exempel genom att ändra eller ta bort det kommunala vetot.
+- Om de kommuner som säger nej till vindkraft också säger nej trots lokalt ägande och intäktsdelning, pekar det mot att motståndet handlar om annat än fördelningen av nyttan, till exempel landskap och identitet.
+
+</Kunskapslage>
+
 ## Subsidiaritetsbaserade förslag
 
 Förslagen är idéer att pröva i begränsade piloter med utvärdering. Varje förslag har en egen sida.
@@ -44,7 +78,10 @@ Förslagen är idéer att pröva i begränsade piloter med utvärdering. Varje f
 | [Energidelning mellan grannar](./grannhandel) | Pilotprojekt som bygger på de nya reglerna om energidelning, för hushåll, föreningar och små företag. |
 | [Lokal flexibilitet](./energibanker) | Tjänster som samlar hushållens flexibilitet, till exempel laddning av elbilar och värmepumpar, och erbjuder den till nätbolagen vid höga belastningar. |
 | [Tidiga lokala besked](./kommunala-energirad) | Kommunal energiplanering som ger tidiga och motiverade besked om var ny produktion kan byggas, kombinerat med lokal nytta. |
-| [Lokalt ägda elnät](./lokala-natavgifter) | Erfarenheter från kommunalt och kooperativt ägda elnät, och om fler sådana kan främjas. |
+
+### Lokalt ägda elnät
+
+Elnät är naturliga monopol, och nätbolagens intäkter regleras av Energimarknadsinspektionen genom så kallade intäktsramar, oavsett vem som äger nätet. Förutom de tre stora nätbolagen finns många mindre, varav många ägs av kommuner och en del av ekonomiska föreningar där kunderna är medlemmar. Ett förslag är att kartlägga hur kommunalt och kooperativt ägda nät skiljer sig från andra i fråga om avgifter, kvalitet och kundinflytande, och att utreda förutsättningarna för att fler lokala nät ska kunna drivas i sådana former, till exempel när ett nätområde säljs.
 
 ## Invändningar
 

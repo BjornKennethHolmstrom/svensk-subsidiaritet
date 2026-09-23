@@ -30,6 +30,14 @@ Libraries and associations can lend equipment for drying, making jam, making jui
 
 Municipalities can supplement the authorities’ general advice with information about which foods can be stored and which are produced in the local area.
 
+**Most important assumption:** That seasonal planning in public kitchens and the opportunity to borrow equipment increase households’ knowledge and ability to manage on their own for a while.
+
+**What we do not know:** Whether increased knowledge in households makes any difference to preparedness in a real crisis.
+
+- **Stop if:** the seasonal planning in the public kitchens leads to clearly higher costs or poorer nutritional content.
+- **Adjust if:** the equipment is lent out but used by few; then courses or more information are needed.
+- **Continue if:** food waste in the kitchens decreases without higher costs, and the lending and courses are used regularly.
+
 ## Pilot proposal
 
 **Scope:** A few municipalities testing seasonal planning in public kitchens and lending of equipment via libraries over two years.

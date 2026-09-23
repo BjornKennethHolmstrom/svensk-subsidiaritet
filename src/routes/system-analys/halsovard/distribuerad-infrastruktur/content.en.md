@@ -23,6 +23,14 @@ The transformation towards good and close care aims to make primary care the hub
 - **Open activities:** for example lectures, walking groups and parent meetings in cooperation with study associations and associations.
 - **Adaptation to the location:** in sparsely populated areas, a health centre can be a combination of a smaller premises, mobile teams and digital care meetings.
 
+**What we know:** Family centres, where maternity care, child health care, open preschool and social services are under the same roof, are an established Swedish model for co-location.
+
+**Most important assumption:** That primary care located in premises that people already visit, together with municipal services, reaches more people and provides better continuity.
+
+- **Stop if:** patient safety or confidentiality fails because of the design of the premises; or if co-location leads to fewer people seeking social services.
+- **Adjust if:** the visitors are mainly the same people who already use the health centre.
+- **Continue if:** accessibility and continuity improve compared with comparable health centres, without higher cost per patient in the long term.
+
 ## Pilot proposal
 
 **Scope:** Three pilots over four years: one in a city district, one in a residential area with poorer health and one in a sparsely populated area. The locations are chosen in consultation with regions and municipalities.

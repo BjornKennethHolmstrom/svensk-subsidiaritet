@@ -1,3 +1,7 @@
+<script>
+  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
+</script>
+
 # Hälsa: vård, förebyggande arbete och rätt nivå
 
 ## En sjukvård med god kvalitet och kända brister
@@ -27,6 +31,36 @@ Hälsa påverkas av mycket mer än vården: levnadsvanor, arbete, boende, relati
 - **Psykisk ohälsa.** Psykiatriska diagnoser är den vanligaste orsaken till sjukskrivning. Omkring 15 procent av kvinnorna i Sverige hämtade ut antidepressiva läkemedel 2024. Tidigare versioner av den här sidan angav över 25 procent, vilket var fel. Förskrivningen kan spegla både ökad ohälsa och att fler söker och får behandling; den i sig visar inte att läkemedel används felaktigt.
 - **Förebyggande arbete.** Förebyggande insatser har svårt att konkurrera med akuta behov om resurserna, eftersom nyttan kommer senare och ofta hos andra aktörer.
 - **Samverkan mellan region och kommun.** Patienter som behöver både vård och omsorg faller ibland mellan huvudmännen.
+
+<Kunskapslage status="nuvarande">
+
+### Det här vet vi
+
+- Vårdansvarskommittén bedömde att svensk hälso- och sjukvård har god medicinsk kvalitet och står sig väl internationellt, med brister i tillgänglighet och i geografisk jämlikhet.
+- Kommittén föreslog inte att staten tar över sjukvården. En majoritet bedömde att underlag saknades för att det skulle leda till förbättringar. I stället föreslogs ett större statligt ansvar för vissa utvalda uppgifter (SOU 2025:62).
+- Psykiatriska diagnoser är den vanligaste orsaken till pågående sjukfall, enligt Försäkringskassan.
+- Omkring 15 procent av kvinnorna hämtade ut antidepressiva läkemedel 2024, enligt Socialstyrelsen.
+- Sedan 2022 ska den som vill ha en fast läkarkontakt i primärvården kunna få det, enligt hälso- och sjukvårdslagen.
+
+### Det här antar vi
+
+- Att bättre kontinuitet och mer förebyggande arbete i primärvården minskar behovet av annan vård på sikt. Mekanismen är rimlig, men den är inte belagd för svenska förhållanden i den omfattning omställningen till nära vård förutsätter.
+- Att ensamhet och brist på sammanhang står för en betydande del av belastningen på primärvården. Förslagen på den här sidan bygger på det antagandet.
+- Att de uppgifter som kommittén föreslår att staten tar över skulle bli mer likvärdiga. Det har inte prövats.
+
+### Det här vet vi inte
+
+- Om omställningen till god och nära vård har förbättrat tillgängligheten och kontinuiteten.
+- Varför väntetiderna skiljer sig så mycket mellan regioner: om det främst beror på resurser, organisation eller efterfrågan.
+- Om den ökade förskrivningen av antidepressiva speglar mer ohälsa, att fler söker och får behandling, eller båda.
+
+### Vad som skulle ändra bilden
+
+- Om uppföljningar av nära vård visar bättre kontinuitet men ingen effekt på behovet av sjukhusvård, försvagas antagandet om primärvården som nav.
+- Om regioner med liknande resurser har mycket olika väntetider pekar det mot organisation, och talar för lokalt lärande. Om skillnaderna följer resurserna pekar det mot finansiering och utjämning, alltså uppåt.
+- Om ett större statligt ansvar för de utvalda uppgifterna genomförs och minskar de regionala skillnaderna, stärker det argumentet för att flytta just de uppgifterna uppåt.
+
+</Kunskapslage>
 
 ## Subsidiaritetsbaserade förslag
 

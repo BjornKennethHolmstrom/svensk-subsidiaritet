@@ -28,6 +28,14 @@ A great deal of cultural creation takes place outside institutions: in associati
 
 **Reporting:** a simple report afterwards, for example a picture, a recording or a short text about what was done.
 
+**Most important assumption:** That small grants with a simple application reach people who have never previously applied for cultural support.
+
+**What we do not know:** Who applies for and receives cultural support today. Such data is collected to a limited extent, and the pilot should therefore collect it from the start.
+
+- **Stop if:** the grants to a significant extent go to projects that are not carried out, despite the reporting requirement.
+- **Adjust if:** most applicants are people who have already received cultural support; then more outreach information is needed.
+- **Continue if:** a large proportion of the recipients are new to cultural support, and most projects are carried out.
+
 ## Pilot proposal
 
 **Scope:** Ten municipalities of different types over two years, with, for example, SEK 1 million per municipality per year, that is around 200 grants per municipality.
