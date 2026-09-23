@@ -2,10 +2,6 @@
   import Kunskapslage from '$lib/components/Kunskapslage.svelte';
 </script>
 
-<script>
-  import Kunskapslage from '$lib/components/Kunskapslage.svelte';
-</script>
-
 # Bostäder: vem bestämmer över byggandet, och för vem?
 
 ## Långa köer, höga kostnader och stora skillnader
