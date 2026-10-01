@@ -11,8 +11,8 @@ Writing "there is currently insufficient evidence to answer this" is one of the 
 ### 1. Direct measures of actual decision proximity
 
 **Why it matters:** Almost everything on this site depends on distinguishing formal decentralization from actual decision proximity, but we don't yet have a validated measure of the latter.
-**Current evidence:** Case-level qualitative reconstruction only (e.g. [Case S1](/evidens/fall/sverige/kommunsammanslagningar/)).
-**Why unresolved:** A first specification now exists — see [Decision Proximity](/evidens/datamodeller/matt/beslutsnarhet/) — but it has not yet been applied to real data for any case.
+**Current evidence:** Case-level qualitative reconstruction only (e.g. **[Case S1](/evidens/fall/sverige/kommunsammanslagningar/)**).
+**Why unresolved:** A first specification now exists — see **[Decision Proximity](/evidens/datamodeller/matt/beslutsnarhet/)** — but it has not yet been applied to real data for any case.
 **Needed evidence:** Apply the Decision Proximity measure to at least one case (S1 is the natural first candidate, given its 1979 local-organs correction) and evaluate whether the framework actually works.
 **Priority:** High.
 
@@ -24,20 +24,29 @@ Writing "there is currently insufficient evidence to answer this" is one of the 
 **Needed evidence:** Municipality → district/institution → professional → individual authority maps for at least the five core cases.
 **Priority:** High.
 
-### 3. Comparison of merger vs. cooperation vs. independent provision
+### 3. Pooled authority vs. cooperation vs. independent provision
 
-**Why it matters:** Claim C4 ("scale can be factorized") depends on this comparison, and it's directly policy-relevant.
-**Current evidence:** Separate case evidence for merger (S1) and cooperation (S5), but no controlled comparison across the same functions.
-**Why unresolved:** No study in our corpus directly compares all three arrangements for the same municipal function.
-**Needed evidence:** A comparative study or dataset covering equivalent functions under each arrangement.
+**Status:** Partially closed for the Swedish rescue service — directionally mixed, structurally informative. Unresolved for other functions.
+**Why it matters:** Claim C4a (governance functions can be factorized) depends on this comparison, and it's directly policy-relevant.
+**Current evidence:** **[Case S6](/evidens/fall/sverige/raddningstjanst/)** provides two frozen outcome studies within the same function. When Uppsala went from mature cooperation to a joint board in 2012, the outcome became somewhat more favourable, but uncertain. When five systems pooled authority for the first time in 2002, the outcome was clearly unfavourable at one threshold (spread at arrival), but not at more severe fire grades. The branches measure different outcomes and periods and should not be merged.
+**What remains unresolved:**
+- comparison with genuinely independent provision, distinct from weaker forms of cooperation;
+- more than one treated municipality in the transition from cooperation to joint authority;
+- common outcome measures across the reporting epochs;
+- which parts of cooperation can substitute for joint authority;
+- transition costs versus lasting effects;
+- which mechanism is at work: response time, dispatch, preventive work, extinguishing or reporting.
+
+**Reformulated question:** Not "which organisational form is best?" but **under what conditions does further pooled authority improve outcomes, add little, or create transition and centralisation costs — given the coordination that already exists?** (Hypothesis H22.)
+**Needed evidence:** An outcome-blind mapping of all Swedish transitions from cooperation to joint authority, classified by level of coordination before the transition, before outcomes and comparisons are chosen. Then the same type of comparison for at least one function outside the rescue service.
 **Priority:** High.
 
 ### 4. Longitudinal evidence on adaptation and institutional learning
 
 **Why it matters:** Hypothesis H15 (adaptive subsidiarity) and the broader Governance Architecture's meta-governance layer both assume institutions can detect and correct misallocations of authority over time.
-**Current evidence:** Suggestive examples (S1's 1979 local-organs correction; S3's repeated boundary adjustments; S4's iterative formula revision), but no systematic before/after outcome evidence.
-**Why unresolved:** These are pattern observations, not causal tests of whether the corrections actually improved outcomes.
-**Needed evidence:** Outcome data spanning a correction event, ideally with a comparison group.
+**Current evidence:** Suggestive examples (S1's 1979 local-organs correction; S3's repeated boundary adjustments; S4's iterative formula revision), but no systematic before/after outcome evidence. S6 shows that transitions are processes rather than dates: in Uppsala the difference is visible already the year before the formal start, and the 2002 cohort covers only two years after the transition.
+**Why unresolved:** These are pattern observations, not causal tests of whether the corrections actually improved outcomes. No study in the corpus separates transition costs from lasting effects.
+**Needed evidence:** Outcome data spanning a correction event, ideally with a comparison group, and with a sufficiently long post-period to distinguish transition from a new equilibrium.
 **Priority:** Medium–High.
 
 ### 5. Fiscal equalization effects on service outcomes and incentives
@@ -77,3 +86,5 @@ Writing "there is currently insufficient evidence to answer this" is one of the 
 ## What this list is for
 
 This is a working research agenda, not an admission of failure. See **[Open Questions →](/evidens/syntes/oppna-fragor/)** for how these gaps translate into a forward-looking programme, and **[Evidence Standards →](/evidens/sa-vet-vi/evidensstandarder/)** for why we treat "unresolved" as a legitimate, stable status rather than something to resolve prematurely.
+
+A partially closed gap is not an answered question. Gap #3 is the first example: the results made the question narrower and sharper, not settled.

@@ -24,20 +24,29 @@ Att skriva "det finns just nu otillräcklig evidens för att svara på det här"
 **Behövd evidens:** Kartor över auktoritet från kommun → stadsdel/institution → profession → individ för åtminstone de fem kärnfallen.
 **Prioritet:** Hög.
 
-### 3. Jämförelse av sammanslagning kontra samverkan kontra oberoende drift
+### 3. Poolad auktoritet kontra samverkan kontra oberoende drift
 
-**Varför det spelar roll:** Påstående C4 ("skala kan faktoriseras") beror på den här jämförelsen, och den är direkt policyrelevant.
-**Nuvarande evidens:** Separat fallevidens för sammanslagning (S1) och samverkan (S5), men ingen kontrollerad jämförelse mellan samma funktioner.
-**Varför olöst:** Ingen studie i vårt korpus jämför direkt alla tre arrangemang för samma kommunala funktion.
-**Behövd evidens:** En jämförande studie eller dataset som täcker likvärdiga funktioner under varje arrangemang.
+**Status:** Delvis sluten för svensk räddningstjänst — riktningsmässigt blandad, strukturellt informativ. Olöst för andra funktioner.
+**Varför det spelar roll:** Påstående C4a (styrningsfunktioner kan faktoriseras) beror på den här jämförelsen, och den är direkt policyrelevant.
+**Nuvarande evidens:** **[Fall S6](/evidens/fall/sverige/raddningstjanst/)** ger två frysta utfallsstudier inom samma funktion. När Uppsala 2012 gick från mogen samverkan till gemensam nämnd blev utfallet något gynnsammare, men osäkert. När fem system 2002 för första gången poolade auktoriteten blev utfallet tydligt ogynnsamt vid en tröskel (spridning vid ankomst), men inte vid svårare brandgrader. Grenarna mäter olika utfall och perioder och ska inte slås ihop.
+**Vad som fortfarande är olöst:**
+- jämförelse med verkligt självständig drift, skild från svagare former av samverkan;
+- fler än en behandlad kommun i övergången från samverkan till gemensam auktoritet;
+- gemensamma utfallsmått över rapporteringsepokerna;
+- vilka delar av samverkan som kan ersätta gemensam auktoritet;
+- övergångskostnader kontra varaktiga effekter;
+- vilken mekanism som verkar: insatstid, utlarmning, förebyggande arbete, släckning eller rapportering.
+
+**Omformulerad fråga:** Inte "vilken organisationsform är bäst?" utan **under vilka förutsättningar förbättrar ytterligare poolad auktoritet utfallen, tillför lite, eller skapar övergångs- och centraliseringskostnader — givet den samordning som redan finns?** (Hypotes H22.)
+**Behövd evidens:** En utfallsblind kartläggning av alla svenska övergångar från samverkan till gemensam auktoritet, klassade efter samordningsnivå före övergången, innan utfall och jämförelser väljs. Därefter samma typ av jämförelse för minst en funktion utanför räddningstjänsten.
 **Prioritet:** Hög.
 
 ### 4. Longitudinell evidens om anpassning och institutionellt lärande
 
 **Varför det spelar roll:** Hypotes H15 (adaptiv subsidiaritet) och den bredare styrningsarkitekturens meta-governance-lager antar båda att institutioner kan upptäcka och korrigera felallokeringar av auktoritet över tid.
-**Nuvarande evidens:** Antydande exempel (S1:s korrigering genom lokala organ 1979; S3:s upprepade gränsjusteringar; S4:s iterativa formelrevidering), men ingen systematisk före/efter-utfallsevidens.
-**Varför olöst:** Det här är mönsterobservationer, inte kausala test av om korrigeringarna faktiskt förbättrade utfallen.
-**Behövd evidens:** Utfallsdata som spänner över en korrigeringshändelse, helst med en jämförelsegrupp.
+**Nuvarande evidens:** Antydande exempel (S1:s korrigering genom lokala organ 1979; S3:s upprepade gränsjusteringar; S4:s iterativa formelrevidering), men ingen systematisk före/efter-utfallsevidens. S6 visar att övergångar är processer snarare än datum: i Uppsala syns skillnaden redan året före den formella starten, och kohorten 2002 täcker bara två år efter övergången.
+**Varför olöst:** Det här är mönsterobservationer, inte kausala test av om korrigeringarna faktiskt förbättrade utfallen. Ingen studie i korpuset skiljer övergångskostnader från varaktiga effekter.
+**Behövd evidens:** Utfallsdata som spänner över en korrigeringshändelse, helst med en jämförelsegrupp, och med tillräckligt lång efterperiod för att skilja övergång från nytt jämviktsläge.
 **Prioritet:** Medel–Hög.
 
 ### 5. Effekter av fiskal utjämning på tjänsteutfall och incitament
@@ -77,3 +86,5 @@ Att skriva "det finns just nu otillräcklig evidens för att svara på det här"
 ## Vad den här listan är till för
 
 Det här är ett aktivt forskningsprogram, inte ett erkännande av misslyckande. Se **[Öppna frågor →](/evidens/syntes/oppna-fragor/)** för hur de här luckorna omsätts i ett framåtblickande program, och **[Evidensstandarder →](/evidens/sa-vet-vi/evidensstandarder/)** för varför vi behandlar "olöst" som en legitim, stabil status snarare än något som ska lösas i förtid.
+
+En delvis sluten lucka är inte en besvarad fråga. Lucka #3 är det första exemplet: resultaten gjorde frågan smalare och skarpare, inte avgjord.

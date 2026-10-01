@@ -8,9 +8,9 @@ Every case maps authority, information and resources **before** and **after**, a
 
 ---
 
-## The initial Swedish case set
+## The Swedish case set
 
-Five cases form the core of the current corpus — all now fully built out. Together they cover scale, capacity, information, democracy, coordination, equalization, autonomy, nested centralization and polycentricity:
+Five cases form the core of the current corpus. Together they cover scale, capacity, information, democracy, coordination, equalization, autonomy, nested centralization and polycentricity. A sixth case, S6, is the corpus's first outcome study of its own.
 
 ### [S1 — Municipal mergers, 1952–1974 →](/evidens/fall/sverige/kommunsammanslagningar/)
 The number of municipalities fell from 2,498 to 277. A reform intended to *preserve* municipal self-government by making the local level more capable — which simultaneously concentrated local political authority dramatically. **Governance topology: pooling through territorial fusion.**
@@ -27,11 +27,16 @@ Directly shows how Swedish local autonomy combines with extensive fiscal equaliz
 ### [S5 — Intermunicipal cooperation, 1990s–present →](/evidens/fall/sverige/mellankommunal-samverkan/)
 Strong evidence that cooperation can strengthen small municipalities' capacity without territorial merger — but with its own coordination and accountability costs. **Governance topology: pooling through functional cooperation.**
 
+### [S6 — The rescue service: cooperation and pooled authority, 1998–2015 →](/evidens/fall/sverige/raddningstjanst/)
+Two frozen outcome studies of what happens when municipalities move from cooperating on the rescue service to forming a joint board or association. Uppsala 2012 gives a small favourable but uncertain signal; five systems that pooled authority in 2002 give a robust unfavourable signal at one threshold. **Governance topology: coordination (K) distinguished from formal authority (A).**
+
 ---
 
 ## Three ways to solve the same scale problem
 
 S1, S4 and S5 together form a particularly valuable comparative framework: the same underlying scale problem (insufficient capacity alone) solved through three architecturally distinct approaches — merger (pool everything, lose local decision centres), equalization (pool fiscal risk, keep the decisions), and cooperation (pool selected functions, keep the decisions). See the **[Evidence Matrix →](/evidens/syntes/matris/)** for how they connect to hypotheses H5, H8 and H9.
+
+S1–S5 describe the architectures. S6 is the first attempt to compare their *outcomes* within one and the same function. The answer was not a ranking, but a sharper question: what does joint authority add, given the cooperation that already exists?
 
 ---
 

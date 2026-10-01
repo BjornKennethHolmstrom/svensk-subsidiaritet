@@ -8,9 +8,9 @@ Varje fall kartlägger auktoritet, information och resurser **före** och **efte
 
 ---
 
-## Det första svenska fallurvalet
+## Det svenska fallurvalet
 
-Fem fall bildar kärnan i den nuvarande korpusen — samtliga nu fullt utbyggda. Tillsammans täcker de skala, kapacitet, information, demokrati, samordning, utjämning, autonomi, nästlad centralisering och polycentricitet:
+Fem fall bildar kärnan i den nuvarande korpusen. Tillsammans täcker de skala, kapacitet, information, demokrati, samordning, utjämning, autonomi, nästlad centralisering och polycentricitet. Ett sjätte fall, S6, är korpusets första egna utfallsstudie.
 
 ### [S1 — Kommunsammanslagningar, 1952–1974 →](/evidens/fall/sverige/kommunsammanslagningar/)
 Antalet kommuner föll från 2 498 till 277. En reform tänkt att *bevara* kommunal självstyrelse genom att göra den lokala nivån mer kapabel — som samtidigt koncentrerade lokal politisk auktoritet kraftigt. **Governance-topologi: poolning genom territoriell fusion.**
@@ -27,11 +27,16 @@ Visar direkt hur svensk lokal autonomi kombineras med omfattande fiskal utjämni
 ### [S5 — Mellankommunal samverkan, 1990-tal–nutid →](/evidens/fall/sverige/mellankommunal-samverkan/)
 Stark evidens för att samverkan kan stärka små kommuners kapacitet utan territoriell sammanslagning — men med egna samordnings- och ansvarskostnader. **Governance-topologi: poolning genom funktionell samverkan.**
 
+### [S6 — Räddningstjänsten: samverkan och poolad auktoritet, 1998–2015 →](/evidens/fall/sverige/raddningstjanst/)
+Två frysta utfallsstudier av vad som händer när kommuner går från att samarbeta om räddningstjänsten till att bilda en gemensam nämnd eller ett förbund. Uppsala 2012 ger en liten gynnsam men osäker signal; fem system som poolade auktoriteten 2002 ger en robust ogynnsam signal vid en tröskel. **Governance-topologi: samordning (K) skild från formell auktoritet (A).**
+
 ---
 
 ## Tre sätt att lösa samma skalproblem
 
 S1, S4 och S5 bildar tillsammans ett särskilt värdefullt jämförande ramverk: samma underliggande skalproblem (för liten kapacitet på egen hand) löst på tre arkitektoniskt olika sätt — sammanslagning (poola allt, förlora lokala beslutscentra), utjämning (poola fiskal risk, behåll besluten) och samverkan (poola utvalda funktioner, behåll besluten). Se **[Evidensmatrisen →](/evidens/syntes/matris/)** för hur de kopplar till hypoteserna H5, H8 och H9.
+
+S1–S5 beskriver arkitekturerna. S6 är det första försöket att jämföra deras *utfall* inom en och samma funktion. Svaret blev inte en rangordning, utan en skarpare fråga: vad tillför gemensam auktoritet, givet den samverkan som redan finns?
 
 ---
 
