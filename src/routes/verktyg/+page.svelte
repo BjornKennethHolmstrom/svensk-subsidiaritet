@@ -11,6 +11,13 @@
       link: '/verktyg/kompass',
       status: 'active'
     },
+    {
+      id: 'necessity',
+      icon: '🔎',
+      color: 'bg-sky-50 text-sky-700 border-sky-200',
+      link: '/verktyg/nodvandighetsprovning/',
+      status: 'active'
+    },
     { 
       id: 'power', 
       icon: '🔭', 

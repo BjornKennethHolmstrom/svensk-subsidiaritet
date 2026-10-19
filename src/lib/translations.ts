@@ -210,6 +210,11 @@ export const translations = {
         description: "Komplett material för att leda en studiecirkel om subsidiaritet i din förening eller ditt grannskap.",
         action: "Utforska, ladda ner och skriv ut"
       },
+      necessity: {
+        title: "Institutionell nödvändighetsprövning",
+        description: "Undersök påståenden om vad som måste vara på ett visst sätt. Skilj faktiska begränsningar från institutionella val, utforska alternativ och formulera lärande experiment.",
+        action: "Pröva ett påstående"
+      },
       power: {
         title: "Maktanalys",
         description: "Kartlägg var makten faktiskt sitter — vem bestämmer, vem kontrollerar budgeten, hur långt borta?",
@@ -472,6 +477,11 @@ export const translations = {
         title: "Systems Simulator",
         description: "An interactive model proving why centralized systems fail to handle local complexity. Play with the cybernetic math behind subsidiarity.",
         action: "Try the Simulator"
+      },
+      necessity: {
+        title: "Institutional Necessity Review",
+        description: "Examine claims about what must be a certain way. Distinguish material constraints from institutional choices, explore alternatives, and propose learning experiments. Currently available in Swedish.",
+        action: "Examine an assumption"
       },
       power: {
         title: "Power Analysis",
