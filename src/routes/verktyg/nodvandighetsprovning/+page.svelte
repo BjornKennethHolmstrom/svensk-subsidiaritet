@@ -3,12 +3,13 @@
   import { locale } from '$lib/stores/i18n';
   import { necessityI18n, languageOf } from '$lib/necessity/i18n.mjs';
   import {
-    newDraft, exampleDraft, newConstraint, newAlternative,
-    constraintKinds, evidenceStatuses, reversibilityOptions,
+    newDraft, exampleDraft, newFunction, newConstraint, newAlternative, ensureCoverage, isPristine,
+    constraintKinds, evidenceStatuses, reversibilityOptions, necessityLevels, coverageLevels, selectableKinds, LIMITS,
     importDraft, reviewWarnings, toMarkdown
   } from '$lib/necessity/logic.mjs';
 
-  const key = 'svensksubsidiaritet:necessity:v1'; // same local-storage key as v0.1
+  const key = 'svensksubsidiaritet:necessity:v1'; // unchanged key; v1 drafts stored here are migrated on open
+  const filled = (v) => String(v || '').trim().length > 0;
   let draft = newDraft(languageOf($locale));
   let step = 0;
   let saved = false;
@@ -17,14 +18,14 @@
   $: lang = languageOf($locale);
   $: i = necessityI18n[lang];
   $: warnings = reviewWarnings(draft, lang);
+  $: warningGroups = i.steps.map((label, s) => ({ label, s, items: warnings.filter(w => w.step === s) })).filter(g => g.items.length);
+  $: namedFunctions = draft.functions.filter(f => filled(f.name));
+  $: fnIndex = new Map(draft.functions.map((f, n) => [f.id, n + 1]));
+  const blankCoverage = { status: 'unknown', reason: '' };
   let previousLang = languageOf($locale);
   $: if (lang !== previousLang) {
     // Only translate untouched default names. Never translate entered/imported text.
-    const before = necessityI18n[previousLang].defaultAlternatives;
-    if (!draft.statement && !draft.origin && !draft.context && !draft.affected
-      && draft.alternatives.length === 2
-      && draft.alternatives.every((a, n) => a.name === before[n]
-        && !a.mechanism && !a.preserves && !a.needs && !a.harms && !a.uncertainties)) {
+    if (isPristine(draft, previousLang)) {
       draft.alternatives = draft.alternatives.map((a, n) => ({ ...a, name: necessityI18n[lang].defaultAlternatives[n] }));
     }
     previousLang = lang;
@@ -42,8 +43,18 @@
     message = '';
     if (typeof window !== 'undefined') window.scrollTo({ top: 0, behavior: 'smooth' });
   }
+  function addFunction() {
+    if (draft.functions.length >= LIMITS.functions) return showMessage(i.messages.maxFunctions);
+    draft.functions = [...draft.functions, newFunction()];
+    draft = ensureCoverage(draft);
+  }
+  function removeFunction(id) {
+    draft.functions = draft.functions.filter(f => f.id !== id);
+    if (!draft.functions.length) draft.functions = [newFunction()];
+    draft = ensureCoverage(draft);
+  }
   function addConstraint() {
-    if (draft.constraints.length >= 30) return showMessage(i.messages.maxConstraints);
+    if (draft.constraints.length >= LIMITS.constraints) return showMessage(i.messages.maxConstraints);
     draft.constraints = [...draft.constraints, newConstraint()];
   }
   function removeConstraint(id) {
@@ -51,15 +62,15 @@
     if (!draft.constraints.length) draft.constraints = [newConstraint()];
   }
   function addAlternative() {
-    if (draft.alternatives.length >= 12) return showMessage(i.messages.maxAlternatives);
-    draft.alternatives = [...draft.alternatives, newAlternative(`${i.defaultAlternatives[2]} ${draft.alternatives.length}`)];
+    if (draft.alternatives.length >= LIMITS.alternatives) return showMessage(i.messages.maxAlternatives);
+    draft.alternatives = [...draft.alternatives, newAlternative(`${i.defaultAlternatives[2]} ${draft.alternatives.length}`, 'unknown', draft.functions)];
   }
   function removeAlternative(id) {
     if (draft.alternatives.length <= 2) return showMessage(i.messages.minAlternatives);
-    draft.alternatives = draft.alternatives.filter(a => a.id !== id);
+    draft.alternatives = draft.alternatives.filter(a => a.id !== id || a.kind === 'current');
   }
   function loadExample() {
-    if (draft.statement && !confirm(i.messages.confirmExample)) return;
+    if (filled(draft.statement) && !confirm(i.messages.confirmExample)) return;
     draft = exampleDraft(lang);
     step = 0;
     showMessage(i.messages.exampleLoaded);
@@ -79,7 +90,7 @@
   }
   function loadLocal() {
     if (!saved) return;
-    if (draft.statement && !confirm(i.messages.confirmLoad)) return;
+    if (filled(draft.statement) && !confirm(i.messages.confirmLoad)) return;
     try {
       draft = importDraft(localStorage.getItem(key), lang);
       step = 0;
@@ -120,7 +131,7 @@
       if (file.size > 500_000) throw new Error('TOO_LARGE');
       const content = await file.text();
       const restored = importDraft(content, lang);
-      if (draft.statement && !confirm(i.messages.confirmImport)) return;
+      if (filled(draft.statement) && !confirm(i.messages.confirmImport)) return;
       draft = restored;
       step = 0;
       showMessage(i.messages.imported);
@@ -176,8 +187,25 @@
       <div class="field"><label for="origin">{i.fields.origin}</label><input id="origin" bind:value={draft.origin} maxlength="6000" placeholder={i.placeholders.origin} /></div>
       <div class="field"><label for="context">{i.fields.context}</label><textarea id="context" bind:value={draft.context} rows="3" maxlength="6000" placeholder={i.placeholders.context} /></div>
       <div class="field"><label for="affected">{i.fields.affected}</label><textarea id="affected" bind:value={draft.affected} rows="3" maxlength="6000" placeholder={i.placeholders.affected} /></div>
+      <div class="field"><label for="criteria">{i.fields.criteria}</label><textarea id="criteria" bind:value={draft.criteria} rows="2" maxlength="6000" placeholder={i.placeholders.criteria} /></div>
+      <div class="field"><label for="defense">{i.fields.strongestDefense}</label><textarea id="defense" bind:value={draft.strongestDefense} rows="3" maxlength="6000" placeholder={i.placeholders.strongestDefense} /></div>
+      <div class="field"><label for="noChange">{i.fields.noChange}</label><textarea id="noChange" bind:value={draft.noChange} rows="2" maxlength="6000" placeholder={i.placeholders.noChange} /></div>
       <aside class="tip"><strong>{i.tips[0][0]}</strong> {i.tips[0][1]}</aside>
     {:else if step === 1}
+      {#each draft.functions as f, index (f.id)}
+        <section class="entry-card">
+          <div class="entry-heading"><h3><span class="tag">F{index + 1}</span> {f.name || i.functionN(index + 1)}</h3><button type="button" class="remove" on:click={() => removeFunction(f.id)} aria-label={i.removeFunctionN(index + 1)}>{i.remove}</button></div>
+          <div class="field"><label for={`f-name-${f.id}`}>{i.fields.functionName}</label><input id={`f-name-${f.id}`} maxlength="300" bind:value={f.name} placeholder={i.placeholders.functionName} /></div>
+          <div class="field"><label for={`f-who-${f.id}`}>{i.fields.beneficiaries}</label><textarea id={`f-who-${f.id}`} rows="2" maxlength="6000" bind:value={f.beneficiaries} placeholder={i.placeholders.beneficiaries} /></div>
+          <div class="field"><label for={`f-cons-${f.id}`}>{i.fields.consequence}</label><textarea id={`f-cons-${f.id}`} rows="2" maxlength="6000" bind:value={f.consequence} placeholder={i.placeholders.consequence} /></div>
+          <div class="field"><label for={`f-form-${f.id}`}>{i.fields.form}</label><textarea id={`f-form-${f.id}`} rows="2" maxlength="6000" bind:value={f.form} placeholder={i.placeholders.form} /></div>
+          <div class="field"><label for={`f-need-${f.id}`}>{i.fields.necessity}</label><select id={`f-need-${f.id}`} bind:value={f.necessity}>{#each necessityLevels as v}<option value={v}>{i.necessity[v]}</option>{/each}</select></div>
+          <div class="field"><label for={`f-reason-${f.id}`}>{i.fields.necessityReason}</label><textarea id={`f-reason-${f.id}`} rows="2" maxlength="6000" bind:value={f.reason} placeholder={i.placeholders.necessityReason} /></div>
+        </section>
+      {/each}
+      <button type="button" class="outline" on:click={addFunction}>{i.addFunction}</button>
+      <aside class="tip"><strong>{i.tips[1][0]}</strong> {i.tips[1][1]}</aside>
+    {:else if step === 2}
       {#each draft.constraints as c, index (c.id)}
         <section class="entry-card">
           <div class="entry-heading"><h3>{i.constraintN(index + 1)}</h3><button type="button" class="remove" on:click={() => removeConstraint(c.id)} aria-label={i.removeConstraintN(index + 1)}>{i.remove}</button></div>
@@ -194,18 +222,21 @@
         </section>
       {/each}
       <button type="button" class="outline" on:click={addConstraint}>{i.addConstraint}</button>
-      <aside class="tip"><strong>{i.tips[1][0]}</strong> {i.tips[1][1]}</aside>
-    {:else if step === 2}
-      <div class="field"><label for="benefits">{i.fields.currentBenefit}</label><textarea id="benefits" bind:value={draft.currentBenefit} rows="4" maxlength="6000" placeholder={i.placeholders.currentBenefit} /></div>
-      <div class="field"><label for="cost">{i.fields.currentCost}</label><textarea id="cost" bind:value={draft.currentCost} rows="4" maxlength="6000" placeholder={i.placeholders.currentCost} /></div>
-      <div class="field"><label for="noChange">{i.fields.noChange}</label><textarea id="noChange" bind:value={draft.noChange} rows="4" maxlength="6000" placeholder={i.placeholders.noChange} /></div>
-      <div class="field"><label for="defense">{i.fields.strongestDefense}</label><textarea id="defense" bind:value={draft.strongestDefense} rows="4" maxlength="6000" placeholder={i.placeholders.strongestDefense} /></div>
       <aside class="tip"><strong>{i.tips[2][0]}</strong> {i.tips[2][1]}</aside>
     {:else if step === 3}
       {#each draft.alternatives as alt, index (alt.id)}
-        <section class="entry-card">
-          <div class="entry-heading"><h3>{i.alternativeN(index + 1)}</h3>{#if draft.alternatives.length > 2}<button type="button" class="remove" on:click={() => removeAlternative(alt.id)} aria-label={i.removeAlternativeN(index + 1)}>{i.remove}</button>{/if}</div>
-          <div class="field"><label for={`a-name-${alt.id}`}>{i.fields.altName}</label><input id={`a-name-${alt.id}`} bind:value={alt.name} maxlength="160" /></div>
+        <section class="entry-card" class:current={alt.kind === 'current'}>
+          <div class="entry-heading">
+            <h3>{i.alternativeN(index + 1)}{#if alt.kind === 'current'} <span class="badge">{i.altKinds.current}</span>{/if}</h3>
+            {#if alt.kind !== 'current' && draft.alternatives.length > 2}<button type="button" class="remove" on:click={() => removeAlternative(alt.id)} aria-label={i.removeAlternativeN(index + 1)}>{i.remove}</button>{/if}
+          </div>
+          {#if alt.kind === 'current'}<p class="hint current-note">{i.currentNote}</p>{/if}
+          <div class="two-cols">
+            <div class="field"><label for={`a-name-${alt.id}`}>{i.fields.altName}</label><input id={`a-name-${alt.id}`} bind:value={alt.name} maxlength="160" /></div>
+            {#if alt.kind !== 'current'}
+              <div class="field"><label for={`a-kind-${alt.id}`}>{i.fields.altKind}</label><select id={`a-kind-${alt.id}`} bind:value={alt.kind}>{#each selectableKinds as v}<option value={v}>{i.altKinds[v]}</option>{/each}</select></div>
+            {/if}
+          </div>
           <div class="field"><label for={`a-mechanism-${alt.id}`}>{i.fields.mechanism}</label><textarea id={`a-mechanism-${alt.id}`} bind:value={alt.mechanism} rows="3" maxlength="6000" /></div>
           <div class="field"><label for={`a-preserves-${alt.id}`}>{i.fields.preserves}</label><textarea id={`a-preserves-${alt.id}`} bind:value={alt.preserves} rows="2" maxlength="6000" placeholder={i.placeholders.preserves} /></div>
           <div class="field"><label for={`a-needs-${alt.id}`}>{i.fields.needs}</label><textarea id={`a-needs-${alt.id}`} bind:value={alt.needs} rows="2" maxlength="6000" placeholder={i.placeholders.needs} /></div>
@@ -216,6 +247,22 @@
             <div class="field"><label for={`a-authority-${alt.id}`}>{i.fields.authority}</label><input id={`a-authority-${alt.id}`} bind:value={alt.authority} maxlength="6000" /></div>
             <div class="field"><label for={`a-reverse-${alt.id}`}>{i.fields.reversibility}</label><select id={`a-reverse-${alt.id}`} bind:value={alt.reversibility}>{#each reversibilityOptions as value}<option value={value}>{i.reversibility[value]}</option>{/each}</select></div>
           </div>
+          <fieldset class="coverage">
+            <legend>{i.coverageTitle}</legend>
+            {#each namedFunctions as f (f.id)}
+              {#if alt.coverage[f.id]}
+                <div class="coverage-row">
+                  <p class="coverage-fn"><span class="tag">F{fnIndex.get(f.id)}</span> {f.name} <small>· {i.necessity[f.necessity]}</small></p>
+                  <div class="coverage-fields">
+                    <div class="field"><label for={`cov-s-${alt.id}-${f.id}`}>{i.fields.coverageStatus}</label><select id={`cov-s-${alt.id}-${f.id}`} bind:value={alt.coverage[f.id].status}>{#each coverageLevels as v}<option value={v}>{i.coverage[v]}</option>{/each}</select></div>
+                    <div class="field"><label for={`cov-r-${alt.id}-${f.id}`}>{i.fields.coverageReason}</label><input id={`cov-r-${alt.id}-${f.id}`} bind:value={alt.coverage[f.id].reason} maxlength="2000" placeholder={i.placeholders.coverageReason} /></div>
+                  </div>
+                </div>
+              {/if}
+            {:else}
+              <p class="hint">{i.noFunctionsHint} <button type="button" class="text-button inline" on:click={() => goTo(1)}>{i.goToFunctions} →</button></p>
+            {/each}
+          </fieldset>
         </section>
       {/each}
       <button type="button" class="outline" on:click={addAlternative}>{i.addAlternative}</button>
@@ -230,9 +277,59 @@
       <div class="field"><label for="ex-mandate">{i.fields.mandate}</label><textarea id="ex-mandate" bind:value={draft.experiment.mandate} rows="2" maxlength="6000" /></div>
       <div class="field"><label for="ex-duration">{i.fields.duration}</label><input id="ex-duration" bind:value={draft.experiment.duration} maxlength="6000" placeholder={i.placeholders.duration} /></div>
       <div class="field"><label for="ex-conclusion">{i.fields.interpretation}</label><textarea id="ex-conclusion" bind:value={draft.experiment.interpretation} rows="3" maxlength="6000" placeholder={i.placeholders.interpretation} /></div>
+
+      <section class="summary">
+        <h3>{i.matrixTitle}</h3>
+        {#if namedFunctions.length}
+          <div class="table-wrap">
+            <table>
+              <caption>{i.matrixCaption}</caption>
+              <thead>
+                <tr>
+                  <th scope="col">{i.functionCol}</th>
+                  {#each draft.alternatives as a, ai (a.id)}<th scope="col">{ai + 1}. {a.name || i.alternativeN(ai + 1)}<small>{i.altKinds[a.kind]}</small></th>{/each}
+                </tr>
+              </thead>
+              <tbody>
+                {#each namedFunctions as f (f.id)}
+                  <tr>
+                    <th scope="row">F{fnIndex.get(f.id)} · {f.name}<small>{i.necessity[f.necessity]}</small></th>
+                    {#each draft.alternatives as a (a.id)}
+                      {@const c = a.coverage[f.id] || blankCoverage}
+                      <td><span class="status status-{c.status}">{i.coverage[c.status]}</span>{#if filled(c.reason)}<small>{c.reason}</small>{/if}</td>
+                    {/each}
+                  </tr>
+                {/each}
+              </tbody>
+            </table>
+          </div>
+          <p class="hint">{i.matrixNote}</p>
+        {:else}
+          <p class="hint">{i.matrixEmpty}</p>
+        {/if}
+      </section>
+
+      <section class="reflection">
+        <h3>{i.reflectionTitle}</h3>
+        <p class="hint">{i.reflectionHelp}</p>
+        <div class="field"><label for="r-position">{i.fields.position}</label><textarea id="r-position" bind:value={draft.reflection.position} rows="2" maxlength="6000" placeholder={i.placeholders.position} /></div>
+        <div class="field"><label for="r-disagreement">{i.fields.disagreement}</label><textarea id="r-disagreement" bind:value={draft.reflection.disagreement} rows="2" maxlength="6000" placeholder={i.placeholders.disagreement} /></div>
+        <div class="field"><label for="r-missing">{i.fields.missing}</label><textarea id="r-missing" bind:value={draft.reflection.missing} rows="2" maxlength="6000" placeholder={i.placeholders.missing} /></div>
+        <div class="field"><label for="r-next">{i.fields.next}</label><textarea id="r-next" bind:value={draft.reflection.next} rows="2" maxlength="6000" placeholder={i.placeholders.next} /></div>
+        <div class="field date-field"><label for="r-date">{i.fields.reviewDate}</label><input id="r-date" type="date" bind:value={draft.reflection.reviewDate} /></div>
+      </section>
+
       <section class="review" aria-label={i.reviewLabel}>
         <h3>{i.reviewTitle}</h3>
-        {#if warnings.length}<ul>{#each warnings as warning}<li>{warning}</li>{/each}</ul>{:else}<p>{i.reviewOk}</p>{/if}
+        {#if warningGroups.length}
+          <p class="review-help">{i.reviewHelp}</p>
+          {#each warningGroups as g}
+            <div class="review-group">
+              <div class="review-group-head"><strong>{g.s + 1}. {g.label}</strong>{#if g.s !== step}<button type="button" class="text-button inline" on:click={() => goTo(g.s)}>{i.goToStep} →</button>{/if}</div>
+              <ul>{#each g.items as warning}<li>{warning.text}</li>{/each}</ul>
+            </div>
+          {/each}
+        {:else}<p>{i.reviewOk}</p>{/if}
       </section>
       <section class="export">
         <h3>{i.exportTitle}</h3><p>{i.exportHelp}</p>
@@ -258,7 +355,7 @@
       <label for="import-file" class="upload-button">{i.importJSON}</label>
       <input id="import-file" class="visually-hidden" type="file" accept="application/json,.json" bind:this={importInput} on:change={handleImport} />
     </div>
-    {#if message}<p class="status" role="status" aria-live="polite">{message}</p>{/if}
+    {#if message}<p class="status-message" role="status" aria-live="polite">{message}</p>{/if}
   </section>
   <footer class="local-footer">{i.footerPrefix} <a href="/verktyg/">{i.site}</a>.</footer>
 </div>
@@ -271,6 +368,7 @@
   .lede{font-size:clamp(1.09rem,2vw,1.33rem);max-width:760px;line-height:1.66;color:var(--muted);margin:0 0 1.5rem}.privacy{font-size:.87rem;color:var(--muted);max-width:760px;margin:1rem 0 0}
   button,.upload-button{cursor:pointer;font:inherit;border-radius:10px;padding:.65rem 1rem;font-size:.92rem;font-weight:650;transition:background-color .14s, border-color .14s}button:focus-visible,.upload-button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:3px solid #85cebb;outline-offset:2px}button:disabled{opacity:.55;cursor:not-allowed}
   .primary{background:var(--accent);color:white;border:1px solid var(--accent)}.primary:hover{background:var(--accent-dark)}.outline{background:white;color:var(--ink);border:1px solid #aec8bc}.outline:hover,.upload-button:hover{background:var(--wash)}.text-button{background:transparent;color:var(--accent-dark);border:1px solid transparent}.text-button:hover{text-decoration:underline}
+  .text-button.inline{padding:0 .2rem;font-size:inherit;font-weight:650}
   .intro-actions,.button-row{display:flex;gap:.65rem;flex-wrap:wrap;align-items:center}
   .step-nav{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:.45rem;margin-bottom:1rem}
   .step-nav button{border:1px solid var(--line);border-radius:12px;background:var(--paper);color:var(--muted);font-weight:620;display:flex;align-items:center;justify-content:center;gap:.55rem;min-height:54px;padding:.5rem}.step-nav button:hover{background:var(--wash)}.step-nav button.active{border-color:var(--accent);background:#eaf5f0;color:var(--ink)}
@@ -281,10 +379,25 @@
   .field input,.field textarea,.field select{width:100%;box-sizing:border-box;border-radius:10px;border:1px solid #b9cbbf;background:#fff;color:var(--ink);padding:.72rem .82rem;line-height:1.45;font:inherit;font-size:.96rem;max-width:100%}.field textarea{min-height:80px;resize:vertical}.field input::placeholder,.field textarea::placeholder{color:#778981;opacity:1}
   .two-cols{display:grid;grid-template-columns:1fr 1fr;gap:1rem}.two-cols .field{min-width:0}.tip{border-left:3px solid var(--accent);background:var(--wash);padding:1rem 1.1rem;border-radius:0 10px 10px 0;color:#34584f;font-size:.93rem;margin-top:1.3rem}
   .entry-card{background:#fbfcfb;border:1px solid var(--line);border-radius:14px;padding:1.25rem 1.1rem;margin:1.1rem 0 1.4rem}.entry-card .field:last-child{margin-bottom:0}.entry-heading{display:flex;align-items:center;justify-content:space-between;gap:1rem;margin-bottom:1.1rem}.entry-heading h3{font-size:1.1rem;margin:0}.remove{padding:.3rem .5rem;border:0;background:transparent;color:#a13636;font-size:.86rem}.remove:hover{text-decoration:underline}.hint{margin:-.6rem 0 1rem}
-  .review{margin:2rem 0;padding:1.3rem;background:#fffaf1;border:1px solid #e4d8b4;border-radius:12px}.review h3,.export h3{margin:0 0 .6rem;font-size:1.1rem}.review ul{padding-left:1.2rem;margin:.7rem 0}.review li{margin:.4rem 0}.export{border-top:1px solid var(--line);padding-top:1.6rem}.export p{color:var(--muted);font-size:.93rem}
+  .entry-card.current{border-color:#aec8bc;background:var(--wash)}.current-note{margin:-.5rem 0 1.1rem}
+  .tag{display:inline-block;font-size:.72rem;font-weight:750;letter-spacing:.04em;border:1px solid #aec8bc;background:#fff;color:var(--accent-dark);border-radius:6px;padding:.05rem .4rem;vertical-align:.12em;margin-right:.25rem}
+  .badge{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;background:var(--accent);color:#fff;border-radius:999px;padding:.15rem .6rem;margin-left:.4rem;vertical-align:.15em}
+  .coverage{border:1px solid var(--line);border-radius:12px;background:#fff;padding:.9rem 1rem .3rem;margin:1.3rem 0 0;min-width:0}.coverage legend{font-weight:700;font-size:.95rem;padding:0 .35rem}.coverage .hint{margin:.2rem 0 .8rem}
+  .coverage-row{padding:.6rem 0 .1rem;border-top:1px solid var(--line)}.coverage-row:first-of-type{border-top:0;padding-top:.2rem}
+  .coverage-fn{margin:0 0 .55rem;font-weight:650;font-size:.95rem}.coverage-fn small{font-weight:500;color:var(--muted)}
+  .coverage-fields{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:1rem}.coverage-fields .field{min-width:0;margin-bottom:.9rem}.coverage-fields label{font-size:.85rem;font-weight:600;color:var(--muted)}
+  .summary,.reflection{margin:2rem 0;padding-top:1.6rem;border-top:1px solid var(--line)}.summary h3,.reflection h3{margin:0 0 .8rem;font-size:1.1rem}.reflection .hint{margin:-.3rem 0 1.2rem}.summary .hint{margin:.7rem 0 0}
+  .date-field{max-width:16rem}
+  .table-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:12px;-webkit-overflow-scrolling:touch}
+  table{border-collapse:collapse;width:100%;min-width:560px;font-size:.88rem}caption{text-align:left;padding:.7rem .9rem;color:var(--muted);font-size:.8rem;caption-side:top}
+  th,td{border-top:1px solid var(--line);padding:.7rem .9rem;text-align:left;vertical-align:top}thead th{background:var(--wash);font-weight:700}tbody th{font-weight:650;width:30%}
+  th small,td small{display:block;font-weight:400;color:var(--muted);font-size:.8rem;margin-top:.25rem;line-height:1.4}
+  .status{display:inline-block;border-radius:6px;padding:.1rem .45rem;font-size:.78rem;font-weight:650;border:1px solid}
+  .status-provided{background:#e7f4ee;border-color:#a9d3bf;color:#1d5c45}.status-partial{background:#fdf5e3;border-color:#e7d3a2;color:#6d5212}.status-missing{background:#fbeceb;border-color:#e5b9b5;color:#8a2e27}.status-unknown{background:#f1f3f2;border-color:#d3d9d6;color:#5f6b66}
+  .review{margin:2rem 0;padding:1.3rem;background:#fffaf1;border:1px solid #e4d8b4;border-radius:12px}.review h3,.export h3{margin:0 0 .6rem;font-size:1.1rem}.review-help{font-size:.9rem;color:#6d5a2c;margin:0 0 .9rem}.review-group{margin:.8rem 0 0}.review-group-head{display:flex;gap:.6rem;align-items:baseline;flex-wrap:wrap;font-size:.95rem}.review ul{padding-left:1.2rem;margin:.4rem 0 .6rem}.review li{margin:.3rem 0}.export{border-top:1px solid var(--line);padding-top:1.6rem}.export p{color:var(--muted);font-size:.93rem}
   .panel-footer{border-top:1px solid var(--line);padding-top:1.25rem;margin-top:2rem;display:flex;align-items:center;justify-content:space-between;gap:.7rem;flex-wrap:wrap}
-  .draft-tools{border:1px solid var(--line);border-radius:14px;background:var(--wash);padding:1.3rem;margin-top:1.25rem}.draft-tools h2{font-size:1.1rem;margin:0}.draft-tools p{font-size:.87rem;color:var(--muted);margin:.4rem 0 1rem}.draft-tools .button-row button,.upload-button{font-size:.86rem}.upload-button{display:inline-block;background:white;color:var(--ink);border:1px solid #aec8bc}.status{margin:.85rem 0 0!important;font-weight:650;color:var(--accent-dark)!important}
+  .draft-tools{border:1px solid var(--line);border-radius:14px;background:var(--wash);padding:1.3rem;margin-top:1.25rem}.draft-tools h2{font-size:1.1rem;margin:0}.draft-tools p{font-size:.87rem;color:var(--muted);margin:.4rem 0 1rem}.draft-tools .button-row button,.upload-button{font-size:.86rem}.upload-button{display:inline-block;background:white;color:var(--ink);border:1px solid #aec8bc}.status-message{margin:.85rem 0 0!important;font-weight:650;color:var(--accent-dark)!important}
   .visually-hidden{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}.local-footer{color:var(--muted);margin-top:1.5rem;font-size:.82rem}
-  @media(max-width:700px){.step-nav{gap:.3rem}.step-nav button{flex-direction:column;gap:.2rem;min-height:66px;padding:.35rem .18rem}.step-label{font-size:.66rem;line-height:1.25}.two-cols{grid-template-columns:1fr;gap:0}.necessity-tool{padding:1rem .75rem 3rem}.intro{padding:1rem 0 1.65rem}.panel{padding:1.15rem}.entry-card{padding:.85rem}}
+  @media(max-width:700px){.step-nav{gap:.3rem}.step-nav button{flex-direction:column;gap:.2rem;min-height:66px;padding:.35rem .18rem}.step-label{font-size:.66rem;line-height:1.25}.two-cols,.coverage-fields{grid-template-columns:1fr;gap:0}.necessity-tool{padding:1rem .75rem 3rem}.intro{padding:1rem 0 1.65rem}.panel{padding:1.15rem}.entry-card{padding:.85rem}.coverage{padding:.75rem .75rem .2rem}}
   @media(prefers-reduced-motion:reduce){button{transition:none}}
 </style>
