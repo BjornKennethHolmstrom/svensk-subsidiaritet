@@ -18,6 +18,13 @@
       link: '/verktyg/nodvandighetsprovning/',
       status: 'active'
     },
+    {
+      id: 'decision_audit',
+      icon: '🔄',
+      color: 'bg-rose-50 text-rose-700 border-rose-200',
+      link: '/verktyg/systemisk-optimering',
+      status: 'active'
+    },
     { 
       id: 'power', 
       icon: '🔭', 

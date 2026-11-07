@@ -215,6 +215,11 @@ export const translations = {
         description: "Undersök påståenden om vad som måste vara på ett visst sätt. Skilj faktiska begränsningar från institutionella val, utforska alternativ och formulera lärande experiment.",
         action: "Pröva ett påstående"
       },
+      decision_audit: {
+        title: "Systemisk optimering – beslutsgranskning",
+        description: "Fattar vi rätt beslut – eller optimerar vi fel problem? Ett workshopverktyg för att granska mål, antaganden, dolda konsekvenser och möjligheter till lärande innan viktiga beslut fattas.",
+        action: "Öppna beslutsgranskningen"
+      },
       power: {
         title: "Maktanalys",
         description: "Kartlägg var makten faktiskt sitter — vem bestämmer, vem kontrollerar budgeten, hur långt borta?",
@@ -482,6 +487,11 @@ export const translations = {
         title: "Institutional Necessity Review",
         description: "Examine claims about what must be a certain way. Distinguish material constraints from institutional choices, explore alternatives, and propose learning experiments. Currently available in Swedish.",
         action: "Examine an assumption"
+      },
+      decision_audit: {
+        title: "Systemic Optimization – Decision Audit",
+        description: "Are we making the right decision – or optimizing the wrong problem? A workshop tool for examining objectives, assumptions, hidden consequences and opportunities for learning before important decisions are made.",
+        action: "Open the Decision Audit"
       },
       power: {
         title: "Power Analysis",
